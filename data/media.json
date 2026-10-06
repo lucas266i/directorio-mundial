@@ -1,0 +1,8 @@
+[
+  {"id":"MED-CO-001","name":"La Silla Vacía","country":"COL","language":"es","type":"digital_native","categories":["independent-media","investigative","geopolitics"],"official_url":"https://www.lasillavacia.com/","status":"pending_verification"},
+  {"id":"MED-CO-002","name":"Vorágine","country":"COL","language":"es","type":"digital_native","categories":["independent-media","investigative","human-rights"],"official_url":"https://voragine.co/","status":"pending_verification"},
+  {"id":"MED-CO-003","name":"Cuestión Pública","country":"COL","language":"es","type":"investigative","categories":["independent-media","investigative","politics"],"official_url":"https://cuestionpublica.com/","status":"pending_verification"},
+  {"id":"MED-CL-001","name":"CIPER","country":"CHL","language":"es","type":"investigative","categories":["investigative","politics","economy"],"official_url":"https://www.ciperchile.cl/","status":"pending_verification"},
+  {"id":"MED-PE-001","name":"OjoPúblico","country":"PER","language":"es","type":"investigative","categories":["investigative","human-rights","geopolitics"],"official_url":"https://ojo-publico.com/","status":"pending_verification"},
+  {"id":"MED-BR-001","name":"Agência Pública","country":"BRA","language":"pt","type":"investigative","categories":["investigative","human-rights","geopolitics"],"official_url":"https://apublica.org/","status":"pending_verification"}
+]
