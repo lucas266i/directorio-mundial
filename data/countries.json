@@ -1,0 +1,14 @@
+[
+  {"id":"COL","name":"Colombia","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"BRA","name":"Brasil","continent":"América","region":"Sudamérica","language":"pt"},
+  {"id":"ARG","name":"Argentina","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"CHL","name":"Chile","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"PER","name":"Perú","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"ECU","name":"Ecuador","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"BOL","name":"Bolivia","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"PRY","name":"Paraguay","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"URY","name":"Uruguay","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"VEN","name":"Venezuela","continent":"América","region":"Sudamérica","language":"es"},
+  {"id":"GUY","name":"Guyana","continent":"América","region":"Sudamérica","language":"en"},
+  {"id":"SUR","name":"Surinam","continent":"América","region":"Sudamérica","language":"nl"}
+]
