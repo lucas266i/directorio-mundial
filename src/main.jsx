@@ -59,6 +59,8 @@ function App() {
   const [media, setMedia] = useState(fallbackMedia);
   const [categories, setCategories] = useState(fallbackCategories);
   const [loading, setLoading] = useState(true);
+  const [selectedCountry, setSelectedCountry] = useState("Todas");
+  const [selectedRegion, setSelectedRegion] = useState("Todas");
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -90,9 +92,16 @@ function App() {
         .filter(Boolean).join(" ").toLowerCase();
       const matchesQuery = !q || text.includes(q);
       const matchesCategory = category === "Todas" || (m.categories || []).includes(selectedCategoryId);
-      return matchesQuery && matchesCategory;
+      const matchesCountry = selectedCountry === "Todas" || m.country === selectedCountry;
+      const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion;
+      return matchesQuery && matchesCategory && matchesCountry && matchesRegion;
     });
-  }, [query, category, media, countryMap]);
+  }, [query, category, selectedCountry, selectedRegion, media, countryMap]);
+
+  const regions = useMemo(
+    () => [...new Set(countries.map((c) => c.region).filter(Boolean))].sort((a, b) => a.localeCompare(b)),
+    [countries]
+  );
 
   return (
     <div className="app">
@@ -114,6 +123,14 @@ function App() {
           <p>Los registros se cargan desde archivos JSON del proyecto, separados de la interfaz. Esto permite ampliar el inventario sin reescribir la aplicación.</p>
           <div className="searchRow">
             <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Buscar medio, país, idioma o temática..." />
+            <select value={selectedCountry} onChange={(e) => setSelectedCountry(e.target.value)}>
+              <option>Todas</option>
+              {countries.map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
+            </select>
+            <select value={selectedRegion} onChange={(e) => setSelectedRegion(e.target.value)}>
+              <option>Todas</option>
+              {regions.map((region) => <option key={region}>{region}</option>)}
+            </select>
             <select value={category} onChange={(e) => setCategory(e.target.value)}>
               <option>Todas</option>
               {categories.map((c) => <option key={c}>{c}</option>)}
