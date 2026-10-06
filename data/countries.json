@@ -262,5 +262,149 @@
     "continent": "América",
     "region": "Sudamérica",
     "language": "en"
+  },
+  {
+    "id": "AIA",
+    "name": "Anguila",
+    "m49": "660",
+    "iso2": "AI",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "ATG",
+    "name": "Antigua y Barbuda",
+    "m49": "028",
+    "iso2": "AG",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "ABW",
+    "name": "Aruba",
+    "m49": "533",
+    "iso2": "AW",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "nl"
+  },
+  {
+    "id": "CUW",
+    "name": "Curazao",
+    "m49": "531",
+    "iso2": "CW",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "nl"
+  },
+  {
+    "id": "DMA",
+    "name": "Dominica",
+    "m49": "212",
+    "iso2": "DM",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "GRD",
+    "name": "Granada",
+    "m49": "308",
+    "iso2": "GD",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "LCA",
+    "name": "Santa Lucía",
+    "m49": "662",
+    "iso2": "LC",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "KNA",
+    "name": "San Cristóbal y Nieves",
+    "m49": "659",
+    "iso2": "KN",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "VCT",
+    "name": "San Vicente y las Granadinas",
+    "m49": "670",
+    "iso2": "VC",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "MSR",
+    "name": "Montserrat",
+    "m49": "500",
+    "iso2": "MS",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "SXM",
+    "name": "Sint Maarten",
+    "m49": "534",
+    "iso2": "SX",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "nl"
+  },
+  {
+    "id": "VGB",
+    "name": "Islas Vírgenes Británicas",
+    "m49": "092",
+    "iso2": "VG",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "VIR",
+    "name": "Islas Vírgenes de los Estados Unidos",
+    "m49": "850",
+    "iso2": "VI",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "BMU",
+    "name": "Bermudas",
+    "m49": "060",
+    "iso2": "BM",
+    "continent": "América",
+    "region": "Norteamérica",
+    "language": "en"
+  },
+  {
+    "id": "GRL",
+    "name": "Groenlandia",
+    "m49": "304",
+    "iso2": "GL",
+    "continent": "América",
+    "region": "Norteamérica",
+    "language": "kl"
+  },
+  {
+    "id": "SPM",
+    "name": "San Pedro y Miquelón",
+    "m49": "666",
+    "iso2": "PM",
+    "continent": "América",
+    "region": "Norteamérica",
+    "language": "fr"
   }
 ]
