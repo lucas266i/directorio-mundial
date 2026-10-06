@@ -155,7 +155,7 @@ function App() {
             <span className="count">{countries.length} registros</span>
           </div>
           <div className="grid">
-            {countries.slice(0, 24).map((c) => <article className="card" key={c.id}><div className="flag">🌐</div><h3>{c.name}</h3><p>{c.continent} · {c.region} · {languageLabels[c.language] || c.language}</p><div className="chips"><span>🌎 Geopolítica</span><span>🟢 Independientes</span></div></article>)}
+            {countries.map((c) => <article className="card" key={c.id}><div className="flag">🌐</div><h3>{c.name}</h3><p>{c.continent} · {c.region} · {languageLabels[c.language] || c.language}</p><div className="chips"><span>🌎 Geopolítica</span><span>🟢 Independientes</span></div></article>)}
           </div>
         </section>
 
