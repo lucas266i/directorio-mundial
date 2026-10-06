@@ -1,0 +1,10 @@
+[
+  {"id":"geopolitics","name":"Geopolítica"},
+  {"id":"independent-media","name":"Medios independientes"},
+  {"id":"investigative","name":"Investigación"},
+  {"id":"politics","name":"Política"},
+  {"id":"international","name":"Internacional"},
+  {"id":"economy","name":"Economía"},
+  {"id":"human-rights","name":"Derechos humanos"},
+  {"id":"fact-checking","name":"Fact-checking"}
+]
