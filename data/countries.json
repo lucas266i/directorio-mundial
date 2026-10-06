@@ -1,14 +1,266 @@
 [
-  {"id":"COL","name":"Colombia","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"BRA","name":"Brasil","continent":"América","region":"Sudamérica","language":"pt"},
-  {"id":"ARG","name":"Argentina","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"CHL","name":"Chile","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"PER","name":"Perú","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"ECU","name":"Ecuador","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"BOL","name":"Bolivia","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"PRY","name":"Paraguay","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"URY","name":"Uruguay","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"VEN","name":"Venezuela","continent":"América","region":"Sudamérica","language":"es"},
-  {"id":"GUY","name":"Guyana","continent":"América","region":"Sudamérica","language":"en"},
-  {"id":"SUR","name":"Surinam","continent":"América","region":"Sudamérica","language":"nl"}
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "BRA",
+    "name": "Brasil",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "pt"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "CHL",
+    "name": "Chile",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "PER",
+    "name": "Perú",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "BOL",
+    "name": "Bolivia",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "PRY",
+    "name": "Paraguay",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "URY",
+    "name": "Uruguay",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "VEN",
+    "name": "Venezuela",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "es"
+  },
+  {
+    "id": "GUY",
+    "name": "Guyana",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "en"
+  },
+  {
+    "id": "SUR",
+    "name": "Surinam",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "nl"
+  },
+  {
+    "id": "CAN",
+    "name": "Canadá",
+    "m49": "124",
+    "iso2": "CA",
+    "continent": "América",
+    "region": "Norteamérica",
+    "language": "en"
+  },
+  {
+    "id": "USA",
+    "name": "Estados Unidos",
+    "m49": "840",
+    "iso2": "US",
+    "continent": "América",
+    "region": "Norteamérica",
+    "language": "en"
+  },
+  {
+    "id": "MEX",
+    "name": "México",
+    "m49": "484",
+    "iso2": "MX",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "BLZ",
+    "name": "Belice",
+    "m49": "084",
+    "iso2": "BZ",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "en"
+  },
+  {
+    "id": "GTM",
+    "name": "Guatemala",
+    "m49": "320",
+    "iso2": "GT",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "SLV",
+    "name": "El Salvador",
+    "m49": "222",
+    "iso2": "SV",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "HND",
+    "name": "Honduras",
+    "m49": "340",
+    "iso2": "HN",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "NIC",
+    "name": "Nicaragua",
+    "m49": "558",
+    "iso2": "NI",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "CRI",
+    "name": "Costa Rica",
+    "m49": "188",
+    "iso2": "CR",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "PAN",
+    "name": "Panamá",
+    "m49": "591",
+    "iso2": "PA",
+    "continent": "América",
+    "region": "Centroamérica",
+    "language": "es"
+  },
+  {
+    "id": "CUB",
+    "name": "Cuba",
+    "m49": "192",
+    "iso2": "CU",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "es"
+  },
+  {
+    "id": "DOM",
+    "name": "República Dominicana",
+    "m49": "214",
+    "iso2": "DO",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "es"
+  },
+  {
+    "id": "HTI",
+    "name": "Haití",
+    "m49": "332",
+    "iso2": "HT",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "fr"
+  },
+  {
+    "id": "JAM",
+    "name": "Jamaica",
+    "m49": "388",
+    "iso2": "JM",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "TTO",
+    "name": "Trinidad y Tobago",
+    "m49": "780",
+    "iso2": "TT",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "BHS",
+    "name": "Bahamas",
+    "m49": "044",
+    "iso2": "BS",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "BRB",
+    "name": "Barbados",
+    "m49": "052",
+    "iso2": "BB",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "PRI",
+    "name": "Puerto Rico",
+    "m49": "630",
+    "iso2": "PR",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "es"
+  },
+  {
+    "id": "GUF",
+    "name": "Guayana Francesa",
+    "m49": "254",
+    "iso2": "GF",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "fr"
+  },
+  {
+    "id": "FLK",
+    "name": "Islas Malvinas (Falkland)",
+    "m49": "238",
+    "iso2": "FK",
+    "continent": "América",
+    "region": "Sudamérica",
+    "language": "en"
+  }
 ]
