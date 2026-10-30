@@ -9100,5 +9100,1136 @@
     "status": "pending_verification",
     "discovery_source": "https://www.nassaucountyny.gov/461/Designated-Newspapers",
     "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-001",
+    "name": "Allegany Hope",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Wellsville",
+    "county": "Allegany County",
+    "county_id": "NY-allegany-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://alleganyhopewny.org/",
+    "coverage": [
+      "Wellsville",
+      "Allegany County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-002",
+    "name": "Amsterdam Recorder",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Amsterdam",
+    "county": "Montgomery County",
+    "county_id": "NY-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.recordernews.com/",
+    "coverage": [
+      "Amsterdam",
+      "Montgomery County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-003",
+    "name": "Auburn Citizen",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Auburn",
+    "county": "Cayuga County",
+    "county_id": "NY-cayuga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://auburnpub.com/",
+    "coverage": [
+      "Auburn",
+      "Cayuga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-004",
+    "name": "The Cooperstown Crier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Cooperstown",
+    "county": "Otsego County",
+    "county_id": "NY-otsego-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.cooperstowncrier.com/",
+    "coverage": [
+      "Cooperstown",
+      "Otsego County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-005",
+    "name": "Freeman's Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Cooperstown",
+    "county": "Otsego County",
+    "county_id": "NY-otsego-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.allotsego.com/",
+    "coverage": [
+      "Cooperstown",
+      "Otsego County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-006",
+    "name": "Hometown Oneonta",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Oneonta",
+    "county": "Otsego County",
+    "county_id": "NY-otsego-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.allotsego.com/",
+    "coverage": [
+      "Oneonta",
+      "Otsego County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-007",
+    "name": "The Weekly Star",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Oneonta",
+    "county": "Otsego County",
+    "county_id": "NY-otsego-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.thedailystar.com/",
+    "coverage": [
+      "Oneonta",
+      "Otsego County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-008",
+    "name": "Dryden Courier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Dryden",
+    "county": "Tompkins County",
+    "county_id": "NY-tompkins-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.tompkinsweekly.com/",
+    "coverage": [
+      "Dryden",
+      "Tompkins County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-009",
+    "name": "Groton Independent",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Groton",
+    "county": "Tompkins County",
+    "county_id": "NY-tompkins-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.grotonindependent.com/",
+    "coverage": [
+      "Groton",
+      "Tompkins County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-010",
+    "name": "Lansing Ledger",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Lansing",
+    "county": "Tompkins County",
+    "county_id": "NY-tompkins-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.lansingledger.com/",
+    "coverage": [
+      "Lansing",
+      "Tompkins County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-011",
+    "name": "Trumansburg Free Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Trumansburg",
+    "county": "Tompkins County",
+    "county_id": "NY-tompkins-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.tompkinsweekly.com/",
+    "coverage": [
+      "Trumansburg",
+      "Tompkins County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-012",
+    "name": "Putnam County Courier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Carmel",
+    "county": "Putnam County",
+    "county_id": "NY-putnam-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.putnamcountycourier.com/",
+    "coverage": [
+      "Carmel",
+      "Putnam County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-013",
+    "name": "Putnam County News & Recorder",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Cold Spring",
+    "county": "Putnam County",
+    "county_id": "NY-putnam-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.pcnr.com/",
+    "coverage": [
+      "Cold Spring",
+      "Putnam County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-014",
+    "name": "The Putnam Examiner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Mahopac",
+    "county": "Putnam County",
+    "county_id": "NY-putnam-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.theexaminernews.com/",
+    "coverage": [
+      "Mahopac",
+      "Putnam County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-015",
+    "name": "Daily Freeman",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Kingston",
+    "county": "Ulster County",
+    "county_id": "NY-ulster-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.dailyfreeman.com/",
+    "coverage": [
+      "Kingston",
+      "Ulster County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-016",
+    "name": "Southern Ulster Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Marlboro",
+    "county": "Ulster County",
+    "county_id": "NY-ulster-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.ulstercountyny.gov/",
+    "coverage": [
+      "Marlboro",
+      "Ulster County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-017",
+    "name": "The River Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Narrowsburg",
+    "county": "Sullivan County",
+    "county_id": "NY-sullivan-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.riverreporter.com/",
+    "coverage": [
+      "Narrowsburg",
+      "Sullivan County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-018",
+    "name": "Sullivan County Democrat",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Callicoon",
+    "county": "Sullivan County",
+    "county_id": "NY-sullivan-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.scdemocratonline.com/",
+    "coverage": [
+      "Callicoon",
+      "Sullivan County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-019",
+    "name": "The Saratogian",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Saratoga Springs",
+    "county": "Saratoga County",
+    "county_id": "NY-saratoga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.saratogian.com/",
+    "coverage": [
+      "Saratoga Springs",
+      "Saratoga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-020",
+    "name": "Saratoga TODAY",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Saratoga Springs",
+    "county": "Saratoga County",
+    "county_id": "NY-saratoga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://saratogatodaynewspaper.com/",
+    "coverage": [
+      "Saratoga Springs",
+      "Saratoga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-022",
+    "name": "Cobleskill Times-Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Cobleskill",
+    "county": "Schoharie County",
+    "county_id": "NY-schoharie-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.timesjournalonline.com/",
+    "coverage": [
+      "Cobleskill",
+      "Schoharie County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-023",
+    "name": "The Chronicle-Express",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Penn Yan",
+    "county": "Yates County",
+    "county_id": "NY-yates-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.chronicle-express.com/",
+    "coverage": [
+      "Penn Yan",
+      "Yates County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-024",
+    "name": "The Observer",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Penn Yan",
+    "county": "Yates County",
+    "county_id": "NY-yates-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.observer-review.com/",
+    "coverage": [
+      "Penn Yan",
+      "Yates County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-025",
+    "name": "Niagara Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Niagara Falls",
+    "county": "Niagara County",
+    "county_id": "NY-niagara-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.niagara-gazette.com/",
+    "coverage": [
+      "Niagara Falls",
+      "Niagara County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-026",
+    "name": "The Leader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Corning",
+    "county": "Steuben County",
+    "county_id": "NY-steuben-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.the-leader.com/",
+    "coverage": [
+      "Corning",
+      "Steuben County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-027",
+    "name": "The Spectator",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Hornell",
+    "county": "Steuben County",
+    "county_id": "NY-steuben-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.the-leader.com/",
+    "coverage": [
+      "Hornell",
+      "Steuben County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-028",
+    "name": "North Country This Week",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Potsdam",
+    "county": "St. Lawrence County",
+    "county_id": "NY-st-lawrence-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://northcountrynow.com/",
+    "coverage": [
+      "Potsdam",
+      "St. Lawrence County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-029",
+    "name": "Gouverneur Tribune Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Gouverneur",
+    "county": "St. Lawrence County",
+    "county_id": "NY-st-lawrence-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://northcountrynow.com/",
+    "coverage": [
+      "Gouverneur",
+      "St. Lawrence County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-030",
+    "name": "The Oneida Daily Dispatch",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Oneida",
+    "county": "Madison County",
+    "county_id": "NY-madison-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.oneidadispatch.com/",
+    "coverage": [
+      "Oneida",
+      "Madison County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-031",
+    "name": "Utica Observer-Dispatch",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Utica",
+    "county": "Oneida County",
+    "county_id": "NY-oneida-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.uticaod.com/",
+    "coverage": [
+      "Utica",
+      "Oneida County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-032",
+    "name": "The Waterville Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Waterville",
+    "county": "Oneida County",
+    "county_id": "NY-oneida-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.watervilletimes.com/",
+    "coverage": [
+      "Waterville",
+      "Oneida County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-033",
+    "name": "Eagle Bulletin",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Fayetteville",
+    "county": "Onondaga County",
+    "county_id": "NY-onondaga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.eaglenewsonline.com/",
+    "coverage": [
+      "Fayetteville",
+      "Onondaga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-034",
+    "name": "Eagle Star-Review",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Baldwinsville",
+    "county": "Onondaga County",
+    "county_id": "NY-onondaga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.eaglenewsonline.com/",
+    "coverage": [
+      "Baldwinsville",
+      "Onondaga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-035",
+    "name": "Baldwinsville Messenger",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Baldwinsville",
+    "county": "Onondaga County",
+    "county_id": "NY-onondaga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.eaglenewsonline.com/",
+    "coverage": [
+      "Baldwinsville",
+      "Onondaga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-036",
+    "name": "CNY Vision",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Syracuse",
+    "county": "Onondaga County",
+    "county_id": "NY-onondaga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "black-media"
+    ],
+    "official_url": "https://cnyvision.com/",
+    "coverage": [
+      "Syracuse",
+      "Onondaga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-037",
+    "name": "Minority Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Rochester",
+    "county": "Monroe County",
+    "county_id": "NY-monroe-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "black-media"
+    ],
+    "official_url": "https://minorityreporter.net/",
+    "coverage": [
+      "Rochester",
+      "Monroe County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-038",
+    "name": "Mendon-Honeoye Falls-Lima Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Honeoye Falls",
+    "county": "Monroe County",
+    "county_id": "NY-monroe-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.mhflsentinel.com/",
+    "coverage": [
+      "Honeoye Falls",
+      "Monroe County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-039",
+    "name": "Westchester Rising",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "White Plains",
+    "county": "Westchester County",
+    "county_id": "NY-westchester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://westchesterrising.com/",
+    "coverage": [
+      "White Plains",
+      "Westchester County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-LOCAL-040",
+    "name": "Yonkers Rising",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Yonkers",
+    "county": "Westchester County",
+    "county_id": "NY-westchester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://yonkersrising.com/",
+    "coverage": [
+      "Yonkers",
+      "Westchester County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nynewspapers.com/wp-content/uploads/2025/01/NY-Statewide-Regions-BC-2025.pdf",
+    "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo."
   }
 ]
