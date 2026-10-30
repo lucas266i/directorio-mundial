@@ -2875,11 +2875,12 @@
     ],
     "type": "newspaper",
     "categories": [
-      "independent-media",
       "local-news",
       "general-news",
       "spanish-language",
-      "immigration"
+      "immigration",
+      "community-media",
+      "ethnic-media"
     ],
     "official_url": "https://laopinion.com/",
     "coverage": [
@@ -2905,11 +2906,12 @@
     ],
     "type": "newspaper",
     "categories": [
-      "independent-media",
       "local-news",
       "general-news",
       "spanish-language",
-      "immigration"
+      "immigration",
+      "community-media",
+      "ethnic-media"
     ],
     "official_url": "https://eldiariony.com/",
     "coverage": [
@@ -2935,10 +2937,12 @@
     ],
     "type": "newspaper",
     "categories": [
-      "independent-media",
       "local-news",
       "general-news",
-      "spanish-language"
+      "spanish-language",
+      "community-media",
+      "ethnic-media",
+      "multilingual"
     ],
     "official_url": "https://el-observador.com/",
     "coverage": [
@@ -2964,10 +2968,12 @@
     ],
     "type": "newspaper",
     "categories": [
-      "independent-media",
       "local-news",
       "culture",
-      "spanish-language"
+      "spanish-language",
+      "community-media",
+      "ethnic-media",
+      "multilingual"
     ],
     "official_url": "https://eltecolote.org/",
     "coverage": [
@@ -2995,10 +3001,12 @@
     ],
     "type": "radio-digital",
     "categories": [
-      "independent-media",
       "public-media",
       "local-news",
-      "spanish-language"
+      "spanish-language",
+      "community-media",
+      "multilingual",
+      "public-radio"
     ],
     "official_url": "https://radiobilingue.org/",
     "coverage": [
@@ -3024,10 +3032,12 @@
     ],
     "type": "newspaper",
     "categories": [
-      "independent-media",
       "local-news",
       "general-news",
-      "international"
+      "international",
+      "community-media",
+      "ethnic-media",
+      "multilingual"
     ],
     "official_url": "https://arabamericannews.com/",
     "coverage": [
@@ -3054,9 +3064,11 @@
     ],
     "type": "digital_native",
     "categories": [
-      "independent-media",
       "international",
-      "culture"
+      "culture",
+      "community-media",
+      "ethnic-media",
+      "multilingual"
     ],
     "official_url": "https://www.aljadid.com/",
     "coverage": [
@@ -3081,9 +3093,10 @@
     ],
     "type": "digital_native",
     "categories": [
-      "independent-media",
       "local-news",
-      "international"
+      "international",
+      "community-media",
+      "ethnic-media"
     ],
     "official_url": "https://alentesharnewspaper.com/",
     "coverage": [
@@ -3108,9 +3121,10 @@
     ],
     "type": "digital_native",
     "categories": [
-      "independent-media",
       "local-news",
-      "culture"
+      "culture",
+      "community-media",
+      "ethnic-media"
     ],
     "official_url": "https://afishamedia.com/",
     "coverage": [
@@ -3138,7 +3152,8 @@
       "general-news",
       "local-news",
       "international",
-      "economy"
+      "economy",
+      "community-media"
     ],
     "official_url": "https://www.worldjournal.com/",
     "coverage": [
@@ -3168,7 +3183,10 @@
     "categories": [
       "general-news",
       "local-news",
-      "international"
+      "international",
+      "community-media",
+      "ethnic-media",
+      "multilingual"
     ],
     "official_url": "https://www.chinesemediausa.com/",
     "coverage": [
@@ -3195,7 +3213,9 @@
     "categories": [
       "general-news",
       "local-news",
-      "international"
+      "international",
+      "community-media",
+      "ethnic-media"
     ],
     "official_url": "https://www.chinesedaily.com/",
     "coverage": [
