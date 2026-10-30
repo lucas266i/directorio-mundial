@@ -342,5 +342,41 @@
   {
     "id": "sports-media",
     "name": "Medios deportivos"
+  },
+  {
+    "id": "media",
+    "name": "Medios y periodismo"
+  },
+  {
+    "id": "citizen-journalism",
+    "name": "Periodismo ciudadano"
+  },
+  {
+    "id": "diaspora",
+    "name": "Diáspora"
+  },
+  {
+    "id": "disinformation",
+    "name": "Desinformación"
+  },
+  {
+    "id": "society",
+    "name": "Sociedad"
+  },
+  {
+    "id": "conflict",
+    "name": "Conflictos"
+  },
+  {
+    "id": "humanitarian",
+    "name": "Asuntos humanitarios"
+  },
+  {
+    "id": "science",
+    "name": "Ciencia"
+  },
+  {
+    "id": "analysis",
+    "name": "Análisis"
   }
 ]
