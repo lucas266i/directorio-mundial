@@ -17655,5 +17655,5577 @@
     "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
     "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
     "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-091",
+    "name": "Código San Luis",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.codigosanluis.com/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-092",
+    "name": "San Luis Hoy",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://sanluishoy.com.mx/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-093",
+    "name": "El Mañana de Valles",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "Ciudad Valles",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elmananadevalles.com.mx/",
+    "coverage": [
+      "Ciudad Valles",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-094",
+    "name": "Huasteca Hoy",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "Ciudad Valles",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://huastecahoy.com.mx/",
+    "coverage": [
+      "Ciudad Valles",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-095",
+    "name": "El Sur de la Huasteca Potosina",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "Tamazunchale",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsurtamazunchale.com/",
+    "coverage": [
+      "Tamazunchale",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-096",
+    "name": "Diario Zona Media",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "Rioverde",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariozm.com/",
+    "coverage": [
+      "Rioverde",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-097",
+    "name": "La Razón del Altiplano",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "Matehuala",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.larazondelaltiplano.com.mx/",
+    "coverage": [
+      "Matehuala",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-098",
+    "name": "El Heraldo de San Luis Potosí",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elheraldoslp.com.mx/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-099",
+    "name": "Diario de Colima",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COL",
+    "city": "Colima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodecolima.com/",
+    "coverage": [
+      "Colima",
+      "COL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-100",
+    "name": "El Comentario",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COL",
+    "city": "Colima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elcomentario.ucol.mx/",
+    "coverage": [
+      "Colima",
+      "COL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-101",
+    "name": "Colima Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COL",
+    "city": "Colima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.colimanoticias.com/",
+    "coverage": [
+      "Colima",
+      "COL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-102",
+    "name": "AF Medios",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COL",
+    "city": "Colima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.afmedios.com/",
+    "coverage": [
+      "Colima",
+      "COL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-103",
+    "name": "Manzanillo News Mx",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COL",
+    "city": "Manzanillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://manzanillo.news/",
+    "coverage": [
+      "Manzanillo",
+      "COL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-104",
+    "name": "El Vigía",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Ensenada",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elvigia.net/",
+    "coverage": [
+      "Ensenada",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-105",
+    "name": "La Voz de la Frontera",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Mexicali",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lavozdelafrontera.com.mx/",
+    "coverage": [
+      "Mexicali",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-106",
+    "name": "Frontera",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.frontera.info/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-107",
+    "name": "La Crónica",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Mexicali",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lacronica.com/",
+    "coverage": [
+      "Mexicali",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-108",
+    "name": "El Sol de Tijuana",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldetijuana.com.mx/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-109",
+    "name": "El Sudcaliforniano",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCS",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsudcaliforniano.com.mx/",
+    "coverage": [
+      "La Paz",
+      "BCS",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-110",
+    "name": "BCS Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCS",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.bcsnoticias.mx/",
+    "coverage": [
+      "La Paz",
+      "BCS",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-111",
+    "name": "Tribuna de Los Cabos",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCS",
+    "city": "Los Cabos",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tribunadeloscabos.com.mx/",
+    "coverage": [
+      "Los Cabos",
+      "BCS",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-112",
+    "name": "El Independiente de Baja California Sur",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCS",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diarioelindependiente.mx/",
+    "coverage": [
+      "La Paz",
+      "BCS",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-113",
+    "name": "Tribuna Campeche",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CAM",
+    "city": "Campeche",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tribunacampeche.com/",
+    "coverage": [
+      "Campeche",
+      "CAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-114",
+    "name": "Campeche Hoy",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CAM",
+    "city": "Campeche",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://campechehoy.mx/",
+    "coverage": [
+      "Campeche",
+      "CAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-115",
+    "name": "Por Esto! Campeche",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CAM",
+    "city": "Campeche",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.poresto.net/campeche/",
+    "coverage": [
+      "Campeche",
+      "CAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-116",
+    "name": "Diario de Campeche",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CAM",
+    "city": "Campeche",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodecampeche.com/",
+    "coverage": [
+      "Campeche",
+      "CAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-117",
+    "name": "Diario de Chiapas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodechiapas.com/",
+    "coverage": [
+      "Tuxtla Gutiérrez",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-118",
+    "name": "Cuarto Poder",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.cuartopoder.mx/",
+    "coverage": [
+      "Tuxtla Gutiérrez",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-119",
+    "name": "Diario del Sur",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tapachula",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariodelsur.com.mx/",
+    "coverage": [
+      "Tapachula",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-120",
+    "name": "Diario del Soconusco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tapachula",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodelsoconusco.com/",
+    "coverage": [
+      "Tapachula",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-121",
+    "name": "Diario de Palenque",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Palenque",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodepalenque.com/",
+    "coverage": [
+      "Palenque",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-122",
+    "name": "El Orbe",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tapachula",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elorbe.com/",
+    "coverage": [
+      "Tapachula",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-123",
+    "name": "Oye Chiapas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://oyechiapas.com/",
+    "coverage": [
+      "Tuxtla Gutiérrez",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-124",
+    "name": "Ultimátum",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://ultimatumchiapas.com/",
+    "coverage": [
+      "Tuxtla Gutiérrez",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-125",
+    "name": "Noticias Voz e Imagen de Chiapas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nvinoticiaschiapas.com/",
+    "coverage": [
+      "Tuxtla Gutiérrez",
+      "CHP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-126",
+    "name": "El Diario de Juárez",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Ciudad Juárez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diario.mx/",
+    "coverage": [
+      "Ciudad Juárez",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-127",
+    "name": "El Pueblo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elpueblo.com/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-128",
+    "name": "Entre Líneas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://entrelineas.com.mx/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-129",
+    "name": "La Opción de Chihuahua",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://laopcion.com.mx/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-130",
+    "name": "Net Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Ciudad Juárez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://netnoticias.mx/",
+    "coverage": [
+      "Ciudad Juárez",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-131",
+    "name": "La Polaka",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Ciudad Juárez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lapolaka.com/",
+    "coverage": [
+      "Ciudad Juárez",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-132",
+    "name": "El Diario de Coahuila",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Saltillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://eldiariodecoahuila.com.mx/",
+    "coverage": [
+      "Saltillo",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-133",
+    "name": "La Voz de Monclova",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Monclova",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://periodicolavoz.com.mx/",
+    "coverage": [
+      "Monclova",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-134",
+    "name": "El Sol de la Laguna",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Torreón",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldelalaguna.com.mx/",
+    "coverage": [
+      "Torreón",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-135",
+    "name": "Milenio Laguna",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Torreón",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.milenio.com/temas/laguna",
+    "coverage": [
+      "Torreón",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-136",
+    "name": "Al Día Celaya",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "Celaya",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.aldia.com.mx/",
+    "coverage": [
+      "Celaya",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-137",
+    "name": "Periódico Correo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://periodicocorreo.com.mx/",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-138",
+    "name": "El Sol de León",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldeleon.com.mx/",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-139",
+    "name": "El Sol del Bajío",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "Celaya",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldelbajio.com.mx/",
+    "coverage": [
+      "Celaya",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-140",
+    "name": "El Sol de Irapuato",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "Irapuato",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldeirapuato.com.mx/",
+    "coverage": [
+      "Irapuato",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-141",
+    "name": "El Sol de Salamanca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "Salamanca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldesalamanca.com.mx/",
+    "coverage": [
+      "Salamanca",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-142",
+    "name": "Milenio León",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.milenio.com/temas/leon",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-143",
+    "name": "Zona Franca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://zonafranca.mx/",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-144",
+    "name": "AM León",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.am.com.mx/",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-145",
+    "name": "Noticias Vespertinas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "León",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.noticiasvespertinas.com.mx/",
+    "coverage": [
+      "León",
+      "GUA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-146",
+    "name": "El Sol de Tulancingo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Tulancingo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldetulancingo.com.mx/",
+    "coverage": [
+      "Tulancingo",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-147",
+    "name": "La Jornada Hidalgo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lajornadahidalgo.com/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-148",
+    "name": "El Universal Hidalgo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eluniversalhidalgo.com.mx/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-149",
+    "name": "Plaza Juárez",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://plazajuarez.mx/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-150",
+    "name": "Énfasis",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.enfasis.com.mx/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-151",
+    "name": "Vallarta Opina",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Puerto Vallarta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://vallartaopina.net/",
+    "coverage": [
+      "Puerto Vallarta",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-152",
+    "name": "La Crónica de Hoy Jalisco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.cronicajalisco.com/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-153",
+    "name": "Mural",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mural.com/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-154",
+    "name": "Tierra Fértil",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tierrafertil.com.mx/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-155",
+    "name": "Tribuna de la Bahía",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Puerto Vallarta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tribunadelabahia.com.mx/",
+    "coverage": [
+      "Puerto Vallarta",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-156",
+    "name": "El Sol de Nayarit",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NAY",
+    "city": "Tepic",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldenayarit.mx/",
+    "coverage": [
+      "Tepic",
+      "NAY",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-157",
+    "name": "Meridiano de Nayarit",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NAY",
+    "city": "Tepic",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://meridiano.mx/",
+    "coverage": [
+      "Tepic",
+      "NAY",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-158",
+    "name": "Nayarit en Línea",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NAY",
+    "city": "Tepic",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://nayaritenlinea.mx/",
+    "coverage": [
+      "Tepic",
+      "NAY",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-159",
+    "name": "El Porvenir",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elporvenir.mx/",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-160",
+    "name": "El Horizonte",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elhorizonte.mx/",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-161",
+    "name": "POSTA Nuevo León",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.posta.com.mx/nuevoleon",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-162",
+    "name": "El Diario de Oaxaca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diarioaxaca.com/",
+    "coverage": [
+      "Oaxaca",
+      "OAX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-163",
+    "name": "Noticias Voz e Imagen de Oaxaca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nvinoticias.com/",
+    "coverage": [
+      "Oaxaca",
+      "OAX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-164",
+    "name": "Tiempo de Oaxaca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tiempodigital.mx/",
+    "coverage": [
+      "Oaxaca",
+      "OAX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-165",
+    "name": "El Imparcial de Oaxaca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://imparcialoaxaca.mx/",
+    "coverage": [
+      "Oaxaca",
+      "OAX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-166",
+    "name": "Diario Marca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariomarca.com.mx/",
+    "coverage": [
+      "Oaxaca",
+      "OAX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-167",
+    "name": "La Jornada de Oriente",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lajornadadeoriente.com.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-168",
+    "name": "El Heraldo de Puebla",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://heraldodepuebla.com/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-169",
+    "name": "Ambas Manos",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ambasmanos.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-170",
+    "name": "Poblanerías",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.poblanerias.com/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-171",
+    "name": "Plataforma Informativa Valkiria",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "San Martín Texmelucan",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://valkiriaonline.com/",
+    "coverage": [
+      "San Martín Texmelucan",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-172",
+    "name": "El Universal Querétaro",
+    "country": "MEX",
+    "region": "North America",
+    "state": "QUE",
+    "city": "Querétaro",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eluniversalqueretaro.mx/",
+    "coverage": [
+      "Querétaro",
+      "QUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-173",
+    "name": "Capital Querétaro",
+    "country": "MEX",
+    "region": "North America",
+    "state": "QUE",
+    "city": "Querétaro",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://capitalqueretaro.com.mx/",
+    "coverage": [
+      "Querétaro",
+      "QUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-174",
+    "name": "El Debate",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SIN",
+    "city": "Culiacán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.debate.com.mx/",
+    "coverage": [
+      "Culiacán",
+      "SIN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-175",
+    "name": "Línea Directa",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SIN",
+    "city": "Culiacán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lineadirectaportal.com/",
+    "coverage": [
+      "Culiacán",
+      "SIN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-176",
+    "name": "El Sol de Sinaloa",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SIN",
+    "city": "Culiacán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldesinaloa.com.mx/",
+    "coverage": [
+      "Culiacán",
+      "SIN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-177",
+    "name": "El Diario del Yaqui",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Ciudad Obregón",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodelyaqui.mx/",
+    "coverage": [
+      "Ciudad Obregón",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-178",
+    "name": "Tribuna de San Luis",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "San Luis Río Colorado",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.tribunadesanluis.com.mx/",
+    "coverage": [
+      "San Luis Río Colorado",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-179",
+    "name": "El Diario de Sonora",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Nogales",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://eldiariodesonora.com.mx/",
+    "coverage": [
+      "Nogales",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-180",
+    "name": "El Sol de Caborca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Caborca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elsoldecordoba.com.mx/",
+    "coverage": [
+      "Caborca",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-181",
+    "name": "Tabasco Hoy",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAB",
+    "city": "Villahermosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.tabascohoy.com/",
+    "coverage": [
+      "Villahermosa",
+      "TAB",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-182",
+    "name": "Novedades de Tabasco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAB",
+    "city": "Villahermosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://novedadesdetabasco.com.mx/",
+    "coverage": [
+      "Villahermosa",
+      "TAB",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-183",
+    "name": "Diario de Tabasco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAB",
+    "city": "Villahermosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariodetabasco.mx/",
+    "coverage": [
+      "Villahermosa",
+      "TAB",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-184",
+    "name": "El Mercurio de Tamaulipas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Ciudad Victoria",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elmercurio.com.mx/",
+    "coverage": [
+      "Ciudad Victoria",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-185",
+    "name": "El Bravo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Matamoros",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elbravo.mx/",
+    "coverage": [
+      "Matamoros",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-186",
+    "name": "Expreso.press",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Ciudad Victoria",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://expreso.press/",
+    "coverage": [
+      "Ciudad Victoria",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-187",
+    "name": "Síntesis Tlaxcala",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TLA",
+    "city": "Tlaxcala",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.sintesis.mx/tlaxcala/",
+    "coverage": [
+      "Tlaxcala",
+      "TLA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-188",
+    "name": "El Sol de Córdoba",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Córdoba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldecordoba.com.mx/",
+    "coverage": [
+      "Córdoba",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-189",
+    "name": "El Dictamen",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Veracruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eldictamen.mx/",
+    "coverage": [
+      "Veracruz",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-190",
+    "name": "La Opinión de Poza Rica",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Poza Rica",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://laopinion.net/",
+    "coverage": [
+      "Poza Rica",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-191",
+    "name": "Vértice Diario",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://verticedigital.com/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-192",
+    "name": "El Heraldo de Veracruz",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elheraldodeveracruz.com.mx/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-193",
+    "name": "La Verdad Yucatán",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://laverdadyucatan.com/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-194",
+    "name": "Novedades de Yucatán",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://sipse.com/novedades-yucatan/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-195",
+    "name": "Imagen de Zacatecas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ZAC",
+    "city": "Zacatecas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.imagenzac.com.mx/",
+    "coverage": [
+      "Zacatecas",
+      "ZAC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-MX-196",
+    "name": "Página 24 Zacatecas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ZAC",
+    "city": "Zacatecas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://pagina24zacatecas.com.mx/",
+    "coverage": [
+      "Zacatecas",
+      "ZAC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Padrón Nacional de Medios Impresos (SEGOB); COLSAN; bibliotecas y directorios regionales",
+    "source_directory": "PNMI SEGOB; Biblioteca COLSAN; directorios estatales",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-098",
+    "name": "Sun Peaks Independent News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Sun Peaks",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://sunpeaksnews.com/",
+    "coverage": [
+      "Sun Peaks",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-099",
+    "name": "Tri-Cities Dispatch",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Coquitlam",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tricitydispatch.com/",
+    "coverage": [
+      "Coquitlam",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-100",
+    "name": "The Ridge",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Maple Ridge",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://theridge.ca/",
+    "coverage": [
+      "Maple Ridge",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-101",
+    "name": "The Wren",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Kamloops",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thewren.ca/",
+    "coverage": [
+      "Kamloops",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-102",
+    "name": "Tumbler RidgeLines",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Tumbler Ridge",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tumblerridgelines.com/",
+    "coverage": [
+      "Tumbler Ridge",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-103",
+    "name": "Westshore",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Langford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.westshore.ca/",
+    "coverage": [
+      "Langford",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-104",
+    "name": "Cloverdale Reporter",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Surrey",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.cloverdalereporter.com/",
+    "coverage": [
+      "Surrey",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-105",
+    "name": "Daily Hive Vancouver",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://dailyhive.com/vancouver",
+    "coverage": [
+      "Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-106",
+    "name": "North Delta Reporter",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Delta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.northdeltareporter.com/",
+    "coverage": [
+      "Delta",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-107",
+    "name": "Chemainus Valley Courier",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Chemainus",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.chemainusvalleycourier.ca/",
+    "coverage": [
+      "Chemainus",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-108",
+    "name": "Goldstream News Gazette",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Langford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.goldstreamgazette.com/",
+    "coverage": [
+      "Langford",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-109",
+    "name": "Ladysmith Chronicle",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Ladysmith",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ladysmithchronicle.com/",
+    "coverage": [
+      "Ladysmith",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-110",
+    "name": "Monday Magazine",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Victoria",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mondaymag.com/",
+    "coverage": [
+      "Victoria",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-111",
+    "name": "Lake Cowichan Gazette",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Lake Cowichan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lakecowichangazette.com/",
+    "coverage": [
+      "Lake Cowichan",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-112",
+    "name": "North Island Gazette",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Port Hardy",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.northislandgazette.com/",
+    "coverage": [
+      "Port Hardy",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-113",
+    "name": "Oak Bay News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Oak Bay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.oakbaynews.com/",
+    "coverage": [
+      "Oak Bay",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-114",
+    "name": "Parksville Qualicum Beach News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Parksville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pqbnews.com/",
+    "coverage": [
+      "Parksville",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-115",
+    "name": "Peninsula News Review",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Sidney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.peninsulanewsreview.com/",
+    "coverage": [
+      "Sidney",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-116",
+    "name": "The Discourse",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Courtenay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thediscourse.ca/",
+    "coverage": [
+      "Courtenay",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-117",
+    "name": "The Orca",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://theorca.ca/",
+    "coverage": [
+      "Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-118",
+    "name": "The Peak",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://the-peak.ca/",
+    "coverage": [
+      "Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-119",
+    "name": "The Georgia Straight",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.straight.com/",
+    "coverage": [
+      "Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-120",
+    "name": "The Golden Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Golden",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thegoldenstar.net/",
+    "coverage": [
+      "Golden",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-121",
+    "name": "Revelstoke Review",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Revelstoke",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.revelstokereview.com/",
+    "coverage": [
+      "Revelstoke",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-122",
+    "name": "Cranbrook Daily Townsman",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Cranbrook",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.cranbrooktownsman.com/",
+    "coverage": [
+      "Cranbrook",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-123",
+    "name": "Kimberley Bulletin",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Kimberley",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kimberleybulletin.com/",
+    "coverage": [
+      "Kimberley",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-124",
+    "name": "Vernon Morning Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vernon",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vernonmorningstar.com/",
+    "coverage": [
+      "Vernon",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-125",
+    "name": "Salmon Arm Observer",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Salmon Arm",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.saobserver.net/",
+    "coverage": [
+      "Salmon Arm",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-126",
+    "name": "Armstrong Spallumcheen News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Armstrong",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.armstrongspallumcheenews.com/",
+    "coverage": [
+      "Armstrong",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-127",
+    "name": "Summerland Review",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Summerland",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.summerlandreview.com/",
+    "coverage": [
+      "Summerland",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-128",
+    "name": "Oliver Chronicle",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Oliver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.oliverchronicle.com/",
+    "coverage": [
+      "Oliver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-129",
+    "name": "Osoyoos Times",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Osoyoos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.osoyoostimes.com/",
+    "coverage": [
+      "Osoyoos",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-130",
+    "name": "The Lake Country Calendar",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Lake Country",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lakecountrycalendar.com/",
+    "coverage": [
+      "Lake Country",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-131",
+    "name": "The Williams Lake Tribune",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Williams Lake",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.wltribune.com/",
+    "coverage": [
+      "Williams Lake",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-132",
+    "name": "100 Mile House Free Press",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "100 Mile House",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.100milefreepress.net/",
+    "coverage": [
+      "100 Mile House",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-133",
+    "name": "Quesnel Cariboo Observer",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Quesnel",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.quesnelobserver.com/",
+    "coverage": [
+      "Quesnel",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-134",
+    "name": "Houston Today",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Houston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.houston-today.com/",
+    "coverage": [
+      "Houston",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-135",
+    "name": "Smithers Interior News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Smithers",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.interior-news.com/",
+    "coverage": [
+      "Smithers",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-136",
+    "name": "Kitimat Northern Sentinel",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Kitimat",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.northernsentinel.com/",
+    "coverage": [
+      "Kitimat",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-137",
+    "name": "Prince Rupert Northern View",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Prince Rupert",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thenorthernview.com/",
+    "coverage": [
+      "Prince Rupert",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-138",
+    "name": "Alaska Highway News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Fort St. John",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.alaskahighwaynews.ca/",
+    "coverage": [
+      "Fort St. John",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-139",
+    "name": "Dawson Creek Mirror",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Dawson Creek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.dawsoncreekmirror.ca/",
+    "coverage": [
+      "Dawson Creek",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-140",
+    "name": "The Northern Beat",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Prince George",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thenorthernbeat.ca/",
+    "coverage": [
+      "Prince George",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-141",
+    "name": "The Gateway",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thegatewayonline.ca/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-142",
+    "name": "The Gauntlet",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Calgary",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thegauntlet.ca/",
+    "coverage": [
+      "Calgary",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-143",
+    "name": "The Hoser",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thehoser.ca/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-144",
+    "name": "Upping the Anti",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://uppingtheanti.org/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-145",
+    "name": "Antler River Media Co-op",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://antlerrivermedia.ca/",
+    "coverage": [
+      "London",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-146",
+    "name": "Midnight Sun",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://midnightsunmag.ca/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-147",
+    "name": "The Grind",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thegrindmag.ca/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-148",
+    "name": "Briarpatch Magazine",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "Regina",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://briarpatchmagazine.com/",
+    "coverage": [
+      "Regina",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-149",
+    "name": "Sask Dispatch",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "Regina",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://saskdispatch.com/",
+    "coverage": [
+      "Regina",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-150",
+    "name": "Courrier Laval",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Laval",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://courrierlaval.com/",
+    "coverage": [
+      "Laval",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-151",
+    "name": "Courrier Sud",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Bécancour",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lecourriersud.com/",
+    "coverage": [
+      "Bécancour",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-152",
+    "name": "Info Dimanche",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Rivière-du-Loup",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://infodimanche.com/",
+    "coverage": [
+      "Rivière-du-Loup",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-153",
+    "name": "Infos Mirabel",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Mirabel",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://infosmirabel.com/",
+    "coverage": [
+      "Mirabel",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-154",
+    "name": "Journal Accès",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Saint-Sauveur",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://journalacces.ca/",
+    "coverage": [
+      "Saint-Sauveur",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-155",
+    "name": "Journal de Chambly",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Chambly",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.journaldechambly.com/",
+    "coverage": [
+      "Chambly",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-156",
+    "name": "Journal des voisins",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Montreal",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://journaldesvoisins.com/",
+    "coverage": [
+      "Montreal",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-157",
+    "name": "Journal de Lévis",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Lévis",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://journaldelevis.com/",
+    "coverage": [
+      "Lévis",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-158",
+    "name": "Journal La Haute Côte-Nord",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Les Escoumins",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.journalhcn.com/",
+    "coverage": [
+      "Les Escoumins",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-159",
+    "name": "Le Haut-Saint-François",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Cookshire-Eaton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.journalhsf.com/",
+    "coverage": [
+      "Cookshire-Eaton",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-160",
+    "name": "Le Manic",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Baie-Comeau",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lemanic.ca/",
+    "coverage": [
+      "Baie-Comeau",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-161",
+    "name": "Le Charlevoisien",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Baie-Saint-Paul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lecharlevoisien.com/",
+    "coverage": [
+      "Baie-Saint-Paul",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-162",
+    "name": "Le Nouvelliste",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Trois-Rivières",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lenouvelliste.ca/",
+    "coverage": [
+      "Trois-Rivières",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-163",
+    "name": "La Tribune",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Sherbrooke",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.latribune.ca/",
+    "coverage": [
+      "Sherbrooke",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-164",
+    "name": "Le Soleil",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Quebec City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lesoleil.com/",
+    "coverage": [
+      "Quebec City",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-165",
+    "name": "Le Quotidien",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Saguenay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lequotidien.com/",
+    "coverage": [
+      "Saguenay",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-166",
+    "name": "Le Droit",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Ottawa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ledroit.com/",
+    "coverage": [
+      "Ottawa",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-167",
+    "name": "Le Reflet",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Delson",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lereflet.qc.ca/",
+    "coverage": [
+      "Delson",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-168",
+    "name": "Le Courrier de Saint-Hyacinthe",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Saint-Hyacinthe",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lecourrier.qc.ca/",
+    "coverage": [
+      "Saint-Hyacinthe",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-169",
+    "name": "L'Express",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://l-express.ca/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-170",
+    "name": "The Kingstonist",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Kingston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kingstonist.com/",
+    "coverage": [
+      "Kingston",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-171",
+    "name": "KawarthaNOW",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Peterborough",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://kawarthanow.com/",
+    "coverage": [
+      "Peterborough",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-172",
+    "name": "Eganville Leader",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Eganville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eganvilleleader.ca/",
+    "coverage": [
+      "Eganville",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-173",
+    "name": "Essex Free Press",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Essex",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.essexfreepress.com/",
+    "coverage": [
+      "Essex",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-174",
+    "name": "Fort Frances Times",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Fort Frances",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.fftimes.com/",
+    "coverage": [
+      "Fort Frances",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-175",
+    "name": "Listowel Banner",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Listowel",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.listowelbanner.com/",
+    "coverage": [
+      "Listowel",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-176",
+    "name": "Manitoulin Expositor",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Manitoulin Island",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.manitoulin.com/",
+    "coverage": [
+      "Manitoulin Island",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-177",
+    "name": "Chatham Voice",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Chatham",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://chathamvoice.com/",
+    "coverage": [
+      "Chatham",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-178",
+    "name": "Burlington Local",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Burlington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://burlingtonlocal.ca/",
+    "coverage": [
+      "Burlington",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-179",
+    "name": "Caledon Citizen",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Caledon",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://caledoncitizen.com/",
+    "coverage": [
+      "Caledon",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-180",
+    "name": "King Weekly Sentinel",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "King City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://kingsentinel.com/",
+    "coverage": [
+      "King City",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-181",
+    "name": "The Chronicle-Journal",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Thunder Bay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.chroniclejournal.com/",
+    "coverage": [
+      "Thunder Bay",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-182",
+    "name": "The Sudbury Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Sudbury",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thesudburystar.com/",
+    "coverage": [
+      "Sudbury",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-183",
+    "name": "The Beacon Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Stratford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.stratfordbeaconherald.com/",
+    "coverage": [
+      "Stratford",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-184",
+    "name": "The Daily Press",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Timmins",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.timminspress.com/",
+    "coverage": [
+      "Timmins",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-185",
+    "name": "The Sault Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Sault Ste. Marie",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.saultstar.com/",
+    "coverage": [
+      "Sault Ste. Marie",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-186",
+    "name": "The Recorder and Times",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Brockville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.recorder.ca/",
+    "coverage": [
+      "Brockville",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-187",
+    "name": "The Standard",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "St. Catharines",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.stcatharinesstandard.ca/",
+    "coverage": [
+      "St. Catharines",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-188",
+    "name": "The Welland Tribune",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Welland",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.wellandtribune.ca/",
+    "coverage": [
+      "Welland",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-189",
+    "name": "The Niagara Falls Review",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Niagara Falls",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.niagarafallsreview.ca/",
+    "coverage": [
+      "Niagara Falls",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-CA-190",
+    "name": "lorì:wase",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Kahnawake",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.loriwase.com/",
+    "coverage": [
+      "Kahnawake",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
+    "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
+    "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
   }
 ]
