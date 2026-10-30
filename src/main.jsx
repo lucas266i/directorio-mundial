@@ -50,7 +50,7 @@ const categoryLabels = {
   "fact-checking": "Fact-checking",
   "general-news": "Noticias generales", "national": "Nacional", "business": "Negocios",
   "government": "Gobierno", "local-news": "Noticias locales", "public-media": "Medios públicos",
-  "radio-digital": "Radio y digital", "newspaper": "Periódico", "news-agency": "Agencia de noticias",
+  "radio": "Radio", "television": "Televisión", "radio-digital": "Radio y digital", "newspaper": "Periódico", "news-agency": "Agencia de noticias",
   "digital_native": "Medio digital", "digital-native": "Medio digital", "media-directory": "Directorio de medios", "accountability": "Rendición de cuentas",
   "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
   "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
