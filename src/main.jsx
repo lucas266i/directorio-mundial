@@ -86,12 +86,14 @@ function App() {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
       setMedia(Array.isArray(mediaData) ? mediaData : fallbackMedia);
       setCategories(Array.isArray(categoryData) ? categoryData.map((c) => c.name || c).filter(Boolean) : fallbackCategories);
-      setStates(Array.isArray(stateData) ? stateData : []);\n      setGeography(Array.isArray(geographyData) ? geographyData : []);
+      setStates(Array.isArray(stateData) ? stateData : []);
+      setGeography(Array.isArray(geographyData) ? geographyData : []);
     }).catch(() => {
       setCountries(fallbackCountries);
       setMedia(fallbackMedia);
       setCategories(fallbackCategories);
-      setStates([]);\n      setGeography([]);
+      setStates([]);
+      setGeography([]);
     }).finally(() => setLoading(false));
   }, []);
 
