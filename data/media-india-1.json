@@ -1621,29 +1621,29 @@
   },
   {
     "id": "MED-IN-2026-063",
-    "name": "Ananda Vikatan",
+    "name": "News Today",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
     "admin1_name": "Tamil Nadu",
     "state": "Tamil Nadu",
     "city": "Chennai",
-    "language": "ta",
+    "language": "en",
     "languages": [
-      "ta"
+      "en"
     ],
-    "type": "magazine",
+    "type": "newspaper",
     "categories": [
-      "culture",
-      "entertainment"
+      "general-news",
+      "local-news"
     ],
-    "official_url": "https://www.vikatan.com",
+    "official_url": "https://www.newstodaynet.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
-    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-064",
@@ -2583,29 +2583,29 @@
   },
   {
     "id": "MED-IN-2026-100",
-    "name": "The Telegraph Online",
+    "name": "Khabor24",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
     "admin1_name": "West Bengal",
     "state": "West Bengal",
     "city": "Kolkata",
-    "language": "en",
+    "language": "bn",
     "languages": [
-      "en"
+      "bn"
     ],
-    "type": "newspaper",
+    "type": "digital-native",
     "categories": [
       "general-news",
       "regional-news"
     ],
-    "official_url": "https://www.telegraphindia.com",
+    "official_url": "https://khabor24.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
-    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-101",
@@ -3519,7 +3519,7 @@
   },
   {
     "id": "MED-IN-2026-136",
-    "name": "The Goan Everyday",
+    "name": "Goa Spotlight",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
@@ -3530,18 +3530,18 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "digital-native",
     "categories": [
       "local-news",
       "regional-news"
     ],
-    "official_url": "https://www.thegoan.net",
+    "official_url": "https://www.goaspotlight.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
-    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-137",
@@ -5105,29 +5105,29 @@
   },
   {
     "id": "MED-IN-2026-197",
-    "name": "Daily Excelsior English",
+    "name": "Cinema Express",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
-    "admin1_name": "Jammu and Kashmir",
-    "state": "Jammu and Kashmir",
-    "city": "Jammu",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
     "language": "en",
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "magazine",
     "categories": [
-      "general-news",
-      "regional-news"
+      "culture",
+      "entertainment"
     ],
-    "official_url": "https://www.dailyexcelsior.com",
+    "official_url": "https://www.cinemaexpress.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
-    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-198",
@@ -5547,7 +5547,7 @@
   },
   {
     "id": "MED-IN-2026-214",
-    "name": "Mid-Day Gujarati",
+    "name": "Gujarat News",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
@@ -5558,18 +5558,18 @@
     "languages": [
       "gu"
     ],
-    "type": "newspaper",
+    "type": "digital-native",
     "categories": [
-      "local-news",
-      "general-news"
+      "general-news",
+      "regional-news"
     ],
-    "official_url": "https://www.gujaratimidday.com",
+    "official_url": "https://www.gujaratnews.in",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-215",
@@ -5625,29 +5625,29 @@
   },
   {
     "id": "MED-IN-2026-217",
-    "name": "Lokprabha Marathi",
+    "name": "Marathimati",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
     "admin1_name": "Maharashtra",
     "state": "Maharashtra",
-    "city": "Mumbai",
+    "city": "Pune",
     "language": "mr",
     "languages": [
       "mr"
     ],
-    "type": "magazine",
+    "type": "digital-native",
     "categories": [
       "culture",
-      "politics"
+      "regional-news"
     ],
-    "official_url": "https://www.lokprabha.com",
+    "official_url": "https://www.marathimati.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-218",
@@ -5677,7 +5677,7 @@
   },
   {
     "id": "MED-IN-2026-219",
-    "name": "Dainik Aikya Satara",
+    "name": "Dainik Sanchar",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
@@ -5690,16 +5690,16 @@
     ],
     "type": "newspaper",
     "categories": [
-      "local-news",
+      "general-news",
       "regional-news"
     ],
-    "official_url": "https://www.dainikaikya.com",
+    "official_url": "https://www.dainiksanchar.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-220",
@@ -5729,29 +5729,29 @@
   },
   {
     "id": "MED-IN-2026-221",
-    "name": "Desh Doot",
+    "name": "Bangalore News Network",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
-    "admin1_name": "Maharashtra",
-    "state": "Maharashtra",
-    "city": "Nashik",
-    "language": "mr",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
     "languages": [
-      "mr"
+      "en"
     ],
-    "type": "newspaper",
+    "type": "digital-native",
     "categories": [
-      "general-news",
+      "local-news",
       "regional-news"
     ],
-    "official_url": "https://www.deshdoot.com",
+    "official_url": "https://www.bnnlive.in",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-222",
@@ -6015,7 +6015,7 @@
   },
   {
     "id": "MED-IN-2026-232",
-    "name": "In Goa News",
+    "name": "Goa News",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
@@ -6026,18 +6026,18 @@
     "languages": [
       "en"
     ],
-    "type": "tv",
+    "type": "digital-native",
     "categories": [
-      "television",
-      "general-news"
+      "general-news",
+      "regional-news"
     ],
-    "official_url": "https://ingoanews.com",
+    "official_url": "https://goanews.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-233",
@@ -6145,7 +6145,7 @@
   },
   {
     "id": "MED-IN-2026-237",
-    "name": "News Wing",
+    "name": "Jharkhand Mirror",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
@@ -6158,16 +6158,16 @@
     ],
     "type": "digital-native",
     "categories": [
-      "investigative",
+      "general-news",
       "regional-news"
     ],
-    "official_url": "https://newswing.com",
+    "official_url": "https://jharkhandmirror.net",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-238",
@@ -7575,29 +7575,29 @@
   },
   {
     "id": "MED-IN-2026-292",
-    "name": "Gujarati News 18",
+    "name": "Sports Cafe",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
-    "admin1_name": "Gujarat",
-    "state": "Gujarat",
-    "city": "Ahmedabad",
-    "language": "gu",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
     "languages": [
-      "gu"
+      "en"
     ],
     "type": "digital-native",
     "categories": [
-      "general-news",
-      "regional-news"
+      "sports",
+      "general-news"
     ],
-    "official_url": "https://gujarati.news18.com",
+    "official_url": "https://sportscafe.in",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   },
   {
     "id": "MED-IN-2026-293",
@@ -7783,28 +7783,28 @@
   },
   {
     "id": "MED-IN-2026-300",
-    "name": "Pudhari",
+    "name": "Khabar Odisha",
     "country": "IND",
     "continent": "Asia",
     "continent_region": "Asia meridional",
-    "admin1_name": "Maharashtra",
-    "state": "Maharashtra",
-    "city": "Kolhapur",
-    "language": "mr",
+    "admin1_name": "Odisha",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "language": "or",
     "languages": [
-      "mr"
+      "or"
     ],
-    "type": "newspaper",
+    "type": "digital-native",
     "categories": [
       "general-news",
       "regional-news"
     ],
-    "official_url": "https://pudhari.news",
+    "official_url": "https://khabarodisha.com",
     "coverage": [
       "IND"
     ],
     "status": "pending_verification",
-    "discovery_source": "Directorios de prensa india por estado, idioma y especialidad",
-    "verification_note": "Dominio, vigencia y asignación territorial pendientes de verificación individual; la inclusión no equivale a aval editorial."
+    "discovery_source": "Directorios de prensa regional y medios especializados de India",
+    "verification_note": "Registro alternativo para evitar duplicación de dominio. URL, vigencia y actividad editorial pendientes de verificación individual."
   }
 ]
