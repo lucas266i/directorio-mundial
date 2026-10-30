@@ -10582,5 +10582,342 @@
     "status": "pending_verification",
     "discovery_source": "https://willowgrovenow.com/",
     "verification_note": "Local digital news serving Willow Grove and surrounding communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-NE3-MA-001",
+    "name": "The Bedford Citizen",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Bedford",
+    "county": "Middlesex County",
+    "county_id": "MA-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://thebedfordcitizen.org/",
+    "coverage": [
+      "Bedford",
+      "Middlesex County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; active local reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-MA-002",
+    "name": "The Concord Bridge",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Concord",
+    "county": "Middlesex County",
+    "county_id": "MA-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://concordbridge.org/",
+    "coverage": [
+      "Concord",
+      "Middlesex County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; official site identifies it as a free weekly newspaper serving Concord."
+  },
+  {
+    "id": "MED-USA-NE3-MA-003",
+    "name": "Fairhaven Neighborhood News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Fairhaven",
+    "county": "Bristol County",
+    "county_id": "MA-bristol-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://fairhavenneighborhoodnews.com/",
+    "coverage": [
+      "Fairhaven",
+      "Bristol County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; current local reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-MA-004",
+    "name": "Nantucket Current",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Nantucket",
+    "county": "Nantucket County",
+    "county_id": "MA-nantucket-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://nantucketcurrent.com/",
+    "coverage": [
+      "Nantucket",
+      "Nantucket County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Current local news reporting observed on the official site in October 2026; the outlet is listed in the Massachusetts registered news media directory."
+  },
+  {
+    "id": "MED-USA-NE3-MA-005",
+    "name": "Sampan",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "ethnic-media",
+      "asian-american-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.sampan.org/",
+    "coverage": [
+      "Boston",
+      "Greater Boston",
+      "New England"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/doc/multicultural-media-list/download",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Included in the Massachusetts multicultural media outlets list; official site describes a bilingual Chinese-English newspaper serving Greater Boston."
+  },
+  {
+    "id": "MED-USA-NE3-MA-006",
+    "name": "ZUMIX Radio",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "community-radio",
+      "youth-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.zumix.org/radio/",
+    "coverage": [
+      "East Boston",
+      "Boston",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/doc/multicultural-media-list/download",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Included in the Massachusetts multicultural media outlets list; official station page describes its community radio broadcast and bilingual programming."
+  },
+  {
+    "id": "MED-USA-NE3-MA-007",
+    "name": "Brazilian Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Somerville",
+    "county": "Middlesex County",
+    "county_id": "MA-middlesex-county",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "ethnic-media",
+      "immigrant-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.braziliantimes.com/",
+    "coverage": [
+      "Massachusetts",
+      "New England",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Current Portuguese-language reporting observed on the official site; the publication identifies its headquarters in Somerville, Massachusetts."
+  },
+  {
+    "id": "MED-USA-NE3-MA-008",
+    "name": "Boston Korea",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "ko",
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "ethnic-media",
+      "korean-american-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://bostonkorea.com/",
+    "coverage": [
+      "Boston",
+      "Greater Boston",
+      "New England"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/doc/multicultural-media-list/download",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Included in the Massachusetts multicultural media outlets list; current Korean-language and English-edition content observed on the official site."
+  },
+  {
+    "id": "MED-USA-NE3-MA-009",
+    "name": "Marblehead Current",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Marblehead",
+    "county": "Essex County",
+    "county_id": "MA-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://marbleheadcurrent.org/",
+    "coverage": [
+      "Marblehead",
+      "Essex County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; current local reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-MA-010",
+    "name": "Hopkinton Independent",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Hopkinton",
+    "county": "Middlesex County",
+    "county_id": "MA-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://hopkintonindependent.com/",
+    "coverage": [
+      "Hopkinton",
+      "Middlesex County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; current local reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-MA-011",
+    "name": "WHAV",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Haverhill",
+    "county": "Essex County",
+    "county_id": "MA-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "community-radio",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://whav.net/",
+    "coverage": [
+      "Haverhill",
+      "Greater Haverhill",
+      "Essex County",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "source_directory": "Massachusetts registered news media / multicultural media directories",
+    "verification_note": "Listed by Massachusetts SJC registered news media; official site describes an active nonprofit local news service and radio station."
   }
 ]
