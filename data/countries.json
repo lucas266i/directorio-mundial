@@ -791,5 +791,68 @@
     "continent": "Europa",
     "region": "Meridional",
     "language": "ca"
+  },
+  {
+    "id": "IND",
+    "name": "India",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "hi"
+  },
+  {
+    "id": "JPN",
+    "name": "Japón",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "ja"
+  },
+  {
+    "id": "ZAF",
+    "name": "Sudáfrica",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "NGA",
+    "name": "Nigeria",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "en"
+  },
+  {
+    "id": "KEN",
+    "name": "Kenia",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "en"
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "continent": "Oceanía",
+    "region": "Australasia",
+    "language": "en"
+  },
+  {
+    "id": "NZL",
+    "name": "Nueva Zelanda",
+    "continent": "Oceanía",
+    "region": "Australasia",
+    "language": "en"
+  },
+  {
+    "id": "PHL",
+    "name": "Filipinas",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "en"
+  },
+  {
+    "id": "IDN",
+    "name": "Indonesia",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "id"
   }
 ]
