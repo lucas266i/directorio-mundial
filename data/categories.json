@@ -326,5 +326,21 @@
   {
     "id": "latin-america",
     "name": "América Latina e Iberoamérica"
+  },
+  {
+    "id": "sports",
+    "name": "Deportes"
+  },
+  {
+    "id": "magazine",
+    "name": "Revistas y semanarios"
+  },
+  {
+    "id": "financial-news",
+    "name": "Información financiera"
+  },
+  {
+    "id": "sports-media",
+    "name": "Medios deportivos"
   }
 ]
