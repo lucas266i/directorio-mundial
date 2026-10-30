@@ -57,7 +57,7 @@ const categoryLabels = {
   "spanish-language": "En español", "housing": "Vivienda"
 };
 
-const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский" };
+const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
 
 function App() {
   const [query, setQuery] = useState("");
