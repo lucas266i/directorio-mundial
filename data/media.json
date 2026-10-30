@@ -27536,5 +27536,447 @@
     "status": "pending_verification",
     "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
     "verification_note": "Discovery record. Listed as a media partner by Caribisch Netwerk; active site. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "DIR-IBERO-001",
+    "name": "Datéame",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.dateame.co/index.php/medios",
+    "coverage": "Iberoamérica",
+    "description": "Directorio de medios digitales; listado consultable por país, ciudad, alcance, tipo, formato y categoría.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-002",
+    "name": "Diarios.space",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.diarios.space/",
+    "coverage": "Iberoamérica",
+    "description": "Directorio de periódicos, radios y televisiones por país y región.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-003",
+    "name": "Periodismo.com",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.periodismo.com/",
+    "coverage": "Iberoamérica",
+    "description": "Directorio y recursos de prensa, medios digitales, revistas y blogs.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-004",
+    "name": "SembraMedia — Directorio en español",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://directorio.sembramedia.org/",
+    "coverage": "Latinoamérica, España y diáspora hispana",
+    "description": "Directorio curado de medios digitales independientes en español.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-005",
+    "name": "SembraMedia — Directorios globales",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://sembramedia.org/directorios-de-medios/",
+    "coverage": "Global",
+    "description": "Portal de acceso a directorios regionales y Project Oasis.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-006",
+    "name": "Curlie — News Directories",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://curlie.org/en/News/Directories/",
+    "coverage": "Global",
+    "description": "Directorio de directorios de noticias.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-007",
+    "name": "Curlie — South America News and Media",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://curlie.org/en/Regional/South_America/News_and_Media/",
+    "coverage": "Sudamérica",
+    "description": "Categoría regional con subdirectorios por país.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-008",
+    "name": "Crosswire — Americas",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://crosswire.online/region/americas",
+    "coverage": "Américas",
+    "description": "Mapa de medios por país y perspectiva editorial.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-009",
+    "name": "Arranca",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://arranca.com/",
+    "coverage": "Iberoamérica",
+    "description": "Listado de medios y fuentes por país y especialidad.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-010",
+    "name": "APEP — Directorio de medios",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://apepweb.org/web/directorios-apep/68-directorio-de-medios",
+    "coverage": "Global",
+    "description": "Relación de agencias, diarios, radios, revistas y otros medios representados por asociados.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-011",
+    "name": "Vanderbilt — Latin American, Iberian and Latinx News Sources",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://researchguides.library.vanderbilt.edu/c.php?g=1551531&p=11638120",
+    "coverage": "Latinoamérica, Iberia y comunidad latina",
+    "description": "Guía bibliográfica universitaria de fuentes informativas.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-012",
+    "name": "USC — Latin America News & Media",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://sites.usc.edu/latinamerica/news-and-media/",
+    "coverage": "Latinoamérica",
+    "description": "Guía universitaria de medios y noticias regionales.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-013",
+    "name": "ABYZ News Links",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.abyznewslinks.com/",
+    "coverage": "Global",
+    "description": "Directorio internacional de periódicos, radio y televisión.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-014",
+    "name": "MondoTimes",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.mondotimes.com/",
+    "coverage": "Global",
+    "description": "Directorio internacional de medios y publicaciones.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-015",
+    "name": "AllYouCanRead",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.allyoucanread.com/",
+    "coverage": "Global",
+    "description": "Directorio de periódicos y revistas por país y tema.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-016",
+    "name": "The Paperboy",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.thepaperboy.com/",
+    "coverage": "Global",
+    "description": "Directorio de periódicos y prensa por país.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-017",
+    "name": "World Newspapers",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.world-newspapers.com/",
+    "coverage": "Global",
+    "description": "Directorio internacional de periódicos y publicaciones.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-018",
+    "name": "Newspaper World",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.newspaper-world.com/",
+    "coverage": "Global",
+    "description": "Directorio de periódicos por país.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-019",
+    "name": "NewsLink",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.newslink.org/",
+    "coverage": "Global",
+    "description": "Directorio de recursos y enlaces de noticias.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-020",
+    "name": "Latin America News Dispatch",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://latindispatch.com/",
+    "coverage": "Latinoamérica",
+    "description": "Publicación y recurso informativo especializado en América Latina.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-021",
+    "name": "Inter Press Service",
+    "country": "INT",
+    "language": "multi",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://ipsnews.net/",
+    "coverage": "Global / Latinoamérica",
+    "description": "Agencia internacional de noticias con cobertura de desarrollo y asuntos globales.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-022",
+    "name": "América Economía",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.americaeconomia.com/",
+    "coverage": "Latinoamérica",
+    "description": "Medio especializado en economía, negocios y empresas.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-023",
+    "name": "Bloomberg Línea",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.bloomberglinea.com/",
+    "coverage": "Latinoamérica",
+    "description": "Noticias de economía, mercados, finanzas y negocios.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-024",
+    "name": "BNamericas",
+    "country": "INT",
+    "language": "es",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.bnamericas.com/",
+    "coverage": "Latinoamérica",
+    "description": "Información de negocios, infraestructura, energía y mercados.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-025",
+    "name": "MercoPress",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://en.mercopress.com/",
+    "coverage": "Sudamérica / Atlántico Sur",
+    "description": "Agencia digital de noticias regionales.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "DIR-IBERO-026",
+    "name": "Americas Quarterly",
+    "country": "INT",
+    "language": "en",
+    "type": "media-directory",
+    "categories": [
+      "media-directory",
+      "discovery-source",
+      "latin-america"
+    ],
+    "official_url": "https://www.americasquarterly.org/",
+    "coverage": "Américas",
+    "description": "Revista de análisis político, económico y social del hemisferio.",
+    "status": "pending_verification",
+    "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
   }
 ]
