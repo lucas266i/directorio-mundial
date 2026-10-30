@@ -75,6 +75,7 @@ function App() {
   const [selectedState, setSelectedState] = useState("Todas");
   const [selectedCounty, setSelectedCounty] = useState("Todas");
   const [cityQuery, setCityQuery] = useState("");
+  const [showOnlyResults, setShowOnlyResults] = useState(false);
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -139,7 +140,7 @@ function App() {
   );
 
   return (
-    <div className="app">
+    <div className={showOnlyResults ? "app filteredView" : "app"}>
       <header className="topbar">
         <div className="brand">🌎 <span>Directorio</span> Mundial</div>
         <nav>
@@ -181,6 +182,24 @@ function App() {
             </select>
           </div>
           <div className="countBar">{loading ? "Cargando inventario..." : `${countries.length} países/áreas · ${media.length} medios en catálogo · ${media.filter((m) => m.country === "USA").length} registros de EE. UU. · ${geography.length.toLocaleString("es-CO")} condados/equivalentes · ${geography.reduce((sum, county) => sum + county.cities.length, 0).toLocaleString("es-CO")} ciudades y localidades de referencia`}</div>
+          <div className="filterActions">
+            <button type="button" className="applyFilters" onClick={() => {
+              setShowOnlyResults(true);
+              window.setTimeout(() => document.getElementById("medios")?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
+            }}>Aplicar filtros · mostrar {results.length} resultados</button>
+            <button type="button" className="resetFilters" onClick={() => {
+              setQuery("");
+              setCategory("Todas");
+              setSelectedCountry("Todas");
+              setSelectedRegion("Todas");
+              setSelectedState("Todas");
+              setSelectedCounty("Todas");
+              setCityQuery("");
+              setShowOnlyResults(false);
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}>Limpiar filtros y ver todo</button>
+          </div>
+          {showOnlyResults && <div className="filterNotice" role="status">Vista filtrada: se muestran únicamente los medios que coinciden con tu selección. Puedes modificar los filtros y volver a aplicar.</div>}
         </section>
 
         <section id="continentes" className="section">
