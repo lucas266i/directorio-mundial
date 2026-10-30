@@ -11487,5 +11487,344 @@
     ],
     "status": "pending_verification",
     "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-NYC-021",
+    "name": "Hell Gate",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://hellgatenyc.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-022",
+    "name": "New York Daily News",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news",
+      "community-media"
+    ],
+    "official_url": "https://www.nydailynews.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-023",
+    "name": "New York Post",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news",
+      "community-media"
+    ],
+    "official_url": "https://nypost.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-024",
+    "name": "The Chief",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news",
+      "community-media"
+    ],
+    "official_url": "https://www.thechiefleader.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-025",
+    "name": "Crain's New York Business",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "business-news",
+    "categories": [
+      "local-news",
+      "business",
+      "economy"
+    ],
+    "official_url": "https://www.crainsnewyork.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-026",
+    "name": "City & State New York",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://www.cityandstateny.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-027",
+    "name": "LaborPress",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://www.laborpress.org/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-028",
+    "name": "Streetsblog NYC",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://nyc.streetsblog.org/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-029",
+    "name": "Vital City",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://www.vitalcitynyc.org/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-030",
+    "name": "The Real Deal",
+    "country": "USA",
+    "state": "NY",
+    "county": "New York County",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://therealdeal.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-031",
+    "name": "LIC Post",
+    "country": "USA",
+    "state": "NY",
+    "county": "Queens County",
+    "city": "Long Island City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://licpost.com/",
+    "coverage": [
+      "Long Island City",
+      "Queens County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-033",
+    "name": "Noticia NYC",
+    "country": "USA",
+    "state": "NY",
+    "county": "Bronx County",
+    "city": "Bronx",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "politics"
+    ],
+    "official_url": "https://noticianyc.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-NYC-034",
+    "name": "Hoy Nueva York",
+    "country": "USA",
+    "state": "NY",
+    "county": "Kings County",
+    "city": "Brooklyn",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news",
+      "community-media"
+    ],
+    "official_url": "https://hoyny.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
   }
 ]
