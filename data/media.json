@@ -221,5 +221,2682 @@
     ],
     "official_url": "https://www.lanoficcion.com/",
     "status": "pending_verification"
+  },
+  {
+    "id": "MED-USA-NAT-001",
+    "name": "The New York Times",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "international",
+      "investigative"
+    ],
+    "official_url": "https://www.nytimes.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-002",
+    "name": "The Washington Post",
+    "country": "USA",
+    "state": "US",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://www.washingtonpost.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-003",
+    "name": "The Wall Street Journal",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://www.wsj.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-004",
+    "name": "USA Today",
+    "country": "USA",
+    "state": "US",
+    "city": "McLean",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.usatoday.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-005",
+    "name": "Associated Press",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://apnews.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-006",
+    "name": "Reuters",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international",
+      "economy"
+    ],
+    "official_url": "https://www.reuters.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-007",
+    "name": "NPR",
+    "country": "USA",
+    "state": "US",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news",
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://www.npr.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-008",
+    "name": "PBS NewsHour",
+    "country": "USA",
+    "state": "US",
+    "city": "Arlington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.pbs.org/newshour/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-009",
+    "name": "ABC News",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://abcnews.go.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-010",
+    "name": "CBS News",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.cbsnews.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-011",
+    "name": "NBC News",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nbcnews.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-012",
+    "name": "CNN",
+    "country": "USA",
+    "state": "US",
+    "city": "Atlanta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://www.cnn.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-013",
+    "name": "Fox News",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.foxnews.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-014",
+    "name": "ProPublica",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "accountability"
+    ],
+    "official_url": "https://www.propublica.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-015",
+    "name": "The Intercept",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "national-security"
+    ],
+    "official_url": "https://theintercept.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-016",
+    "name": "The Marshall Project",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "criminal-justice"
+    ],
+    "official_url": "https://www.themarshallproject.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-017",
+    "name": "Politico",
+    "country": "USA",
+    "state": "US",
+    "city": "Arlington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "government"
+    ],
+    "official_url": "https://www.politico.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-018",
+    "name": "Axios",
+    "country": "USA",
+    "state": "US",
+    "city": "Arlington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.axios.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-019",
+    "name": "The Hill",
+    "country": "USA",
+    "state": "US",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "government"
+    ],
+    "official_url": "https://thehill.com/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-020",
+    "name": "Democracy Now!",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "international"
+    ],
+    "official_url": "https://www.democracynow.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-021",
+    "name": "The 19th",
+    "country": "USA",
+    "state": "US",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "politics",
+      "gender"
+    ],
+    "official_url": "https://19thnews.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-022",
+    "name": "Center for Public Integrity",
+    "country": "USA",
+    "state": "US",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "accountability",
+      "government"
+    ],
+    "official_url": "https://publicintegrity.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-023",
+    "name": "Reveal",
+    "country": "USA",
+    "state": "US",
+    "city": "Emeryville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "investigative",
+      "independent-media"
+    ],
+    "official_url": "https://revealnews.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-024",
+    "name": "The Markup",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "technology",
+      "privacy"
+    ],
+    "official_url": "https://themarkup.org/",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-NAT-025",
+    "name": "ProPublica Local Reporting Network",
+    "country": "USA",
+    "state": "US",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "investigative-network",
+    "categories": [
+      "investigative",
+      "local-news"
+    ],
+    "official_url": "https://www.propublica.org/local-reporting-network",
+    "coverage": [
+      "United States",
+      "International"
+    ],
+    "status": "pending_verification",
+    "verification_note": "National source candidate; verify current publication status and editorial/ownership metadata."
+  },
+  {
+    "id": "MED-USA-AL-001",
+    "name": "Alabama Reflector",
+    "country": "USA",
+    "state": "AL",
+    "city": "Montgomery",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://alabamareflector.com/",
+    "coverage": [
+      "Alabama"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-AK-001",
+    "name": "Alaska Beacon",
+    "country": "USA",
+    "state": "AK",
+    "city": "Juneau",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://alaskabeacon.com/",
+    "coverage": [
+      "Alaska"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-AZ-001",
+    "name": "Arizona Mirror",
+    "country": "USA",
+    "state": "AZ",
+    "city": "Phoenix",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://azmirror.com/",
+    "coverage": [
+      "Arizona"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-AR-001",
+    "name": "Arkansas Advocate",
+    "country": "USA",
+    "state": "AR",
+    "city": "Little Rock",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://arkansasadvocate.com/",
+    "coverage": [
+      "Arkansas"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-001",
+    "name": "CalMatters",
+    "country": "USA",
+    "state": "CA",
+    "city": "Sacramento",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://calmatters.org/",
+    "coverage": [
+      "California"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-CO-001",
+    "name": "Colorado Newsline",
+    "country": "USA",
+    "state": "CO",
+    "city": "Denver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://coloradonewsline.com/",
+    "coverage": [
+      "Colorado"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-CT-001",
+    "name": "CT Mirror",
+    "country": "USA",
+    "state": "CT",
+    "city": "Hartford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://ctmirror.org/",
+    "coverage": [
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-DE-001",
+    "name": "Spotlight Delaware",
+    "country": "USA",
+    "state": "DE",
+    "city": "Wilmington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://spotlightdelaware.org/",
+    "coverage": [
+      "Delaware"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-FL-001",
+    "name": "Florida Phoenix",
+    "country": "USA",
+    "state": "FL",
+    "city": "Tallahassee",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://floridaphoenix.com/",
+    "coverage": [
+      "Florida"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-GA-001",
+    "name": "Georgia Recorder",
+    "country": "USA",
+    "state": "GA",
+    "city": "Atlanta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://georgiarecorder.com/",
+    "coverage": [
+      "Georgia"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-HI-001",
+    "name": "Honolulu Civil Beat",
+    "country": "USA",
+    "state": "HI",
+    "city": "Honolulu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.civilbeat.org/",
+    "coverage": [
+      "Hawaii"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-ID-001",
+    "name": "Idaho Capital Sun",
+    "country": "USA",
+    "state": "ID",
+    "city": "Boise",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://idahocapitalsun.com/",
+    "coverage": [
+      "Idaho"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-IL-001",
+    "name": "Capitol News Illinois",
+    "country": "USA",
+    "state": "IL",
+    "city": "Springfield",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://capitolnewsillinois.com/",
+    "coverage": [
+      "Illinois"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-IN-001",
+    "name": "Indiana Capital Chronicle",
+    "country": "USA",
+    "state": "IN",
+    "city": "Indianapolis",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://indianacapitalchronicle.com/",
+    "coverage": [
+      "Indiana"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-IA-001",
+    "name": "Iowa Capital Dispatch",
+    "country": "USA",
+    "state": "IA",
+    "city": "Des Moines",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://iowacapitaldispatch.com/",
+    "coverage": [
+      "Iowa"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-KS-001",
+    "name": "Kansas Reflector",
+    "country": "USA",
+    "state": "KS",
+    "city": "Topeka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://kansasreflector.com/",
+    "coverage": [
+      "Kansas"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-KY-001",
+    "name": "Kentucky Lantern",
+    "country": "USA",
+    "state": "KY",
+    "city": "Frankfort",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://kentuckylantern.com/",
+    "coverage": [
+      "Kentucky"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-LA-001",
+    "name": "Louisiana Illuminator",
+    "country": "USA",
+    "state": "LA",
+    "city": "Baton Rouge",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://lailluminator.com/",
+    "coverage": [
+      "Louisiana"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-ME-001",
+    "name": "Maine Morning Star",
+    "country": "USA",
+    "state": "ME",
+    "city": "Augusta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://mainemorningstar.com/",
+    "coverage": [
+      "Maine"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MD-001",
+    "name": "Maryland Matters",
+    "country": "USA",
+    "state": "MD",
+    "city": "Annapolis",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://marylandmatters.org/",
+    "coverage": [
+      "Maryland"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MA-001",
+    "name": "CommonWealth Beacon",
+    "country": "USA",
+    "state": "MA",
+    "city": "Boston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://commonwealthbeacon.org/",
+    "coverage": [
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MI-001",
+    "name": "Michigan Advance",
+    "country": "USA",
+    "state": "MI",
+    "city": "Lansing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://michiganadvance.com/",
+    "coverage": [
+      "Michigan"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MN-001",
+    "name": "Minnesota Reformer",
+    "country": "USA",
+    "state": "MN",
+    "city": "Saint Paul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://minnesotareformer.com/",
+    "coverage": [
+      "Minnesota"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MS-001",
+    "name": "Mississippi Today",
+    "country": "USA",
+    "state": "MS",
+    "city": "Jackson",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://mississippitoday.org/",
+    "coverage": [
+      "Mississippi"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MO-001",
+    "name": "Missouri Independent",
+    "country": "USA",
+    "state": "MO",
+    "city": "Jefferson City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://missouriindependent.com/",
+    "coverage": [
+      "Missouri"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-MT-001",
+    "name": "Daily Montanan",
+    "country": "USA",
+    "state": "MT",
+    "city": "Helena",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://dailymontanan.com/",
+    "coverage": [
+      "Montana"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NE-001",
+    "name": "Nebraska Examiner",
+    "country": "USA",
+    "state": "NE",
+    "city": "Lincoln",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://nebraskaexaminer.com/",
+    "coverage": [
+      "Nebraska"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NV-001",
+    "name": "Nevada Current",
+    "country": "USA",
+    "state": "NV",
+    "city": "Carson City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://nevadacurrent.com/",
+    "coverage": [
+      "Nevada"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NH-001",
+    "name": "New Hampshire Bulletin",
+    "country": "USA",
+    "state": "NH",
+    "city": "Concord",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://newhampshirebulletin.com/",
+    "coverage": [
+      "New Hampshire"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NJ-001",
+    "name": "New Jersey Monitor",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Trenton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://newjerseymonitor.com/",
+    "coverage": [
+      "New Jersey"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NM-001",
+    "name": "Source New Mexico",
+    "country": "USA",
+    "state": "NM",
+    "city": "Santa Fe",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://sourcenm.com/",
+    "coverage": [
+      "New Mexico"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NY-001",
+    "name": "New York Focus",
+    "country": "USA",
+    "state": "NY",
+    "city": "Albany",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://nysfocus.com/",
+    "coverage": [
+      "New York"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NC-001",
+    "name": "NC Newsline",
+    "country": "USA",
+    "state": "NC",
+    "city": "Raleigh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://ncnewsline.com/",
+    "coverage": [
+      "North Carolina"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-ND-001",
+    "name": "North Dakota Monitor",
+    "country": "USA",
+    "state": "ND",
+    "city": "Bismarck",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://northdakotamonitor.com/",
+    "coverage": [
+      "North Dakota"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-OH-001",
+    "name": "Ohio Capital Journal",
+    "country": "USA",
+    "state": "OH",
+    "city": "Columbus",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://ohiocapitaljournal.com/",
+    "coverage": [
+      "Ohio"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-OK-001",
+    "name": "Oklahoma Voice",
+    "country": "USA",
+    "state": "OK",
+    "city": "Oklahoma City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://oklahomavoice.com/",
+    "coverage": [
+      "Oklahoma"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-OR-001",
+    "name": "Oregon Capital Chronicle",
+    "country": "USA",
+    "state": "OR",
+    "city": "Salem",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://oregoncapitalchronicle.com/",
+    "coverage": [
+      "Oregon"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-001",
+    "name": "Pennsylvania Capital-Star",
+    "country": "USA",
+    "state": "PA",
+    "city": "Harrisburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://penncapital-star.com/",
+    "coverage": [
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-RI-001",
+    "name": "Rhode Island Current",
+    "country": "USA",
+    "state": "RI",
+    "city": "Providence",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://rhodeislandcurrent.com/",
+    "coverage": [
+      "Rhode Island"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-SC-001",
+    "name": "South Carolina Daily Gazette",
+    "country": "USA",
+    "state": "SC",
+    "city": "Columbia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://scdailygazette.com/",
+    "coverage": [
+      "South Carolina"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-SD-001",
+    "name": "South Dakota Searchlight",
+    "country": "USA",
+    "state": "SD",
+    "city": "Pierre",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://southdakotasearchlight.com/",
+    "coverage": [
+      "South Dakota"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-TN-001",
+    "name": "Tennessee Lookout",
+    "country": "USA",
+    "state": "TN",
+    "city": "Nashville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://tennesseelookout.com/",
+    "coverage": [
+      "Tennessee"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-TX-001",
+    "name": "The Texas Tribune",
+    "country": "USA",
+    "state": "TX",
+    "city": "Austin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.texastribune.org/",
+    "coverage": [
+      "Texas"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-UT-001",
+    "name": "Utah News Dispatch",
+    "country": "USA",
+    "state": "UT",
+    "city": "Salt Lake City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://utahnewsdispatch.com/",
+    "coverage": [
+      "Utah"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-VT-001",
+    "name": "VTDigger",
+    "country": "USA",
+    "state": "VT",
+    "city": "Montpelier",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://vtdigger.org/",
+    "coverage": [
+      "Vermont"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-VA-001",
+    "name": "Virginia Mercury",
+    "country": "USA",
+    "state": "VA",
+    "city": "Richmond",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://virginiamercury.com/",
+    "coverage": [
+      "Virginia"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-WA-001",
+    "name": "Washington State Standard",
+    "country": "USA",
+    "state": "WA",
+    "city": "Olympia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://washingtonstatestandard.com/",
+    "coverage": [
+      "Washington"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-WV-001",
+    "name": "West Virginia Watch",
+    "country": "USA",
+    "state": "WV",
+    "city": "Charleston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://westvirginiawatch.com/",
+    "coverage": [
+      "West Virginia"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-WI-001",
+    "name": "Wisconsin Examiner",
+    "country": "USA",
+    "state": "WI",
+    "city": "Madison",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://wisconsinexaminer.com/",
+    "coverage": [
+      "Wisconsin"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-WY-001",
+    "name": "WyoFile",
+    "country": "USA",
+    "state": "WY",
+    "city": "Lander",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://wyofile.com/",
+    "coverage": [
+      "Wyoming"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-DC-001",
+    "name": "DCist",
+    "country": "USA",
+    "state": "DC",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://dcist.com/",
+    "coverage": [
+      "District of Columbia"
+    ],
+    "status": "pending_verification",
+    "source_directory": "States Newsroom newsroom directory",
+    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
+  },
+  {
+    "id": "MED-USA-NY-001",
+    "name": "The City",
+    "country": "USA",
+    "state": "NY",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "investigative",
+      "government"
+    ],
+    "official_url": "https://www.thecity.nyc/",
+    "coverage": [
+      "New York",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-NY-002",
+    "name": "Gothamist",
+    "country": "USA",
+    "state": "NY",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "culture",
+      "government"
+    ],
+    "official_url": "https://gothamist.com/",
+    "coverage": [
+      "New York",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-NY-003",
+    "name": "Documented",
+    "country": "USA",
+    "state": "NY",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "immigration",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://documentedny.com/",
+    "coverage": [
+      "New York",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-NY-004",
+    "name": "El Diario",
+    "country": "USA",
+    "state": "NY",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "spanish-language",
+      "local-news"
+    ],
+    "official_url": "https://eldiariony.com/",
+    "coverage": [
+      "New York",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-MA-005",
+    "name": "The Boston Globe",
+    "country": "USA",
+    "state": "MA",
+    "city": "Boston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://www.bostonglobe.com/",
+    "coverage": [
+      "Boston",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-MA-006",
+    "name": "WBUR",
+    "country": "USA",
+    "state": "MA",
+    "city": "Boston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.wbur.org/",
+    "coverage": [
+      "Boston",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-MA-007",
+    "name": "GBH News",
+    "country": "USA",
+    "state": "MA",
+    "city": "Boston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.wgbh.org/news",
+    "coverage": [
+      "Boston",
+      "Massachusetts"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-008",
+    "name": "The Philadelphia Inquirer",
+    "country": "USA",
+    "state": "PA",
+    "city": "Philadelphia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.inquirer.com/",
+    "coverage": [
+      "Philadelphia",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-009",
+    "name": "WHYY",
+    "country": "USA",
+    "state": "PA",
+    "city": "Philadelphia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://whyy.org/",
+    "coverage": [
+      "Philadelphia",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-010",
+    "name": "Billy Penn",
+    "country": "USA",
+    "state": "PA",
+    "city": "Philadelphia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://billypenn.com/",
+    "coverage": [
+      "Philadelphia",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-011",
+    "name": "PublicSource",
+    "country": "USA",
+    "state": "PA",
+    "city": "Pittsburgh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "investigative",
+      "independent-media",
+      "local-news"
+    ],
+    "official_url": "https://www.publicsource.org/",
+    "coverage": [
+      "Pittsburgh",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-PA-012",
+    "name": "WESA",
+    "country": "USA",
+    "state": "PA",
+    "city": "Pittsburgh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.wesa.fm/",
+    "coverage": [
+      "Pittsburgh",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-IL-013",
+    "name": "Block Club Chicago",
+    "country": "USA",
+    "state": "IL",
+    "city": "Chicago",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://blockclubchicago.org/",
+    "coverage": [
+      "Chicago",
+      "Illinois"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-IL-014",
+    "name": "Chicago Sun-Times",
+    "country": "USA",
+    "state": "IL",
+    "city": "Chicago",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://chicago.suntimes.com/",
+    "coverage": [
+      "Chicago",
+      "Illinois"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-IL-015",
+    "name": "WBEZ",
+    "country": "USA",
+    "state": "IL",
+    "city": "Chicago",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.wbez.org/",
+    "coverage": [
+      "Chicago",
+      "Illinois"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-016",
+    "name": "Los Angeles Times",
+    "country": "USA",
+    "state": "CA",
+    "city": "Los Angeles",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://www.latimes.com/",
+    "coverage": [
+      "Los Angeles",
+      "California"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-017",
+    "name": "LAist",
+    "country": "USA",
+    "state": "CA",
+    "city": "Los Angeles",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "public-media"
+    ],
+    "official_url": "https://laist.com/",
+    "coverage": [
+      "Los Angeles",
+      "California"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-018",
+    "name": "San Francisco Chronicle",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Francisco",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sfchronicle.com/",
+    "coverage": [
+      "San Francisco",
+      "California"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-019",
+    "name": "KQED",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Francisco",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.kqed.org/",
+    "coverage": [
+      "San Francisco",
+      "California"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CA-020",
+    "name": "Mission Local",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Francisco",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://missionlocal.org/",
+    "coverage": [
+      "San Francisco",
+      "California"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-WA-021",
+    "name": "The Seattle Times",
+    "country": "USA",
+    "state": "WA",
+    "city": "Seattle",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.seattletimes.com/",
+    "coverage": [
+      "Seattle",
+      "Washington"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-WA-022",
+    "name": "KUOW",
+    "country": "USA",
+    "state": "WA",
+    "city": "Seattle",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.kuow.org/",
+    "coverage": [
+      "Seattle",
+      "Washington"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-OR-023",
+    "name": "OPB",
+    "country": "USA",
+    "state": "OR",
+    "city": "Portland",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.opb.org/",
+    "coverage": [
+      "Portland",
+      "Oregon"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-OR-024",
+    "name": "Street Roots",
+    "country": "USA",
+    "state": "OR",
+    "city": "Portland",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "housing"
+    ],
+    "official_url": "https://www.streetroots.org/",
+    "coverage": [
+      "Portland",
+      "Oregon"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CO-025",
+    "name": "The Colorado Sun",
+    "country": "USA",
+    "state": "CO",
+    "city": "Denver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://coloradosun.com/",
+    "coverage": [
+      "Denver",
+      "Colorado"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-CO-026",
+    "name": "The Denver Post",
+    "country": "USA",
+    "state": "CO",
+    "city": "Denver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.denverpost.com/",
+    "coverage": [
+      "Denver",
+      "Colorado"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-TX-027",
+    "name": "Austin Chronicle",
+    "country": "USA",
+    "state": "TX",
+    "city": "Austin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "culture",
+      "politics"
+    ],
+    "official_url": "https://www.austinchronicle.com/",
+    "coverage": [
+      "Austin",
+      "Texas"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-TX-028",
+    "name": "Houston Landing",
+    "country": "USA",
+    "state": "TX",
+    "city": "Houston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://houstonlanding.org/",
+    "coverage": [
+      "Houston",
+      "Texas"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-GA-029",
+    "name": "Atlanta Journal-Constitution",
+    "country": "USA",
+    "state": "GA",
+    "city": "Atlanta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ajc.com/",
+    "coverage": [
+      "Atlanta",
+      "Georgia"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-GA-030",
+    "name": "Atlanta Civic Circle",
+    "country": "USA",
+    "state": "GA",
+    "city": "Atlanta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "government",
+      "independent-media"
+    ],
+    "official_url": "https://atlantaciviccircle.org/",
+    "coverage": [
+      "Atlanta",
+      "Georgia"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-FL-031",
+    "name": "Miami Herald",
+    "country": "USA",
+    "state": "FL",
+    "city": "Miami",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.miamiherald.com/",
+    "coverage": [
+      "Miami",
+      "Florida"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-FL-032",
+    "name": "WLRN",
+    "country": "USA",
+    "state": "FL",
+    "city": "Miami",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://www.wlrn.org/",
+    "coverage": [
+      "Miami",
+      "Florida"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-DC-033",
+    "name": "WAMU",
+    "country": "USA",
+    "state": "DC",
+    "city": "Washington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "https://wamu.org/",
+    "coverage": [
+      "Washington",
+      "District of Columbia"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-NC-034",
+    "name": "INDY Week",
+    "country": "USA",
+    "state": "NC",
+    "city": "Raleigh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "culture"
+    ],
+    "official_url": "https://indyweek.com/",
+    "coverage": [
+      "Raleigh",
+      "North Carolina"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-NC-035",
+    "name": "The Assembly",
+    "country": "USA",
+    "state": "NC",
+    "city": "Raleigh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "local-news"
+    ],
+    "official_url": "https://www.theassemblync.com/",
+    "coverage": [
+      "Raleigh",
+      "North Carolina"
+    ],
+    "status": "pending_verification",
+    "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
   }
 ]
