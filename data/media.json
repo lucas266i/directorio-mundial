@@ -26494,5 +26494,645 @@
     "status": "pending_verification",
     "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
     "verification_note": "Registro de descubrimiento. Haitian radio; confirm official domain. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-017",
+    "name": "DR1",
+    "country": "DOM",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://dr1.com/",
+    "categories": [
+      "general-news",
+      "international",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-PRI-017",
+    "name": "News is My Business",
+    "country": "PRI",
+    "language": "en",
+    "type": "business-news",
+    "official_url": "https://newsismybusiness.com/",
+    "categories": [
+      "business",
+      "economy",
+      "technology"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-PRI-018",
+    "name": "La Cordillera",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://lacordillera.net/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-PRI-019",
+    "name": "El Regional",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://elregionalpr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-PRI-020",
+    "name": "La Esquina",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://laesquinapr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-PRI-021",
+    "name": "Jornada PR",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://jornadapr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-011",
+    "name": "Vant Bèf Info",
+    "country": "HTI",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://vantbefinfo.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-012",
+    "name": "Rezo Nòdwès",
+    "country": "HTI",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://rezonodwes.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-013",
+    "name": "Juno7",
+    "country": "HTI",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://juno7.ht/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-014",
+    "name": "Haïti en Marche",
+    "country": "HTI",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://haitienmarche.com/",
+    "categories": [
+      "diaspora-media",
+      "general-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-015",
+    "name": "Haiti Progrès",
+    "country": "HTI",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://haitiprogres.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "diaspora-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-016",
+    "name": "Radio Signal FM",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://signalfmhaiti.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-017",
+    "name": "Radio Ginen",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://radioginen.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-018",
+    "name": "Radio Lumière",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://radiolumiere.org/",
+    "categories": [
+      "radio",
+      "community-media",
+      "religious-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-019",
+    "name": "Radio 4VEH",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://4veh.org/",
+    "categories": [
+      "radio",
+      "community-media",
+      "education"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-020",
+    "name": "Radio Mega Haiti",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://radiomegahaiti.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-HTI-021",
+    "name": "Radio Télé Éclair",
+    "country": "HTI",
+    "language": "fr",
+    "type": "television-digital",
+    "official_url": "https://radioteleclair.com/",
+    "categories": [
+      "television",
+      "radio",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-DMA-002",
+    "name": "Q95 FM",
+    "country": "DMA",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://q95da.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-DMA-003",
+    "name": "Kairi FM",
+    "country": "DMA",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://kairifm.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-DMA-004",
+    "name": "The Chronicle Dominica",
+    "country": "DMA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.chronicle.dominica.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-KNA-002",
+    "name": "WINN FM",
+    "country": "KNA",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://winnfm.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-KNA-003",
+    "name": "ZIZ Broadcasting Corporation",
+    "country": "KNA",
+    "language": "en",
+    "type": "public-media",
+    "official_url": "https://zizonline.com/",
+    "categories": [
+      "public-media",
+      "radio",
+      "television"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-KNA-004",
+    "name": "Leeward Times",
+    "country": "KNA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://leewardtimes.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-LCA-004",
+    "name": "St. Lucia News Online",
+    "country": "LCA",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.stlucianewsonline.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-LCA-005",
+    "name": "HTS Channel 4",
+    "country": "LCA",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://hts1.tv/",
+    "categories": [
+      "television",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-LCA-006",
+    "name": "Radio St. Lucia",
+    "country": "LCA",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://radio.govt.lc/",
+    "categories": [
+      "radio",
+      "public-media",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-VCT-004",
+    "name": "iWitness News",
+    "country": "VCT",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.iwnsvg.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-VCT-005",
+    "name": "NBC Radio SVG",
+    "country": "VCT",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://nbcradio.net/",
+    "categories": [
+      "radio",
+      "public-media",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-VCT-006",
+    "name": "News784",
+    "country": "VCT",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://news784.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-GRD-004",
+    "name": "Spice Islander",
+    "country": "GRD",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://spiceislander.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-GRD-005",
+    "name": "Spice Vibes",
+    "country": "GRD",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://spicevibes.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-BHS-006",
+    "name": "The Punch Bahamas",
+    "country": "BHS",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.thepunchbahamas.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-BHS-007",
+    "name": "Bahamas Weekly",
+    "country": "BHS",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.bahamasweekly.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-ABW-005",
+    "name": "Aruba Online",
+    "country": "ABW",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://arubaonline.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "tourism"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-CUW-004",
+    "name": "La Prensa Curaçao",
+    "country": "CUW",
+    "language": "pap",
+    "type": "newspaper",
+    "official_url": "https://laprensa.curacao/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-SXM-002",
+    "name": "St. Maarten Island Times",
+    "country": "SXM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://stmaartennews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-VGB-004",
+    "name": "Virgin Islands News Online",
+    "country": "VGB",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://virginislandsnewsonline.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-VGB-005",
+    "name": "VI Standpoint",
+    "country": "VGB",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://vistandpoint.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-CYM-004",
+    "name": "Cayman News Service",
+    "country": "CYM",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://caymannewsservice.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-TCA-003",
+    "name": "The Sun Turks and Caicos",
+    "country": "TCA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://suntci.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
+    "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
   }
 ]
