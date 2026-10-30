@@ -12149,5 +12149,163 @@
     "discovery_source": "Columbia University Libraries NYC News guide; CUNY Center for Community Media; NYC Mayor's Office of Ethnic and Community Media; Media and Democracy Project",
     "source_directory": "Columbia University Libraries – Reporting on New York City; CUNY Many Voices, One City; NYC Citywide Marketing Directory",
     "verification_note": "Candidate listed in an institutional or regional media directory. Outlet URL and current activity require individual verification; location is assigned to its primary coverage area rather than necessarily its registered office."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-002",
+    "name": "Black Star News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "black-media",
+      "investigative",
+      "african-diaspora"
+    ],
+    "official_url": "https://blackstarnews.com/",
+    "coverage": [
+      "Bronx",
+      "New York City",
+      "Black America",
+      "Africa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official outlet website; NYC community-media ecosystem listings",
+    "source_directory": "NYC ethnic and community media directories; publisher site",
+    "verification_note": "New York-based publication with current reporting on New York, Black America and Africa. Current website activity observed; direct publisher verification remains pending."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-003",
+    "name": "Epicenter NYC",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "hyperlocal",
+      "immigrant-media"
+    ],
+    "official_url": "https://epicenter-nyc.com/",
+    "coverage": [
+      "Queens",
+      "Brooklyn",
+      "Manhattan",
+      "Bronx",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official outlet website; Center for Community Media and community-news ecosystem references",
+    "source_directory": "NYC community-media directories; publisher site",
+    "verification_note": "Community-focused digital newsroom publishing service journalism and local reporting across New York City neighborhoods. Geographic assignment reflects coverage rather than a verified office address."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-004",
+    "name": "The Lo-Down",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "hyperlocal",
+      "neighborhood-news"
+    ],
+    "official_url": "https://www.thelodownny.com/",
+    "coverage": [
+      "Lower East Side",
+      "Manhattan",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official outlet website and About page",
+    "source_directory": "NYC neighborhood and community-news directories",
+    "verification_note": "Neighborhood news publication focused on the Lower East Side, its residents and local events. Current site activity and publisher description identified; direct publisher verification remains pending."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-005",
+    "name": "Parkchester Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "hyperlocal",
+      "multicultural-media"
+    ],
+    "official_url": "https://parkchestertimes.com/",
+    "coverage": [
+      "Parkchester",
+      "Bronx",
+      "New York City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official outlet website; NYC community and ethnic media ecosystem references",
+    "source_directory": "NYC ethnic and community media directories; publisher site",
+    "verification_note": "Publication identifies itself as a Bronx community news source and has a current website with local and general reporting. Direct publisher verification remains pending."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-006",
+    "name": "The Indian Panorama",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "South Richmond Hill",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "south-asian-media",
+      "diaspora-news",
+      "immigrant-media"
+    ],
+    "official_url": "https://www.theindianpanorama.news/",
+    "coverage": [
+      "Queens",
+      "New York",
+      "New Jersey",
+      "South Asian diaspora"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official outlet About and Contact pages",
+    "source_directory": "AAPI and South Asian community media directories; publisher site",
+    "verification_note": "New York-based English-language weekly e-newspaper serving Indian American and South Asian diaspora audiences. Publisher contact information and publication description appear on its official site; direct verification remains pending."
   }
 ]
