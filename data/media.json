@@ -7844,5 +7844,358 @@
     "status": "pending_verification",
     "discovery_source": "https://njpa.org/njnn/scan/participating_newspapers.html",
     "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM-001",
+    "name": "Norwood News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news",
+      "multilingual"
+    ],
+    "official_url": "https://www.norwoodnews.org/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-002",
+    "name": "Mott Haven Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "campus-media"
+    ],
+    "official_url": "https://motthavenherald.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-003",
+    "name": "The Riverdale Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.riverdalepress.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-004",
+    "name": "Bronx Daily",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://bronx.com/news/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-005",
+    "name": "Bronx Post",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://bronxpost.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-006",
+    "name": "Co-op City Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://issuu.com/cctimes",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-007",
+    "name": "Welcome2TheBronx",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.welcome2thebronx.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-008",
+    "name": "Bronx Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.bxtimes.com/",
+    "coverage": [
+      "Bronx",
+      "Bronx County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-009",
+    "name": "Bklyner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://bklyner.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-010",
+    "name": "Our Time Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news",
+      "black-media"
+    ],
+    "official_url": "https://ourtimepress.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-011",
+    "name": "BK Reader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "black-media"
+    ],
+    "official_url": "https://bkreader.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM-012",
+    "name": "Haitian Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "diaspora-media",
+      "multilingual"
+    ],
+    "official_url": "https://haitiantimes.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
+    "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
   }
 ]
