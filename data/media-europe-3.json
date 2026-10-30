@@ -1,0 +1,2965 @@
+[
+  {
+    "id": "MED-EU3-001",
+    "name": "Información",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Alicante",
+    "admin1_name": "Comunitat Valenciana",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.informacion.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-002",
+    "name": "Levante-EMV",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valencia",
+    "admin1_name": "Comunitat Valenciana",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.levante-emv.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-003",
+    "name": "Las Provincias",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valencia",
+    "admin1_name": "Comunitat Valenciana",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lasprovincias.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-004",
+    "name": "Mediterráneo",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Castellón",
+    "admin1_name": "Comunitat Valenciana",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elperiodicomediterraneo.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-005",
+    "name": "Diario SUR",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Málaga",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariosur.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-006",
+    "name": "Diario de Sevilla",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sevilla",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodesevilla.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-007",
+    "name": "Diario de Cádiz",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Cádiz",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodecadiz.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-008",
+    "name": "Ideal",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Granada",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ideal.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-009",
+    "name": "La Verdad",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Murcia",
+    "admin1_name": "Región de Murcia",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laverdad.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-010",
+    "name": "La Opinión de Murcia",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Murcia",
+    "admin1_name": "Región de Murcia",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laopiniondemurcia.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-011",
+    "name": "El Norte de Castilla",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valladolid",
+    "admin1_name": "Castilla y León",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elnortedecastilla.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-012",
+    "name": "La Voz de Galicia",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "A Coruña",
+    "admin1_name": "Galicia",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lavozdegalicia.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-013",
+    "name": "Faro de Vigo",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Vigo",
+    "admin1_name": "Galicia",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.farodevigo.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-014",
+    "name": "La Nueva España",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Oviedo",
+    "admin1_name": "Asturias",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lne.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-015",
+    "name": "El Comercio",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Gijón",
+    "admin1_name": "Asturias",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elcomercio.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-016",
+    "name": "Heraldo de Aragón",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zaragoza",
+    "admin1_name": "Aragón",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.heraldo.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-017",
+    "name": "El Periódico de Aragón",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zaragoza",
+    "admin1_name": "Aragón",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elperiodicodearagon.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-018",
+    "name": "Diario de Navarra",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pamplona",
+    "admin1_name": "Navarra",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodenavarra.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-019",
+    "name": "Diario de Mallorca",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Palma",
+    "admin1_name": "Illes Balears",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodemallorca.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-020",
+    "name": "Última Hora",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Palma",
+    "admin1_name": "Illes Balears",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ultimahora.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-021",
+    "name": "Diario de Ibiza",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ibiza",
+    "admin1_name": "Illes Balears",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodeibiza.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-022",
+    "name": "La Rioja",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Logroño",
+    "admin1_name": "La Rioja",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.larioja.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-023",
+    "name": "Canarias7",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Las Palmas de Gran Canaria",
+    "admin1_name": "Canarias",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.canarias7.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-024",
+    "name": "El Periódico Extremadura",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Cáceres",
+    "admin1_name": "Extremadura",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elperiodicoextremadura.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-025",
+    "name": "Diario de León",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "León",
+    "admin1_name": "Castilla y León",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodeleon.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-026",
+    "name": "La Opinión de Málaga",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Málaga",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laopiniondemalaga.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-027",
+    "name": "Granada Hoy",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Granada",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.granadahoy.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-028",
+    "name": "Huelva Información",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Huelva",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.huelvainformacion.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-029",
+    "name": "Diario de Almería",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Almería",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodealmeria.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-030",
+    "name": "El Diario Montañés",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Santander",
+    "admin1_name": "Cantabria",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eldiariomontanes.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-031",
+    "name": "ARA",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Barcelona",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Comunidad autónoma",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ara.cat",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-032",
+    "name": "Diari de Girona",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Girona",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Comunidad autónoma",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diaridegirona.cat",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-033",
+    "name": "El Punt Avui",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Girona",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Comunidad autónoma",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elpuntavui.cat",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-034",
+    "name": "Regió7",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Manresa",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Comunidad autónoma",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.regio7.cat",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-035",
+    "name": "Segre",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lleida",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Comunidad autónoma",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.segre.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-036",
+    "name": "El Correo",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bilbao",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elcorreo.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-037",
+    "name": "El Diario Vasco",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "San Sebastián",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariovasco.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-038",
+    "name": "Berria",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Andoain",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Comunidad autónoma",
+    "language": "eu",
+    "languages": [
+      "eu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.berria.eus",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-039",
+    "name": "Noticias de Navarra",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pamplona",
+    "admin1_name": "Navarra",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.noticiasdenavarra.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-040",
+    "name": "Diario de Noticias de Álava",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Vitoria-Gasteiz",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Comunidad autónoma",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.noticiasdealava.eus",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-041",
+    "name": "Ouest-France",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rennes",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ouest-france.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-042",
+    "name": "Sud Ouest",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bordeaux",
+    "admin1_name": "Nouvelle-Aquitaine",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sudouest.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-043",
+    "name": "La Dépêche du Midi",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Toulouse",
+    "admin1_name": "Occitanie",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ladepeche.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-044",
+    "name": "La Provence",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Marseille",
+    "admin1_name": "Provence-Alpes-Côte d’Azur",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laprovence.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-045",
+    "name": "Nice-Matin",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Nice",
+    "admin1_name": "Provence-Alpes-Côte d’Azur",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nicematin.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-046",
+    "name": "Le Télégramme",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Morlaix",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.letelegramme.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-047",
+    "name": "Dernières Nouvelles d’Alsace",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Strasbourg",
+    "admin1_name": "Grand Est",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dna.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-048",
+    "name": "L’Est Républicain",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Nancy",
+    "admin1_name": "Grand Est",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.estrepublicain.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-049",
+    "name": "Le Progrès",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Lyon",
+    "admin1_name": "Auvergne-Rhône-Alpes",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.leprogres.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-050",
+    "name": "La Voix du Nord",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Lille",
+    "admin1_name": "Hauts-de-France",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lavoixdunord.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-051",
+    "name": "La Nouvelle République",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Tours",
+    "admin1_name": "Centre-Val de Loire",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lanouvellerepublique.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-052",
+    "name": "Paris-Normandie",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rouen",
+    "admin1_name": "Normandie",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.paris-normandie.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-053",
+    "name": "Le Dauphiné Libéré",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Grenoble",
+    "admin1_name": "Auvergne-Rhône-Alpes",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ledauphine.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-054",
+    "name": "Le Bien Public",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Dijon",
+    "admin1_name": "Bourgogne-Franche-Comté",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bienpublic.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-055",
+    "name": "Le Républicain Lorrain",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Metz",
+    "admin1_name": "Grand Est",
+    "admin1_type": "Región",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.republicain-lorrain.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-056",
+    "name": "Rheinische Post",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Düsseldorf",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://rp-online.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-057",
+    "name": "Westdeutsche Allgemeine Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Essen",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.waz.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-058",
+    "name": "Kölner Stadt-Anzeiger",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Cologne",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ksta.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-059",
+    "name": "Aachener Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Aachen",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.aachener-zeitung.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-060",
+    "name": "Westfälische Nachrichten",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Münster",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.wn.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-061",
+    "name": "Ruhr Nachrichten",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Dortmund",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ruhrnachrichten.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-062",
+    "name": "Stuttgarter Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Stuttgart",
+    "admin1_name": "Baden-Württemberg",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuttgarter-zeitung.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-063",
+    "name": "Badische Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Freiburg im Breisgau",
+    "admin1_name": "Baden-Württemberg",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.badische-zeitung.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-064",
+    "name": "Südwest Presse",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Ulm",
+    "admin1_name": "Baden-Württemberg",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.swp.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-065",
+    "name": "Augsburger Allgemeine",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Augsburg",
+    "admin1_name": "Bayern",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.augsburger-allgemeine.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-066",
+    "name": "Nürnberger Nachrichten",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Nuremberg",
+    "admin1_name": "Bayern",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nn.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-067",
+    "name": "Main-Post",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Würzburg",
+    "admin1_name": "Bayern",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mainpost.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-068",
+    "name": "Sächsische Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Dresden",
+    "admin1_name": "Sachsen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.saechsische.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-069",
+    "name": "Leipziger Volkszeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leipzig",
+    "admin1_name": "Sachsen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lvz.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-070",
+    "name": "Ostsee-Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rostock",
+    "admin1_name": "Mecklenburg-Vorpommern",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ostsee-zeitung.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-071",
+    "name": "Märkische Allgemeine",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Potsdam",
+    "admin1_name": "Brandenburg",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.maz-online.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-072",
+    "name": "Hannoversche Allgemeine Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hannover",
+    "admin1_name": "Niedersachsen",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.haz.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-073",
+    "name": "Kieler Nachrichten",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Kiel",
+    "admin1_name": "Schleswig-Holstein",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.kn-online.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-074",
+    "name": "Hamburger Abendblatt",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hamburg",
+    "admin1_name": "Hamburg",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.abendblatt.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-075",
+    "name": "Berliner Morgenpost",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Berlin",
+    "admin1_name": "Berlin",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.morgenpost.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-076",
+    "name": "Der Tagesspiegel",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Berlin",
+    "admin1_name": "Berlin",
+    "admin1_type": "Bundesland",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tagesspiegel.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-077",
+    "name": "Manchester Evening News",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Manchester",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.manchestereveningnews.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-078",
+    "name": "Liverpool Echo",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Liverpool",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.liverpoolecho.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-079",
+    "name": "Birmingham Live",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Birmingham",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.birminghammail.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-080",
+    "name": "Yorkshire Post",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leeds",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.yorkshirepost.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-081",
+    "name": "The Northern Echo",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Darlington",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thenorthernecho.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-082",
+    "name": "Newcastle Chronicle",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Newcastle upon Tyne",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.chroniclelive.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-083",
+    "name": "Nottingham Post",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Nottingham",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nottinghampost.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-084",
+    "name": "Leicester Mercury",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leicester",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.leicestermercury.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-085",
+    "name": "Bristol Post",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bristol",
+    "admin1_name": "England",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bristolpost.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-086",
+    "name": "The Scotsman",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Edinburgh",
+    "admin1_name": "Scotland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.scotsman.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-087",
+    "name": "The Herald",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Glasgow",
+    "admin1_name": "Scotland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.heraldscotland.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-088",
+    "name": "Edinburgh Evening News",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Edinburgh",
+    "admin1_name": "Scotland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.edinburghnews.scotsman.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-089",
+    "name": "The Courier",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Dundee",
+    "admin1_name": "Scotland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thecourier.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-090",
+    "name": "Press and Journal",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Aberdeen",
+    "admin1_name": "Scotland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pressandjournal.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-091",
+    "name": "WalesOnline",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Cardiff",
+    "admin1_name": "Wales",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.walesonline.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-092",
+    "name": "South Wales Argus",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Newport",
+    "admin1_name": "Wales",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.southwalesargus.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-093",
+    "name": "Western Telegraph",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Haverfordwest",
+    "admin1_name": "Wales",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.westerntelegraph.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-094",
+    "name": "Belfast Telegraph",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Belfast",
+    "admin1_name": "Northern Ireland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.belfasttelegraph.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-095",
+    "name": "The Irish News",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Belfast",
+    "admin1_name": "Northern Ireland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.irishnews.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-096",
+    "name": "News Letter",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Belfast",
+    "admin1_name": "Northern Ireland",
+    "admin1_type": "Nación constitutiva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newsletter.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-097",
+    "name": "Il Resto del Carlino",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bologna",
+    "admin1_name": "Emilia-Romagna",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilrestodelcarlino.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-098",
+    "name": "Il Giorno",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Milano",
+    "admin1_name": "Lombardia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilgiorno.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-099",
+    "name": "Il Gazzettino",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Venezia",
+    "admin1_name": "Veneto",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilgazzettino.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-100",
+    "name": "La Nuova Venezia",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Venezia",
+    "admin1_name": "Veneto",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://nuovavenezia.gelocal.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-101",
+    "name": "La Tribuna di Treviso",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Treviso",
+    "admin1_name": "Veneto",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tribunatreviso.gelocal.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-102",
+    "name": "Il Mattino di Padova",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Padova",
+    "admin1_name": "Veneto",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://mattinopadova.gelocal.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-103",
+    "name": "L’Arena",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Verona",
+    "admin1_name": "Veneto",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.larena.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-104",
+    "name": "Il Secolo XIX",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Genova",
+    "admin1_name": "Liguria",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilsecoloxix.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-105",
+    "name": "La Nazione",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Firenze",
+    "admin1_name": "Toscana",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lanazione.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-106",
+    "name": "Il Tirreno",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Livorno",
+    "admin1_name": "Toscana",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.iltirreno.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-107",
+    "name": "Il Mattino",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Napoli",
+    "admin1_name": "Campania",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilmattino.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-108",
+    "name": "La Gazzetta del Mezzogiorno",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bari",
+    "admin1_name": "Puglia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lagazzettadelmezzogiorno.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-109",
+    "name": "Giornale di Sicilia",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Palermo",
+    "admin1_name": "Sicilia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://gds.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-110",
+    "name": "L’Unione Sarda",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Cagliari",
+    "admin1_name": "Sardegna",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.unionesarda.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-111",
+    "name": "Il Piccolo",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Trieste",
+    "admin1_name": "Friuli-Venezia Giulia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ilpiccolo.gelocal.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-112",
+    "name": "L’Eco di Bergamo",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bergamo",
+    "admin1_name": "Lombardia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ecodibergamo.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-113",
+    "name": "La Provincia",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Como",
+    "admin1_name": "Lombardia",
+    "admin1_type": "Regione",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laprovinciadicomo.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  },
+  {
+    "id": "MED-EU3-114",
+    "name": "Il Centro",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pescara",
+    "admin1_name": "Abruzzo",
+    "admin1_type": "Regione",
+    "languages": [
+      null
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ilcentro.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa y webs editoriales de grupos propietarios",
+    "verification_note": "Fuente identificada en directorios de prensa regional o portales de grupos editoriales. Pendiente de verificación individual de URL, actividad, sede y cobertura."
+  }
+]
