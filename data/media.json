@@ -23227,5 +23227,1637 @@
     "discovery_source": "Local News Collective; News Media Canada Local Journalism Initiative; Unrigged; Canadian Independent Media",
     "source_directory": "Local News Collective; News Media Canada LJI; Unrigged; Canadian Independent Media",
     "verification_note": "Candidato incorporado a partir de padrones y directorios de medios locales. Confirmar actividad actual, URL oficial, alcance y propiedad editorial antes de elevar su estado de verificación."
+  },
+  {
+    "id": "MED-GTM-001",
+    "name": "Plaza Pública",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.plazapublica.com.gt/",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-002",
+    "name": "Agencia Ocote",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.agenciaocote.com/",
+    "categories": [
+      "investigative",
+      "fact-checking",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-003",
+    "name": "No-Ficción",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://no-ficcion.com/",
+    "categories": [
+      "investigative",
+      "culture",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-004",
+    "name": "Prensa Libre",
+    "country": "GTM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.prensalibre.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-005",
+    "name": "La Hora",
+    "country": "GTM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://lahora.gt/",
+    "categories": [
+      "general-news",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-006",
+    "name": "Prensa Comunitaria",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://prensacomunitaria.org/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-007",
+    "name": "Ruda",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://rudagt.org/",
+    "categories": [
+      "gender",
+      "human-rights",
+      "investigative"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-008",
+    "name": "Quorum",
+    "country": "GTM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://quorum.gt/",
+    "categories": [
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-001",
+    "name": "Amandala",
+    "country": "BLZ",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://amandala.com.bz/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-002",
+    "name": "The Reporter",
+    "country": "BLZ",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.reporter.bz/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-003",
+    "name": "Breaking Belize News",
+    "country": "BLZ",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.breakingbelizenews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-004",
+    "name": "Love FM",
+    "country": "BLZ",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://lovefm.com/",
+    "categories": [
+      "general-news",
+      "radio",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-005",
+    "name": "Channel 5 Belize",
+    "country": "BLZ",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://edition.channel5belize.com/",
+    "categories": [
+      "general-news",
+      "television",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-001",
+    "name": "Contracorriente",
+    "country": "HND",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://contracorriente.red/",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "environment"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-002",
+    "name": "Criterio.hn",
+    "country": "HND",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://criterio.hn/",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "fact-checking"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-003",
+    "name": "Reporteros de Investigación",
+    "country": "HND",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://reporterosdeinvestigacion.com/",
+    "categories": [
+      "investigative",
+      "accountability",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-004",
+    "name": "Radio Progreso",
+    "country": "HND",
+    "language": "es",
+    "type": "radio-digital",
+    "official_url": "https://radioprogresohn.net/",
+    "categories": [
+      "community-media",
+      "human-rights",
+      "radio"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-005",
+    "name": "Proceso Digital",
+    "country": "HND",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://proceso.hn/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-006",
+    "name": "La Prensa",
+    "country": "HND",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.laprensa.hn/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-001",
+    "name": "El Faro",
+    "country": "SLV",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://elfaro.net/",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-002",
+    "name": "Revista Factum",
+    "country": "SLV",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.revistafactum.com/",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-003",
+    "name": "GatoEncerrado",
+    "country": "SLV",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://gatoencerrado.news/",
+    "categories": [
+      "investigative",
+      "fact-checking",
+      "environment"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-004",
+    "name": "Focos",
+    "country": "SLV",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://focostv.com/",
+    "categories": [
+      "investigative",
+      "politics",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-005",
+    "name": "La Prensa Gráfica",
+    "country": "SLV",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.laprensagrafica.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-006",
+    "name": "El Diario de Hoy",
+    "country": "SLV",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.eldiariodehoy.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-007",
+    "name": "Diario Co Latino",
+    "country": "SLV",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.diariocolatino.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-008",
+    "name": "Diario El Mundo",
+    "country": "SLV",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://diario.elmundo.sv/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-001",
+    "name": "Confidencial",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://confidencial.digital/",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-002",
+    "name": "Divergentes",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.divergentes.com/",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-003",
+    "name": "Nicaragua Investiga",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://nicaraguainvestiga.com/",
+    "categories": [
+      "investigative",
+      "general-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-004",
+    "name": "La Lupa",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://lalupa.press/",
+    "categories": [
+      "investigative",
+      "fact-checking",
+      "gender"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-005",
+    "name": "Onda Local",
+    "country": "NIC",
+    "language": "es",
+    "type": "radio-digital",
+    "official_url": "https://ondalocal.com.ni/",
+    "categories": [
+      "community-media",
+      "local-news",
+      "radio"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-006",
+    "name": "100% Noticias",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://100noticias.com.ni/",
+    "categories": [
+      "general-news",
+      "politics",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-007",
+    "name": "Artículo 66",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://articulo66.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-008",
+    "name": "Despacho 505",
+    "country": "NIC",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.despacho505.com/",
+    "categories": [
+      "general-news",
+      "investigative",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-001",
+    "name": "La Voz de Guanacaste",
+    "country": "CRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://vozdeguanacaste.com/",
+    "categories": [
+      "local-news",
+      "investigative",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-002",
+    "name": "Semanario Universidad",
+    "country": "CRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://semanariouniversidad.com/",
+    "categories": [
+      "investigative",
+      "politics",
+      "education"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-003",
+    "name": "CRHoy",
+    "country": "CRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://crhoy.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-004",
+    "name": "La Nación",
+    "country": "CRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.nacion.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-005",
+    "name": "El Financiero",
+    "country": "CRI",
+    "language": "es",
+    "type": "business-news",
+    "official_url": "https://www.elfinancierocr.com/",
+    "categories": [
+      "business",
+      "economy",
+      "technology"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-006",
+    "name": "Delfino.cr",
+    "country": "CRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://delfino.cr/",
+    "categories": [
+      "general-news",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-007",
+    "name": "Doble Check",
+    "country": "CRI",
+    "language": "es",
+    "type": "fact_checking",
+    "official_url": "https://doblecheck.cr/",
+    "categories": [
+      "fact-checking",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-008",
+    "name": "The Tico Times",
+    "country": "CRI",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://ticotimes.net/",
+    "categories": [
+      "general-news",
+      "international",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-009",
+    "name": "Radio UCR",
+    "country": "CRI",
+    "language": "es",
+    "type": "public-radio",
+    "official_url": "https://radios.ucr.ac.cr/",
+    "categories": [
+      "public-radio",
+      "education",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-001",
+    "name": "La Estrella de Panamá",
+    "country": "PAN",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.laestrella.com.pa/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-002",
+    "name": "Foco Panamá",
+    "country": "PAN",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://focopanama.com/",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-003",
+    "name": "Concolon",
+    "country": "PAN",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://concolon.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-004",
+    "name": "Metro Libre",
+    "country": "PAN",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://metrolibre.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-005",
+    "name": "Panamá América",
+    "country": "PAN",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.panamaamerica.com.pa/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-006",
+    "name": "TVN Noticias",
+    "country": "PAN",
+    "language": "es",
+    "type": "television-digital",
+    "official_url": "https://www.tvn-2.com/",
+    "categories": [
+      "general-news",
+      "television",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DOM-001",
+    "name": "Diario Libre",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.diariolibre.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DOM-002",
+    "name": "Listín Diario",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://listindiario.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DOM-003",
+    "name": "Acento",
+    "country": "DOM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://acento.com.do/",
+    "categories": [
+      "general-news",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DOM-004",
+    "name": "N Digital",
+    "country": "DOM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://ndigital.com.do/",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DOM-005",
+    "name": "El Caribe",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.elcaribe.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-JAM-001",
+    "name": "The Gleaner",
+    "country": "JAM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://jamaica-gleaner.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-JAM-002",
+    "name": "Jamaica Observer",
+    "country": "JAM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.jamaicaobserver.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-JAM-003",
+    "name": "Nationwide 90FM",
+    "country": "JAM",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://nationwideradiojm.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-JAM-004",
+    "name": "Loop Jamaica",
+    "country": "JAM",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://loopnews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BHS-001",
+    "name": "Nassau Guardian",
+    "country": "BHS",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.thenassauguardian.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BHS-002",
+    "name": "The Tribune",
+    "country": "BHS",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.tribune242.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BHS-003",
+    "name": "Eyewitness News Bahamas",
+    "country": "BHS",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://ewnews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BRB-001",
+    "name": "Nation News",
+    "country": "BRB",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://nationnews.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BRB-002",
+    "name": "Barbados Today",
+    "country": "BRB",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://barbadostoday.bb/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BRB-003",
+    "name": "Barbados Advocate",
+    "country": "BRB",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.barbadosadvocate.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-TTO-001",
+    "name": "Trinidad and Tobago Guardian",
+    "country": "TTO",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.guardian.co.tt/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-TTO-002",
+    "name": "Trinidad Express",
+    "country": "TTO",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://trinidadexpress.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-TTO-003",
+    "name": "CNC3",
+    "country": "TTO",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://www.cnc3.co.tt/",
+    "categories": [
+      "general-news",
+      "television",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HTI-001",
+    "name": "AyiboPost",
+    "country": "HTI",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://ayibopost.com/",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HTI-002",
+    "name": "AlterPresse",
+    "country": "HTI",
+    "language": "fr",
+    "type": "news-agency",
+    "official_url": "https://www.alterpresse.org/",
+    "categories": [
+      "news-agency",
+      "human-rights",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PRI-001",
+    "name": "Centro de Periodismo Investigativo",
+    "country": "PRI",
+    "language": "es",
+    "type": "investigative",
+    "official_url": "https://periodismoinvestigativo.com/",
+    "categories": [
+      "investigative",
+      "accountability",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PRI-002",
+    "name": "El Nuevo Día",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.elnuevodia.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PRI-003",
+    "name": "NotiCel",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://noticel.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PRI-004",
+    "name": "Primera Hora",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.primerahora.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-ATG-001",
+    "name": "Antigua Observer",
+    "country": "ATG",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://antiguaobserver.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-ATG-002",
+    "name": "Antigua News Room",
+    "country": "ATG",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://antiguanewsroom.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-ABW-001",
+    "name": "Aruba Today",
+    "country": "ABW",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.arubatoday.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "tourism"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-ABW-002",
+    "name": "24ora",
+    "country": "ABW",
+    "language": "pap",
+    "type": "digital_native",
+    "official_url": "https://24ora.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUW-001",
+    "name": "Curacao Chronicle",
+    "country": "CUW",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.curacaochronicle.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-DMA-001",
+    "name": "Dominica News Online",
+    "country": "DMA",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://dominicanewsonline.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GRD-001",
+    "name": "Now Grenada",
+    "country": "GRD",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://nowgrenada.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GRD-002",
+    "name": "The New Today",
+    "country": "GRD",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.thenewtodaygrenada.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-LCA-001",
+    "name": "St. Lucia Times",
+    "country": "LCA",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://stluciatimes.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-LCA-002",
+    "name": "The Voice",
+    "country": "LCA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://thevoiceslu.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-KNA-001",
+    "name": "St. Kitts and Nevis Observer",
+    "country": "KNA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.thestkittsnevisobserver.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-VCT-001",
+    "name": "St. Vincent Times",
+    "country": "VCT",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.stvincenttimes.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-VCT-002",
+    "name": "Searchlight",
+    "country": "VCT",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://searchlight.vc/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-VGB-001",
+    "name": "BVI Beacon",
+    "country": "VGB",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://bvinews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AIA-001",
+    "name": "The Anguillian",
+    "country": "AIA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://theanguillian.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BMU-001",
+    "name": "The Royal Gazette",
+    "country": "BMU",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.royalgazette.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BMU-002",
+    "name": "Bernews",
+    "country": "BMU",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://bernews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CYM-001",
+    "name": "Cayman Compass",
+    "country": "CYM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.caymancompass.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CYM-002",
+    "name": "Caymanian Times",
+    "country": "CYM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.caymaniantimes.ky/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLP-001",
+    "name": "France-Antilles Guadeloupe",
+    "country": "GLP",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://www.guadeloupe.franceantilles.fr/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-MTQ-001",
+    "name": "France-Antilles Martinique",
+    "country": "MTQ",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://www.martinique.franceantilles.fr/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BES-001",
+    "name": "BES Reporter",
+    "country": "BES",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://bes-reporter.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-TCA-001",
+    "name": "TCI Sun",
+    "country": "TCA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://tcisun.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SXM-001",
+    "name": "The Daily Herald",
+    "country": "SXM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.thedailyherald.sx/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUB-001",
+    "name": "14ymedio",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://14ymedio.com/",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUB-002",
+    "name": "OnCuba News",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://oncubanews.com/",
+    "categories": [
+      "general-news",
+      "culture",
+      "international"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUB-003",
+    "name": "Diario de Cuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://diariodecuba.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUB-004",
+    "name": "El Toque",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://eltoque.com/",
+    "categories": [
+      "investigative",
+      "economy",
+      "fact-checking"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
+    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
   }
 ]
