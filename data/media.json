@@ -13147,5 +13147,4513 @@
     "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie",
     "source_directory": "Territorial; Periodistas de a Pie",
     "verification_note": "Tamaulipas-based investigative and local journalism outlet included in Territorial alliance membership lists."
+  },
+  {
+    "id": "MED-MX-018",
+    "name": "Diario de Yucatán",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.yucatan.com.mx/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-019",
+    "name": "Yucatán Ahora",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://yucatanahora.mx/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-020",
+    "name": "Sipse Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://sipse.com/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-021",
+    "name": "Por Esto!",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.poresto.net/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-022",
+    "name": "Quadratín Yucatán",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://yucatan.quadratin.com.mx/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-023",
+    "name": "La Jornada Maya",
+    "country": "MEX",
+    "region": "North America",
+    "state": "YUC",
+    "city": "Mérida",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lajornadamaya.mx/",
+    "coverage": [
+      "Mérida",
+      "YUC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-024",
+    "name": "Novedades Quintana Roo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ROO",
+    "city": "Cancún",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://sipse.com/novedades-quintana-roo/",
+    "coverage": [
+      "Cancún",
+      "ROO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-025",
+    "name": "Quintana Roo Hoy",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ROO",
+    "city": "Cancún",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://quintanaroohoy.com/",
+    "coverage": [
+      "Cancún",
+      "ROO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-026",
+    "name": "Luces del Siglo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ROO",
+    "city": "Cancún",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lucesdelsiglo.com/",
+    "coverage": [
+      "Cancún",
+      "ROO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-027",
+    "name": "Noticaribe",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ROO",
+    "city": "Cancún",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://noticaribe.com.mx/",
+    "coverage": [
+      "Cancún",
+      "ROO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-028",
+    "name": "Diario de Quintana Roo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ROO",
+    "city": "Chetumal",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://diariodeqroo.com.mx/",
+    "coverage": [
+      "Chetumal",
+      "ROO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-029",
+    "name": "Diario de Xalapa",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariodexalapa.com.mx/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-030",
+    "name": "AVC Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://avcnoticias.com.mx/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-031",
+    "name": "Al Calor Político",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://alcalorpolitico.com/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-032",
+    "name": "Imagen del Golfo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Veracruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://imagendelgolfo.mx/",
+    "coverage": [
+      "Veracruz",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-033",
+    "name": "Notiver",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Veracruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.notiver.com/",
+    "coverage": [
+      "Veracruz",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-034",
+    "name": "La Jornada Veracruz",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://jornadaveracruz.com.mx/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-035",
+    "name": "E-consulta Veracruz",
+    "country": "MEX",
+    "region": "North America",
+    "state": "VER",
+    "city": "Xalapa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://veracruz.e-consulta.com/",
+    "coverage": [
+      "Xalapa",
+      "VER",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-036",
+    "name": "El Sol de Puebla",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldepuebla.com.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-037",
+    "name": "E-consulta Puebla",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.e-consulta.com/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-038",
+    "name": "Diario Cambio",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariocambio.com.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-039",
+    "name": "Intolerancia Diario",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://intoleranciadiario.com/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-040",
+    "name": "Municipios Puebla",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://municipiospuebla.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-041",
+    "name": "El Popular",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elpopular.mx/",
+    "coverage": [
+      "Puebla",
+      "PUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-042",
+    "name": "El Informador",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.informador.mx/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-043",
+    "name": "NTR Guadalajara",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ntrguadalajara.com/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-044",
+    "name": "UDGTV",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://udgtv.com/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-045",
+    "name": "El Occidental",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eloccidental.com.mx/",
+    "coverage": [
+      "Guadalajara",
+      "JAL",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-046",
+    "name": "ABC Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://abcnoticias.mx/",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-047",
+    "name": "El Norte",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elnorte.com/",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-048",
+    "name": "Milenio Monterrey",
+    "country": "MEX",
+    "region": "North America",
+    "state": "NLE",
+    "city": "Monterrey",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.milenio.com/monterrey",
+    "coverage": [
+      "Monterrey",
+      "NLE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-049",
+    "name": "El Imparcial",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Hermosillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elimparcial.com/",
+    "coverage": [
+      "Hermosillo",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-050",
+    "name": "Proyecto Puente",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Hermosillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://proyectopuente.com.mx/",
+    "coverage": [
+      "Hermosillo",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-051",
+    "name": "Expreso",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Hermosillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.expreso.com.mx/",
+    "coverage": [
+      "Hermosillo",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-052",
+    "name": "El Sol de Hermosillo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SON",
+    "city": "Hermosillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldehermosillo.com.mx/",
+    "coverage": [
+      "Hermosillo",
+      "SON",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-053",
+    "name": "Zeta Tijuana",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://zetatijuana.com/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-054",
+    "name": "La Jornada Baja California",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://jornadabc.com.mx/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-055",
+    "name": "El Mexicano",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://el-mexicano.com.mx/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-056",
+    "name": "Cadena Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "BCN",
+    "city": "Tijuana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://cadenanoticias.com/",
+    "coverage": [
+      "Tijuana",
+      "BCN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-057",
+    "name": "Noroeste",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SIN",
+    "city": "Culiacán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.noroeste.com.mx/",
+    "coverage": [
+      "Culiacán",
+      "SIN",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-058",
+    "name": "El Diario de Chihuahua",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.eldiariodechihuahua.mx/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-059",
+    "name": "El Heraldo de Chihuahua",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elheraldodechihuahua.com.mx/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-060",
+    "name": "Omnia",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://omnia.com.mx/",
+    "coverage": [
+      "Chihuahua",
+      "CHH",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-061",
+    "name": "Vanguardia",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Saltillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://vanguardia.com.mx/",
+    "coverage": [
+      "Saltillo",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-062",
+    "name": "Zócalo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Saltillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.zocalo.com.mx/",
+    "coverage": [
+      "Saltillo",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-063",
+    "name": "El Siglo de Torreón",
+    "country": "MEX",
+    "region": "North America",
+    "state": "COA",
+    "city": "Torreón",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsiglodetorreon.com.mx/",
+    "coverage": [
+      "Torreón",
+      "COA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-064",
+    "name": "El Siglo de Durango",
+    "country": "MEX",
+    "region": "North America",
+    "state": "DUR",
+    "city": "Durango",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsiglodedurango.com.mx/",
+    "coverage": [
+      "Durango",
+      "DUR",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-065",
+    "name": "Contexto de Durango",
+    "country": "MEX",
+    "region": "North America",
+    "state": "DUR",
+    "city": "Durango",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://contextodedurango.com.mx/",
+    "coverage": [
+      "Durango",
+      "DUR",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-066",
+    "name": "La Voz de Michoacán",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MIC",
+    "city": "Morelia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lavozdemichoacan.com.mx/",
+    "coverage": [
+      "Morelia",
+      "MIC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-067",
+    "name": "Primera Plana",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MIC",
+    "city": "Morelia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://primeraplana.mx/",
+    "coverage": [
+      "Morelia",
+      "MIC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-068",
+    "name": "Mi Morelia",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MIC",
+    "city": "Morelia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mimorelia.com/",
+    "coverage": [
+      "Morelia",
+      "MIC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-069",
+    "name": "La Unión de Morelos",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MOR",
+    "city": "Cuernavaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://launion.com.mx/",
+    "coverage": [
+      "Cuernavaca",
+      "MOR",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-070",
+    "name": "Diario de Morelos",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MOR",
+    "city": "Cuernavaca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariodemorelos.com/",
+    "coverage": [
+      "Cuernavaca",
+      "MOR",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-071",
+    "name": "El Sur de Acapulco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GRO",
+    "city": "Acapulco",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://suracapulco.mx/",
+    "coverage": [
+      "Acapulco",
+      "GRO",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-072",
+    "name": "Criterio Hidalgo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://criteriohidalgo.com/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-073",
+    "name": "El Sol de Hidalgo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "HID",
+    "city": "Pachuca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldehidalgo.com.mx/",
+    "coverage": [
+      "Pachuca",
+      "HID",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-074",
+    "name": "El Sol de Toluca",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MEX",
+    "city": "Toluca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldetoluca.com.mx/",
+    "coverage": [
+      "Toluca",
+      "MEX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-075",
+    "name": "Así Sucede",
+    "country": "MEX",
+    "region": "North America",
+    "state": "MEX",
+    "city": "Toluca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://asisucede.com.mx/",
+    "coverage": [
+      "Toluca",
+      "MEX",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-076",
+    "name": "El Sol de Tlaxcala",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TLA",
+    "city": "Tlaxcala",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldetlaxcala.com.mx/",
+    "coverage": [
+      "Tlaxcala",
+      "TLA",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-077",
+    "name": "El Sol de Zacatecas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ZAC",
+    "city": "Zacatecas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldezacatecas.com.mx/",
+    "coverage": [
+      "Zacatecas",
+      "ZAC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-078",
+    "name": "NTR Zacatecas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "ZAC",
+    "city": "Zacatecas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://ntrzacatecas.com/",
+    "coverage": [
+      "Zacatecas",
+      "ZAC",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-079",
+    "name": "El Sol de San Luis",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldesanluis.com.mx/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-080",
+    "name": "Pulso",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://pulsoslp.com.mx/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-081",
+    "name": "Plano Informativo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SLP",
+    "city": "San Luis Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://planoinformativo.com/",
+    "coverage": [
+      "San Luis Potosí",
+      "SLP",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-082",
+    "name": "El Sol de Aguascalientes",
+    "country": "MEX",
+    "region": "North America",
+    "state": "AGU",
+    "city": "Aguascalientes",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldelcentro.com.mx/",
+    "coverage": [
+      "Aguascalientes",
+      "AGU",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-083",
+    "name": "Hidrocálido",
+    "country": "MEX",
+    "region": "North America",
+    "state": "AGU",
+    "city": "Aguascalientes",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hidrocalidodigital.com/",
+    "coverage": [
+      "Aguascalientes",
+      "AGU",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-084",
+    "name": "Plaza de Armas",
+    "country": "MEX",
+    "region": "North America",
+    "state": "QUE",
+    "city": "Querétaro",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://plazadearmas.com.mx/",
+    "coverage": [
+      "Querétaro",
+      "QUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-085",
+    "name": "AM Querétaro",
+    "country": "MEX",
+    "region": "North America",
+    "state": "QUE",
+    "city": "Querétaro",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://amqueretaro.com/",
+    "coverage": [
+      "Querétaro",
+      "QUE",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-086",
+    "name": "El Heraldo de Tabasco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAB",
+    "city": "Villahermosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elheraldodetabasco.com.mx/",
+    "coverage": [
+      "Villahermosa",
+      "TAB",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-087",
+    "name": "Diario Presente",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAB",
+    "city": "Villahermosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.diariopresente.mx/",
+    "coverage": [
+      "Villahermosa",
+      "TAB",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-088",
+    "name": "El Sol de Tampico",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Tampico",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elsoldetampico.com.mx/",
+    "coverage": [
+      "Tampico",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-089",
+    "name": "El Mañana de Reynosa",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Reynosa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.elmanana.com/",
+    "coverage": [
+      "Reynosa",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-MX-090",
+    "name": "El Mañana de Nuevo Laredo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Nuevo Laredo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://elmanana.com.mx/",
+    "coverage": [
+      "Nuevo Laredo",
+      "TAM",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca COLSAN; Observatorio Mexicano de Medios; directorios regionales y listados de prensa estatal",
+    "source_directory": "COLSAN – Periódicos locales; Observatorio Mexicano de Medios; prensa regional mexicana",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-010",
+    "name": "Abbotsford News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Abbotsford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.abbynews.com/",
+    "coverage": [
+      "Abbotsford",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-011",
+    "name": "Agassiz-Harrison Observer",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Agassiz",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.agassizharrisonobserver.com/",
+    "coverage": [
+      "Agassiz",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-012",
+    "name": "Aldergrove Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Aldergrove",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.aldergrovestar.com/",
+    "coverage": [
+      "Aldergrove",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-013",
+    "name": "Bowen Island Undercurrent",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Bowen Island",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.bowenislandundercurrent.com/",
+    "coverage": [
+      "Bowen Island",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-014",
+    "name": "Chilliwack Progress",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Chilliwack",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.theprogress.com/",
+    "coverage": [
+      "Chilliwack",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-015",
+    "name": "Delta Optimist",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Delta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.delta-optimist.com/",
+    "coverage": [
+      "Delta",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-016",
+    "name": "Hope Standard",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Hope",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hopestandard.com/",
+    "coverage": [
+      "Hope",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-017",
+    "name": "Langley Advance Times",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Langley",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.langleyadvancetimes.com/",
+    "coverage": [
+      "Langley",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-018",
+    "name": "Maple Ridge-Pitt Meadows News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Maple Ridge",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mapleridgenews.com/",
+    "coverage": [
+      "Maple Ridge",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-019",
+    "name": "Mission City Record",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Mission",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.missioncityrecord.com/",
+    "coverage": [
+      "Mission",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-020",
+    "name": "New West Record",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "New Westminster",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.newwestrecord.ca/",
+    "coverage": [
+      "New Westminster",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-021",
+    "name": "North Shore News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "North Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nsnews.com/",
+    "coverage": [
+      "North Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-022",
+    "name": "Peace Arch News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "White Rock",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.peacearchnews.com/",
+    "coverage": [
+      "White Rock",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-023",
+    "name": "Richmond News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Richmond",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.richmond-news.com/",
+    "coverage": [
+      "Richmond",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-024",
+    "name": "Surrey Now-Leader",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Surrey",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.surreynowleader.com/",
+    "coverage": [
+      "Surrey",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-025",
+    "name": "Vancouver Is Awesome",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vancouverisawesome.com/",
+    "coverage": [
+      "Vancouver",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-026",
+    "name": "Alberni Valley News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Port Alberni",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.albernivalleynews.com/",
+    "coverage": [
+      "Port Alberni",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-027",
+    "name": "Campbell River Mirror",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Campbell River",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.campbellrivermirror.com/",
+    "coverage": [
+      "Campbell River",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-028",
+    "name": "Comox Valley Record",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Courtenay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.comoxvalleyrecord.com/",
+    "coverage": [
+      "Courtenay",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-029",
+    "name": "Cowichan Valley Citizen",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Duncan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.cowichanvalleycitizen.com/",
+    "coverage": [
+      "Duncan",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-030",
+    "name": "Nanaimo News Bulletin",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Nanaimo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nanaimobulletin.com/",
+    "coverage": [
+      "Nanaimo",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-031",
+    "name": "Victoria News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Victoria",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vicnews.com/",
+    "coverage": [
+      "Victoria",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-032",
+    "name": "Prince George Citizen",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Prince George",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.princegeorgecitizen.com/",
+    "coverage": [
+      "Prince George",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-033",
+    "name": "Pique Newsmagazine",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Whistler",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.piquenewsmagazine.com/",
+    "coverage": [
+      "Whistler",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-034",
+    "name": "Powell River Peak",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Powell River",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.prpeak.com/",
+    "coverage": [
+      "Powell River",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-035",
+    "name": "Squamish Chief",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Squamish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.squamishchief.com/",
+    "coverage": [
+      "Squamish",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-036",
+    "name": "Castanet",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Kelowna",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.castanet.net/",
+    "coverage": [
+      "Kelowna",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-037",
+    "name": "Kelowna Capital News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Kelowna",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kelownacapnews.com/",
+    "coverage": [
+      "Kelowna",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-038",
+    "name": "Penticton Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Penticton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pentictonherald.ca/",
+    "coverage": [
+      "Penticton",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-039",
+    "name": "Nelson Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Nelson",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nelsonstar.com/",
+    "coverage": [
+      "Nelson",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-040",
+    "name": "Terrace Standard",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Terrace",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.terracestandard.com/",
+    "coverage": [
+      "Terrace",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-041",
+    "name": "Calgary Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Calgary",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://calgaryherald.com/",
+    "coverage": [
+      "Calgary",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-042",
+    "name": "Edmonton Journal",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://edmontonjournal.com/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-043",
+    "name": "Edmonton Sun",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://edmontonsun.com/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-044",
+    "name": "Airdrie City View",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Airdrie",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.airdriecityview.com/",
+    "coverage": [
+      "Airdrie",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-045",
+    "name": "Lethbridge Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Lethbridge",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lethbridgeherald.com/",
+    "coverage": [
+      "Lethbridge",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-046",
+    "name": "Red Deer Advocate",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Red Deer",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.reddeeradvocate.com/",
+    "coverage": [
+      "Red Deer",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-047",
+    "name": "Medicine Hat News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Medicine Hat",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://medicinehatnews.com/",
+    "coverage": [
+      "Medicine Hat",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-048",
+    "name": "Grande Prairie Daily Herald-Tribune",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Grande Prairie",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.dailyheraldtribune.com/",
+    "coverage": [
+      "Grande Prairie",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-049",
+    "name": "Fort McMurray Today",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Fort McMurray",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.fortmcmurraytoday.com/",
+    "coverage": [
+      "Fort McMurray",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-050",
+    "name": "The Progress Report",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.theprogressreport.ca/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-051",
+    "name": "Saskatoon StarPhoenix",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "Saskatoon",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thestarphoenix.com/",
+    "coverage": [
+      "Saskatoon",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-052",
+    "name": "Regina Leader-Post",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "Regina",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://leaderpost.com/",
+    "coverage": [
+      "Regina",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-053",
+    "name": "Prince Albert Daily Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "Prince Albert",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://paherald.sk.ca/",
+    "coverage": [
+      "Prince Albert",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-054",
+    "name": "The Battlefords News-Optimist",
+    "country": "CAN",
+    "region": "North America",
+    "state": "SK",
+    "city": "North Battleford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.newsoptimist.ca/",
+    "coverage": [
+      "North Battleford",
+      "SK",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-055",
+    "name": "Brandon Sun",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Brandon",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.brandonsun.com/",
+    "coverage": [
+      "Brandon",
+      "MB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-056",
+    "name": "Winnipeg Free Press",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Winnipeg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.winnipegfreepress.com/",
+    "coverage": [
+      "Winnipeg",
+      "MB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-057",
+    "name": "Winnipeg Sun",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Winnipeg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://winnipegsun.com/",
+    "coverage": [
+      "Winnipeg",
+      "MB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-058",
+    "name": "The Carillon",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Steinbach",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thecarillon.com/",
+    "coverage": [
+      "Steinbach",
+      "MB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-059",
+    "name": "Toronto Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thestar.com/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-060",
+    "name": "The Hamilton Spectator",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Hamilton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thespec.com/",
+    "coverage": [
+      "Hamilton",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-061",
+    "name": "Ottawa Citizen",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Ottawa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://ottawacitizen.com/",
+    "coverage": [
+      "Ottawa",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-062",
+    "name": "London Free Press",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://lfpress.com/",
+    "coverage": [
+      "London",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-063",
+    "name": "Windsor Star",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Windsor",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://windsorstar.com/",
+    "coverage": [
+      "Windsor",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-064",
+    "name": "The Peterborough Examiner",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Peterborough",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thepeterboroughexaminer.com/",
+    "coverage": [
+      "Peterborough",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-065",
+    "name": "Guelph Mercury Tribune",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Guelph",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.guelphmercury.com/",
+    "coverage": [
+      "Guelph",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-066",
+    "name": "Waterloo Region Record",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Kitchener",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.therecord.com/",
+    "coverage": [
+      "Kitchener",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-067",
+    "name": "Sudbury.com",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Greater Sudbury",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.sudbury.com/",
+    "coverage": [
+      "Greater Sudbury",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-068",
+    "name": "BayToday",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "North Bay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.baytoday.ca/",
+    "coverage": [
+      "North Bay",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-069",
+    "name": "CollingwoodToday",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Collingwood",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.collingwoodtoday.ca/",
+    "coverage": [
+      "Collingwood",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-070",
+    "name": "DurhamRegion.com",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Oshawa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.durhamregion.com/",
+    "coverage": [
+      "Oshawa",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-071",
+    "name": "Brampton Guardian",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Brampton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.bramptonguardian.com/",
+    "coverage": [
+      "Brampton",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-072",
+    "name": "The Trillium",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thetrillium.ca/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-073",
+    "name": "The Local",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://thelocal.to/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-074",
+    "name": "Canadaland",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.canadaland.com/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-075",
+    "name": "Capital Daily",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Victoria",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.capitaldaily.ca/",
+    "coverage": [
+      "Victoria",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-076",
+    "name": "Burnaby Beacon",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Burnaby",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://burnabybeacon.com/",
+    "coverage": [
+      "Burnaby",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-077",
+    "name": "Fraser Valley Current",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Abbotsford",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://fvcurrent.com/",
+    "coverage": [
+      "Abbotsford",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-078",
+    "name": "Taproot Edmonton",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://edmonton.taproot.news/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-079",
+    "name": "The Sprawl",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Calgary",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.sprawlcalgary.com/",
+    "coverage": [
+      "Calgary",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-080",
+    "name": "The Eastern Door",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Kahnawake",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.easterndoor.com/",
+    "coverage": [
+      "Kahnawake",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-081",
+    "name": "Montreal Gazette",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Montreal",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://montrealgazette.com/",
+    "coverage": [
+      "Montreal",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-082",
+    "name": "Le Devoir",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Montreal",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ledevoir.com/",
+    "coverage": [
+      "Montreal",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-083",
+    "name": "La Presse",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Montreal",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.lapresse.ca/",
+    "coverage": [
+      "Montreal",
+      "QC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-084",
+    "name": "Acadie Nouvelle",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NB",
+    "city": "Caraquet",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.acadienouvelle.com/",
+    "coverage": [
+      "Caraquet",
+      "NB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-085",
+    "name": "Telegraph-Journal",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NB",
+    "city": "Saint John",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://tj.news/",
+    "coverage": [
+      "Saint John",
+      "NB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-086",
+    "name": "The Chronicle Herald",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NS",
+    "city": "Halifax",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.saltwire.com/atlantic-canada/",
+    "coverage": [
+      "Halifax",
+      "NS",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-087",
+    "name": "Cape Breton Post",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NS",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.capebretonpost.com/",
+    "coverage": [
+      "Sydney",
+      "NS",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-088",
+    "name": "The Guardian",
+    "country": "CAN",
+    "region": "North America",
+    "state": "PE",
+    "city": "Charlottetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.theguardian.pe.ca/",
+    "coverage": [
+      "Charlottetown",
+      "PE",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-089",
+    "name": "The Telegram",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NL",
+    "city": "St. John's",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thetelegram.com/",
+    "coverage": [
+      "St. John's",
+      "NL",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-090",
+    "name": "Nunatsiaq News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NU",
+    "city": "Iqaluit",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://nunatsiaq.com/",
+    "coverage": [
+      "Iqaluit",
+      "NU",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-091",
+    "name": "NWT News/North",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NT",
+    "city": "Yellowknife",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nnsl.com/",
+    "coverage": [
+      "Yellowknife",
+      "NT",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-092",
+    "name": "Yukon News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "YT",
+    "city": "Whitehorse",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.yukon-news.com/",
+    "coverage": [
+      "Whitehorse",
+      "YT",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-093",
+    "name": "Ha-Shilth-Sa",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Port Alberni",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://hashilthsa.com/",
+    "coverage": [
+      "Port Alberni",
+      "BC",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-094",
+    "name": "Wawatay News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Sioux Lookout",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://www.wawataynews.ca/",
+    "coverage": [
+      "Sioux Lookout",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-095",
+    "name": "Anishinabek News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "North Bay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://anishinabeknews.ca/",
+    "coverage": [
+      "North Bay",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-096",
+    "name": "Windspeaker",
+    "country": "CAN",
+    "region": "North America",
+    "state": "AB",
+    "city": "Edmonton",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://windspeaker.com/",
+    "coverage": [
+      "Edmonton",
+      "AB",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
+  },
+  {
+    "id": "MED-CA-097",
+    "name": "Media Indigena",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://mediaindigena.com/",
+    "coverage": [
+      "Toronto",
+      "ON",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Media Names & Numbers; Local News Collective; National NewsMedia Council; News Media Canada Local Journalism Initiative; Canadian Association of Journalists diversity survey",
+    "source_directory": "Local News Collective; National NewsMedia Council; News Media Canada; university Indigenous media guides",
+    "verification_note": "Registro incorporado desde directorios sectoriales y listados regionales. La URL oficial y actividad editorial deben verificarse individualmente; la inclusión no implica evaluación de independencia, propiedad ni fiabilidad."
   }
 ]
