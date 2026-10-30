@@ -54,7 +54,7 @@ const categoryLabels = {
   "digital_native": "Medio digital", "digital-native": "Medio digital", "accountability": "Rendición de cuentas",
   "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
   "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
-  "spanish-language": "En español", "housing": "Vivienda", "economy": "Economía"
+  "spanish-language": "En español", "housing": "Vivienda"
 };
 
 const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский" };
