@@ -55,6 +55,7 @@ const categoryLabels = {
   "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
   "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
   "spanish-language": "En español", "housing": "Vivienda",
+  "sports": "Deportes", "magazine": "Revistas y semanarios", "financial-news": "Información financiera", "sports-media": "Medios deportivos",
   "community-media": "Medios comunitarios", "ethnic-media": "Medios de comunidades étnicas",
   "multilingual": "Multilingües", "public-radio": "Radio pública", "media-directory": "Directorio de medios", "discovery-source": "Fuente de descubrimiento", "latin-america": "América Latina e Iberoamérica"
 };
@@ -155,7 +156,7 @@ function App() {
 
       <main>
         <section id="inicio" className="hero">
-          <div className="eyebrow">FASE 1 · GEOPOLÍTICA + MEDIOS INDEPENDIENTES</div>
+          <div className="eyebrow">CATÁLOGO GLOBAL · MEDIOS Y FUENTES DE INFORMACIÓN</div>
           <h1>Un directorio mundial, organizado por país.</h1>
           <p>Los registros se cargan desde archivos JSON del proyecto, separados de la interfaz. Esto permite ampliar el inventario sin reescribir la aplicación.</p>
           <div className="filterPanel" aria-label="Filtros geográficos y temáticos">
