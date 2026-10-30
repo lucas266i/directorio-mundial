@@ -310,5 +310,9 @@
   {
     "id": "labor",
     "name": "Trabajo y sindicatos"
+  },
+  {
+    "id": "digital-native",
+    "name": "Medios nativos digitales"
   }
 ]
