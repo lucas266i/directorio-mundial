@@ -122,5 +122,193 @@
   {
     "id": "public-radio",
     "name": "Radio pública"
+  },
+  {
+    "id": "environment",
+    "name": "Medioambiente"
+  },
+  {
+    "id": "specialty-media",
+    "name": "Medios especializados"
+  },
+  {
+    "id": "campus-media",
+    "name": "Medios universitarios"
+  },
+  {
+    "id": "entertainment",
+    "name": "Entretenimiento"
+  },
+  {
+    "id": "black-media",
+    "name": "Medios afrodescendientes"
+  },
+  {
+    "id": "diaspora-media",
+    "name": "Medios de la diáspora"
+  },
+  {
+    "id": "regional-news",
+    "name": "Noticias regionales"
+  },
+  {
+    "id": "business-news",
+    "name": "Noticias empresariales"
+  },
+  {
+    "id": "asian-american-media",
+    "name": "Medios asiático-americanos"
+  },
+  {
+    "id": "community-radio",
+    "name": "Radios comunitarias"
+  },
+  {
+    "id": "youth-media",
+    "name": "Medios juveniles"
+  },
+  {
+    "id": "immigrant-media",
+    "name": "Medios de comunidades migrantes"
+  },
+  {
+    "id": "korean-american-media",
+    "name": "Medios coreano-americanos"
+  },
+  {
+    "id": "civic-journalism",
+    "name": "Periodismo cívico"
+  },
+  {
+    "id": "religious-media",
+    "name": "Medios religiosos"
+  },
+  {
+    "id": "spanish-language-media",
+    "name": "Medios en español"
+  },
+  {
+    "id": "african-diaspora",
+    "name": "Diáspora africana"
+  },
+  {
+    "id": "hyperlocal",
+    "name": "Noticias hiperlocales"
+  },
+  {
+    "id": "neighborhood-news",
+    "name": "Noticias barriales"
+  },
+  {
+    "id": "multicultural-media",
+    "name": "Medios multiculturales"
+  },
+  {
+    "id": "south-asian-media",
+    "name": "Medios del sur de Asia"
+  },
+  {
+    "id": "diaspora-news",
+    "name": "Noticias de la diáspora"
+  },
+  {
+    "id": "arts-and-culture",
+    "name": "Arte y cultura"
+  },
+  {
+    "id": "latino-community",
+    "name": "Comunidad latina"
+  },
+  {
+    "id": "polish-language-media",
+    "name": "Medios en polaco"
+  },
+  {
+    "id": "arab-american-media",
+    "name": "Medios árabe-americanos"
+  },
+  {
+    "id": "bengali-language-media",
+    "name": "Medios en bengalí"
+  },
+  {
+    "id": "bangladeshi-diaspora",
+    "name": "Diáspora bangladesí"
+  },
+  {
+    "id": "urdu-language-media",
+    "name": "Medios en urdu"
+  },
+  {
+    "id": "pakistani-diaspora",
+    "name": "Diáspora pakistaní"
+  },
+  {
+    "id": "indigenous-media",
+    "name": "Medios indígenas"
+  },
+  {
+    "id": "news",
+    "name": "Noticias"
+  },
+  {
+    "id": "first-nations",
+    "name": "Primeras Naciones"
+  },
+  {
+    "id": "inuit",
+    "name": "Pueblos inuit"
+  },
+  {
+    "id": "metis",
+    "name": "Pueblo métis"
+  },
+  {
+    "id": "mi'kmaq",
+    "name": "Pueblo mi'kmaq"
+  },
+  {
+    "id": "social-issues",
+    "name": "Temas sociales"
+  },
+  {
+    "id": "corruption",
+    "name": "Corrupción"
+  },
+  {
+    "id": "public-records",
+    "name": "Registros públicos"
+  },
+  {
+    "id": "data-journalism",
+    "name": "Periodismo de datos"
+  },
+  {
+    "id": "extractive-industries",
+    "name": "Industrias extractivas"
+  },
+  {
+    "id": "indigenous-issues",
+    "name": "Asuntos indígenas"
+  },
+  {
+    "id": "public-interest",
+    "name": "Interés público"
+  },
+  {
+    "id": "news-agency",
+    "name": "Agencias de noticias"
+  },
+  {
+    "id": "tourism",
+    "name": "Turismo"
+  },
+  {
+    "id": "rural-news",
+    "name": "Noticias rurales"
+  },
+  {
+    "id": "labor",
+    "name": "Trabajo y sindicatos"
   }
 ]
