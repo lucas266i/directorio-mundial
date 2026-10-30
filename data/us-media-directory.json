@@ -10022,5 +10022,565 @@
     "status": "pending_verification",
     "verification_note": "Identificado en el directorio regional de periódicos del estado de Nueva York (edición 2025). URL asociada al medio o grupo editorial; verificar la página y actividad editorial individual antes de marcar como activo.",
     "source_directory": "New York Press Association — Statewide Regions directory 2025"
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-001",
+    "name": "Around Ambler",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Ambler",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://aroundambler.com/",
+    "coverage": [
+      "Ambler",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://aroundambler.com/about-us-2/",
+    "verification_note": "Local digital news covering Ambler, Lower Gwynedd, Whitpain and Upper Dublin. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-002",
+    "name": "exploreClarion",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Clarion",
+    "county": "Clarion County",
+    "county_id": "PA-clarion-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.exploreclarion.com/",
+    "coverage": [
+      "Clarion",
+      "Clarion County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.exploreclarion.com/about/",
+    "verification_note": "Hyperlocal news publisher serving Clarion County and surrounding communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-003",
+    "name": "exploreJefferson",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Brookville",
+    "county": "Jefferson County",
+    "county_id": "PA-jefferson-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.explorejeffersonpa.com/",
+    "coverage": [
+      "Brookville",
+      "Jefferson County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.explorejeffersonpa.com/about/",
+    "verification_note": "Hyperlocal news publisher serving Jefferson County and surrounding communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-004",
+    "name": "exploreVenango",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Franklin",
+    "county": "Venango County",
+    "county_id": "PA-venango-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.explorevenango.com/",
+    "coverage": [
+      "Franklin",
+      "Venango County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.explorevenango.com/",
+    "verification_note": "Hyperlocal news publisher serving Venango County and surrounding communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-005",
+    "name": "Glenside Local",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Glenside",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://glensidelocal.com/",
+    "coverage": [
+      "Glenside",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://glensidelocal.com/about-us/",
+    "verification_note": "Local digital news covering Glenside, Jenkintown, Elkins Park and Abington. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-006",
+    "name": "Horsham Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Horsham",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://horshamnow.com/",
+    "coverage": [
+      "Horsham",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://horshamnow.com/",
+    "verification_note": "Local digital news serving Horsham and nearby communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-007",
+    "name": "LebTown",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Lebanon",
+    "county": "Lebanon County",
+    "county_id": "PA-lebanon-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://lebtown.com/",
+    "coverage": [
+      "Lebanon",
+      "Lebanon County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://lebtown.com/",
+    "verification_note": "Independent local digital news serving Lebanon County. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-008",
+    "name": "LevittownNow",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Levittown",
+    "county": "Bucks County",
+    "county_id": "PA-bucks-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://levittownnow.com/",
+    "coverage": [
+      "Levittown",
+      "Bucks County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://levittownnow.com/about-us/",
+    "verification_note": "Locally owned digital news outlet serving communities in Bucks County. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-009",
+    "name": "Media PA Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Media",
+    "county": "Delaware County",
+    "county_id": "PA-delaware-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://mediapanow.com/",
+    "coverage": [
+      "Media",
+      "Delaware County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://mediapanow.com/",
+    "verification_note": "Local digital news serving Delaware County. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-010",
+    "name": "MoreThanTheCurve",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Conshohocken",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://morethanthecurve.com/",
+    "coverage": [
+      "Conshohocken",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://morethanthecurve.com/about-us/",
+    "verification_note": "Hyperlocal news covering Conshohocken, West Conshohocken, Plymouth Meeting and Lafayette Hill. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-011",
+    "name": "New Hope Free Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "New Hope",
+    "county": "Bucks County",
+    "county_id": "PA-bucks-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.newhopefreepress.com/",
+    "coverage": [
+      "New Hope",
+      "Bucks County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.newhopefreepress.com/about-us-contact-us/",
+    "verification_note": "Independent digital news serving New Hope and Solebury in Bucks County. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-012",
+    "name": "NewtownPANow",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Newtown",
+    "county": "Bucks County",
+    "county_id": "PA-bucks-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://newtownpanow.com/",
+    "coverage": [
+      "Newtown",
+      "Bucks County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://newtownpanow.com/about-uscontact-us/",
+    "verification_note": "Locally owned news covering Newtown, Wrightstown and Upper Makefield. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-013",
+    "name": "NorthCentralPA.com",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Williamsport",
+    "county": "Lycoming County",
+    "county_id": "PA-lycoming-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northcentralpa.com/",
+    "coverage": [
+      "Williamsport",
+      "Lycoming County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.northcentralpa.com/",
+    "verification_note": "Regional digital news serving north-central Pennsylvania. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-014",
+    "name": "North Penn Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Lansdale",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://northpennnow.com/",
+    "coverage": [
+      "Lansdale",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://northpennnow.com/about/",
+    "verification_note": "Local digital news serving the North Penn region. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-015",
+    "name": "Perk Valley Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Collegeville",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://perkvalleynow.com/",
+    "coverage": [
+      "Collegeville",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://perkvalleynow.com/about/",
+    "verification_note": "Local digital news serving the Perkiomen Valley region. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-016",
+    "name": "PhillyDaily",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Philadelphia",
+    "county": "Philadelphia County",
+    "county_id": "PA-philadelphia-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://phillydaily.com/",
+    "coverage": [
+      "Philadelphia",
+      "Philadelphia County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://phillydaily.com/",
+    "verification_note": "Digital news publication covering Philadelphia. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-017",
+    "name": "Saucon Source",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Hellertown",
+    "county": "Northampton County",
+    "county_id": "PA-northampton-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://sauconsource.com/",
+    "coverage": [
+      "Hellertown",
+      "Northampton County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://sauconsource.com/about-us/",
+    "verification_note": "Independent digital news serving Saucon Valley and nearby communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-018",
+    "name": "StateCollege.com",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "State College",
+    "county": "Centre County",
+    "county_id": "PA-centre-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.statecollege.com/",
+    "coverage": [
+      "State College",
+      "Centre County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.statecollege.com/about-us/",
+    "verification_note": "Community news and information serving State College and Centre County. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-019",
+    "name": "West Hills Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Pittsburgh",
+    "county": "Allegheny County",
+    "county_id": "PA-allegheny-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://westhillsgazette.com/",
+    "coverage": [
+      "Pittsburgh",
+      "Allegheny County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://westhillsgazette.com/",
+    "verification_note": "Community news publication serving Pittsburgh's West Hills. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
+  },
+  {
+    "id": "MED-USA-PA-LOCAL-020",
+    "name": "Willow Grove Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Willow Grove",
+    "county": "Montgomery County",
+    "county_id": "PA-montgomery-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://willowgrovenow.com/",
+    "coverage": [
+      "Willow Grove",
+      "Montgomery County",
+      "Pennsylvania"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://willowgrovenow.com/",
+    "verification_note": "Local digital news serving Willow Grove and surrounding communities. Website identified through Pennsylvania Independent News Association member listings and/or publisher's own about page; verify URL and editorial activity individually."
   }
 ]
