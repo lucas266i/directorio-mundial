@@ -116,7 +116,7 @@ function App() {
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
-    const selectedCategoryId = Object.entries(categoryLabels).find(([, label]) => label === category)?.[0];
+    const selectedCategoryId = categories.find((item) => (item.name || item) === category)?.id || Object.entries(categoryLabels).find(([, label]) => label === category)?.[0];
 
     return media.filter((m) => {
       const country = countryMap[m.country];
@@ -166,7 +166,7 @@ function App() {
             <div className="filterGroup"><label htmlFor="cityFilter">5. Ciudad / municipio</label><input id="cityFilter" value={cityQuery} onChange={e=>setCityQuery(e.target.value)} placeholder="Escribe una ciudad o municipio..." /></div>
             <div className="filterGroup"><label htmlFor="countyFilter">6. Condado (EE. UU.)</label><select id="countyFilter" value={selectedCounty} onChange={e=>setSelectedCounty(e.target.value)} disabled={selectedCountry!=="USA"||selectedState==="Todas"}><option value="Todas">Todos los condados</option>{countyOptions.map(county=><option key={county.id} value={county.id}>{county.name}</option>)}</select></div>
             <div className="filterGroup"><label htmlFor="languageFilter">7. Idioma</label><select id="languageFilter" value={selectedLanguage} onChange={e=>setSelectedLanguage(e.target.value)}><option value="Todas">Todos los idiomas</option>{languageOptions.map(lang=><option key={lang} value={lang}>{languageLabels[lang]||lang}</option>)}</select></div>
-            <div className="filterGroup"><label htmlFor="topicFilter">8. Tema / especialidad</label><select id="topicFilter" value={category} onChange={e=>setCategory(e.target.value)}><option value="Todas">Todos los temas</option>{categories.map(c=><option key={c}>{c}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="topicFilter">8. Tema / especialidad</label><select id="topicFilter" value={category} onChange={e=>setCategory(e.target.value)}><option value="Todas">Todos los temas</option>{categories.map(c=><option key={c.id || c}>{c.name || c}</option>)}</select></div>
             <div className="filterGroup searchGroup"><label htmlFor="textSearch">Búsqueda libre</label><input id="textSearch" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Medio, ciudad, país, idioma o palabra clave..." /></div>
           </div>
           <div className="countBar">{loading ? "Cargando inventario..." : `${countries.length} países/áreas · ${media.length} medios en catálogo · ${media.filter((m) => m.country === "USA").length} registros de EE. UU. · ${geography.length.toLocaleString("es-CO")} condados/equivalentes · ${geography.reduce((sum, county) => sum + county.cities.length, 0).toLocaleString("es-CO")} ciudades y localidades de referencia`}</div>
@@ -244,7 +244,7 @@ function App() {
 
         <section id="categorias" className="section">
           <div className="sectionHead"><div><span className="eyebrow">CLASIFICACIÓN</span><h2>Categorías prioritarias</h2></div></div>
-          <div className="chips large">{categories.map((c) => <span key={c}>#{c}</span>)}</div>
+          <div className="chips large">{categories.map((c) => <span key={c.id || c}>#{c.name || c}</span>)}</div>
         </section>
       </main>
 
