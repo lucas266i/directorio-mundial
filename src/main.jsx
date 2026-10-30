@@ -60,7 +60,7 @@ const categoryLabels = {
   "multilingual": "Multilingües", "public-radio": "Radio pública", "media-directory": "Directorio de medios", "discovery-source": "Fuente de descubrimiento", "latin-america": "América Latina e Iberoamérica"
 };
 
-const languageLabels = { multi: "Multilingüe", es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
+const languageLabels = { multi: "Multilingüe", es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", de: "Deutsch", sv: "Svenska", no: "Norsk", da: "Dansk", fi: "Suomi", it: "Italiano", el: "Ελληνικά", pl: "Polski", cs: "Čeština", ro: "Română", uk: "Українська", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
 
 function App() {
   const [query, setQuery] = useState("");
