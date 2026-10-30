@@ -47,7 +47,14 @@ const categoryLabels = {
   international: "Internacional",
   economy: "Economía",
   "human-rights": "Derechos humanos",
-  "fact-checking": "Fact-checking"
+  "fact-checking": "Fact-checking",
+  "general-news": "Noticias generales", "national": "Nacional", "business": "Negocios",
+  "government": "Gobierno", "local-news": "Noticias locales", "public-media": "Medios públicos",
+  "radio-digital": "Radio y digital", "newspaper": "Periódico", "news-agency": "Agencia de noticias",
+  "digital_native": "Medio digital", "digital-native": "Medio digital", "accountability": "Rendición de cuentas",
+  "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
+  "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
+  "spanish-language": "En español", "housing": "Vivienda", "economy": "Economía"
 };
 
 const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский" };
@@ -61,25 +68,31 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [selectedCountry, setSelectedCountry] = useState("Todas");
   const [selectedRegion, setSelectedRegion] = useState("Todas");
+  const [states, setStates] = useState([]);
+  const [selectedState, setSelectedState] = useState("Todas");
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
     Promise.all([
       fetch(`${base}data/countries.json`).then((r) => r.ok ? r.json() : fallbackCountries),
       fetch(`${base}data/media.json`).then((r) => r.ok ? r.json() : fallbackMedia),
-      fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories)
-    ]).then(([countryData, mediaData, categoryData]) => {
+      fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
+      fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : [])
+    ]).then(([countryData, mediaData, categoryData, stateData]) => {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
       setMedia(Array.isArray(mediaData) ? mediaData : fallbackMedia);
       setCategories(Array.isArray(categoryData) ? categoryData.map((c) => c.name || c).filter(Boolean) : fallbackCategories);
+      setStates(Array.isArray(stateData) ? stateData : []);
     }).catch(() => {
       setCountries(fallbackCountries);
       setMedia(fallbackMedia);
       setCategories(fallbackCategories);
+      setStates([]);
     }).finally(() => setLoading(false));
   }, []);
 
   const countryMap = useMemo(() => Object.fromEntries(countries.map((c) => [c.id, c])), [countries]);
+  const stateMap = useMemo(() => Object.fromEntries(states.map((st) => [st.code, st])), [states]);
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -88,15 +101,17 @@ function App() {
     return media.filter((m) => {
       const country = countryMap[m.country];
       const tags = (m.categories || []).map((id) => categoryLabels[id] || id);
-      const text = [m.name, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...tags]
+      const stateName = stateMap[m.state]?.name || m.state;
+      const text = [m.name, m.city, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...tags]
         .filter(Boolean).join(" ").toLowerCase();
       const matchesQuery = !q || text.includes(q);
       const matchesCategory = category === "Todas" || (m.categories || []).includes(selectedCategoryId);
       const matchesCountry = selectedCountry === "Todas" || m.country === selectedCountry;
       const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion;
-      return matchesQuery && matchesCategory && matchesCountry && matchesRegion;
+      const matchesState = selectedState === "Todas" || m.state === selectedState;
+      return matchesQuery && matchesCategory && matchesCountry && matchesRegion && matchesState;
     });
-  }, [query, category, selectedCountry, selectedRegion, media, countryMap]);
+  }, [query, category, selectedCountry, selectedRegion, selectedState, media, countryMap, stateMap]);
 
   const regions = useMemo(
     () => [...new Set(countries.map((c) => c.region).filter(Boolean))].sort((a, b) => a.localeCompare(b)),
@@ -130,6 +145,10 @@ function App() {
             <select value={selectedRegion} onChange={(e) => setSelectedRegion(e.target.value)}>
               <option>Todas</option>
               {regions.map((region) => <option key={region}>{region}</option>)}
+            </select>
+            <select value={selectedState} onChange={(e) => setSelectedState(e.target.value)}>
+              <option value="Todas">Todos los estados de EE. UU.</option>
+              {states.map((st) => <option key={st.code} value={st.code}>{st.name}</option>)}
             </select>
             <select value={category} onChange={(e) => setCategory(e.target.value)}>
               <option>Todas</option>
@@ -170,7 +189,7 @@ function App() {
               return <article className="card media" key={m.id || m.name}>
                 <div className="mediaTop"><span className="sourceIcon">📰</span><span className="countryTag">{country?.name || m.country}</span></div>
                 <h3>{m.name}</h3>
-                <p>{languageLabels[m.language] || m.language}</p>
+                <p>{[m.city, stateMap[m.state]?.name || (m.state === "US" ? "Cobertura nacional" : m.state), languageLabels[m.language] || m.language].filter(Boolean).join(" · ")}</p>
                 <div className="chips">{(m.categories || []).map((id) => <span key={id}>{categoryLabels[id] || id}</span>)}</div>
                 <span className="muted">Estado: {m.status === "pending_verification" ? "pendiente de verificación" : m.status || "sin estado"}</span>
                 <a href={m.official_url} target="_blank" rel="noreferrer">Visitar sitio oficial ↗</a>
