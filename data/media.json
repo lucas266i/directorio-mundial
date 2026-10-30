@@ -6132,5 +6132,470 @@
     "status": "pending_verification",
     "discovery_source": "https://capemaycountynj.gov/DocumentCenter/View/2334",
     "verification_note": "Identificado en el directorio de contactos de medios publicado por el gobierno del condado. La URL y actividad editorial se deben comprobar de forma periódica."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-001",
+    "name": "The Coaster",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Asbury Park",
+    "county": "Monmouth County",
+    "county_id": "NJ-monmouth-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.thecoaster.net/",
+    "coverage": [
+      "Asbury Park",
+      "Monmouth County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-002",
+    "name": "The Hammonton Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Hammonton",
+    "county": "Atlantic County",
+    "county_id": "NJ-atlantic-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.hammontongazette.com/",
+    "coverage": [
+      "Hammonton",
+      "Atlantic County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-003",
+    "name": "The Jewish Link",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Teaneck",
+    "county": "Bergen County",
+    "county_id": "NJ-bergen-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "specialty-media"
+    ],
+    "official_url": "https://www.jewishlinknj.com/",
+    "coverage": [
+      "Teaneck",
+      "Bergen County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-004",
+    "name": "The Retrospect",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Collingswood",
+    "county": "Camden County",
+    "county_id": "NJ-camden-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.theretrospect.com/",
+    "coverage": [
+      "Collingswood",
+      "Camden County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-005",
+    "name": "The SandPaper",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Surf City",
+    "county": "Ocean County",
+    "county_id": "NJ-ocean-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.thesandpaper.net/",
+    "coverage": [
+      "Surf City",
+      "Ocean County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-006",
+    "name": "The Two River Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Red Bank",
+    "county": "Monmouth County",
+    "county_id": "NJ-monmouth-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://tworivertimes.com/",
+    "coverage": [
+      "Red Bank",
+      "Monmouth County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-007",
+    "name": "The Voice of Lakewood",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Lakewood",
+    "county": "Ocean County",
+    "county_id": "NJ-ocean-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://thevoiceoflakewood.com/",
+    "coverage": [
+      "Lakewood",
+      "Ocean County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-008",
+    "name": "The Daily Targum",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "New Brunswick",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "student_media",
+    "categories": [
+      "campus-media",
+      "local-news"
+    ],
+    "official_url": "https://dailytargum.com/",
+    "coverage": [
+      "New Brunswick",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-009",
+    "name": "Ocean City Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Ocean City",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.oceancitysentinel.com/",
+    "coverage": [
+      "Ocean City",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-010",
+    "name": "The Westfield Leader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Westfield",
+    "county": "Union County",
+    "county_id": "NJ-union-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.goleader.com/",
+    "coverage": [
+      "Westfield",
+      "Union County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-011",
+    "name": "Pine Barrens Tribune",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Vincentown",
+    "county": "Burlington County",
+    "county_id": "NJ-burlington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.pinebarrenstribune.com/",
+    "coverage": [
+      "Vincentown",
+      "Burlington County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://clubrunner.blob.core.windows.net/00000050356/en-us/files/sitepage/club-resources-public-image/njpa---new-jersey-press-members/NJPA-New-Jersey-Press-Association---NJPA-Members--1-.pdf",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-012",
+    "name": "Montclair Local",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Montclair",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news"
+    ],
+    "official_url": "https://montclairlocal.news/",
+    "coverage": [
+      "Montclair",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-013",
+    "name": "The Montclair Dispatch",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Montclair",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.montclairdispatch.com/",
+    "coverage": [
+      "Montclair",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-014",
+    "name": "South Plainfield Observer",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "South Plainfield",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.spobserver.com/",
+    "coverage": [
+      "South Plainfield",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-015",
+    "name": "The Current (Linwood, Northfield and Somers Point)",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Egg Harbor Township",
+    "county": "Atlantic County",
+    "county_id": "NJ-atlantic-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/mainland/",
+    "coverage": [
+      "Egg Harbor Township",
+      "Atlantic County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
+  },
+  {
+    "id": "MED-USA-NE3-NJ-016",
+    "name": "Atlantic City Weekly",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Pleasantville",
+    "county": "Atlantic County",
+    "county_id": "NJ-atlantic-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "entertainment",
+      "community-media"
+    ],
+    "official_url": "https://atlanticcityweekly.com/",
+    "coverage": [
+      "Pleasantville",
+      "Atlantic County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njpa/members.html",
+    "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente."
   }
 ]
