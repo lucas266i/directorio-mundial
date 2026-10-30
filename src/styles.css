@@ -12,7 +12,7 @@ main{max-width:1180px;margin:auto;padding:44px 6% 60px}
 .eyebrow{font-size:11px;letter-spacing:.14em;color:#6cc8ff;font-weight:800}
 h1{font-size:clamp(38px,6vw,72px);line-height:1.02;max-width:860px;margin:14px 0}
 .hero p{max-width:820px;color:#9fb0c4;font-size:18px;line-height:1.6}
-.searchRow{display:grid;grid-template-columns:minmax(0,2fr) repeat(4,minmax(135px,1fr));gap:12px;max-width:1100px;margin-top:28px}
+.searchRow{display:grid;grid-template-columns:minmax(0,2fr) repeat(6,minmax(125px,1fr));gap:12px;max-width:1100px;margin-top:28px}
 input,select{width:100%;min-width:0;padding:16px 18px;border:1px solid #29415e;border-radius:14px;background:#0c1b2e;color:#eef5ff;font-size:15px}
 .countBar{margin-top:12px;color:#8198b0;font-size:13px}
 .section{margin-top:56px}
@@ -31,3 +31,5 @@ input,select{width:100%;min-width:0;padding:16px 18px;border:1px solid #29415e;b
 footer{padding:28px 6%;border-top:1px solid #203149;color:#8193a8;text-align:center}
 @media(max-width:960px){.searchRow{grid-template-columns:1fr 1fr}}
 @media(max-width:760px){.topbar{align-items:flex-start;flex-direction:column}.searchRow{grid-template-columns:1fr}.hero{padding-top:28px}.sectionHead{align-items:flex-start;flex-direction:column}}
+.geoNote{color:#91a4ba;line-height:1.6;max-width:850px}
+input:disabled,select:disabled{opacity:.45;cursor:not-allowed}
