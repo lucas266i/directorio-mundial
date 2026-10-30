@@ -1,0 +1,137 @@
+[
+  {
+    "id": "states-newsroom",
+    "name": "States Newsroom",
+    "scope": "United States",
+    "focus": [
+      "state-level reporting",
+      "politics",
+      "government",
+      "investigations"
+    ],
+    "url": "https://statesnewsroom.com/newsrooms/",
+    "coverage": "State newsroom network; one outlet candidate per state in initial catalog.",
+    "languages": [
+      "en"
+    ],
+    "priority": "high"
+  },
+  {
+    "id": "cuny-aapi",
+    "name": "AAPI Media Map & Directory — CUNY Center for Community Media",
+    "scope": "United States and territories",
+    "focus": [
+      "Asian American and Pacific Islander community media",
+      "ethnic media",
+      "local journalism"
+    ],
+    "url": "https://www.journalism.cuny.edu/centers/center-community-media/asian-media-initiative/aapi-media-map-directory/",
+    "coverage": "653 outlets in 35 states and Washington, D.C.; 54 languages, as described by the project.",
+    "languages": [
+      "54 languages"
+    ],
+    "priority": "critical"
+  },
+  {
+    "id": "cuny-latino",
+    "name": "Latino News Media Map — CUNY",
+    "scope": "United States and Puerto Rico",
+    "focus": [
+      "Spanish-language media",
+      "Latino community media"
+    ],
+    "url": "https://thelatinomediareport.journalism.cuny.edu/latino-media-report/",
+    "coverage": "More than 600 Latino news outlets; directory states it is not exhaustive.",
+    "languages": [
+      "es",
+      "en",
+      "bilingual"
+    ],
+    "priority": "critical"
+  },
+  {
+    "id": "american-community-media",
+    "name": "American Community Media Directory",
+    "scope": "United States",
+    "focus": [
+      "ethnic media",
+      "community outlets",
+      "county and regional coverage"
+    ],
+    "url": "https://dir.americancommunitymedia.org/single-location/?view=list",
+    "coverage": "Community media directory with location, county, audience, format and website fields.",
+    "languages": [
+      "multilingual"
+    ],
+    "priority": "critical"
+  },
+  {
+    "id": "cuny-maps-directories",
+    "name": "CUNY Center for Community Media — Maps & Directories",
+    "scope": "United States",
+    "focus": [
+      "Black media",
+      "Latino media",
+      "AAPI media",
+      "border media",
+      "immigrant media",
+      "New York community media"
+    ],
+    "url": "https://www.journalism.cuny.edu/centers/center-community-media/center-for-community-media-research/maps-directories/",
+    "coverage": "Directory index for several specialized U.S. community media maps.",
+    "languages": [
+      "multilingual"
+    ],
+    "priority": "high"
+  },
+  {
+    "id": "cuny-immigrant-media",
+    "name": "Digital First Responders — Immigrant Media Report",
+    "scope": "United States",
+    "focus": [
+      "immigrant media",
+      "ethnic language media",
+      "community radio",
+      "digital outlets"
+    ],
+    "url": "https://immigrantmediareport.journalism.cuny.edu/",
+    "coverage": "Research database of 50 outlets across 23 states and more than 30 languages.",
+    "languages": [
+      "30+ languages"
+    ],
+    "priority": "high"
+  },
+  {
+    "id": "ncm-alliance",
+    "name": "National Community Media Alliance",
+    "scope": "United States",
+    "focus": [
+      "community newspapers",
+      "Spanish-language newspapers",
+      "local ethnic media"
+    ],
+    "url": "https://www.ncmalliance.com/associations",
+    "coverage": "State and language-oriented directories; verify current activity and domains individually.",
+    "languages": [
+      "es",
+      "en",
+      "multilingual"
+    ],
+    "priority": "medium"
+  },
+  {
+    "id": "nexcom-network",
+    "name": "Nexcom Media Network",
+    "scope": "United States and international",
+    "focus": [
+      "local and regional digital publications"
+    ],
+    "url": "https://nexcommedia.org/network?type=local",
+    "coverage": "Network states 78 publication websites across 62 places.",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "priority": "medium"
+  }
+]
