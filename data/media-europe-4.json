@@ -15,7 +15,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.canalsur.es",
     "coverage": [
@@ -46,7 +46,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.cartv.es/aragon-t",
     "coverage": [
@@ -77,7 +77,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.3cat.cat",
     "coverage": [
@@ -108,7 +108,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.apuntmedia.es",
     "coverage": [
@@ -139,7 +139,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.eitb.eus",
     "coverage": [
@@ -170,7 +170,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.crtvg.es",
     "coverage": [
@@ -201,7 +201,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rtpa.es",
     "coverage": [
@@ -232,7 +232,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://ib3.org",
     "coverage": [
@@ -263,7 +263,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.telemadrid.es",
     "coverage": [
@@ -294,7 +294,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.cmmedia.es",
     "coverage": [
@@ -325,7 +325,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.canalextremadura.es",
     "coverage": [
@@ -356,7 +356,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://rtvc.es",
     "coverage": [
@@ -387,7 +387,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.la7tv.es",
     "coverage": [
@@ -418,7 +418,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.crtvg.es/rg",
     "coverage": [
@@ -449,7 +449,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.ccma.cat/catradio",
     "coverage": [
@@ -480,7 +480,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.eitb.eus/es/radio/radio-euskadi",
     "coverage": [
@@ -511,7 +511,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.canalextremadura.es/radio",
     "coverage": [
@@ -542,7 +542,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.cmmedia.es/radio",
     "coverage": [
@@ -573,7 +573,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/bretagne",
     "coverage": [
@@ -604,7 +604,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/occitanie",
     "coverage": [
@@ -635,7 +635,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine",
     "coverage": [
@@ -666,7 +666,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes",
     "coverage": [
@@ -697,7 +697,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/grand-est",
     "coverage": [
@@ -728,7 +728,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://france3-regions.franceinfo.fr/hauts-de-france",
     "coverage": [
@@ -759,7 +759,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.tv7.com",
     "coverage": [
@@ -790,7 +790,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.tebeo.bzh",
     "coverage": [
@@ -821,7 +821,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.tvr.bzh",
     "coverage": [
@@ -852,7 +852,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.bfmtv.com/marseille",
     "coverage": [
@@ -883,7 +883,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.francebleu.fr/bretagne",
     "coverage": [
@@ -914,7 +914,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www1.wdr.de",
     "coverage": [
@@ -945,7 +945,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.ndr.de",
     "coverage": [
@@ -976,7 +976,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.br.de",
     "coverage": [
@@ -1007,7 +1007,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.swr.de",
     "coverage": [
@@ -1038,7 +1038,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.mdr.de",
     "coverage": [
@@ -1069,7 +1069,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rbb24.de",
     "coverage": [
@@ -1100,7 +1100,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.hr-fernsehen.de",
     "coverage": [
@@ -1131,7 +1131,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radiobremen.de",
     "coverage": [
@@ -1162,7 +1162,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.sr.de",
     "coverage": [
@@ -1193,7 +1193,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www1.wdr.de/radio/wdr5",
     "coverage": [
@@ -1224,7 +1224,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_manchester",
     "coverage": [
@@ -1255,7 +1255,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_merseyside",
     "coverage": [
@@ -1286,7 +1286,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_newcastle",
     "coverage": [
@@ -1317,7 +1317,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_bristol",
     "coverage": [
@@ -1348,7 +1348,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_leeds",
     "coverage": [
@@ -1379,7 +1379,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_sheffield",
     "coverage": [
@@ -1410,7 +1410,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland",
     "coverage": [
@@ -1441,7 +1441,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_wales",
     "coverage": [
@@ -1472,7 +1472,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_ulster",
     "coverage": [
@@ -1503,7 +1503,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cornwall",
     "coverage": [
@@ -1534,7 +1534,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_suffolk",
     "coverage": [
@@ -1565,7 +1565,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_kent",
     "coverage": [
@@ -1596,7 +1596,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/piemonte",
     "coverage": [
@@ -1627,7 +1627,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/lombardia",
     "coverage": [
@@ -1658,7 +1658,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/veneto",
     "coverage": [
@@ -1689,7 +1689,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/emiliaromagna",
     "coverage": [
@@ -1720,7 +1720,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/toscana",
     "coverage": [
@@ -1751,7 +1751,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/lazio",
     "coverage": [
@@ -1782,7 +1782,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/campania",
     "coverage": [
@@ -1813,7 +1813,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/sicilia",
     "coverage": [
@@ -1844,7 +1844,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rainews.it/tgr/sardegna",
     "coverage": [
@@ -1875,7 +1875,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radiopopolare.it",
     "coverage": [
@@ -1906,7 +1906,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.omroepbrabant.nl",
     "coverage": [
@@ -1937,7 +1937,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.gld.nl",
     "coverage": [
@@ -1968,7 +1968,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rijnmond.nl",
     "coverage": [
@@ -1999,7 +1999,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.nhnieuws.nl",
     "coverage": [
@@ -2030,7 +2030,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.omropfryslan.nl",
     "coverage": [
@@ -2061,7 +2061,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rtvnoord.nl",
     "coverage": [
@@ -2092,7 +2092,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.vrt.be/vrtnws",
     "coverage": [
@@ -2123,7 +2123,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://brf.be",
     "coverage": [
@@ -2154,7 +2154,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radio1.be",
     "coverage": [
@@ -2185,7 +2185,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rtp.pt/acores",
     "coverage": [
@@ -2216,7 +2216,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.rtp.pt/madeira",
     "coverage": [
@@ -2247,7 +2247,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://rr.pt",
     "coverage": [
@@ -2278,7 +2278,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radiocomercial.pt",
     "coverage": [
@@ -2309,7 +2309,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://antena1.rtp.pt",
     "coverage": [
@@ -2340,7 +2340,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://tvp3.tvp.pl",
     "coverage": [
@@ -2371,7 +2371,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radiolodz.pl",
     "coverage": [
@@ -2402,7 +2402,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radiokrakow.pl",
     "coverage": [
@@ -2433,7 +2433,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radiowroclaw.pl",
     "coverage": [
@@ -2464,7 +2464,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radiogdansk.pl",
     "coverage": [
@@ -2495,7 +2495,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://sverigesradio.se/stockholm",
     "coverage": [
@@ -2526,7 +2526,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://sverigesradio.se/goteborg",
     "coverage": [
@@ -2557,7 +2557,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://sverigesradio.se/malmohus",
     "coverage": [
@@ -2588,7 +2588,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.nrk.no/osloogviken",
     "coverage": [
@@ -2619,7 +2619,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.nrk.no/vestland",
     "coverage": [
@@ -2650,7 +2650,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://yle.fi/radio",
     "coverage": [
@@ -2681,7 +2681,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.rte.ie/rnag",
     "coverage": [
@@ -2712,7 +2712,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.tg4.ie",
     "coverage": [
@@ -2743,7 +2743,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.ert.gr/ert3",
     "coverage": [
@@ -2774,7 +2774,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radio.hrt.hr",
     "coverage": [
@@ -2805,7 +2805,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radiostudent.si",
     "coverage": [
@@ -2836,7 +2836,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://radiozurnal.rozhlas.cz",
     "coverage": [
@@ -2867,7 +2867,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.radioromania.ro",
     "coverage": [
@@ -2898,7 +2898,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://kuku.pleier.ee",
     "coverage": [
@@ -2929,7 +2929,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://lr1.lsm.lv",
     "coverage": [
@@ -2960,7 +2960,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.ziniuradijas.lt",
     "coverage": [
@@ -2991,7 +2991,7 @@
     "type": "radio",
     "categories": [
       "general-news",
-      "radio-digital"
+      "radio"
     ],
     "official_url": "https://www.100komma7.lu",
     "coverage": [
@@ -3022,7 +3022,7 @@
     "type": "television",
     "categories": [
       "general-news",
-      "television-digital"
+      "television"
     ],
     "official_url": "https://www.pbs.com.mt",
     "coverage": [
