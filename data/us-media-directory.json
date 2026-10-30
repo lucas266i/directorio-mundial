@@ -6388,5 +6388,1252 @@
     "status": "pending_verification",
     "verification_note": "Identificado en directorios de la New Jersey Press Association. Mantener pendiente hasta comprobar individualmente que la URL responde y que existe actividad editorial reciente.",
     "source_directory": "https://njpa.org/njpa/members.html"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-001",
+    "name": "The Central Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Medford",
+    "county": "Burlington County",
+    "county_id": "NJ-burlington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.medfordcentralrecord.com/",
+    "coverage": [
+      "Medford",
+      "Burlington County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-002",
+    "name": "The Cape May Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Cape May",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/",
+    "coverage": [
+      "Cape May",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-003",
+    "name": "The Middle Township Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Cape May Court House",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/",
+    "coverage": [
+      "Cape May Court House",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-004",
+    "name": "The Ocean City Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Ocean City",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/",
+    "coverage": [
+      "Ocean City",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-005",
+    "name": "The Upper Township Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Petersburg",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/",
+    "coverage": [
+      "Petersburg",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-006",
+    "name": "The Wildwood Leader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Wildwood",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.shorenewstoday.com/",
+    "coverage": [
+      "Wildwood",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-007",
+    "name": "Belleville Post",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Belleville",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Belleville",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-008",
+    "name": "The Independent Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Bloomfield",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.tapinto.net/towns/bloomfield",
+    "coverage": [
+      "Bloomfield",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-009",
+    "name": "The Item of Millburn and Short Hills",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Millburn",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Millburn",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-010",
+    "name": "News-Record of Maplewood & South Orange",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Maplewood",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Maplewood",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-011",
+    "name": "Nutley Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Nutley",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Nutley",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-012",
+    "name": "West Orange Chronicle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "West Orange",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "West Orange",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-013",
+    "name": "Bayonne Community News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Bayonne",
+    "county": "Hudson County",
+    "county_id": "NJ-hudson-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.hudsonreporter.com/",
+    "coverage": [
+      "Bayonne",
+      "Hudson County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-014",
+    "name": "The Hoboken Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Hoboken",
+    "county": "Hudson County",
+    "county_id": "NJ-hudson-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.hudsonreporter.com/",
+    "coverage": [
+      "Hoboken",
+      "Hudson County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-015",
+    "name": "The Jersey City Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "county_id": "NJ-hudson-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.hudsonreporter.com/",
+    "coverage": [
+      "Jersey City",
+      "Hudson County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-016",
+    "name": "The New Jersey Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Newton",
+    "county": "Sussex County",
+    "county_id": "NJ-sussex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.njherald.com/",
+    "coverage": [
+      "Newton",
+      "Sussex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-017",
+    "name": "Daily Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Parsippany",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.dailyrecord.com/",
+    "coverage": [
+      "Parsippany",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-018",
+    "name": "Chatham Courier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Chatham",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.dailyrecord.com/",
+    "coverage": [
+      "Chatham",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-019",
+    "name": "Morris NewsBee",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Morristown",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.dailyrecord.com/",
+    "coverage": [
+      "Morristown",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-020",
+    "name": "Observer-Tribune",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Chester",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.dailyrecord.com/",
+    "coverage": [
+      "Chester",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-021",
+    "name": "Parsippany Life",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Parsippany",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.parsippanylife.com/",
+    "coverage": [
+      "Parsippany",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-022",
+    "name": "The Randolph Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Randolph",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.randolphreporter.com/",
+    "coverage": [
+      "Randolph",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-023",
+    "name": "Roxbury Register",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Succasunna",
+    "county": "Morris County",
+    "county_id": "NJ-morris-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.roxburysregister.com/",
+    "coverage": [
+      "Succasunna",
+      "Morris County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-024",
+    "name": "The Monmouth Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Little Silver",
+    "county": "Monmouth County",
+    "county_id": "NJ-monmouth-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.monmouthjournal.com/",
+    "coverage": [
+      "Little Silver",
+      "Monmouth County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-025",
+    "name": "Tri-Town News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Toms River",
+    "county": "Ocean County",
+    "county_id": "NJ-ocean-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.tritownnews.com/",
+    "coverage": [
+      "Toms River",
+      "Ocean County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-026",
+    "name": "The Star-Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Hackettstown",
+    "county": "Warren County",
+    "county_id": "NJ-warren-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.stargazette.com/",
+    "coverage": [
+      "Hackettstown",
+      "Warren County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-027",
+    "name": "The Warren Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Hackettstown",
+    "county": "Warren County",
+    "county_id": "NJ-warren-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.warrenreporter.com/",
+    "coverage": [
+      "Hackettstown",
+      "Warren County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-028",
+    "name": "Hopewell Valley News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Hopewell",
+    "county": "Mercer County",
+    "county_id": "NJ-mercer-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "Hopewell",
+      "Mercer County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-029",
+    "name": "The Princeton Packet",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Princeton",
+    "county": "Mercer County",
+    "county_id": "NJ-mercer-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "Princeton",
+      "Mercer County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-030",
+    "name": "Windsor-Hights Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Allentown",
+    "county": "Monmouth County",
+    "county_id": "NJ-monmouth-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "Allentown",
+      "Monmouth County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-031",
+    "name": "Hunterdon County Democrat",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Flemington",
+    "county": "Hunterdon County",
+    "county_id": "NJ-hunterdon-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.mycentraljersey.com/",
+    "coverage": [
+      "Flemington",
+      "Hunterdon County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-032",
+    "name": "Hunterdon Review",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Flemington",
+    "county": "Hunterdon County",
+    "county_id": "NJ-hunterdon-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.mycentraljersey.com/",
+    "coverage": [
+      "Flemington",
+      "Hunterdon County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-033",
+    "name": "Cranbury Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Cranbury",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "Cranbury",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-034",
+    "name": "East Brunswick Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "East Brunswick",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "East Brunswick",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-035",
+    "name": "Edison/Metuchen Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Edison",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "Edison",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-036",
+    "name": "North/South Brunswick Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "North Brunswick",
+    "county": "Middlesex County",
+    "county_id": "NJ-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.centraljersey.com/",
+    "coverage": [
+      "North Brunswick",
+      "Middlesex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-037",
+    "name": "The Daily Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Vineland",
+    "county": "Cumberland County",
+    "county_id": "NJ-cumberland-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.thedailyjournal.com/",
+    "coverage": [
+      "Vineland",
+      "Cumberland County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-038",
+    "name": "South Jersey Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Woodbury",
+    "county": "Gloucester County",
+    "county_id": "NJ-gloucester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.nj.com/southjerseytimes/",
+    "coverage": [
+      "Woodbury",
+      "Gloucester County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-039",
+    "name": "The Sentinel of Gloucester County",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Franklinville",
+    "county": "Gloucester County",
+    "county_id": "NJ-gloucester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.snjtoday.com/",
+    "coverage": [
+      "Franklinville",
+      "Gloucester County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-040",
+    "name": "The Trentonian",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Trenton",
+    "county": "Mercer County",
+    "county_id": "NJ-mercer-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.trentonian.com/",
+    "coverage": [
+      "Trenton",
+      "Mercer County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-041",
+    "name": "Town Topics",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Princeton",
+    "county": "Mercer County",
+    "county_id": "NJ-mercer-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.towntopics.com/",
+    "coverage": [
+      "Princeton",
+      "Mercer County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-042",
+    "name": "The West Essex Tribune",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Livingston",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.westessextribune.net/",
+    "coverage": [
+      "Livingston",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
+  },
+  {
+    "id": "MED-USA-NE4-NJ-043",
+    "name": "The Star-Ledger's The Times (Trenton)",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Trenton",
+    "county": "Mercer County",
+    "county_id": "NJ-mercer-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.nj.com/times/",
+    "coverage": [
+      "Trenton",
+      "Mercer County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Título incluido en el listado de periódicos participantes de NJPA/SCAN. URL asociada a la publicación o grupo editorial; verificar la página específica, actividad y continuidad antes de marcar como activo.",
+    "source_directory": "New Jersey Press Association / SCAN participating newspapers"
   }
 ]
