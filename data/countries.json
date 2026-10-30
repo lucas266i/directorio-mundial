@@ -616,5 +616,180 @@
     "continent": "Europa",
     "region": "Oriental",
     "language": "uk"
+  },
+  {
+    "id": "EST",
+    "name": "Estonia",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "et"
+  },
+  {
+    "id": "ISL",
+    "name": "Islandia",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "is"
+  },
+  {
+    "id": "LVA",
+    "name": "Letonia",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "lv"
+  },
+  {
+    "id": "LTU",
+    "name": "Lituania",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "lt"
+  },
+  {
+    "id": "ALB",
+    "name": "Albania",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "sq"
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia y Herzegovina",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "bs"
+  },
+  {
+    "id": "HRV",
+    "name": "Croacia",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "hr"
+  },
+  {
+    "id": "CYP",
+    "name": "Chipre",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "el"
+  },
+  {
+    "id": "XKX",
+    "name": "Kosovo",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "sq"
+  },
+  {
+    "id": "MLT",
+    "name": "Malta",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "mt"
+  },
+  {
+    "id": "MNE",
+    "name": "Montenegro",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "sr"
+  },
+  {
+    "id": "MKD",
+    "name": "Macedonia del Norte",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "mk"
+  },
+  {
+    "id": "SMR",
+    "name": "San Marino",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "it"
+  },
+  {
+    "id": "SRB",
+    "name": "Serbia",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "sr"
+  },
+  {
+    "id": "SVN",
+    "name": "Eslovenia",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "sl"
+  },
+  {
+    "id": "LIE",
+    "name": "Liechtenstein",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "de"
+  },
+  {
+    "id": "LUX",
+    "name": "Luxemburgo",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "lb"
+  },
+  {
+    "id": "MCO",
+    "name": "Mónaco",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "fr"
+  },
+  {
+    "id": "BLR",
+    "name": "Bielorrusia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "be"
+  },
+  {
+    "id": "BGR",
+    "name": "Bulgaria",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "bg"
+  },
+  {
+    "id": "HUN",
+    "name": "Hungría",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "hu"
+  },
+  {
+    "id": "MDA",
+    "name": "Moldavia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "ro"
+  },
+  {
+    "id": "RUS",
+    "name": "Rusia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "ru"
+  },
+  {
+    "id": "SVK",
+    "name": "Eslovaquia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "sk"
+  },
+  {
+    "id": "AND",
+    "name": "Andorra",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "ca"
   }
 ]
