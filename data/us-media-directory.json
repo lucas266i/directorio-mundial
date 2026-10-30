@@ -11984,5 +11984,100 @@
     "discovery_source": "Official outlet About and Contact pages",
     "source_directory": "AAPI and South Asian community media directories; publisher site",
     "verification_note": "New York-based English-language weekly e-newspaper serving Indian American and South Asian diaspora audiences. Publisher contact information and publication description appear on its official site; direct verification remains pending."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-007",
+    "name": "IndoNewYork",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bronx",
+    "county": "Bronx County",
+    "county_id": "NY-bronx-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "south-asian-media",
+      "immigrant-media"
+    ],
+    "official_url": "https://indonewyork.com/",
+    "coverage": [
+      "Bronx",
+      "Queens",
+      "Brooklyn",
+      "Manhattan",
+      "Staten Island",
+      "Indian American and South Asian communities"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media; official outlet About and Ownership pages",
+    "source_directory": "Many Voices, One City; publisher site",
+    "verification_note": "Official About page identifies this as a Bronx-based New York City local news publication covering all five boroughs and Indian American/South Asian communities. Site and ownership/funding page updated October 2026; editorial claims not independently audited."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-008",
+    "name": "The Uptown Collective",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "hyperlocal",
+      "arts-and-culture",
+      "latino-community"
+    ],
+    "official_url": "https://uptowncollective.com/",
+    "coverage": [
+      "Washington Heights",
+      "Inwood",
+      "Harlem",
+      "Northern Manhattan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media; official About page",
+    "source_directory": "Many Voices, One City; publisher site",
+    "verification_note": "Hyperlocal publication describing coverage of Washington Heights, Inwood and Harlem. Site remains accessible; most recent dated material found was from 2025, so current publishing frequency needs review."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-009",
+    "name": "White Eagle – New York Edition",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York City",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "polish-language-media",
+      "diaspora-news",
+      "immigrant-media"
+    ],
+    "official_url": "https://whiteeaglenews.com/white-eagle-new-york/",
+    "coverage": [
+      "New York City metropolitan area",
+      "Polish-American communities in New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official White Eagle Media New York edition page",
+    "source_directory": "White Eagle Media publication directory",
+    "verification_note": "Publisher identifies a dedicated New York edition of its Polish-language newspaper, with biweekly publication and local community coverage. Publisher headquarters are in Connecticut; geographic placement is based on the New York edition's stated market, not a verified New York newsroom address."
   }
 ]
