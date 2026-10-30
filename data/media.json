@@ -11496,5 +11496,267 @@
     "discovery_source": "https://wnhh.org/",
     "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
     "verification_note": "Official station page describes a New Haven community radio station with local journalism and Spanish-language programming."
+  },
+  {
+    "id": "MED-USA-NY-CCM-011",
+    "name": "QNS",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "independent-media",
+      "investigative"
+    ],
+    "official_url": "https://qns.com/",
+    "coverage": [
+      "Queens",
+      "Queens County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-004",
+    "name": "The East Hampton Star",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "East Hampton",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://www.easthamptonstar.com/",
+    "coverage": [
+      "East Hampton",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-005",
+    "name": "East Hampton Independent",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "East Hampton",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://www.easthamptonindependent.com/",
+    "coverage": [
+      "East Hampton",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-008",
+    "name": "Riverhead News-Review",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Riverhead",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://riverheadnewsreview.timesreview.com/",
+    "coverage": [
+      "Riverhead",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-009",
+    "name": "The Suffolk Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Mattituck",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://suffolktimes.timesreview.com/",
+    "coverage": [
+      "Mattituck",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-010",
+    "name": "The Shelter Island Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Shelter Island",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://shelterislandreporter.timesreview.com/",
+    "coverage": [
+      "Shelter Island",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-012",
+    "name": "Port Times Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Port Jefferson",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://porttimesrecord.com/",
+    "coverage": [
+      "Port Jefferson",
+      "Suffolk County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-014",
+    "name": "News 12 Long Island",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Woodbury",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://longisland.news12.com/",
+    "coverage": [
+      "Woodbury",
+      "Nassau County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-LI-015",
+    "name": "WLIW",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Garden City",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news",
+      "independent-media"
+    ],
+    "official_url": "https://www.wliw.org/",
+    "coverage": [
+      "Garden City",
+      "Nassau County",
+      "New York"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Center for Community Media directory / New York local journalism directories / Nassau and Suffolk County media listings",
+    "source_directory": "CUNY Center for Community Media; Media and Democracy Project; Nassau County Designated Newspapers; Suffolk County Clerk Media Links; Molloy University Long Island media directory",
+    "verification_note": "Candidate identified in a regional or institutional directory. Outlet URL and current publishing activity require individual verification; geographic placement is provisional where the publisher does not state a precise newsroom address."
   }
 ]
