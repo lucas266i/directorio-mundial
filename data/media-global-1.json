@@ -1,0 +1,2404 @@
+[
+  {
+    "id": "MED-GLOBAL-001",
+    "name": "Chicago Tribune",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Chicago",
+    "admin1_name": "Illinois",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.chicagotribune.com/",
+    "coverage": [
+      "Chicago",
+      "Illinois"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Cook County",
+    "county_name": "Cook County"
+  },
+  {
+    "id": "MED-GLOBAL-002",
+    "name": "The Dallas Morning News",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Dallas",
+    "admin1_name": "Texas",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dallasnews.com/",
+    "coverage": [
+      "Dallas",
+      "Texas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Dallas County",
+    "county_name": "Dallas County"
+  },
+  {
+    "id": "MED-GLOBAL-003",
+    "name": "Houston Chronicle",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Houston",
+    "admin1_name": "Texas",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.houstonchronicle.com/",
+    "coverage": [
+      "Houston",
+      "Texas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Harris County",
+    "county_name": "Harris County"
+  },
+  {
+    "id": "MED-GLOBAL-004",
+    "name": "The Oregonian",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Portland",
+    "admin1_name": "Oregon",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.oregonlive.com/",
+    "coverage": [
+      "Portland",
+      "Oregon"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Multnomah County",
+    "county_name": "Multnomah County"
+  },
+  {
+    "id": "MED-GLOBAL-005",
+    "name": "The Arizona Republic",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Phoenix",
+    "admin1_name": "Arizona",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.azcentral.com/",
+    "coverage": [
+      "Phoenix",
+      "Arizona"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Maricopa County",
+    "county_name": "Maricopa County"
+  },
+  {
+    "id": "MED-GLOBAL-006",
+    "name": "The Detroit Free Press",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Detroit",
+    "admin1_name": "Michigan",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.freep.com/",
+    "coverage": [
+      "Detroit",
+      "Michigan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Wayne County",
+    "county_name": "Wayne County"
+  },
+  {
+    "id": "MED-GLOBAL-007",
+    "name": "The Minneapolis Star Tribune",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Minneapolis",
+    "admin1_name": "Minnesota",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.startribune.com/",
+    "coverage": [
+      "Minneapolis",
+      "Minnesota"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Hennepin County",
+    "county_name": "Hennepin County"
+  },
+  {
+    "id": "MED-GLOBAL-008",
+    "name": "The Tampa Bay Times",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "St. Petersburg",
+    "admin1_name": "Florida",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tampabay.com/",
+    "coverage": [
+      "St. Petersburg",
+      "Florida"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Pinellas County",
+    "county_name": "Pinellas County"
+  },
+  {
+    "id": "MED-GLOBAL-009",
+    "name": "The Baltimore Sun",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Baltimore",
+    "admin1_name": "Maryland",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.baltimoresun.com/",
+    "coverage": [
+      "Baltimore",
+      "Maryland"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Baltimore City",
+    "county_name": "Baltimore City"
+  },
+  {
+    "id": "MED-GLOBAL-010",
+    "name": "The Kansas City Star",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Kansas City",
+    "admin1_name": "Missouri",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kansascity.com/",
+    "coverage": [
+      "Kansas City",
+      "Missouri"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Jackson County",
+    "county_name": "Jackson County"
+  },
+  {
+    "id": "MED-GLOBAL-011",
+    "name": "The Sacramento Bee",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Sacramento",
+    "admin1_name": "California",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sacbee.com/",
+    "coverage": [
+      "Sacramento",
+      "California"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada.",
+    "county": "Sacramento County",
+    "county_name": "Sacramento County"
+  },
+  {
+    "id": "MED-GLOBAL-012",
+    "name": "Vancouver Sun",
+    "country": "CAN",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Vancouver",
+    "admin1_name": "British Columbia",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://vancouversun.com/",
+    "coverage": [
+      "Vancouver",
+      "British Columbia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-013",
+    "name": "The Province",
+    "country": "CAN",
+    "continent": "América",
+    "continent_region": "Norteamérica",
+    "city": "Vancouver",
+    "admin1_name": "British Columbia",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://theprovince.com/",
+    "coverage": [
+      "Vancouver",
+      "British Columbia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-014",
+    "name": "The Hindu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Chennai",
+    "admin1_name": "Tamil Nadu",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thehindu.com/",
+    "coverage": [
+      "Chennai",
+      "Tamil Nadu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-015",
+    "name": "Deccan Chronicle",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Hyderabad",
+    "admin1_name": "Telangana",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.deccanchronicle.com/",
+    "coverage": [
+      "Hyderabad",
+      "Telangana"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-016",
+    "name": "The Telegraph India",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kolkata",
+    "admin1_name": "West Bengal",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.telegraphindia.com/",
+    "coverage": [
+      "Kolkata",
+      "West Bengal"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-017",
+    "name": "The New Indian Express",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Chennai",
+    "admin1_name": "Tamil Nadu",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.newindianexpress.com/",
+    "coverage": [
+      "Chennai",
+      "Tamil Nadu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-018",
+    "name": "Dainik Bhaskar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Bhopal",
+    "admin1_name": "Madhya Pradesh",
+    "admin1_type": "state",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bhaskar.com/",
+    "coverage": [
+      "Bhopal",
+      "Madhya Pradesh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-019",
+    "name": "Dainik Jagran",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kanpur",
+    "admin1_name": "Uttar Pradesh",
+    "admin1_type": "state",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/",
+    "coverage": [
+      "Kanpur",
+      "Uttar Pradesh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-020",
+    "name": "Amar Ujala",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Noida",
+    "admin1_name": "Uttar Pradesh",
+    "admin1_type": "state",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/",
+    "coverage": [
+      "Noida",
+      "Uttar Pradesh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-021",
+    "name": "Eenadu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Hyderabad",
+    "admin1_name": "Telangana",
+    "admin1_type": "state",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.eenadu.net/",
+    "coverage": [
+      "Hyderabad",
+      "Telangana"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-022",
+    "name": "Sakshi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Hyderabad",
+    "admin1_name": "Telangana",
+    "admin1_type": "state",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sakshi.com/",
+    "coverage": [
+      "Hyderabad",
+      "Telangana"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-023",
+    "name": "Mathrubhumi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kozhikode",
+    "admin1_name": "Kerala",
+    "admin1_type": "state",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mathrubhumi.com/",
+    "coverage": [
+      "Kozhikode",
+      "Kerala"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-024",
+    "name": "Malayala Manorama",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kottayam",
+    "admin1_name": "Kerala",
+    "admin1_type": "state",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.manoramaonline.com/",
+    "coverage": [
+      "Kottayam",
+      "Kerala"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-025",
+    "name": "Anandabazar Patrika",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kolkata",
+    "admin1_name": "West Bengal",
+    "admin1_type": "state",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.anandabazar.com/",
+    "coverage": [
+      "Kolkata",
+      "West Bengal"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-026",
+    "name": "Lokmat",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Mumbai",
+    "admin1_name": "Maharashtra",
+    "admin1_type": "state",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.lokmat.com/",
+    "coverage": [
+      "Mumbai",
+      "Maharashtra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-027",
+    "name": "The Assam Tribune",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Guwahati",
+    "admin1_name": "Assam",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://assamtribune.com/",
+    "coverage": [
+      "Guwahati",
+      "Assam"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-028",
+    "name": "The Japan Times",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "admin1_name": "Tokyo",
+    "admin1_type": "prefecture",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.japantimes.co.jp/",
+    "coverage": [
+      "Tokyo",
+      "Tokyo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-029",
+    "name": "The Mainichi",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "admin1_name": "Tokyo",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://mainichi.jp/",
+    "coverage": [
+      "Tokyo",
+      "Tokyo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-030",
+    "name": "The Asahi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "admin1_name": "Tokyo",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.asahi.com/",
+    "coverage": [
+      "Tokyo",
+      "Tokyo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-031",
+    "name": "The Yomiuri Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "admin1_name": "Tokyo",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.yomiuri.co.jp/",
+    "coverage": [
+      "Tokyo",
+      "Tokyo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-032",
+    "name": "The Hokkaido Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Sapporo",
+    "admin1_name": "Hokkaido",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.hokkaido-np.co.jp/",
+    "coverage": [
+      "Sapporo",
+      "Hokkaido"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-033",
+    "name": "Chunichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Nagoya",
+    "admin1_name": "Aichi",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.chunichi.co.jp/",
+    "coverage": [
+      "Nagoya",
+      "Aichi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-034",
+    "name": "Nishinippon Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Fukuoka",
+    "admin1_name": "Fukuoka",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.nishinippon.co.jp/",
+    "coverage": [
+      "Fukuoka",
+      "Fukuoka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-035",
+    "name": "Kahoku Shimpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Sendai",
+    "admin1_name": "Miyagi",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://kahoku.news/",
+    "coverage": [
+      "Sendai",
+      "Miyagi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-036",
+    "name": "The Okinawa Times",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Naha",
+    "admin1_name": "Okinawa",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.okinawatimes.co.jp/",
+    "coverage": [
+      "Naha",
+      "Okinawa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-037",
+    "name": "Kobe Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Kobe",
+    "admin1_name": "Hyogo",
+    "admin1_type": "prefecture",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kobe-np.co.jp/",
+    "coverage": [
+      "Kobe",
+      "Hyogo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-038",
+    "name": "Daily Maverick",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailymaverick.co.za/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-039",
+    "name": "The Mail & Guardian",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://mg.co.za/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-040",
+    "name": "News24",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Cape Town",
+    "admin1_name": "Western Cape",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.news24.com/",
+    "coverage": [
+      "Cape Town",
+      "Western Cape"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-041",
+    "name": "IOL",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Cape Town",
+    "admin1_name": "Western Cape",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.iol.co.za/",
+    "coverage": [
+      "Cape Town",
+      "Western Cape"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-042",
+    "name": "The Citizen",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.citizen.co.za/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-043",
+    "name": "The Sowetan",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sowetanlive.co.za/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-044",
+    "name": "Daily Sun",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailysun.co.za/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-045",
+    "name": "The Herald",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Gqeberha",
+    "admin1_name": "Eastern Cape",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.heraldlive.co.za/",
+    "coverage": [
+      "Gqeberha",
+      "Eastern Cape"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-046",
+    "name": "The Witness",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Pietermaritzburg",
+    "admin1_name": "KwaZulu-Natal",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.news24.com/witness",
+    "coverage": [
+      "Pietermaritzburg",
+      "KwaZulu-Natal"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-047",
+    "name": "The Mercury",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Durban",
+    "admin1_name": "KwaZulu-Natal",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.iol.co.za/mercury",
+    "coverage": [
+      "Durban",
+      "KwaZulu-Natal"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-048",
+    "name": "The Guardian Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://guardian.ng/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-049",
+    "name": "Punch",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://punchng.com/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-050",
+    "name": "Vanguard",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.vanguardngr.com/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-051",
+    "name": "The Nation",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thenationonlineng.net/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-052",
+    "name": "Daily Trust",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abuja",
+    "admin1_name": "Federal Capital Territory",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://dailytrust.com/",
+    "coverage": [
+      "Abuja",
+      "Federal Capital Territory"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-053",
+    "name": "Premium Times",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abuja",
+    "admin1_name": "Federal Capital Territory",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.premiumtimesng.com/",
+    "coverage": [
+      "Abuja",
+      "Federal Capital Territory"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-054",
+    "name": "TheCable",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thecable.ng/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-055",
+    "name": "BusinessDay Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://businessday.ng/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-056",
+    "name": "The Sun Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Lagos",
+    "admin1_name": "Lagos",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thesun.ng/",
+    "coverage": [
+      "Lagos",
+      "Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-057",
+    "name": "Leadership",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abuja",
+    "admin1_name": "Federal Capital Territory",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://leadership.ng/",
+    "coverage": [
+      "Abuja",
+      "Federal Capital Territory"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-058",
+    "name": "Daily Nation",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "admin1_name": "Nairobi County",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://nation.africa/",
+    "coverage": [
+      "Nairobi",
+      "Nairobi County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-059",
+    "name": "The Star Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "admin1_name": "Nairobi County",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.the-star.co.ke/",
+    "coverage": [
+      "Nairobi",
+      "Nairobi County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-060",
+    "name": "The EastAfrican",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "admin1_name": "Nairobi County",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.theeastafrican.co.ke/",
+    "coverage": [
+      "Nairobi",
+      "Nairobi County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-061",
+    "name": "Business Daily Africa",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "admin1_name": "Nairobi County",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.businessdailyafrica.com/",
+    "coverage": [
+      "Nairobi",
+      "Nairobi County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-062",
+    "name": "The Sydney Morning Herald",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Sydney",
+    "admin1_name": "New South Wales",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.smh.com.au/",
+    "coverage": [
+      "Sydney",
+      "New South Wales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-063",
+    "name": "The Age",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Melbourne",
+    "admin1_name": "Victoria",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.theage.com.au/",
+    "coverage": [
+      "Melbourne",
+      "Victoria"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-064",
+    "name": "Brisbane Times",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Brisbane",
+    "admin1_name": "Queensland",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.brisbanetimes.com.au/",
+    "coverage": [
+      "Brisbane",
+      "Queensland"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-065",
+    "name": "The West Australian",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Perth",
+    "admin1_name": "Western Australia",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thewest.com.au/",
+    "coverage": [
+      "Perth",
+      "Western Australia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-066",
+    "name": "The Advertiser",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Adelaide",
+    "admin1_name": "South Australia",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.adelaidenow.com.au/",
+    "coverage": [
+      "Adelaide",
+      "South Australia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-067",
+    "name": "The Canberra Times",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Canberra",
+    "admin1_name": "Australian Capital Territory",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.canberratimes.com.au/",
+    "coverage": [
+      "Canberra",
+      "Australian Capital Territory"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-068",
+    "name": "NT News",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Darwin",
+    "admin1_name": "Northern Territory",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ntnews.com.au/",
+    "coverage": [
+      "Darwin",
+      "Northern Territory"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-069",
+    "name": "The Guardian Australia",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Sydney",
+    "admin1_name": "New South Wales",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.theguardian.com/australia-news",
+    "coverage": [
+      "Sydney",
+      "New South Wales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-070",
+    "name": "The Saturday Paper",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Melbourne",
+    "admin1_name": "Victoria",
+    "admin1_type": "state/territory",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thesaturdaypaper.com.au/",
+    "coverage": [
+      "Melbourne",
+      "Victoria"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-071",
+    "name": "The New Zealand Herald",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Auckland",
+    "admin1_name": "Auckland",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/",
+    "coverage": [
+      "Auckland",
+      "Auckland"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-072",
+    "name": "The Post",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Wellington",
+    "admin1_name": "Wellington",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thepost.co.nz/",
+    "coverage": [
+      "Wellington",
+      "Wellington"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-073",
+    "name": "The Press",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Christchurch",
+    "admin1_name": "Canterbury",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thepress.co.nz/",
+    "coverage": [
+      "Christchurch",
+      "Canterbury"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-074",
+    "name": "Otago Daily Times",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Dunedin",
+    "admin1_name": "Otago",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.odt.co.nz/",
+    "coverage": [
+      "Dunedin",
+      "Otago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-075",
+    "name": "Waikato Times",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Hamilton",
+    "admin1_name": "Waikato",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.waikatotimes.co.nz/",
+    "coverage": [
+      "Hamilton",
+      "Waikato"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-076",
+    "name": "Philippine Daily Inquirer",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Makati",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.inquirer.net/",
+    "coverage": [
+      "Makati",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-077",
+    "name": "The Manila Times",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Manila",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.manilatimes.net/",
+    "coverage": [
+      "Manila",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-078",
+    "name": "Rappler",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Mandaluyong",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.rappler.com/",
+    "coverage": [
+      "Mandaluyong",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-079",
+    "name": "The Philippine Star",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Mandaluyong",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.philstar.com/",
+    "coverage": [
+      "Mandaluyong",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-080",
+    "name": "SunStar",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Cebu City",
+    "admin1_name": "Central Visayas",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sunstar.com.ph/",
+    "coverage": [
+      "Cebu City",
+      "Central Visayas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-081",
+    "name": "Kompas",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "province",
+    "language": "id",
+    "languages": [
+      "id"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kompas.com/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-082",
+    "name": "The Jakarta Post",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thejakartapost.com/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-083",
+    "name": "Tempo",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "province",
+    "language": "id",
+    "languages": [
+      "id"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tempo.co/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-084",
+    "name": "Republika",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "province",
+    "language": "id",
+    "languages": [
+      "id"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.republika.co.id/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  },
+  {
+    "id": "MED-GLOBAL-085",
+    "name": "Tribunnews",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "province",
+    "language": "id",
+    "languages": [
+      "id"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tribunnews.com/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Compilación inicial de cabeceras regionales y directorios públicos; pendiente de revisión individual.",
+    "verification_note": "Candidato incorporado por identificación editorial y geográfica. El enlace y la vigencia se comprobarán en una fase separada."
+  }
+]
