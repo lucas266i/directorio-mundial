@@ -1,0 +1,3040 @@
+[
+  {
+    "id": "MED-EU4-001",
+    "name": "Canal Sur",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sevilla",
+    "admin1_name": "Andalucía",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.canalsur.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-002",
+    "name": "Aragón TV",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zaragoza",
+    "admin1_name": "Aragón",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.cartv.es/aragon-t",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-003",
+    "name": "3Cat",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Barcelona",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.3cat.cat",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-004",
+    "name": "À Punt",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valencia",
+    "admin1_name": "Comunitat Valenciana",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.apuntmedia.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-005",
+    "name": "EITB",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bilbao",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "eu",
+    "languages": [
+      "eu"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.eitb.eus",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-006",
+    "name": "Televisión de Galicia",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Santiago de Compostela",
+    "admin1_name": "Galicia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "gl",
+    "languages": [
+      "gl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.crtvg.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-007",
+    "name": "RTPA",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Oviedo",
+    "admin1_name": "Asturias",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rtpa.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-008",
+    "name": "IB3",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Palma",
+    "admin1_name": "Illes Balears",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://ib3.org",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-009",
+    "name": "Telemadrid",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "admin1_name": "Comunidad de Madrid",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.telemadrid.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-010",
+    "name": "CMM",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Toledo",
+    "admin1_name": "Castilla-La Mancha",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.cmmedia.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-011",
+    "name": "Canal Extremadura",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Mérida",
+    "admin1_name": "Extremadura",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.canalextremadura.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-012",
+    "name": "Televisión Canaria",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Las Palmas de Gran Canaria",
+    "admin1_name": "Canarias",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://rtvc.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-013",
+    "name": "La 7 Región de Murcia",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Murcia",
+    "admin1_name": "Región de Murcia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.la7tv.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-014",
+    "name": "Radio Galega",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Santiago de Compostela",
+    "admin1_name": "Galicia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "gl",
+    "languages": [
+      "gl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.crtvg.es/rg",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-015",
+    "name": "Catalunya Ràdio",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Barcelona",
+    "admin1_name": "Cataluña",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.ccma.cat/catradio",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-016",
+    "name": "Radio Euskadi",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bilbao",
+    "admin1_name": "País Vasco",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "eu",
+    "languages": [
+      "eu"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.eitb.eus/es/radio/radio-euskadi",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-017",
+    "name": "Canal Extremadura Radio",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Mérida",
+    "admin1_name": "Extremadura",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.canalextremadura.es/radio",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-018",
+    "name": "Radio Castilla-La Mancha",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Toledo",
+    "admin1_name": "Castilla-La Mancha",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.cmmedia.es/radio",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-019",
+    "name": "France 3 Bretagne",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rennes",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/bretagne",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-020",
+    "name": "France 3 Occitanie",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Toulouse",
+    "admin1_name": "Occitanie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/occitanie",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-021",
+    "name": "France 3 Nouvelle-Aquitaine",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bordeaux",
+    "admin1_name": "Nouvelle-Aquitaine",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-022",
+    "name": "France 3 Auvergne-Rhône-Alpes",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Lyon",
+    "admin1_name": "Auvergne-Rhône-Alpes",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-023",
+    "name": "France 3 Grand Est",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Strasbourg",
+    "admin1_name": "Grand Est",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/grand-est",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-024",
+    "name": "France 3 Hauts-de-France",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Lille",
+    "admin1_name": "Hauts-de-France",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://france3-regions.franceinfo.fr/hauts-de-france",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-025",
+    "name": "TV7 Bordeaux",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bordeaux",
+    "admin1_name": "Nouvelle-Aquitaine",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.tv7.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-026",
+    "name": "Tébéo",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brest",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.tebeo.bzh",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-027",
+    "name": "TVR Rennes",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rennes",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.tvr.bzh",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-028",
+    "name": "BFM Marseille Provence",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Marseille",
+    "admin1_name": "Provence-Alpes-Côte d’Azur",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.bfmtv.com/marseille",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-029",
+    "name": "Ici Bretagne",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rennes",
+    "admin1_name": "Bretagne",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.francebleu.fr/bretagne",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-030",
+    "name": "WDR",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Cologne",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www1.wdr.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-031",
+    "name": "NDR",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hamburg",
+    "admin1_name": "Hamburg",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.ndr.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-032",
+    "name": "BR Fernsehen",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Munich",
+    "admin1_name": "Bayern",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.br.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-033",
+    "name": "SWR Fernsehen",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Stuttgart",
+    "admin1_name": "Baden-Württemberg",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.swr.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-034",
+    "name": "MDR",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leipzig",
+    "admin1_name": "Sachsen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.mdr.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-035",
+    "name": "rbb",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Berlin",
+    "admin1_name": "Berlin",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rbb24.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-036",
+    "name": "hr-fernsehen",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Frankfurt am Main",
+    "admin1_name": "Hessen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.hr-fernsehen.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-037",
+    "name": "Radio Bremen",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bremen",
+    "admin1_name": "Bremen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radiobremen.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-038",
+    "name": "Saarländischer Rundfunk",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Saarbrücken",
+    "admin1_name": "Saarland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.sr.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-039",
+    "name": "WDR 5",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Cologne",
+    "admin1_name": "Nordrhein-Westfalen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www1.wdr.de/radio/wdr5",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-040",
+    "name": "BBC Radio Manchester",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Manchester",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_manchester",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-041",
+    "name": "BBC Radio Merseyside",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Liverpool",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_merseyside",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-042",
+    "name": "BBC Radio Newcastle",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Newcastle upon Tyne",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_newcastle",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-043",
+    "name": "BBC Radio Bristol",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Bristol",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_bristol",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-044",
+    "name": "BBC Radio Leeds",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leeds",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_leeds",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-045",
+    "name": "BBC Radio Sheffield",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Sheffield",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_sheffield",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-046",
+    "name": "BBC Radio Scotland",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Glasgow",
+    "admin1_name": "Scotland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-047",
+    "name": "BBC Radio Wales",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Cardiff",
+    "admin1_name": "Wales",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_wales",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-048",
+    "name": "BBC Radio Ulster",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Belfast",
+    "admin1_name": "Northern Ireland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_ulster",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-049",
+    "name": "BBC Radio Cornwall",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Truro",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cornwall",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-050",
+    "name": "BBC Radio Suffolk",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Ipswich",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_suffolk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-051",
+    "name": "BBC Radio Kent",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Tunbridge Wells",
+    "admin1_name": "England",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_kent",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-052",
+    "name": "TGR Rai Piemonte",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Turin",
+    "admin1_name": "Piemonte",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/piemonte",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-053",
+    "name": "TGR Rai Lombardia",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Milan",
+    "admin1_name": "Lombardia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/lombardia",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-054",
+    "name": "TGR Rai Veneto",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Venice",
+    "admin1_name": "Veneto",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/veneto",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-055",
+    "name": "TGR Rai Emilia-Romagna",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Bologna",
+    "admin1_name": "Emilia-Romagna",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/emiliaromagna",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-056",
+    "name": "TGR Rai Toscana",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Florence",
+    "admin1_name": "Toscana",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/toscana",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-057",
+    "name": "TGR Rai Lazio",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Rome",
+    "admin1_name": "Lazio",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/lazio",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-058",
+    "name": "TGR Rai Campania",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Naples",
+    "admin1_name": "Campania",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/campania",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-059",
+    "name": "TGR Rai Sicilia",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Palermo",
+    "admin1_name": "Sicilia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/sicilia",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-060",
+    "name": "TGR Rai Sardegna",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Cagliari",
+    "admin1_name": "Sardegna",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rainews.it/tgr/sardegna",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-061",
+    "name": "Radio Popolare",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Milan",
+    "admin1_name": "Lombardia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radiopopolare.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-062",
+    "name": "Omroep Brabant",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Eindhoven",
+    "admin1_name": "Noord-Brabant",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.omroepbrabant.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-063",
+    "name": "Omroep Gelderland",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Arnhem",
+    "admin1_name": "Gelderland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.gld.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-064",
+    "name": "RTV Rijnmond",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Rotterdam",
+    "admin1_name": "Zuid-Holland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rijnmond.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-065",
+    "name": "NH Nieuws",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hilversum",
+    "admin1_name": "Noord-Holland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.nhnieuws.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-066",
+    "name": "Omrop Fryslân",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Leeuwarden",
+    "admin1_name": "Friesland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fy",
+    "languages": [
+      "fy"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.omropfryslan.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-067",
+    "name": "RTV Noord",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Groningen",
+    "admin1_name": "Groningen",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rtvnoord.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-068",
+    "name": "VRT NWS",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "admin1_name": "Flanders",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.vrt.be/vrtnws",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-069",
+    "name": "BRF",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Eupen",
+    "admin1_name": "German-speaking Community",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://brf.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-070",
+    "name": "Radio 1 (VRT)",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "admin1_name": "Flanders",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radio1.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-071",
+    "name": "RTP Açores",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ponta Delgada",
+    "admin1_name": "Azores",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rtp.pt/acores",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-072",
+    "name": "RTP Madeira",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Funchal",
+    "admin1_name": "Madeira",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.rtp.pt/madeira",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-073",
+    "name": "Rádio Renascença",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "admin1_name": "Lisboa",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://rr.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-074",
+    "name": "Rádio Comercial",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "admin1_name": "Lisboa",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radiocomercial.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-075",
+    "name": "Antena 1",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "admin1_name": "Lisboa",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://antena1.rtp.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-076",
+    "name": "TVP3",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Warsaw",
+    "admin1_name": "Mazowieckie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://tvp3.tvp.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-077",
+    "name": "Radio Łódź",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Łódź",
+    "admin1_name": "Łódzkie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radiolodz.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-078",
+    "name": "Radio Kraków",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kraków",
+    "admin1_name": "Małopolskie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radiokrakow.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-079",
+    "name": "Radio Wrocław",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Wrocław",
+    "admin1_name": "Dolnośląskie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radiowroclaw.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-080",
+    "name": "Radio Gdańsk",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Gdańsk",
+    "admin1_name": "Pomorskie",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radiogdansk.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-081",
+    "name": "P4 Stockholm",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "admin1_name": "Stockholm County",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://sverigesradio.se/stockholm",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-082",
+    "name": "P4 Göteborg",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Gothenburg",
+    "admin1_name": "Västra Götaland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://sverigesradio.se/goteborg",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-083",
+    "name": "P4 Malmöhus",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Malmö",
+    "admin1_name": "Skåne",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://sverigesradio.se/malmohus",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-084",
+    "name": "NRK P1 Oslo og Viken",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "admin1_name": "Oslo",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.nrk.no/osloogviken",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-085",
+    "name": "NRK P1 Vestland",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Bergen",
+    "admin1_name": "Vestland",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.nrk.no/vestland",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-086",
+    "name": "Yle Radio Suomi Helsinki",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "admin1_name": "Uusimaa",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://yle.fi/radio",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-087",
+    "name": "RTÉ Raidió na Gaeltachta",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Casla",
+    "admin1_name": "Connacht",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ga",
+    "languages": [
+      "ga"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.rte.ie/rnag",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-088",
+    "name": "TG4",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Baile na hAbhann",
+    "admin1_name": "Connacht",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ga",
+    "languages": [
+      "ga"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.tg4.ie",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-089",
+    "name": "ERT3",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Thessaloniki",
+    "admin1_name": "Central Macedonia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.ert.gr/ert3",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-090",
+    "name": "HRT Radio Split",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Split",
+    "admin1_name": "Split-Dalmatia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radio.hrt.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-091",
+    "name": "Radio Študent",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "admin1_name": "Central Slovenia",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radiostudent.si",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-092",
+    "name": "Český rozhlas Radiožurnál",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "admin1_name": "Prague",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://radiozurnal.rozhlas.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-093",
+    "name": "Radio România Regional",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "admin1_name": "Bucharest",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.radioromania.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-094",
+    "name": "Kuku Raadio",
+    "country": "EST",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Tallinn",
+    "admin1_name": "Harju County",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "et",
+    "languages": [
+      "et"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://kuku.pleier.ee",
+    "coverage": [
+      "EST"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-095",
+    "name": "Latvijas Radio 1",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "admin1_name": "Riga",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://lr1.lsm.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-096",
+    "name": "Žinių radijas",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "admin1_name": "Vilnius",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.ziniuradijas.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-097",
+    "name": "Radio 100,7",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "admin1_name": "Luxembourg",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "lb",
+    "languages": [
+      "lb"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio-digital"
+    ],
+    "official_url": "https://www.100komma7.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU4-098",
+    "name": "PBS Malta",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Gwardamanġa",
+    "admin1_name": "Central Region",
+    "admin1_type": "Región administrativa o área de cobertura",
+    "language": "mt",
+    "languages": [
+      "mt"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television-digital"
+    ],
+    "official_url": "https://www.pbs.com.mt",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Radiomap.eu, CIRCOM Regional, MAVISE y directorios oficiales de radiodifusores públicos",
+    "source_references": [
+      "https://radiomap.eu/links/",
+      "https://circom-regional.eu/about-circom-3/member-stations-l",
+      "https://mavise.obs.coe.int/advanced-search"
+    ],
+    "verification_note": "Fuente audiovisual regional identificada en directorios sectoriales o sitios de radiodifusores públicos; verificar individualmente URL, actividad, sede y alcance antes de marcar como verificada."
+  }
+]
