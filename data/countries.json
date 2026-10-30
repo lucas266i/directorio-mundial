@@ -469,5 +469,12 @@
     "continent": "América",
     "region": "Caribe",
     "language": "fr"
+  },
+  {
+    "id": "INT",
+    "name": "Internacional / cobertura global",
+    "continent": "Mundo",
+    "region": "Global",
+    "language": "multi"
   }
 ]
