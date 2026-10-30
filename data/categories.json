@@ -314,5 +314,17 @@
   {
     "id": "digital-native",
     "name": "Medios nativos digitales"
+  },
+  {
+    "id": "media-directory",
+    "name": "Directorios de medios"
+  },
+  {
+    "id": "discovery-source",
+    "name": "Fuentes de descubrimiento"
+  },
+  {
+    "id": "latin-america",
+    "name": "América Latina e Iberoamérica"
   }
 ]
