@@ -27978,5 +27978,6648 @@
     "description": "Revista de análisis político, económico y social del hemisferio.",
     "status": "pending_verification",
     "verification_note": "Directorio o recurso de descubrimiento; no es un medio individual. Revisar vigencia, alcance y contenido antes de importar medios derivados."
+  },
+  {
+    "id": "MED-SA-2026-001",
+    "name": "El Tiempo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.eltiempo.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-002",
+    "name": "El Espectador",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://www.elespectador.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-003",
+    "name": "El Heraldo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Barranquilla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elheraldo.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-004",
+    "name": "El País Cali",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cali",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elpais.com.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-005",
+    "name": "La Patria",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Manizales",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lapatria.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-006",
+    "name": "El Universal",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cartagena",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eluniversal.com.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-007",
+    "name": "Portafolio",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.portafolio.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-008",
+    "name": "La República",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.larepublica.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-009",
+    "name": "Pulzo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.pulzo.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-010",
+    "name": "Colombia.com",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.colombia.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-011",
+    "name": "Caracol Radio",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://caracol.com.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-012",
+    "name": "RCN Radio",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rcnradio.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-013",
+    "name": "Blu Radio",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.bluradio.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-014",
+    "name": "W Radio Colombia",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.wradio.com.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-015",
+    "name": "Noticias Caracol",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://noticias.caracoltv.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-016",
+    "name": "NTN24",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "international"
+    ],
+    "official_url": "https://www.ntn24.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-017",
+    "name": "Canal 1",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://canal1.com.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-018",
+    "name": "RTVC Noticias",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rtvcnoticias.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-019",
+    "name": "Señal Colombia",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "culture"
+    ],
+    "official_url": "https://www.senalcolombia.tv",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-020",
+    "name": "El Colombiano",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elcolombiano.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-021",
+    "name": "Q'hubo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.qhubo.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-022",
+    "name": "Minuto30",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.minuto30.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-023",
+    "name": "Teleantioquia Noticias",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.teleantioquia.co",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-024",
+    "name": "Telemedellín",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://telemedellin.tv",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-025",
+    "name": "La Crónica del Quindío",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Armenia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.cronicadelquindio.com",
+    "coverage": [
+      "COL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-026",
+    "name": "Últimas Noticias",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ultimasnoticias.com.ve",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-027",
+    "name": "Tal Cual",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://talcualdigital.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-028",
+    "name": "El Universal Venezuela",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.eluniversal.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-029",
+    "name": "La Patilla",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lapatilla.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-030",
+    "name": "El Estímulo",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "culture"
+    ],
+    "official_url": "https://elestimulo.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-031",
+    "name": "Efecto Cocuyo",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://efectococuyo.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-032",
+    "name": "Runrun.es",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://runrun.es",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-033",
+    "name": "El Pitazo",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://elpitazo.net",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-034",
+    "name": "Monitoreamos",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://monitoreamos.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-035",
+    "name": "Globovisión",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://globovision.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-036",
+    "name": "VPI TV",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://vpitv.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-037",
+    "name": "Meridiano",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://meridiano.net",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-038",
+    "name": "Banca y Negocios",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.bancaynegocios.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-039",
+    "name": "El Carabobeño",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Valencia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.el-carabobeno.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-040",
+    "name": "El Impulso",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Barquisimeto",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elimpulso.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-041",
+    "name": "Diario 2001",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://2001online.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-042",
+    "name": "Notitarde",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Valencia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.notitarde.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-043",
+    "name": "La Prensa de Lara",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Barquisimeto",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://laprensalara.com.ve",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-044",
+    "name": "Correo del Caroní",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Ciudad Guayana",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://correodelcaroni.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-045",
+    "name": "El Tiempo Venezuela",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Puerto La Cruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://eltiempove.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-046",
+    "name": "Diario Vea",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://diariovea.com.ve",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-047",
+    "name": "Contrapunto",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://contrapunto.com",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-048",
+    "name": "Crónica Uno",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "society"
+    ],
+    "official_url": "https://cronica.uno",
+    "coverage": [
+      "VEN"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-049",
+    "name": "El Universo",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.eluniverso.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-050",
+    "name": "El Comercio Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.elcomercio.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-051",
+    "name": "La Hora Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lahora.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-052",
+    "name": "El Telégrafo",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.eltelegrafo.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-053",
+    "name": "Extra Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.extra.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-054",
+    "name": "Primicias",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://www.primicias.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-055",
+    "name": "GK",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "society"
+    ],
+    "official_url": "https://gk.city",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-056",
+    "name": "Ecuavisa",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ecuavisa.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-057",
+    "name": "Teleamazonas",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.teleamazonas.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-058",
+    "name": "TC Televisión",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tctelevision.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-059",
+    "name": "Ecuador TV",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ecuadortv.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-060",
+    "name": "Radio Pública Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.radiospublicas.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-061",
+    "name": "El Mercurio de Cuenca",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cuenca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://elmercurio.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-062",
+    "name": "Diario El Norte",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Ibarra",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elnorte.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-063",
+    "name": "El Diario Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Portoviejo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.eldiario.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-064",
+    "name": "La Prensa Chimborazo",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Riobamba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.laprensa.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-065",
+    "name": "El Heraldo Ambato",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Ambato",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elheraldo.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-066",
+    "name": "El Tiempo Cuenca",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cuenca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.eltiempo.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-067",
+    "name": "Machala Móvil",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Machala",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://machalamovil.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-068",
+    "name": "Ecuador Inmediato",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ecuadorinmediato.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-069",
+    "name": "Radio Pichincha",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.radiopichincha.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-070",
+    "name": "Radio Centro Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://radiocentro.com.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-071",
+    "name": "La Posta",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://www.laposta.ec",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-072",
+    "name": "Vistazo",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.vistazo.com",
+    "coverage": [
+      "ECU"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-073",
+    "name": "El Comercio Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://elcomercio.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-074",
+    "name": "La República Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://larepublica.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-075",
+    "name": "Perú21",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://peru21.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-076",
+    "name": "Correo Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://diariocorreo.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-077",
+    "name": "Expreso Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.expreso.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-078",
+    "name": "El Peruano",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "government"
+    ],
+    "official_url": "https://elperuano.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-079",
+    "name": "Ojo Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ojo.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-080",
+    "name": "Trome",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "culture"
+    ],
+    "official_url": "https://trome.com",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-081",
+    "name": "Andina",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://andina.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-082",
+    "name": "Wayka",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "human-rights"
+    ],
+    "official_url": "https://wayka.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-083",
+    "name": "Caretas",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://caretas.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-084",
+    "name": "TV Perú Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tvperu.gob.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-085",
+    "name": "Canal N",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://canaln.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-086",
+    "name": "RPP Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://rpp.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-087",
+    "name": "Latina Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://latina.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-088",
+    "name": "Exitosa Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.exitosanoticias.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-089",
+    "name": "América Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.americatv.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-090",
+    "name": "Gestión",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://gestion.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-091",
+    "name": "Semana Económica",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://semanaeconomica.com",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-092",
+    "name": "Depor",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://depor.com",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-093",
+    "name": "Líbero",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://libero.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-094",
+    "name": "La Industria",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Trujillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.laindustria.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-095",
+    "name": "Los Andes Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Puno",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://losandes.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-096",
+    "name": "El Búho",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Arequipa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "local-news"
+    ],
+    "official_url": "https://elbuho.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-097",
+    "name": "Diario Sin Fronteras",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Arequipa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diariosinfronteras.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-098",
+    "name": "Correo Arequipa",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Arequipa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://diariocorreo.pe/edicion/arequipa/",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-099",
+    "name": "Diario El Pueblo",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Arequipa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://elpueblo.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-100",
+    "name": "Diario Voces",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Tarapoto",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://diariovoces.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-101",
+    "name": "El Sol del Cusco",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cusco",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://elsoldecusco.com",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-102",
+    "name": "Diario Jornada",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Ayacucho",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://jornada.com.pe",
+    "coverage": [
+      "PER"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-103",
+    "name": "El Deber",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santa Cruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://eldeber.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-104",
+    "name": "La Razón Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.la-razon.com",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-105",
+    "name": "Los Tiempos",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cochabamba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lostiempos.com",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-106",
+    "name": "Opinión Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cochabamba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.opinion.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-107",
+    "name": "Correo del Sur",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Sucre",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://correodelsur.com",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-108",
+    "name": "El Diario Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.eldiario.net",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-109",
+    "name": "Página Siete",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.paginasiete.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-110",
+    "name": "Agencia Boliviana de Información",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://abi.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-111",
+    "name": "Bolivia TV",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.boliviatv.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-112",
+    "name": "Red Uno",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santa Cruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.reduno.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-113",
+    "name": "Unitel",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santa Cruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://unitel.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-114",
+    "name": "ATB",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.atb.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-115",
+    "name": "Erbol",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://erbol.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-116",
+    "name": "Radio Fides",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.radiofides.com",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-117",
+    "name": "Bolivia.com",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.bolivia.com",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-118",
+    "name": "El País Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Tarija",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://elpais.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-119",
+    "name": "El Potosí",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Potosí",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://elpotosi.net",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-120",
+    "name": "Día a Día",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santa Cruz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diaadia.com.bo",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-121",
+    "name": "Brújula Digital",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://brujuladigital.net",
+    "coverage": [
+      "BOL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-122",
+    "name": "Emol",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.emol.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-123",
+    "name": "La Tercera",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.latercera.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-124",
+    "name": "Las Últimas Noticias",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lun.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-125",
+    "name": "La Nación Chile",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.lanacion.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-126",
+    "name": "La Cuarta",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lacuarta.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-127",
+    "name": "La Segunda",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.lasegunda.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-128",
+    "name": "BioBioChile",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Concepción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.biobiochile.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-129",
+    "name": "El Mostrador",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://www.elmostrador.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-130",
+    "name": "The Clinic",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://www.theclinic.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-131",
+    "name": "El Desconcierto",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.eldesconcierto.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-132",
+    "name": "Cooperativa",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.cooperativa.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-133",
+    "name": "Meganoticias",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.meganoticias.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-134",
+    "name": "CNN Chile",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.cnnchile.com",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-135",
+    "name": "24 Horas",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.24horas.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-136",
+    "name": "T13",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.t13.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-137",
+    "name": "CHV Noticias",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.chvnoticias.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-138",
+    "name": "Diario Financiero",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.df.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-139",
+    "name": "El Mercurio de Valparaíso",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Valparaíso",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.mercuriovalpo.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-140",
+    "name": "Diario Austral",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Valdivia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.australvaldivia.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-141",
+    "name": "El Mercurio de Antofagasta",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Antofagasta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.mercurioantofagasta.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-142",
+    "name": "El Sur",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Concepción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elsur.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-143",
+    "name": "La Prensa Austral",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Punta Arenas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.laprensaaustral.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-144",
+    "name": "El Día La Serena",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Serena",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diarioeldia.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-145",
+    "name": "El Rancagüino",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rancagua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elrancaguino.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-146",
+    "name": "El Centro",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Talca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diarioelcentro.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-147",
+    "name": "El Líder San Antonio",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "San Antonio",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.soychile.cl/San-Antonio/",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-148",
+    "name": "El Llanquihue",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Puerto Montt",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.ellanquihue.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-149",
+    "name": "El Austral de Temuco",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Temuco",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.australtemuco.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-150",
+    "name": "Santiago Times",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://santiagotimes.cl",
+    "coverage": [
+      "CHL"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-151",
+    "name": "La Nación Argentina",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lanacion.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-152",
+    "name": "Clarín",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.clarin.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-153",
+    "name": "Crónica",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.cronica.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-154",
+    "name": "Diario Popular Argentina",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.diariopopular.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-155",
+    "name": "La Capital Rosario",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rosario",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.lacapital.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-156",
+    "name": "Página 12",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.pagina12.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-157",
+    "name": "Perfil",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.perfil.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-158",
+    "name": "Infobae",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.infobae.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-159",
+    "name": "La Política Online",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.lapoliticaonline.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-160",
+    "name": "El Destape",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.eldestapeweb.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-161",
+    "name": "Urgente24",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://urgente24.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-162",
+    "name": "MinutoUno",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.minutouno.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-163",
+    "name": "Ámbito",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.ambito.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-164",
+    "name": "El Cronista",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.cronista.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-165",
+    "name": "Bolsar",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "economy"
+    ],
+    "official_url": "https://www.bolsar.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-166",
+    "name": "Olé",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.ole.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-167",
+    "name": "TyC Sports",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.tycsports.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-168",
+    "name": "Todo Noticias",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://tn.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-169",
+    "name": "C5N",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.c5n.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-170",
+    "name": "A24",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.a24.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-171",
+    "name": "El Tribuno",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Salta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.eltribuno.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-172",
+    "name": "La Gaceta",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "San Miguel de Tucumán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.lagaceta.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-173",
+    "name": "Río Negro",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "General Roca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.rionegro.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-174",
+    "name": "El Liberal",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santiago del Estero",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elliberal.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-175",
+    "name": "El Día La Plata",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "La Plata",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.eldia.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-176",
+    "name": "La Voz del Interior",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Córdoba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.lavoz.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-177",
+    "name": "Los Andes Mendoza",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Mendoza",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.losandes.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-178",
+    "name": "Diario Uno",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Mendoza",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diariouno.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-179",
+    "name": "El Sol Mendoza",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Mendoza",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elsol.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-180",
+    "name": "Buenos Aires Times",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.batimes.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-181",
+    "name": "Noticias Argentinas",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://noticiasargentinas.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-182",
+    "name": "Diario de Cuyo",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "San Juan",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diariodecuyo.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-183",
+    "name": "El Ancasti",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Catamarca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elancasti.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-184",
+    "name": "El Litoral",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santa Fe",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.ellitoral.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-185",
+    "name": "La Nueva",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Bahía Blanca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.lanueva.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-186",
+    "name": "El Territorio",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Posadas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elterritorio.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-187",
+    "name": "Misiones Online",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Posadas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://misionesonline.net",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-188",
+    "name": "Diario El Chubut",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Trelew",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elchubut.com.ar",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-189",
+    "name": "El Patagónico",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Comodoro Rivadavia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elpatagonico.com",
+    "coverage": [
+      "ARG"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-190",
+    "name": "El País Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.elpais.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-191",
+    "name": "La República Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.republica.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-192",
+    "name": "La Diaria",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://ladiaria.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-193",
+    "name": "Últimas Noticias Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ultimasnoticias.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-194",
+    "name": "180",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.180.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-195",
+    "name": "Búsqueda",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics",
+      "economy"
+    ],
+    "official_url": "https://www.busqueda.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-196",
+    "name": "Montevideo Portal",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.montevideo.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-197",
+    "name": "Subrayado",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.subrayado.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-198",
+    "name": "Canal 10 Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.canal10.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-199",
+    "name": "Teledoce",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.teledoce.com",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-200",
+    "name": "Tenfield",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.tenfield.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-201",
+    "name": "Radio Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://radiouruguay.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-202",
+    "name": "Radio Monte Carlo",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.radiomontecarlo.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-203",
+    "name": "El Acontecer",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Durazno",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.elacontecer.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-204",
+    "name": "La Prensa de Salto",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Salto",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.laprensadesalto.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-205",
+    "name": "Diario Norte",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rivera",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diarionorte.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-206",
+    "name": "M24",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://m24.com.uy",
+    "coverage": [
+      "URY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-207",
+    "name": "ABC Color",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.abc.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-208",
+    "name": "La Nación Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lanacion.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-209",
+    "name": "5 Días",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.5dias.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-210",
+    "name": "Diario Popular Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.diariopopular.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-211",
+    "name": "Última Hora Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ultimahora.com",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-212",
+    "name": "Paraguay.com",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.paraguay.com",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-213",
+    "name": "ADN Paraguayo",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative"
+    ],
+    "official_url": "https://www.adndigital.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-214",
+    "name": "Telefuturo",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.telefuturo.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-215",
+    "name": "SNT Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.snt.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-216",
+    "name": "IP Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "government"
+    ],
+    "official_url": "https://www.ip.gov.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-217",
+    "name": "Radio Ñandutí",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nanduti.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-218",
+    "name": "ABC Cardinal",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.abc.com.py/radio/",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-219",
+    "name": "Radio Monumental",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://monumental.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-220",
+    "name": "El Independiente Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://independiente.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-221",
+    "name": "Itapúa Noticias",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Encarnación",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://itapuanoticias.tv",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-222",
+    "name": "Concepción al Día",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Concepción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.concepcionaldia.com",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-223",
+    "name": "Sur TV",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Encarnación",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://surtv.com.py",
+    "coverage": [
+      "PRY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-224",
+    "name": "Folha de S.Paulo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.folha.uol.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-225",
+    "name": "O Globo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://oglobo.globo.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-226",
+    "name": "O Estado de S. Paulo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.estadao.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-227",
+    "name": "O Tempo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Belo Horizonte",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.otempo.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-228",
+    "name": "Correio Braziliense",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.correiobraziliense.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-229",
+    "name": "Veja",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://veja.abril.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-230",
+    "name": "Gazeta do Povo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Curitiba",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.gazetadopovo.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-231",
+    "name": "CartaCapital",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.cartacapital.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-232",
+    "name": "G1",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://g1.globo.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-233",
+    "name": "UOL",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.uol.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-234",
+    "name": "Metrópoles",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.metropoles.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-235",
+    "name": "Poder360",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.poder360.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-236",
+    "name": "R7",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.r7.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-237",
+    "name": "IstoÉ",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://istoe.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-238",
+    "name": "Valor Econômico",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://valor.globo.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-239",
+    "name": "InfoMoney",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.infomoney.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-240",
+    "name": "Exame",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "magazine",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://exame.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-241",
+    "name": "Money Times",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.moneytimes.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-242",
+    "name": "B3",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "economy"
+    ],
+    "official_url": "https://www.b3.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-243",
+    "name": "ESPN Brasil",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.espn.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-244",
+    "name": "Lance!",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.lance.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-245",
+    "name": "ge.globo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://ge.globo.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-246",
+    "name": "CBF",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "sports-media",
+    "categories": [
+      "sports"
+    ],
+    "official_url": "https://www.cbf.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-247",
+    "name": "GloboNews",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://g1.globo.com/globonews",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-248",
+    "name": "Band",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.band.uol.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-249",
+    "name": "Record TV",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://recordtv.r7.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-250",
+    "name": "CNN Brasil",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.cnnbrasil.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-251",
+    "name": "SBT",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Osasco",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.sbt.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-252",
+    "name": "O Dia",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://odia.ig.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-253",
+    "name": "O Povo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Fortaleza",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.opovo.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-254",
+    "name": "Diário do Nordeste",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Fortaleza",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://diariodonordeste.verdesmares.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-255",
+    "name": "GZH",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Porto Alegre",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://gauchazh.clicrbs.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-256",
+    "name": "Jornal do Brasil",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.jb.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-257",
+    "name": "Correio 24 Horas",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Salvador",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.correio24horas.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-258",
+    "name": "A Tarde",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Salvador",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://atarde.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-259",
+    "name": "Diário de Pernambuco",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Recife",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.diariodepernambuco.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-260",
+    "name": "Jornal do Commercio",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Recife",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://jc.ne10.uol.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-261",
+    "name": "A Gazeta Espírito Santo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Vitória",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.agazeta.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-262",
+    "name": "A Tribuna",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Santos",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.atribuna.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-263",
+    "name": "Diário Catarinense",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Florianópolis",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.nsctotal.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-264",
+    "name": "Estado de Minas",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Belo Horizonte",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.em.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-265",
+    "name": "Correio do Povo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Porto Alegre",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.correiodopovo.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-266",
+    "name": "Jornal O Sul",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Porto Alegre",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.osul.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-267",
+    "name": "Diário Gaúcho",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Porto Alegre",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://diariogaucho.clicrbs.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-268",
+    "name": "Gazeta de Alagoas",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Maceió",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://d.gazetadealagoas.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-269",
+    "name": "O Liberal",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Belém",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.oliberal.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-270",
+    "name": "A Crítica",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Manaus",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.acritica.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-271",
+    "name": "Agência Brasil",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://agenciabrasil.ebc.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-272",
+    "name": "Agência Senado",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "government-media",
+    "categories": [
+      "government"
+    ],
+    "official_url": "https://www12.senado.leg.br/noticias",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-273",
+    "name": "Agência Câmara",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "government-media",
+    "categories": [
+      "government"
+    ],
+    "official_url": "https://www.camara.leg.br/noticias",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-274",
+    "name": "The Brazilian Report",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://brazilian.report",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-275",
+    "name": "The Rio Times",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Rio de Janeiro",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.riotimesonline.com",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-276",
+    "name": "Brasil de Fato",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.brasildefato.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-277",
+    "name": "Ponte Jornalismo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "human-rights"
+    ],
+    "official_url": "https://ponte.org",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-278",
+    "name": "Amazônia Real",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Manaus",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "environment",
+      "investigative"
+    ],
+    "official_url": "https://amazoniareal.com.br",
+    "coverage": [
+      "BRA"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-279",
+    "name": "Stabroek News",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.stabroeknews.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-280",
+    "name": "Kaieteur News",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://kaieteurnewsonline.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-281",
+    "name": "News Room Guyana",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://newsroom.gy",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-282",
+    "name": "Demerara Waves",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://demerarawaves.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-283",
+    "name": "Guyana Chronicle",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://guyanachronicle.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-284",
+    "name": "Guyana Times",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://guyanatimesgy.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-285",
+    "name": "NCN Guyana",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ncnguyana.com",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-286",
+    "name": "Radio Guyana",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.radioguyana.gy",
+    "coverage": [
+      "GUY"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-287",
+    "name": "De Ware Tijd",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dwtonline.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-288",
+    "name": "Starnieuws",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.starnieuws.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-289",
+    "name": "Dagblad Suriname",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dbsuriname.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-290",
+    "name": "Suriname Herald",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.srherald.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-291",
+    "name": "Waterkant",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.waterkant.net",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-292",
+    "name": "GFC Nieuws",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.gfcnieuws.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-293",
+    "name": "ABC Suriname",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.abcsuriname.com",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-294",
+    "name": "SRS Suriname",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.srs.sr",
+    "coverage": [
+      "SUR"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-295",
+    "name": "Penguin News",
+    "country": "FLK",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Stanley",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://penguin-news.com",
+    "coverage": [
+      "FLK"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-296",
+    "name": "Falkland Islands Television",
+    "country": "FLK",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Stanley",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://fitv.co.fk",
+    "coverage": [
+      "FLK"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-297",
+    "name": "France-Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.franceguyane.fr",
+    "coverage": [
+      "GUF"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-298",
+    "name": "Guyane la 1ère",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://la1ere.franceinfo.fr/guyane",
+    "coverage": [
+      "GUF"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-299",
+    "name": "Radio Péyi Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.radiopeyi.com",
+    "coverage": [
+      "GUF"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-SA-2026-300",
+    "name": "Blada",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.blada.com",
+    "coverage": [
+      "GUF"
+    ],
+    "status": "pending_verification",
+    "verification_note": "Registro incorporado desde directorios regionales y fuentes de referencia; URL, actividad editorial, sede y metadatos pendientes de comprobación individual."
   }
 ]
