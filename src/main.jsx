@@ -51,15 +51,15 @@ const categoryLabels = {
   "general-news": "Noticias generales", "national": "Nacional", "business": "Negocios",
   "government": "Gobierno", "local-news": "Noticias locales", "public-media": "Medios públicos",
   "radio-digital": "Radio y digital", "newspaper": "Periódico", "news-agency": "Agencia de noticias",
-  "digital_native": "Medio digital", "digital-native": "Medio digital", "accountability": "Rendición de cuentas",
+  "digital_native": "Medio digital", "digital-native": "Medio digital", "media-directory": "Directorio de medios", "accountability": "Rendición de cuentas",
   "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
   "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
   "spanish-language": "En español", "housing": "Vivienda",
   "community-media": "Medios comunitarios", "ethnic-media": "Medios de comunidades étnicas",
-  "multilingual": "Multilingües", "public-radio": "Radio pública"
+  "multilingual": "Multilingües", "public-radio": "Radio pública", "media-directory": "Directorio de medios", "discovery-source": "Fuente de descubrimiento", "latin-america": "América Latina e Iberoamérica"
 };
 
-const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
+const languageLabels = { multi: "Multilingüe", es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
 
 function App() {
   const [query, setQuery] = useState("");
