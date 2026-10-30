@@ -93,12 +93,13 @@ function App() {
       fetch(`${base}data/media-global-2.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/media-global-3.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/media-global-4.json`).then((r) => r.ok ? r.json() : []),
+      fetch(`${base}data/media-asia-africa-oceania-1.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
       fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : [])
-     ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, global1MediaData, global2MediaData, global3MediaData, global4MediaData, categoryData, stateData, geographyData]) => {
+     ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, global1MediaData, global2MediaData, global3MediaData, global4MediaData, asiaAfricaOceaniaData, categoryData, stateData, geographyData]) => {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
-      setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(global1MediaData) ? global1MediaData : []), ...(Array.isArray(global2MediaData) ? global2MediaData : []), ...(Array.isArray(global3MediaData) ? global3MediaData : []), ...(Array.isArray(global4MediaData) ? global4MediaData : [])]);
+      setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(global1MediaData) ? global1MediaData : []), ...(Array.isArray(global2MediaData) ? global2MediaData : []), ...(Array.isArray(global3MediaData) ? global3MediaData : []), ...(Array.isArray(global4MediaData) ? global4MediaData : []), ...(Array.isArray(asiaAfricaOceaniaData) ? asiaAfricaOceaniaData : [])]);
       setCategories(Array.isArray(categoryData) ? categoryData.filter((c) => c && (c.id || c.name)) : fallbackCategories);
       setStates(Array.isArray(stateData) ? stateData : []);
       setGeography(Array.isArray(geographyData) ? geographyData : []);
