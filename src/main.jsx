@@ -69,7 +69,10 @@ function App() {
   const [selectedCountry, setSelectedCountry] = useState("Todas");
   const [selectedRegion, setSelectedRegion] = useState("Todas");
   const [states, setStates] = useState([]);
+  const [geography, setGeography] = useState([]);
   const [selectedState, setSelectedState] = useState("Todas");
+  const [selectedCounty, setSelectedCounty] = useState("Todas");
+  const [cityQuery, setCityQuery] = useState("");
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -77,22 +80,31 @@ function App() {
       fetch(`${base}data/countries.json`).then((r) => r.ok ? r.json() : fallbackCountries),
       fetch(`${base}data/media.json`).then((r) => r.ok ? r.json() : fallbackMedia),
       fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
-      fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : [])
-    ]).then(([countryData, mediaData, categoryData, stateData]) => {
+      fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []),
+      fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : [])
+    ]).then(([countryData, mediaData, categoryData, stateData, geographyData]) => {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
       setMedia(Array.isArray(mediaData) ? mediaData : fallbackMedia);
       setCategories(Array.isArray(categoryData) ? categoryData.map((c) => c.name || c).filter(Boolean) : fallbackCategories);
-      setStates(Array.isArray(stateData) ? stateData : []);
+      setStates(Array.isArray(stateData) ? stateData : []);\n      setGeography(Array.isArray(geographyData) ? geographyData : []);
     }).catch(() => {
       setCountries(fallbackCountries);
       setMedia(fallbackMedia);
       setCategories(fallbackCategories);
-      setStates([]);
+      setStates([]);\n      setGeography([]);
     }).finally(() => setLoading(false));
   }, []);
 
   const countryMap = useMemo(() => Object.fromEntries(countries.map((c) => [c.id, c])), [countries]);
   const stateMap = useMemo(() => Object.fromEntries(states.map((st) => [st.code, st])), [states]);
+  const countyOptions = useMemo(
+    () => geography.filter((county) => selectedState === "Todas" || county.state === selectedState),
+    [geography, selectedState]
+  );
+  const selectedCountyRecord = useMemo(
+    () => geography.find((county) => county.id === selectedCounty),
+    [geography, selectedCounty]
+  );
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -102,20 +114,24 @@ function App() {
       const country = countryMap[m.country];
       const tags = (m.categories || []).map((id) => categoryLabels[id] || id);
       const stateName = stateMap[m.state]?.name || m.state;
-      const text = [m.name, m.city, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...tags]
+      const countyName = m.county || m.county_name || "";
+      const text = [m.name, m.city, countyName, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...tags]
         .filter(Boolean).join(" ").toLowerCase();
       const matchesQuery = !q || text.includes(q);
       const matchesCategory = category === "Todas" || (m.categories || []).includes(selectedCategoryId);
       const matchesCountry = selectedCountry === "Todas" || m.country === selectedCountry;
-      const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion;
+      const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion || stateMap[m.state]?.region === selectedRegion;
       const matchesState = selectedState === "Todas" || m.state === selectedState;
-      return matchesQuery && matchesCategory && matchesCountry && matchesRegion && matchesState;
+      const matchesCounty = selectedCounty === "Todas" || m.county_id === selectedCounty || countyName === selectedCountyRecord?.name;
+      const city = String(m.city || "").toLowerCase();
+      const matchesCity = !cityQuery.trim() || city.includes(cityQuery.trim().toLowerCase());
+      return matchesQuery && matchesCategory && matchesCountry && matchesRegion && matchesState && matchesCounty && matchesCity;
     });
-  }, [query, category, selectedCountry, selectedRegion, selectedState, media, countryMap, stateMap]);
+  }, [query, category, selectedCountry, selectedRegion, selectedState, selectedCounty, cityQuery, selectedCountyRecord, media, countryMap, stateMap]);
 
   const regions = useMemo(
-    () => [...new Set(countries.map((c) => c.region).filter(Boolean))].sort((a, b) => a.localeCompare(b)),
-    [countries]
+    () => [...new Set([...countries.map((c) => c.region), ...states.map((st) => st.region)].filter(Boolean))].sort((a, b) => a.localeCompare(b)),
+    [countries, states]
   );
 
   return (
@@ -150,12 +166,17 @@ function App() {
               <option value="Todas">Todos los estados de EE. UU.</option>
               {states.map((st) => <option key={st.code} value={st.code}>{st.name}</option>)}
             </select>
+            <select value={selectedCounty} onChange={(e) => setSelectedCounty(e.target.value)} disabled={selectedState === "Todas"}>
+              <option value="Todas">Todos los condados</option>
+              {countyOptions.map((county) => <option key={county.id} value={county.id}>{county.name}</option>)}
+            </select>
+            <input value={cityQuery} onChange={(e) => setCityQuery(e.target.value)} placeholder="Filtrar por ciudad..." />
             <select value={category} onChange={(e) => setCategory(e.target.value)}>
               <option>Todas</option>
               {categories.map((c) => <option key={c}>{c}</option>)}
             </select>
           </div>
-          <div className="countBar">{loading ? "Cargando inventario..." : `${countries.length} países/áreas · ${media.length} medios cargados`}</div>
+          <div className="countBar">{loading ? "Cargando inventario..." : `${countries.length} países/áreas · ${media.length} medios en catálogo · ${media.filter((m) => m.country === "USA").length} registros de EE. UU. · ${geography.length.toLocaleString("es-CO")} condados/equivalentes · ${geography.reduce((sum, county) => sum + county.cities.length, 0).toLocaleString("es-CO")} ciudades y localidades de referencia`}</div>
         </section>
 
         <section id="continentes" className="section">
@@ -176,6 +197,15 @@ function App() {
           <div className="grid">
             {countries.map((c) => <article className="card" key={c.id}><div className="flag">🌐</div><h3>{c.name}</h3><p>{c.continent} · {c.region} · {languageLabels[c.language] || c.language}</p><div className="chips"><span>🌎 Geopolítica</span><span>🟢 Independientes</span></div></article>)}
           </div>
+        </section>
+
+        <section id="geografia-eeuu" className="section">
+          <div className="sectionHead">
+            <div><span className="eyebrow">GEOGRAFÍA DE ESTADOS UNIDOS</span><h2>Condados y localidades</h2></div>
+            <span className="count">{geography.length.toLocaleString("es-CO")} condados/equivalentes · {geography.reduce((sum, county) => sum + county.cities.length, 0).toLocaleString("es-CO")} localidades</span>
+          </div>
+          <p className="geoNote">La base geográfica permite navegar por estado, condado y ciudad. Las localidades son referencias territoriales; no implican que ya exista un medio registrado en cada una.</p>
+          {selectedCountyRecord && <article className="card"><h3>{selectedCountyRecord.name}</h3><p>{selectedCountyRecord.state_name} · {selectedCountyRecord.region}</p><div className="chips">{selectedCountyRecord.cities.slice(0, 30).map((city) => <span key={city}>{city}</span>)}</div></article>}
         </section>
 
         <section id="medios" className="section">
