@@ -854,5 +854,243 @@
     "continent": "Asia",
     "region": "Asia sudoriental",
     "language": "id"
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "en"
+  },
+  {
+    "id": "TZA",
+    "name": "Tanzania",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "sw"
+  },
+  {
+    "id": "RWA",
+    "name": "Ruanda",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "rw"
+  },
+  {
+    "id": "UGA",
+    "name": "Uganda",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "en"
+  },
+  {
+    "id": "ZMB",
+    "name": "Zambia",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "NAM",
+    "name": "Namibia",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "BWA",
+    "name": "Botsuana",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "LSO",
+    "name": "Lesoto",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "SWZ",
+    "name": "Esuatini",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "GMB",
+    "name": "Gambia",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "en"
+  },
+  {
+    "id": "LBR",
+    "name": "Liberia",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "en"
+  },
+  {
+    "id": "SLE",
+    "name": "Sierra Leona",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "en"
+  },
+  {
+    "id": "BGD",
+    "name": "Bangladés",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "bn"
+  },
+  {
+    "id": "PAK",
+    "name": "Pakistán",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "ur"
+  },
+  {
+    "id": "NPL",
+    "name": "Nepal",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "ne"
+  },
+  {
+    "id": "LKA",
+    "name": "Sri Lanka",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "si"
+  },
+  {
+    "id": "MYS",
+    "name": "Malasia",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "ms"
+  },
+  {
+    "id": "THA",
+    "name": "Tailandia",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "th"
+  },
+  {
+    "id": "VNM",
+    "name": "Vietnam",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "vi"
+  },
+  {
+    "id": "KHM",
+    "name": "Camboya",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "km"
+  },
+  {
+    "id": "SGP",
+    "name": "Singapur",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "en"
+  },
+  {
+    "id": "KOR",
+    "name": "Corea del Sur",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "ko"
+  },
+  {
+    "id": "TWN",
+    "name": "Taiwán",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "zh"
+  },
+  {
+    "id": "SAU",
+    "name": "Arabia Saudita",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "ARE",
+    "name": "Emiratos Árabes Unidos",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "JOR",
+    "name": "Jordania",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "LBN",
+    "name": "Líbano",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "QAT",
+    "name": "Catar",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "KWT",
+    "name": "Kuwait",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "IRQ",
+    "name": "Irak",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "EGY",
+    "name": "Egipto",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
+  },
+  {
+    "id": "MAR",
+    "name": "Marruecos",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
+  },
+  {
+    "id": "TUN",
+    "name": "Túnez",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
+  },
+  {
+    "id": "DZA",
+    "name": "Argelia",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
   }
 ]
