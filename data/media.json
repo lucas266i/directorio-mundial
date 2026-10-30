@@ -167,20 +167,6 @@
     "status": "pending_verification"
   },
   {
-    "id": "MED-US-001",
-    "name": "ProPublica",
-    "country": "USA",
-    "language": "en",
-    "type": "investigative",
-    "categories": [
-      "independent-media",
-      "investigative",
-      "politics"
-    ],
-    "official_url": "https://www.propublica.org/",
-    "status": "pending_verification"
-  },
-  {
     "id": "MED-CA-001",
     "name": "The Narwhal",
     "country": "CAN",
@@ -2052,30 +2038,6 @@
     "official_url": "https://wyofile.com/",
     "coverage": [
       "Wyoming"
-    ],
-    "status": "pending_verification",
-    "source_directory": "States Newsroom newsroom directory",
-    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
-  },
-  {
-    "id": "MED-USA-DC-001",
-    "name": "DCist",
-    "country": "USA",
-    "state": "DC",
-    "city": "Washington",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital_native",
-    "categories": [
-      "independent-media",
-      "investigative",
-      "politics"
-    ],
-    "official_url": "https://dcist.com/",
-    "coverage": [
-      "District of Columbia"
     ],
     "status": "pending_verification",
     "source_directory": "States Newsroom newsroom directory",
