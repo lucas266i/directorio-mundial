@@ -27134,5 +27134,407 @@
     "status": "pending_verification",
     "discovery_source": "University of Puerto Rico library directories; Haitian media directories; Caribbean Newspapers; regional radio and press listings",
     "verification_note": "New discovery record. Verify live publication, canonical URL, geographic base, ownership and editorial affiliation before marking verified."
+  },
+  {
+    "id": "MED-GLP-002",
+    "name": "Karib'Info",
+    "country": "GLP",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://www.karibinfo.com/",
+    "categories": [
+      "regional-news",
+      "general-news",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Current regional outlet with current Guadeloupe and Martinique reporting. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-GLP-003",
+    "name": "News Antilles",
+    "country": "GLP",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://www.newsantilles.com/",
+    "categories": [
+      "regional-news",
+      "general-news",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Guadeloupe and Caribbean news site. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-GLP-004",
+    "name": "Guadeloupe La 1ère",
+    "country": "GLP",
+    "language": "fr",
+    "type": "public-media",
+    "official_url": "https://la1ere.franceinfo.fr/guadeloupe/",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "television",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Public radio and television service listed by regional directory. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-GLP-005",
+    "name": "RCI Guadeloupe",
+    "country": "GLP",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://www.rci.fm/",
+    "categories": [
+      "radio",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Private general-interest radio, listed by Guadeloupe radio directory. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-GLP-006",
+    "name": "Canal 10",
+    "country": "GLP",
+    "language": "fr",
+    "type": "television-digital",
+    "official_url": "https://www.canal10.tv/",
+    "categories": [
+      "television",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Local television outlet listed in Guadeloupe media guide. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-MTQ-002",
+    "name": "Martinique La 1ère",
+    "country": "MTQ",
+    "language": "fr",
+    "type": "public-media",
+    "official_url": "https://la1ere.franceinfo.fr/martinique/",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "television",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Public radio and television service listed by regional directory. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-MAF-001",
+    "name": "Le 97150",
+    "country": "MAF",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://www.le97150.fr/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Twice-weekly local news journal; active October 2026. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-MAF-002",
+    "name": "Le Pélican",
+    "country": "MAF",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://www.lepelican-journal.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Local daily newspaper; publisher and editor details listed by Alliance Presse. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-MAF-003",
+    "name": "Radio Transat",
+    "country": "MAF",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://www.radiotransat.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Northern islands radio station listed by regional radio directory. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-BLM-001",
+    "name": "Journal de Saint-Barth",
+    "country": "BLM",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://www.journaldesaintbarth.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Local Saint-Barth publication; current domain to verify. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-BLM-002",
+    "name": "Saint-Barthélemy La 1ère",
+    "country": "BLM",
+    "language": "fr",
+    "type": "public-media",
+    "official_url": "https://la1ere.franceinfo.fr/saint-barthelemy/",
+    "categories": [
+      "public-media",
+      "television",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Public regional television/news portal listed by regional directory. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-ABW-006",
+    "name": "Bon Dia Aruba",
+    "country": "ABW",
+    "language": "pap",
+    "type": "newspaper",
+    "official_url": "https://www.bondia.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Government of Aruba and Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-ABW-007",
+    "name": "Noticia Cla",
+    "country": "ABW",
+    "language": "pap",
+    "type": "digital_native",
+    "official_url": "https://www.noticiacla.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed as a media partner by Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-ABW-008",
+    "name": "Fresh FM Aruba",
+    "country": "ABW",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://fresharuba.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Government of Aruba and Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-ABW-009",
+    "name": "TeleAruba",
+    "country": "ABW",
+    "language": "pap",
+    "type": "television-digital",
+    "official_url": "https://www.telearuba.aw/",
+    "categories": [
+      "television",
+      "public-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed as a media partner by Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-ABW-010",
+    "name": "Solo di Pueblo",
+    "country": "ABW",
+    "language": "pap",
+    "type": "digital_native",
+    "official_url": "https://solodipueblo.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Current Papiamento news site with recent local coverage. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-005",
+    "name": "Extra Curaçao",
+    "country": "CUW",
+    "language": "pap",
+    "type": "newspaper",
+    "official_url": "https://extra.cw/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Curaçao Film Office and Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-006",
+    "name": "Vigilante",
+    "country": "CUW",
+    "language": "pap",
+    "type": "newspaper",
+    "official_url": "https://www.vigilantekorsou.news/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-007",
+    "name": "TeleCuraçao",
+    "country": "CUW",
+    "language": "pap",
+    "type": "television-digital",
+    "official_url": "https://www.telecuracao.com/",
+    "categories": [
+      "television",
+      "public-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-008",
+    "name": "Cariflix",
+    "country": "CUW",
+    "language": "pap",
+    "type": "television-digital",
+    "official_url": "https://www.cariflix.com/",
+    "categories": [
+      "television",
+      "digital-native",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Online television platform listed by Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-009",
+    "name": "TV Direct Curaçao",
+    "country": "CUW",
+    "language": "pap",
+    "type": "television-digital",
+    "official_url": "https://www.tvdirect13.com/",
+    "categories": [
+      "television",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-010",
+    "name": "Nos Pais Television",
+    "country": "CUW",
+    "language": "pap",
+    "type": "television-digital",
+    "official_url": "https://www.nospais.com/",
+    "categories": [
+      "television",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-CUW-011",
+    "name": "Dolfijn FM",
+    "country": "CUW",
+    "language": "nl",
+    "type": "radio-digital",
+    "official_url": "https://www.dolfijnfm.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed by Caribisch Netwerk and Curaçao Film Office. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-BES-003",
+    "name": "Mega Hit FM Bonaire",
+    "country": "BES",
+    "language": "nl",
+    "type": "radio-digital",
+    "official_url": "https://megahitfm.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Official station site; identified as a Bonaire station by Caribisch Netwerk. Editorial ownership and affiliation must be reviewed before classification as independent."
+  },
+  {
+    "id": "MED-SXM-003",
+    "name": "Pearl FM",
+    "country": "SXM",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://pearlfmradio.sx/",
+    "categories": [
+      "radio",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Caribisch Netwerk NTR; Curaçao Film Office; Government of Aruba; Guadeloupe regional media and radio directories; Alliance Presse",
+    "verification_note": "Discovery record. Listed as a media partner by Caribisch Netwerk; active site. Editorial ownership and affiliation must be reviewed before classification as independent."
   }
 ]
