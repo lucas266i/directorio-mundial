@@ -1092,5 +1092,250 @@
     "continent": "África",
     "region": "África septentrional",
     "language": "ar"
+  },
+  {
+    "id": "BTN",
+    "name": "Bután",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "dz"
+  },
+  {
+    "id": "MDV",
+    "name": "Maldivas",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "dv"
+  },
+  {
+    "id": "MNG",
+    "name": "Mongolia",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "mn"
+  },
+  {
+    "id": "KAZ",
+    "name": "Kazajistán",
+    "continent": "Asia",
+    "region": "Asia central",
+    "language": "kk"
+  },
+  {
+    "id": "KGZ",
+    "name": "Kirguistán",
+    "continent": "Asia",
+    "region": "Asia central",
+    "language": "ky"
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistán",
+    "continent": "Asia",
+    "region": "Asia central",
+    "language": "uz"
+  },
+  {
+    "id": "TJK",
+    "name": "Tayikistán",
+    "continent": "Asia",
+    "region": "Asia central",
+    "language": "tg"
+  },
+  {
+    "id": "TKM",
+    "name": "Turkmenistán",
+    "continent": "Asia",
+    "region": "Asia central",
+    "language": "tk"
+  },
+  {
+    "id": "AZE",
+    "name": "Azerbaiyán",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "az"
+  },
+  {
+    "id": "ARM",
+    "name": "Armenia",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "hy"
+  },
+  {
+    "id": "GEO",
+    "name": "Georgia",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ka"
+  },
+  {
+    "id": "MMR",
+    "name": "Myanmar",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "my"
+  },
+  {
+    "id": "LAO",
+    "name": "Laos",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "lo"
+  },
+  {
+    "id": "BRN",
+    "name": "Brunéi",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "ms"
+  },
+  {
+    "id": "TLS",
+    "name": "Timor-Leste",
+    "continent": "Asia",
+    "region": "Asia sudoriental",
+    "language": "tet"
+  },
+  {
+    "id": "MAC",
+    "name": "Macao",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "zh"
+  },
+  {
+    "id": "HKG",
+    "name": "Hong Kong",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "zh"
+  },
+  {
+    "id": "ZWE",
+    "name": "Zimbabue",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "ETH",
+    "name": "Etiopía",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "am"
+  },
+  {
+    "id": "MWI",
+    "name": "Malaui",
+    "continent": "África",
+    "region": "África austral",
+    "language": "en"
+  },
+  {
+    "id": "MOZ",
+    "name": "Mozambique",
+    "continent": "África",
+    "region": "África austral",
+    "language": "pt"
+  },
+  {
+    "id": "AGO",
+    "name": "Angola",
+    "continent": "África",
+    "region": "África austral",
+    "language": "pt"
+  },
+  {
+    "id": "CIV",
+    "name": "Costa de Marfil",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "CMR",
+    "name": "Camerún",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "MDG",
+    "name": "Madagascar",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "mg"
+  },
+  {
+    "id": "MUS",
+    "name": "Mauricio",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "en"
+  },
+  {
+    "id": "SYC",
+    "name": "Seychelles",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "en"
+  },
+  {
+    "id": "FJI",
+    "name": "Fiyi",
+    "continent": "Oceanía",
+    "region": "Melanesia",
+    "language": "en"
+  },
+  {
+    "id": "PNG",
+    "name": "Papúa Nueva Guinea",
+    "continent": "Oceanía",
+    "region": "Melanesia",
+    "language": "en"
+  },
+  {
+    "id": "WSM",
+    "name": "Samoa",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "sm"
+  },
+  {
+    "id": "TON",
+    "name": "Tonga",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "to"
+  },
+  {
+    "id": "VUT",
+    "name": "Vanuatu",
+    "continent": "Oceanía",
+    "region": "Melanesia",
+    "language": "bi"
+  },
+  {
+    "id": "SLB",
+    "name": "Islas Salomón",
+    "continent": "Oceanía",
+    "region": "Melanesia",
+    "language": "en"
+  },
+  {
+    "id": "MHL",
+    "name": "Islas Marshall",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "mh"
   }
 ]
