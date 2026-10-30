@@ -406,5 +406,59 @@
     "continent": "América",
     "region": "Norteamérica",
     "language": "fr"
+  },
+  {
+    "id": "CYM",
+    "name": "Islas Caimán",
+    "m49": "136",
+    "iso2": "KY",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "GLP",
+    "name": "Guadalupe",
+    "m49": "312",
+    "iso2": "GP",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "fr"
+  },
+  {
+    "id": "MTQ",
+    "name": "Martinica",
+    "m49": "474",
+    "iso2": "MQ",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "fr"
+  },
+  {
+    "id": "BES",
+    "name": "Bonaire, San Eustaquio y Saba",
+    "m49": "535",
+    "iso2": "BQ",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "nl"
+  },
+  {
+    "id": "TCA",
+    "name": "Islas Turcas y Caicos",
+    "m49": "796",
+    "iso2": "TC",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "en"
+  },
+  {
+    "id": "MAF",
+    "name": "San Martín (parte francesa)",
+    "m49": "663",
+    "iso2": "MF",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "fr"
   }
 ]
