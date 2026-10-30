@@ -1835,30 +1835,6 @@
     "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
   },
   {
-    "id": "MED-USA-DC-001",
-    "name": "DCist",
-    "country": "USA",
-    "state": "DC",
-    "city": "Washington",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital_native",
-    "categories": [
-      "independent-media",
-      "investigative",
-      "politics"
-    ],
-    "official_url": "https://dcist.com/",
-    "coverage": [
-      "District of Columbia"
-    ],
-    "status": "pending_verification",
-    "source_directory": "States Newsroom newsroom directory",
-    "verification_note": "Candidate identified in States Newsroom directory; confirm current activity and ownership details."
-  },
-  {
     "id": "MED-USA-CITY-NY-001",
     "name": "The City",
     "country": "USA",
