@@ -111,7 +111,7 @@
     "languages": [
       "dz"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
@@ -276,7 +276,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -342,7 +342,7 @@
     "languages": [
       "kk"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -1035,7 +1035,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -1719,8 +1719,8 @@
     "id": "MED-GLOBAL4-053",
     "name": "The New Arab",
     "country": "INT",
-    "continent": "Asia",
-    "continent_region": "Asia",
+    "continent": "Mundo",
+    "continent_region": "Global",
     "city": "London",
     "admin1_name": "Global",
     "admin1_type": "global",
@@ -1736,7 +1736,6 @@
     ],
     "official_url": "https://www.newarab.com/",
     "coverage": [
-      "London",
       "Global"
     ],
     "status": "pending_verification",
@@ -1752,8 +1751,8 @@
     "id": "MED-GLOBAL4-054",
     "name": "The Africa Report",
     "country": "INT",
-    "continent": "Asia",
-    "continent_region": "Asia",
+    "continent": "Mundo",
+    "continent_region": "Global",
     "city": "Paris",
     "admin1_name": "Global",
     "admin1_type": "global",
@@ -1769,7 +1768,6 @@
     ],
     "official_url": "https://www.theafricareport.com/",
     "coverage": [
-      "Paris",
       "Global"
     ],
     "status": "pending_verification",
@@ -1827,7 +1825,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
@@ -2421,7 +2419,7 @@
     "languages": [
       "pt"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -2949,7 +2947,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -3015,7 +3013,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
@@ -3147,7 +3145,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
@@ -3444,7 +3442,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -3477,7 +3475,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -3510,7 +3508,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
@@ -3543,7 +3541,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "television",
     "categories": [
       "general-news",
       "regional-news",
