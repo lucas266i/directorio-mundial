@@ -1094,5 +1094,305 @@
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-019",
+    "name": "Fiji Sun",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://fijisun.com.fj/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-020",
+    "name": "FBC News",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "radio",
+      "local-news"
+    ],
+    "official_url": "https://www.fbcnews.com.fj/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-021",
+    "name": "Solomon Islands Broadcasting Corporation",
+    "country": "SLB",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Honiara",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "radio",
+      "local-news"
+    ],
+    "official_url": "https://www.sibconline.com.sb/",
+    "coverage": [
+      "SLB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-022",
+    "name": "Loop PNG",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Moresby",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "business"
+    ],
+    "official_url": "https://www.loopng.com/",
+    "coverage": [
+      "PNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-023",
+    "name": "EMTV Online",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Moresby",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://emtv.com.pg/",
+    "coverage": [
+      "PNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-024",
+    "name": "Samoa Global News",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Apia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://samoaglobalnews.com/",
+    "coverage": [
+      "WSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-025",
+    "name": "Talamua",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Apia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://talamua.com/",
+    "coverage": [
+      "WSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-026",
+    "name": "Tonga Broadcasting Commission",
+    "country": "TON",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Nuku'alofa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "radio",
+      "television"
+    ],
+    "official_url": "https://tbc.to/",
+    "coverage": [
+      "TON"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-027",
+    "name": "Marshall Islands Journal",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "city": "Majuro",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://marshallislandsjournal.com/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-028",
+    "name": "Michael West Media",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "business",
+      "accountability"
+    ],
+    "official_url": "https://michaelwest.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-029",
+    "name": "The New Daily",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Melbourne",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.thenewdaily.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-030",
+    "name": "The Monthly",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Melbourne",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics",
+      "culture",
+      "analysis"
+    ],
+    "official_url": "https://www.themonthly.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
+    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   }
 ]
