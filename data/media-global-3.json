@@ -1,0 +1,802 @@
+[
+  {
+    "id": "MED-GLOBAL3-001",
+    "name": "Bonaire.nu",
+    "country": "BES",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Kralendijk",
+    "admin1_name": "Bonaire",
+    "admin1_type": "island",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://bonaire.nu/",
+    "coverage": [
+      "Kralendijk",
+      "Bonaire"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-002",
+    "name": "Bonaire Insider",
+    "country": "BES",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Kralendijk",
+    "admin1_name": "Bonaire",
+    "admin1_type": "island",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bonaireinsider.com/",
+    "coverage": [
+      "Kralendijk",
+      "Bonaire"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-003",
+    "name": "Curacao.nu",
+    "country": "CUW",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Willemstad",
+    "admin1_name": "Curaçao",
+    "admin1_type": "territory",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://curacao.nu/",
+    "coverage": [
+      "Willemstad",
+      "Curaçao"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-004",
+    "name": "The Western Mirror",
+    "country": "JAM",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Montego Bay",
+    "admin1_name": "Saint James",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://westernmirror.com/",
+    "coverage": [
+      "Montego Bay",
+      "Saint James"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-005",
+    "name": "McKoy's News",
+    "country": "JAM",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Montego Bay",
+    "admin1_name": "Saint James",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://mckoysnews.com/",
+    "coverage": [
+      "Montego Bay",
+      "Saint James"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-006",
+    "name": "Wired868",
+    "country": "TTO",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Port of Spain",
+    "admin1_name": "Port of Spain",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://wired868.com/",
+    "coverage": [
+      "Port of Spain",
+      "Port of Spain"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-007",
+    "name": "Catholic News",
+    "country": "TTO",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Port of Spain",
+    "admin1_name": "Port of Spain",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://catholicnewstt.com/",
+    "coverage": [
+      "Port of Spain",
+      "Port of Spain"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-008",
+    "name": "Loop Trinidad and Tobago",
+    "country": "TTO",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Port of Spain",
+    "admin1_name": "Port of Spain",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://tt.loopnews.com/",
+    "coverage": [
+      "Port of Spain",
+      "Port of Spain"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-009",
+    "name": "Barbados Underground",
+    "country": "BRB",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Bridgetown",
+    "admin1_name": "Saint Michael",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://barbadosunderground.net/",
+    "coverage": [
+      "Bridgetown",
+      "Saint Michael"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-010",
+    "name": "WiredJa",
+    "country": "ATG",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "St. John's",
+    "admin1_name": "Saint John",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://wiredja.com/",
+    "coverage": [
+      "St. John's",
+      "Saint John"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-011",
+    "name": "Dominica Chronicle",
+    "country": "DMA",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Roseau",
+    "admin1_name": "Saint George",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://dominicachronicle.com/",
+    "coverage": [
+      "Roseau",
+      "Saint George"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-012",
+    "name": "The Sun Dominica",
+    "country": "DMA",
+    "continent": "América",
+    "continent_region": "Caribe",
+    "city": "Roseau",
+    "admin1_name": "Saint George",
+    "admin1_type": "parish",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://sundominica.com/",
+    "coverage": [
+      "Roseau",
+      "Saint George"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-013",
+    "name": "Q'hubo Cali",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Cali",
+    "admin1_name": "Valle del Cauca",
+    "admin1_type": "departamento",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.qhubocali.com/",
+    "coverage": [
+      "Cali",
+      "Valle del Cauca"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-014",
+    "name": "Diario del Huila",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Neiva",
+    "admin1_name": "Huila",
+    "admin1_type": "departamento",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://diariodelhuila.com/",
+    "coverage": [
+      "Neiva",
+      "Huila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-015",
+    "name": "El Austral de Osorno",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "city": "Osorno",
+    "admin1_name": "Los Lagos",
+    "admin1_type": "región",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.australosorno.cl/",
+    "coverage": [
+      "Osorno",
+      "Los Lagos"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-016",
+    "name": "JoyNews",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.myjoyonline.com/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-017",
+    "name": "Citi Newsroom",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://citinewsroom.com/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-018",
+    "name": "The Standard Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "admin1_name": "Nairobi County",
+    "admin1_type": "county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.standardmedia.co.ke/",
+    "coverage": [
+      "Nairobi",
+      "Nairobi County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-019",
+    "name": "NewsDay Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Harare",
+    "admin1_name": "Harare",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.newsday.co.zw/",
+    "coverage": [
+      "Harare",
+      "Harare"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-020",
+    "name": "The Chronicle Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Bulawayo",
+    "admin1_name": "Bulawayo",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.chronicle.co.zw/",
+    "coverage": [
+      "Bulawayo",
+      "Bulawayo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-021",
+    "name": "Addis Standard",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Addis Ababa",
+    "admin1_name": "Addis Ababa",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://addisstandard.com/",
+    "coverage": [
+      "Addis Ababa",
+      "Addis Ababa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-022",
+    "name": "The Reporter Ethiopia",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Addis Ababa",
+    "admin1_name": "Addis Ababa",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thereporterethiopia.com/",
+    "coverage": [
+      "Addis Ababa",
+      "Addis Ababa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-023",
+    "name": "Kantipur",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kathmandu",
+    "admin1_name": "Bagmati",
+    "admin1_type": "province",
+    "language": "ne",
+    "languages": [
+      "ne"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://ekantipur.com/",
+    "coverage": [
+      "Kathmandu",
+      "Bagmati"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-024",
+    "name": "VnExpress",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Hanoi",
+    "admin1_name": "Hanoi",
+    "admin1_type": "municipality",
+    "language": "vi",
+    "languages": [
+      "vi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://vnexpress.net/",
+    "coverage": [
+      "Hanoi",
+      "Hanoi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  },
+  {
+    "id": "MED-GLOBAL3-025",
+    "name": "CNA",
+    "country": "SGP",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Singapore",
+    "admin1_name": "Singapore",
+    "admin1_type": "city-state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.channelnewsasia.com/",
+    "coverage": [
+      "Singapore",
+      "Singapore"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales y bases universitarias/sectoriales de medios internacionales.",
+    "source_references": [
+      "https://geomedios.fcs.ucr.ac.cr/inicio/ubicamedios/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Registro candidato con clasificación geográfica inicial; verificar individualmente URL, actividad editorial, sede y cobertura."
+  }
+]
