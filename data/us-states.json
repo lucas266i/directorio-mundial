@@ -1,0 +1,829 @@
+[
+  {
+    "code": "AL",
+    "name": "Alabama",
+    "capital": "Montgomery",
+    "region": "South",
+    "cities": [
+      "Birmingham",
+      "Mobile",
+      "Huntsville",
+      "Tuscaloosa",
+      "Montgomery"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "AK",
+    "name": "Alaska",
+    "capital": "Juneau",
+    "region": "West",
+    "cities": [
+      "Anchorage",
+      "Fairbanks",
+      "Juneau",
+      "Wasilla",
+      "Sitka"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "AZ",
+    "name": "Arizona",
+    "capital": "Phoenix",
+    "region": "West",
+    "cities": [
+      "Phoenix",
+      "Tucson",
+      "Mesa",
+      "Chandler",
+      "Scottsdale",
+      "Flagstaff"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "AR",
+    "name": "Arkansas",
+    "capital": "Little Rock",
+    "region": "South",
+    "cities": [
+      "Little Rock",
+      "Fayetteville",
+      "Fort Smith",
+      "Springdale",
+      "Jonesboro"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "CA",
+    "name": "California",
+    "capital": "Sacramento",
+    "region": "West",
+    "cities": [
+      "Los Angeles",
+      "San Diego",
+      "San Jose",
+      "San Francisco",
+      "Sacramento",
+      "Fresno",
+      "Oakland",
+      "Long Beach"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "CO",
+    "name": "Colorado",
+    "capital": "Denver",
+    "region": "West",
+    "cities": [
+      "Denver",
+      "Colorado Springs",
+      "Aurora",
+      "Fort Collins",
+      "Boulder",
+      "Pueblo"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "CT",
+    "name": "Connecticut",
+    "capital": "Hartford",
+    "region": "Northeast",
+    "cities": [
+      "Hartford",
+      "New Haven",
+      "Bridgeport",
+      "Stamford",
+      "Waterbury",
+      "Norwalk"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "DE",
+    "name": "Delaware",
+    "capital": "Dover",
+    "region": "South",
+    "cities": [
+      "Wilmington",
+      "Dover",
+      "Newark",
+      "Middletown"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "FL",
+    "name": "Florida",
+    "capital": "Tallahassee",
+    "region": "South",
+    "cities": [
+      "Miami",
+      "Tampa",
+      "Orlando",
+      "Jacksonville",
+      "Tallahassee",
+      "St. Petersburg",
+      "Fort Lauderdale"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "GA",
+    "name": "Georgia",
+    "capital": "Atlanta",
+    "region": "South",
+    "cities": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Columbus",
+      "Macon",
+      "Athens"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "HI",
+    "name": "Hawaii",
+    "capital": "Honolulu",
+    "region": "West",
+    "cities": [
+      "Honolulu",
+      "Hilo",
+      "Kailua",
+      "Kahului",
+      "Lihue"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "ID",
+    "name": "Idaho",
+    "capital": "Boise",
+    "region": "West",
+    "cities": [
+      "Boise",
+      "Meridian",
+      "Nampa",
+      "Idaho Falls",
+      "Pocatello",
+      "Coeur d'Alene"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "IL",
+    "name": "Illinois",
+    "capital": "Springfield",
+    "region": "Midwest",
+    "cities": [
+      "Chicago",
+      "Aurora",
+      "Rockford",
+      "Joliet",
+      "Naperville",
+      "Springfield",
+      "Peoria"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "IN",
+    "name": "Indiana",
+    "capital": "Indianapolis",
+    "region": "Midwest",
+    "cities": [
+      "Indianapolis",
+      "Fort Wayne",
+      "Evansville",
+      "South Bend",
+      "Carmel",
+      "Bloomington"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "IA",
+    "name": "Iowa",
+    "capital": "Des Moines",
+    "region": "Midwest",
+    "cities": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Davenport",
+      "Sioux City",
+      "Iowa City",
+      "Waterloo"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "KS",
+    "name": "Kansas",
+    "capital": "Topeka",
+    "region": "Midwest",
+    "cities": [
+      "Wichita",
+      "Overland Park",
+      "Kansas City",
+      "Topeka",
+      "Lawrence",
+      "Manhattan"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "KY",
+    "name": "Kentucky",
+    "capital": "Frankfort",
+    "region": "South",
+    "cities": [
+      "Louisville",
+      "Lexington",
+      "Bowling Green",
+      "Owensboro",
+      "Covington",
+      "Frankfort"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "LA",
+    "name": "Louisiana",
+    "capital": "Baton Rouge",
+    "region": "South",
+    "cities": [
+      "New Orleans",
+      "Baton Rouge",
+      "Shreveport",
+      "Lafayette",
+      "Lake Charles",
+      "Monroe"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "ME",
+    "name": "Maine",
+    "capital": "Augusta",
+    "region": "Northeast",
+    "cities": [
+      "Portland",
+      "Lewiston",
+      "Bangor",
+      "South Portland",
+      "Auburn",
+      "Augusta",
+      "Brunswick"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MD",
+    "name": "Maryland",
+    "capital": "Annapolis",
+    "region": "South",
+    "cities": [
+      "Baltimore",
+      "Frederick",
+      "Rockville",
+      "Gaithersburg",
+      "Bowie",
+      "Annapolis"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MA",
+    "name": "Massachusetts",
+    "capital": "Boston",
+    "region": "Northeast",
+    "cities": [
+      "Boston",
+      "Worcester",
+      "Springfield",
+      "Cambridge",
+      "Lowell",
+      "New Bedford",
+      "Quincy",
+      "Pittsfield"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MI",
+    "name": "Michigan",
+    "capital": "Lansing",
+    "region": "Midwest",
+    "cities": [
+      "Detroit",
+      "Grand Rapids",
+      "Warren",
+      "Ann Arbor",
+      "Lansing",
+      "Flint",
+      "Kalamazoo"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MN",
+    "name": "Minnesota",
+    "capital": "Saint Paul",
+    "region": "Midwest",
+    "cities": [
+      "Minneapolis",
+      "Saint Paul",
+      "Rochester",
+      "Duluth",
+      "Bloomington",
+      "Mankato"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MS",
+    "name": "Mississippi",
+    "capital": "Jackson",
+    "region": "South",
+    "cities": [
+      "Jackson",
+      "Gulfport",
+      "Southaven",
+      "Hattiesburg",
+      "Biloxi",
+      "Tupelo"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MO",
+    "name": "Missouri",
+    "capital": "Jefferson City",
+    "region": "Midwest",
+    "cities": [
+      "Kansas City",
+      "St. Louis",
+      "Springfield",
+      "Columbia",
+      "Independence",
+      "Jefferson City"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "MT",
+    "name": "Montana",
+    "capital": "Helena",
+    "region": "West",
+    "cities": [
+      "Billings",
+      "Missoula",
+      "Great Falls",
+      "Bozeman",
+      "Butte",
+      "Helena"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NE",
+    "name": "Nebraska",
+    "capital": "Lincoln",
+    "region": "Midwest",
+    "cities": [
+      "Omaha",
+      "Lincoln",
+      "Bellevue",
+      "Grand Island",
+      "Kearney",
+      "Fremont"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NV",
+    "name": "Nevada",
+    "capital": "Carson City",
+    "region": "West",
+    "cities": [
+      "Las Vegas",
+      "Henderson",
+      "Reno",
+      "North Las Vegas",
+      "Sparks",
+      "Carson City"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NH",
+    "name": "New Hampshire",
+    "capital": "Concord",
+    "region": "Northeast",
+    "cities": [
+      "Manchester",
+      "Nashua",
+      "Concord",
+      "Dover",
+      "Rochester",
+      "Portsmouth",
+      "Keene"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NJ",
+    "name": "New Jersey",
+    "capital": "Trenton",
+    "region": "Northeast",
+    "cities": [
+      "Newark",
+      "Jersey City",
+      "Paterson",
+      "Elizabeth",
+      "Edison",
+      "Trenton",
+      "Atlantic City"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NM",
+    "name": "New Mexico",
+    "capital": "Santa Fe",
+    "region": "West",
+    "cities": [
+      "Albuquerque",
+      "Las Cruces",
+      "Rio Rancho",
+      "Santa Fe",
+      "Roswell",
+      "Farmington"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NY",
+    "name": "New York",
+    "capital": "Albany",
+    "region": "Northeast",
+    "cities": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Yonkers",
+      "Syracuse",
+      "Albany",
+      "New Rochelle",
+      "Schenectady"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "NC",
+    "name": "North Carolina",
+    "capital": "Raleigh",
+    "region": "South",
+    "cities": [
+      "Charlotte",
+      "Raleigh",
+      "Greensboro",
+      "Durham",
+      "Winston-Salem",
+      "Fayetteville",
+      "Asheville"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "ND",
+    "name": "North Dakota",
+    "capital": "Bismarck",
+    "region": "Midwest",
+    "cities": [
+      "Fargo",
+      "Bismarck",
+      "Grand Forks",
+      "Minot",
+      "West Fargo",
+      "Williston"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "OH",
+    "name": "Ohio",
+    "capital": "Columbus",
+    "region": "Midwest",
+    "cities": [
+      "Columbus",
+      "Cleveland",
+      "Cincinnati",
+      "Toledo",
+      "Akron",
+      "Dayton",
+      "Youngstown"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "OK",
+    "name": "Oklahoma",
+    "capital": "Oklahoma City",
+    "region": "South",
+    "cities": [
+      "Oklahoma City",
+      "Tulsa",
+      "Norman",
+      "Broken Arrow",
+      "Lawton",
+      "Edmond"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "OR",
+    "name": "Oregon",
+    "capital": "Salem",
+    "region": "West",
+    "cities": [
+      "Portland",
+      "Salem",
+      "Eugene",
+      "Gresham",
+      "Bend",
+      "Hillsboro",
+      "Medford"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "capital": "Harrisburg",
+    "region": "Northeast",
+    "cities": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Erie",
+      "Reading",
+      "Scranton",
+      "Harrisburg",
+      "Lancaster"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "RI",
+    "name": "Rhode Island",
+    "capital": "Providence",
+    "region": "Northeast",
+    "cities": [
+      "Providence",
+      "Warwick",
+      "Cranston",
+      "Pawtucket",
+      "Newport",
+      "Woonsocket"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "SC",
+    "name": "South Carolina",
+    "capital": "Columbia",
+    "region": "South",
+    "cities": [
+      "Charleston",
+      "Columbia",
+      "North Charleston",
+      "Mount Pleasant",
+      "Greenville",
+      "Rock Hill"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "SD",
+    "name": "South Dakota",
+    "capital": "Pierre",
+    "region": "Midwest",
+    "cities": [
+      "Sioux Falls",
+      "Rapid City",
+      "Aberdeen",
+      "Brookings",
+      "Watertown",
+      "Pierre"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "TN",
+    "name": "Tennessee",
+    "capital": "Nashville",
+    "region": "South",
+    "cities": [
+      "Nashville",
+      "Memphis",
+      "Knoxville",
+      "Chattanooga",
+      "Clarksville",
+      "Murfreesboro"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "TX",
+    "name": "Texas",
+    "capital": "Austin",
+    "region": "South",
+    "cities": [
+      "Houston",
+      "San Antonio",
+      "Dallas",
+      "Austin",
+      "Fort Worth",
+      "El Paso",
+      "Arlington",
+      "Corpus Christi"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "UT",
+    "name": "Utah",
+    "capital": "Salt Lake City",
+    "region": "West",
+    "cities": [
+      "Salt Lake City",
+      "West Valley City",
+      "Provo",
+      "West Jordan",
+      "Orem",
+      "St. George"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "VT",
+    "name": "Vermont",
+    "capital": "Montpelier",
+    "region": "Northeast",
+    "cities": [
+      "Burlington",
+      "South Burlington",
+      "Rutland",
+      "Barre",
+      "Montpelier",
+      "Brattleboro"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "VA",
+    "name": "Virginia",
+    "capital": "Richmond",
+    "region": "South",
+    "cities": [
+      "Virginia Beach",
+      "Chesapeake",
+      "Norfolk",
+      "Richmond",
+      "Newport News",
+      "Alexandria",
+      "Arlington"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "WA",
+    "name": "Washington",
+    "capital": "Olympia",
+    "region": "West",
+    "cities": [
+      "Seattle",
+      "Spokane",
+      "Tacoma",
+      "Vancouver",
+      "Bellevue",
+      "Everett",
+      "Olympia"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "WV",
+    "name": "West Virginia",
+    "capital": "Charleston",
+    "region": "South",
+    "cities": [
+      "Charleston",
+      "Huntington",
+      "Morgantown",
+      "Parkersburg",
+      "Wheeling",
+      "Martinsburg"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "WI",
+    "name": "Wisconsin",
+    "capital": "Madison",
+    "region": "Midwest",
+    "cities": [
+      "Milwaukee",
+      "Madison",
+      "Green Bay",
+      "Kenosha",
+      "Racine",
+      "Appleton",
+      "Eau Claire"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "WY",
+    "name": "Wyoming",
+    "capital": "Cheyenne",
+    "region": "West",
+    "cities": [
+      "Cheyenne",
+      "Casper",
+      "Laramie",
+      "Gillette",
+      "Rock Springs",
+      "Jackson"
+    ],
+    "country": "USA",
+    "administrative_type": "state"
+  },
+  {
+    "code": "DC",
+    "name": "District of Columbia",
+    "capital": "Washington",
+    "region": "South",
+    "cities": [
+      "Washington"
+    ],
+    "country": "USA",
+    "administrative_type": "federal_district"
+  }
+]
