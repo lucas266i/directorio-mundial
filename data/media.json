@@ -3225,5 +3225,1371 @@
     "status": "pending_verification",
     "source_directory": "American Community Media directory",
     "verification_note": "ACoM directory lists Chinese audience and Los Angeles County; verify current status and publication format."
+  },
+  {
+    "id": "MED-USA-NE-ME-001",
+    "name": "Portland Press Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Portland",
+    "county": "Cumberland County",
+    "county_id": "ME-cumberland-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.pressherald.com/",
+    "coverage": [
+      "Portland",
+      "Cumberland County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.pulitzercenter.org/bringing-stories-home-news-northeast",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-ME-002",
+    "name": "Bangor Daily News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Bangor",
+    "county": "Penobscot County",
+    "county_id": "ME-penobscot-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.bangordailynews.com/",
+    "coverage": [
+      "Bangor",
+      "Penobscot County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.pulitzercenter.org/bringing-stories-home-news-northeast",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-ME-003",
+    "name": "The Maine Monitor",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Augusta",
+    "county": "Kennebec County",
+    "county_id": "ME-kennebec-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "accountability",
+      "government"
+    ],
+    "official_url": "https://themainemonitor.org/",
+    "coverage": [
+      "Augusta",
+      "Kennebec County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.pulitzercenter.org/bringing-stories-home-news-northeast",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NH-001",
+    "name": "Union Leader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Manchester",
+    "county": "Hillsborough County",
+    "county_id": "NH-hillsborough-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.unionleader.com/",
+    "coverage": [
+      "Manchester",
+      "Hillsborough County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NH-002",
+    "name": "Concord Monitor",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Concord",
+    "county": "Merrimack County",
+    "county_id": "NH-merrimack-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.concordmonitor.com/",
+    "coverage": [
+      "Concord",
+      "Merrimack County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.pulitzercenter.org/bringing-stories-home-news-northeast",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NH-003",
+    "name": "New Hampshire Public Radio",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Concord",
+    "county": "Merrimack County",
+    "county_id": "NH-merrimack-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news"
+    ],
+    "official_url": "https://www.nhpr.org/",
+    "coverage": [
+      "Concord",
+      "Merrimack County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nenc.news/about/",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-VT-001",
+    "name": "Seven Days",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Burlington",
+    "county": "Chittenden County",
+    "county_id": "VT-chittenden-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "culture"
+    ],
+    "official_url": "https://www.sevendaysvt.com/",
+    "coverage": [
+      "Burlington",
+      "Chittenden County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://hub.williams.edu/career-center/arts-comm-tech/journalism-print-and-broadcast/",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-VT-002",
+    "name": "Vermont Public",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Colchester",
+    "county": "Chittenden County",
+    "county_id": "VT-chittenden-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news"
+    ],
+    "official_url": "https://www.vermontpublic.org/",
+    "coverage": [
+      "Colchester",
+      "Chittenden County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nenc.news/about/",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-VT-003",
+    "name": "Rutland Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Rutland",
+    "county": "Rutland County",
+    "county_id": "VT-rutland-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rutlandherald.com/",
+    "coverage": [
+      "Rutland",
+      "Rutland County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-001",
+    "name": "The Boston Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.bostonherald.com/",
+    "coverage": [
+      "Boston",
+      "Suffolk County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-002",
+    "name": "MassLive",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Springfield",
+    "county": "Hampden County",
+    "county_id": "MA-hampden-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.masslive.com/",
+    "coverage": [
+      "Springfield",
+      "Hampden County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-003",
+    "name": "Daily Hampshire Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Northampton",
+    "county": "Hampshire County",
+    "county_id": "MA-hampshire-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gazettenet.com/",
+    "coverage": [
+      "Northampton",
+      "Hampshire County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-004",
+    "name": "The New Bedford Light",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "New Bedford",
+    "county": "Bristol County",
+    "county_id": "MA-bristol-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "local-news"
+    ],
+    "official_url": "https://newbedfordlight.org/",
+    "coverage": [
+      "New Bedford",
+      "Bristol County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-005",
+    "name": "The Berkshire Eagle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Pittsfield",
+    "county": "Berkshire County",
+    "county_id": "MA-berkshire-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.berkshireeagle.com/",
+    "coverage": [
+      "Pittsfield",
+      "Berkshire County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-006",
+    "name": "Cape Cod Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Hyannis",
+    "county": "Barnstable County",
+    "county_id": "MA-barnstable-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.capecodtimes.com/",
+    "coverage": [
+      "Hyannis",
+      "Barnstable County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-007",
+    "name": "Worcester Telegram & Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Worcester",
+    "county": "Worcester County",
+    "county_id": "MA-worcester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.telegram.com/",
+    "coverage": [
+      "Worcester",
+      "Worcester County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-008",
+    "name": "Bay State Banner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "ethnic-media",
+      "local-news"
+    ],
+    "official_url": "https://www.baystatebanner.com/",
+    "coverage": [
+      "Boston",
+      "Suffolk County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-MA-009",
+    "name": "El Mundo Boston",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "county_id": "MA-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "spanish-language",
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://elmundoboston.com/",
+    "coverage": [
+      "Boston",
+      "Suffolk County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.ncmalliance.com/associations",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-CT-001",
+    "name": "Hartford Courant",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Hartford",
+    "county": "Hartford County",
+    "county_id": "CT-hartford-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.courant.com/",
+    "coverage": [
+      "Hartford",
+      "Hartford County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-CT-002",
+    "name": "New Haven Register",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "New Haven",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nhregister.com/",
+    "coverage": [
+      "New Haven",
+      "New Haven County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-CT-003",
+    "name": "The Day",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "New London",
+    "county": "New London County",
+    "county_id": "CT-new-london-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theday.com/",
+    "coverage": [
+      "New London",
+      "New London County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-CT-004",
+    "name": "Connecticut Public",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Hartford",
+    "county": "Hartford County",
+    "county_id": "CT-hartford-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://www.ctpublic.org/",
+    "coverage": [
+      "Hartford",
+      "Hartford County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.ctpublic.org/about/media-enterprises",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NJ-001",
+    "name": "The Star-Ledger",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Newark",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.nj.com/starledger/",
+    "coverage": [
+      "Newark",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NJ-002",
+    "name": "NJ Spotlight News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Newark",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "government",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://www.njspotlightnews.org/",
+    "coverage": [
+      "Newark",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NJ-003",
+    "name": "The Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Woodland Park",
+    "county": "Passaic County",
+    "county_id": "NJ-passaic-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Woodland Park",
+      "Passaic County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NJ-004",
+    "name": "Asbury Park Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Neptune City",
+    "county": "Monmouth County",
+    "county_id": "NJ-monmouth-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.app.com/",
+    "coverage": [
+      "Neptune City",
+      "Monmouth County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NJ-005",
+    "name": "The Jersey Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "county_id": "NJ-hudson-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nj.com/jjournal/",
+    "coverage": [
+      "Jersey City",
+      "Hudson County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-001",
+    "name": "The Buffalo News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Buffalo",
+    "county": "Erie County",
+    "county_id": "NY-erie-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://buffalonews.com/",
+    "coverage": [
+      "Buffalo",
+      "Erie County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-002",
+    "name": "Times Union",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Albany",
+    "county": "Albany County",
+    "county_id": "NY-albany-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "government"
+    ],
+    "official_url": "https://www.timesunion.com/",
+    "coverage": [
+      "Albany",
+      "Albany County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mediaanddemocracyproject.org/journalism-directory-list/new-york",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-003",
+    "name": "Democrat and Chronicle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Rochester",
+    "county": "Monroe County",
+    "county_id": "NY-monroe-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.democratandchronicle.com/",
+    "coverage": [
+      "Rochester",
+      "Monroe County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-004",
+    "name": "The Post-Standard / syracuse.com",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Syracuse",
+    "county": "Onondaga County",
+    "county_id": "NY-onondaga-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.syracuse.com/",
+    "coverage": [
+      "Syracuse",
+      "Onondaga County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-005",
+    "name": "Newsday",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Melville",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.newsday.com/",
+    "coverage": [
+      "Melville",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-006",
+    "name": "WNYC",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news"
+    ],
+    "official_url": "https://www.wnyc.org/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-007",
+    "name": "New York Amsterdam News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "ethnic-media",
+      "local-news"
+    ],
+    "official_url": "https://amsterdamnews.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-008",
+    "name": "City Limits",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "housing",
+      "government"
+    ],
+    "official_url": "https://citylimits.org/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-NY-009",
+    "name": "Chalkbeat New York",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "education",
+      "local-news"
+    ],
+    "official_url": "https://www.chalkbeat.org/newyork/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/news/nyc",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-001",
+    "name": "Pittsburgh Post-Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Pittsburgh",
+    "county": "Allegheny County",
+    "county_id": "PA-allegheny-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.post-gazette.com/",
+    "coverage": [
+      "Pittsburgh",
+      "Allegheny County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-002",
+    "name": "Erie Times-News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Erie",
+    "county": "Erie County",
+    "county_id": "PA-erie-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.goerie.com/",
+    "coverage": [
+      "Erie",
+      "Erie County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-003",
+    "name": "LNP | LancasterOnline",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Lancaster",
+    "county": "Lancaster County",
+    "county_id": "PA-lancaster-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://lancasteronline.com/",
+    "coverage": [
+      "Lancaster",
+      "Lancaster County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-004",
+    "name": "Spotlight PA",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Harrisburg",
+    "county": "Dauphin County",
+    "county_id": "PA-dauphin-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "government",
+      "accountability"
+    ],
+    "official_url": "https://www.spotlightpa.org/",
+    "coverage": [
+      "Harrisburg",
+      "Dauphin County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-005",
+    "name": "WITF",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Harrisburg",
+    "county": "Dauphin County",
+    "county_id": "PA-dauphin-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news"
+    ],
+    "official_url": "https://www.witf.org/",
+    "coverage": [
+      "Harrisburg",
+      "Dauphin County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-006",
+    "name": "The Morning Call",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "county_id": "PA-lehigh-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mcall.com/",
+    "coverage": [
+      "Allentown",
+      "Lehigh County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-PA-007",
+    "name": "The Times-Tribune",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Scranton",
+    "county": "Lackawanna County",
+    "county_id": "PA-lackawanna-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thetimes-tribune.com/",
+    "coverage": [
+      "Scranton",
+      "Lackawanna County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-RI-001",
+    "name": "The Providence Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Providence",
+    "county": "Providence County",
+    "county_id": "RI-providence-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.providencejournal.com/",
+    "coverage": [
+      "Providence",
+      "Providence County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.thepaperboy.com/us/all",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-RI-002",
+    "name": "The Public's Radio",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Providence",
+    "county": "Providence County",
+    "county_id": "RI-providence-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "public-media",
+      "public-radio",
+      "general-news"
+    ],
+    "official_url": "https://thepublicsradio.org/",
+    "coverage": [
+      "Providence",
+      "Providence County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nenc.news/about/",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE-RI-003",
+    "name": "East Bay Newspapers",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Bristol",
+    "county": "Bristol County",
+    "county_id": "RI-bristol-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://eastbayri.com/",
+    "coverage": [
+      "Bristol",
+      "Bristol County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
   }
 ]
