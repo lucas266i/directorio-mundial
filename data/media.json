@@ -11128,5 +11128,373 @@
     "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
     "source_directory": "Massachusetts registered news media / multicultural media directories",
     "verification_note": "Listed by Massachusetts SJC registered news media; official site describes an active nonprofit local news service and radio station."
+  },
+  {
+    "id": "MED-USA-NE3-CT-001",
+    "name": "Connecticut Examiner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Old Lyme",
+    "county": "New London County",
+    "county_id": "CT-new-london-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://ctexaminer.com/",
+    "coverage": [
+      "Old Lyme",
+      "New London County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://ctexaminer.com/about/",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official site identifies the publication as a nonpartisan online newspaper; current reporting observed in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-002",
+    "name": "Easton Courier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Easton",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://eastoncourier.news/",
+    "coverage": [
+      "Easton",
+      "Fairfield County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.wshu.org/your-local-news-connection",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Listed among Fairfield County local news resources by WSHU; current Easton reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-003",
+    "name": "Westport Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Westport",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://westportjournal.com/",
+    "coverage": [
+      "Westport",
+      "Fairfield County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.wshu.org/your-local-news-connection",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Current local reporting observed on the official site in October 2026; city and county are identified from the publication's local coverage."
+  },
+  {
+    "id": "MED-USA-NE3-CT-004",
+    "name": "Greenwich Free Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Greenwich",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://greenwichfreepress.com/",
+    "coverage": [
+      "Greenwich",
+      "Fairfield County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://greenwichfreepress.com/about-gfp/",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official about page describes an independent online news outlet focused on Greenwich; current reporting observed in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-005",
+    "name": "Fairfield Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Fairfield",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "civic-journalism"
+    ],
+    "official_url": "https://www.fairfield-gazette.org/",
+    "coverage": [
+      "Fairfield",
+      "Fairfield County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.fairfield-gazette.org/about/",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official about page describes an independent local publication focused on civic life in Fairfield, Connecticut; retain pending verification of publishing cadence."
+  },
+  {
+    "id": "MED-USA-NE3-CT-006",
+    "name": "New Haven Independent",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "New Haven",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "community-media"
+    ],
+    "official_url": "https://www.newhavenindependent.org/",
+    "coverage": [
+      "New Haven",
+      "New Haven County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.reportforamerica.org/newsrooms/new-haven-independent/",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Report for America describes it as a daily nonprofit public-interest local news organization; current stories also appear in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-007",
+    "name": "The Newtown Bee",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Newtown",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.newtownbee.com/",
+    "coverage": [
+      "Newtown",
+      "Fairfield County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.hearstmediact.com/wp-content/uploads/2024/05/2024_HCMG-Media-Kit-v2.pdf",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Identified as a Connecticut community newspaper; current local reporting observed on the official site in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-008",
+    "name": "West Haven Voice",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "West Haven",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://westhavenvoice.com/",
+    "coverage": [
+      "West Haven",
+      "New Haven County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.wshu.org/your-local-news-connection",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official site describes it as West Haven's independent news source; current reporting observed in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-009",
+    "name": "Four County Catholic",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Norwich",
+    "county": "New London County",
+    "county_id": "CT-new-london-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine-digital",
+    "categories": [
+      "religious-media",
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.norwichdiocese.org/FourCountyCatholic",
+    "coverage": [
+      "New London County",
+      "Middlesex County",
+      "Tolland County",
+      "Windham County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.norwichdiocese.org/Find/Full-Group-Directory/articleType/ArticleView/articleId/43/Four-County-Catholic-Magazine",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official Diocese of Norwich publication; current issue and October 2026 editorial activity confirmed on the diocesan site."
+  },
+  {
+    "id": "MED-USA-NE3-CT-010",
+    "name": "The Lakeville Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Falls Village",
+    "county": "Litchfield County",
+    "county_id": "CT-litchfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://lakevillejournal.com/",
+    "coverage": [
+      "Falls Village",
+      "Litchfield County",
+      "Northwest Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.findyournews.org/explore/?state_province_covered=Connecticut",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Listed in Find Your News; publisher's mission page confirms local reporting across Northwest Connecticut and current reporting observed in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-011",
+    "name": "Valley Independent Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Ansonia",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "community-media"
+    ],
+    "official_url": "https://valley.newhavenindependent.org/",
+    "coverage": [
+      "Ansonia",
+      "Derby",
+      "Seymour",
+      "Lower Naugatuck Valley",
+      "New Haven County"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.cityofansonia.com/content/8134/8374/8397/default.aspx",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Listed by the City of Ansonia as a local news source; current reporting on Ansonia, Derby and Seymour observed in October 2026."
+  },
+  {
+    "id": "MED-USA-NE3-CT-012",
+    "name": "WNHH 103.5 FM",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "New Haven",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "community-radio",
+      "local-news",
+      "community-media",
+      "spanish-language-media"
+    ],
+    "official_url": "https://wnhh.org/",
+    "coverage": [
+      "New Haven",
+      "New Haven County",
+      "Connecticut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://wnhh.org/",
+    "source_directory": "Connecticut local-news directories, regional public-media listings and publisher sites",
+    "verification_note": "Official station page describes a New Haven community radio station with local journalism and Spanish-language programming."
   }
 ]
