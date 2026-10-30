@@ -41,3 +41,11 @@ input:disabled,select:disabled{opacity:.45;cursor:not-allowed}
 .filteredView #continentes,.filteredView #paises,.filteredView #geografia-eeuu,.filteredView #categorias{display:none}
 .filteredView #medios{margin-top:32px;scroll-margin-top:24px}
 @media(max-width:600px){.filterActions{display:grid;grid-template-columns:1fr}.filterActions button{width:100%}}
+
+.filterPanel{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;max-width:1100px;margin-top:28px;padding:18px;border:1px solid #29415e;border-radius:18px;background:rgba(10,27,46,.82)}
+.filterGroup{display:flex;flex-direction:column;gap:7px;min-width:0}
+.filterGroup label{font-size:12px;font-weight:750;color:#9fc5e3;letter-spacing:.02em}
+.filterGroup input,.filterGroup select{padding:13px 14px}
+.searchGroup{grid-column:span 2}
+@media(max-width:900px){.filterPanel{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.filterPanel{grid-template-columns:1fr;padding:13px}.searchGroup{grid-column:span 1}}
