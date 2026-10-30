@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "MED-GLOBAL4-001",
+    "name": "New Age",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "division",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newagebd.net/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-002",
+    "name": "Kuensel",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Thimphu",
+    "admin1_name": "Thimphu",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kuenselonline.com/",
+    "coverage": [
+      "Thimphu",
+      "Thimphu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-003",
+    "name": "The Bhutanese",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Thimphu",
+    "admin1_name": "Thimphu",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thebhutanese.bt/",
+    "coverage": [
+      "Thimphu",
+      "Thimphu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-004",
+    "name": "BBS",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Thimphu",
+    "admin1_name": "Thimphu",
+    "admin1_type": "district",
+    "language": "dz",
+    "languages": [
+      "dz"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bbs.bt/",
+    "coverage": [
+      "Thimphu",
+      "Thimphu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-005",
+    "name": "Maldives Independent",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Malé",
+    "admin1_name": "Malé",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://maldivesindependent.com/",
+    "coverage": [
+      "Malé",
+      "Malé"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-006",
+    "name": "The Edition",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Malé",
+    "admin1_name": "Malé",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://edition.mv/",
+    "coverage": [
+      "Malé",
+      "Malé"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-007",
+    "name": "Mihaaru",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Malé",
+    "admin1_name": "Malé",
+    "admin1_type": "city",
+    "language": "dv",
+    "languages": [
+      "dv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mihaaru.com/",
+    "coverage": [
+      "Malé",
+      "Malé"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-008",
+    "name": "Mongolia's The UB Post",
+    "country": "MNG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Ulaanbaatar",
+    "admin1_name": "Ulaanbaatar",
+    "admin1_type": "municipality",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://theubposts.com/",
+    "coverage": [
+      "Ulaanbaatar",
+      "Ulaanbaatar"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-009",
+    "name": "Montsame",
+    "country": "MNG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Ulaanbaatar",
+    "admin1_name": "Ulaanbaatar",
+    "admin1_type": "municipality",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://montsame.mn/en/",
+    "coverage": [
+      "Ulaanbaatar",
+      "Ulaanbaatar"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-010",
+    "name": "The Astana Times",
+    "country": "KAZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Astana",
+    "admin1_name": "Astana",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://astanatimes.com/",
+    "coverage": [
+      "Astana",
+      "Astana"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-011",
+    "name": "Kazinform",
+    "country": "KAZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Astana",
+    "admin1_name": "Astana",
+    "admin1_type": "city",
+    "language": "kk",
+    "languages": [
+      "kk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://qazinform.com/",
+    "coverage": [
+      "Astana",
+      "Astana"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-012",
+    "name": "Kursiv",
+    "country": "KAZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Almaty",
+    "admin1_name": "Almaty",
+    "admin1_type": "city",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kz.kursiv.media/",
+    "coverage": [
+      "Almaty",
+      "Almaty"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-013",
+    "name": "The Times of Central Asia",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "admin1_name": "Bishkek",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://timesca.com/",
+    "coverage": [
+      "Bishkek",
+      "Bishkek"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-014",
+    "name": "Kabar",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "admin1_name": "Bishkek",
+    "admin1_type": "city",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://en.kabar.kg/",
+    "coverage": [
+      "Bishkek",
+      "Bishkek"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-015",
+    "name": "Kun.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Tashkent",
+    "admin1_name": "Tashkent",
+    "admin1_type": "city",
+    "language": "uz",
+    "languages": [
+      "uz"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kun.uz/en/",
+    "coverage": [
+      "Tashkent",
+      "Tashkent"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-016",
+    "name": "Gazeta.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Tashkent",
+    "admin1_name": "Tashkent",
+    "admin1_type": "city",
+    "language": "uz",
+    "languages": [
+      "uz"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gazeta.uz/en/",
+    "coverage": [
+      "Tashkent",
+      "Tashkent"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-017",
+    "name": "UzDaily",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Tashkent",
+    "admin1_name": "Tashkent",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.uzdaily.uz/en/",
+    "coverage": [
+      "Tashkent",
+      "Tashkent"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-018",
+    "name": "Asia-Plus",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Dushanbe",
+    "admin1_name": "Dushanbe",
+    "admin1_type": "city",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://asiaplustj.info/en",
+    "coverage": [
+      "Dushanbe",
+      "Dushanbe"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-019",
+    "name": "Avesta",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Dushanbe",
+    "admin1_name": "Dushanbe",
+    "admin1_type": "city",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://avesta.tj/",
+    "coverage": [
+      "Dushanbe",
+      "Dushanbe"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-020",
+    "name": "Turkmenportal",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Ashgabat",
+    "admin1_name": "Ashgabat",
+    "admin1_type": "city",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://turkmenportal.com/",
+    "coverage": [
+      "Ashgabat",
+      "Ashgabat"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-021",
+    "name": "Arzuw News",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Ashgabat",
+    "admin1_name": "Ashgabat",
+    "admin1_type": "city",
+    "language": "tk",
+    "languages": [
+      "tk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://arzuw.news/",
+    "coverage": [
+      "Ashgabat",
+      "Ashgabat"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-022",
+    "name": "AzerNews",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Baku",
+    "admin1_name": "Baku",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.azernews.az/",
+    "coverage": [
+      "Baku",
+      "Baku"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-023",
+    "name": "The Caspian Post",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Baku",
+    "admin1_name": "Baku",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://caspianpost.com/",
+    "coverage": [
+      "Baku",
+      "Baku"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-024",
+    "name": "Armenpress",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Yerevan",
+    "admin1_name": "Yerevan",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://armenpress.am/en",
+    "coverage": [
+      "Yerevan",
+      "Yerevan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-025",
+    "name": "CivilNet",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Yerevan",
+    "admin1_name": "Yerevan",
+    "admin1_type": "city",
+    "language": "hy",
+    "languages": [
+      "hy"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.civilnet.am/en/",
+    "coverage": [
+      "Yerevan",
+      "Yerevan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-026",
+    "name": "OC Media",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Tbilisi",
+    "admin1_name": "Tbilisi",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://oc-media.org/",
+    "coverage": [
+      "Tbilisi",
+      "Tbilisi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-027",
+    "name": "Agenda.ge",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Tbilisi",
+    "admin1_name": "Tbilisi",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://agenda.ge/",
+    "coverage": [
+      "Tbilisi",
+      "Tbilisi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-028",
+    "name": "The Irrawaddy",
+    "country": "MMR",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Yangon",
+    "admin1_name": "Yangon",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.irrawaddy.com/",
+    "coverage": [
+      "Yangon",
+      "Yangon"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-029",
+    "name": "Myanmar Now",
+    "country": "MMR",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Yangon",
+    "admin1_name": "Yangon",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://myanmar-now.org/en/",
+    "coverage": [
+      "Yangon",
+      "Yangon"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-030",
+    "name": "Mizzima",
+    "country": "MMR",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Yangon",
+    "admin1_name": "Yangon",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mizzima.com/",
+    "coverage": [
+      "Yangon",
+      "Yangon"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-031",
+    "name": "The Laotian Times",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Vientiane",
+    "admin1_name": "Vientiane Prefecture",
+    "admin1_type": "prefecture",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://laotiantimes.com/",
+    "coverage": [
+      "Vientiane",
+      "Vientiane Prefecture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-032",
+    "name": "KPL Lao News Agency",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Vientiane",
+    "admin1_name": "Vientiane Prefecture",
+    "admin1_type": "prefecture",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kpl.gov.la/En/",
+    "coverage": [
+      "Vientiane",
+      "Vientiane Prefecture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-033",
+    "name": "The Brunei Times Archive",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bandar Seri Begawan",
+    "admin1_name": "Brunei-Muara",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://borneobulletin.com.bn/",
+    "coverage": [
+      "Bandar Seri Begawan",
+      "Brunei-Muara"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-034",
+    "name": "The Scoop",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bandar Seri Begawan",
+    "admin1_name": "Brunei-Muara",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thescoop.co/",
+    "coverage": [
+      "Bandar Seri Begawan",
+      "Brunei-Muara"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-035",
+    "name": "Timor Post",
+    "country": "TLS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Dili",
+    "admin1_name": "Dili",
+    "admin1_type": "municipality",
+    "language": "tet",
+    "languages": [
+      "tet"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://timorpost.com/",
+    "coverage": [
+      "Dili",
+      "Dili"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-036",
+    "name": "Tatoli",
+    "country": "TLS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Dili",
+    "admin1_name": "Dili",
+    "admin1_type": "municipality",
+    "language": "tet",
+    "languages": [
+      "tet"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://tatoli.tl/",
+    "coverage": [
+      "Dili",
+      "Dili"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-037",
+    "name": "Macau News",
+    "country": "MAC",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Macau",
+    "admin1_name": "Macau",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://macau.news/",
+    "coverage": [
+      "Macau",
+      "Macau"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-038",
+    "name": "Macau Daily Times",
+    "country": "MAC",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Macau",
+    "admin1_name": "Macau",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://macaudailytimes.com.mo/",
+    "coverage": [
+      "Macau",
+      "Macau"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-039",
+    "name": "The Standard Hong Kong",
+    "country": "HKG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Hong Kong",
+    "admin1_name": "Hong Kong",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thestandard.com.hk/",
+    "coverage": [
+      "Hong Kong",
+      "Hong Kong"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-040",
+    "name": "Hong Kong Free Press",
+    "country": "HKG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Hong Kong",
+    "admin1_name": "Hong Kong",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://hongkongfp.com/",
+    "coverage": [
+      "Hong Kong",
+      "Hong Kong"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-041",
+    "name": "South China Morning Post",
+    "country": "HKG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Hong Kong",
+    "admin1_name": "Hong Kong",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.scmp.com/",
+    "coverage": [
+      "Hong Kong",
+      "Hong Kong"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-042",
+    "name": "The Japan News",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "admin1_name": "Tokyo",
+    "admin1_type": "metropolis",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://japannews.yomiuri.co.jp/",
+    "coverage": [
+      "Tokyo",
+      "Tokyo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-043",
+    "name": "The Chosun Daily",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Seoul",
+    "admin1_name": "Seoul",
+    "admin1_type": "special city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.chosun.com/english/",
+    "coverage": [
+      "Seoul",
+      "Seoul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-044",
+    "name": "Korea JoongAng Daily",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Seoul",
+    "admin1_name": "Seoul",
+    "admin1_type": "special city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://koreajoongangdaily.joins.com/",
+    "coverage": [
+      "Seoul",
+      "Seoul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-045",
+    "name": "Taiwan News",
+    "country": "TWN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Taipei",
+    "admin1_name": "Taipei",
+    "admin1_type": "municipality",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.taiwannews.com.tw/",
+    "coverage": [
+      "Taipei",
+      "Taipei"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-046",
+    "name": "Manila Bulletin",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Manila",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mb.com.ph/",
+    "coverage": [
+      "Manila",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-047",
+    "name": "BusinessWorld",
+    "country": "PHL",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Taguig",
+    "admin1_name": "Metro Manila",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bworldonline.com/",
+    "coverage": [
+      "Taguig",
+      "Metro Manila"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-048",
+    "name": "Tempo English",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "special capital region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://en.tempo.co/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-049",
+    "name": "The Jakarta Globe",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "admin1_name": "Jakarta",
+    "admin1_type": "special capital region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://jakartaglobe.id/",
+    "coverage": [
+      "Jakarta",
+      "Jakarta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-050",
+    "name": "Cambodianess",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Phnom Penh",
+    "admin1_name": "Phnom Penh",
+    "admin1_type": "municipality",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://cambodianess.com/",
+    "coverage": [
+      "Phnom Penh",
+      "Phnom Penh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-051",
+    "name": "Rudaw",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Erbil",
+    "admin1_name": "Erbil",
+    "admin1_type": "governorate",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rudaw.net/english",
+    "coverage": [
+      "Erbil",
+      "Erbil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-052",
+    "name": "Shafaq News",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Baghdad",
+    "admin1_name": "Baghdad",
+    "admin1_type": "governorate",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://shafaq.com/en",
+    "coverage": [
+      "Baghdad",
+      "Baghdad"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-053",
+    "name": "The New Arab",
+    "country": "INT",
+    "continent": "Asia",
+    "continent_region": "Asia",
+    "city": "London",
+    "admin1_name": "Global",
+    "admin1_type": "global",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newarab.com/",
+    "coverage": [
+      "London",
+      "Global"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-054",
+    "name": "The Africa Report",
+    "country": "INT",
+    "continent": "Asia",
+    "continent_region": "Asia",
+    "city": "Paris",
+    "admin1_name": "Global",
+    "admin1_type": "global",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theafricareport.com/",
+    "coverage": [
+      "Paris",
+      "Global"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-055",
+    "name": "The Continent",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thecontinent.org/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-056",
+    "name": "eNCA",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.enca.com/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-057",
+    "name": "Business Day",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "admin1_name": "Gauteng",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.businesslive.co.za/bd/",
+    "coverage": [
+      "Johannesburg",
+      "Gauteng"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-058",
+    "name": "The Namibian Sun",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Windhoek",
+    "admin1_name": "Khomas",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.namibiansun.com/",
+    "coverage": [
+      "Windhoek",
+      "Khomas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-059",
+    "name": "The Herald Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Harare",
+    "admin1_name": "Harare",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.herald.co.zw/",
+    "coverage": [
+      "Harare",
+      "Harare"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-060",
+    "name": "New Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Harare",
+    "admin1_name": "Harare",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newzimbabwe.com/",
+    "coverage": [
+      "Harare",
+      "Harare"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-061",
+    "name": "GhanaWeb",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ghanaweb.com/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-062",
+    "name": "The Namibian Economist",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Windhoek",
+    "admin1_name": "Khomas",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://economist.com.na/",
+    "coverage": [
+      "Windhoek",
+      "Khomas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-063",
+    "name": "The Daily Observer Gambia",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Banjul",
+    "admin1_name": "Banjul",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://observergm.com/",
+    "coverage": [
+      "Banjul",
+      "Banjul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-064",
+    "name": "The Sierra Leone Telegraph",
+    "country": "SLE",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Freetown",
+    "admin1_name": "Western Area",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thesierraleonetelegraph.com/",
+    "coverage": [
+      "Freetown",
+      "Western Area"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-065",
+    "name": "The Observer Rwanda",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kigali",
+    "admin1_name": "Kigali",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.observer.rw/",
+    "coverage": [
+      "Kigali",
+      "Kigali"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-066",
+    "name": "The Daily Monitor Malawi",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Blantyre",
+    "admin1_name": "Southern Region",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mwnation.com/",
+    "coverage": [
+      "Blantyre",
+      "Southern Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-067",
+    "name": "The Nation Malawi",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Blantyre",
+    "admin1_name": "Southern Region",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mwnation.com/",
+    "coverage": [
+      "Blantyre",
+      "Southern Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-068",
+    "name": "Nyasa Times",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Blantyre",
+    "admin1_name": "Southern Region",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nyasatimes.com/",
+    "coverage": [
+      "Blantyre",
+      "Southern Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-069",
+    "name": "The Guardian Mozambique",
+    "country": "MOZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maputo",
+    "admin1_name": "Maputo City",
+    "admin1_type": "city",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.jornalnoticias.co.mz/",
+    "coverage": [
+      "Maputo",
+      "Maputo City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-070",
+    "name": "O País",
+    "country": "MOZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maputo",
+    "admin1_name": "Maputo City",
+    "admin1_type": "city",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://opais.co.mz/",
+    "coverage": [
+      "Maputo",
+      "Maputo City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-071",
+    "name": "Club of Mozambique",
+    "country": "MOZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maputo",
+    "admin1_name": "Maputo City",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://clubofmozambique.com/",
+    "coverage": [
+      "Maputo",
+      "Maputo City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-072",
+    "name": "Jornal de Angola",
+    "country": "AGO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Luanda",
+    "admin1_name": "Luanda",
+    "admin1_type": "province",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.jornaldeangola.ao/",
+    "coverage": [
+      "Luanda",
+      "Luanda"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-073",
+    "name": "Novo Jornal",
+    "country": "AGO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Luanda",
+    "admin1_name": "Luanda",
+    "admin1_type": "province",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://novojornal.co.ao/",
+    "coverage": [
+      "Luanda",
+      "Luanda"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-074",
+    "name": "ANGOP",
+    "country": "AGO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Luanda",
+    "admin1_name": "Luanda",
+    "admin1_type": "province",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.angop.ao/",
+    "coverage": [
+      "Luanda",
+      "Luanda"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-075",
+    "name": "Ahram Online",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "Asia",
+    "city": "Cairo",
+    "admin1_name": "Cairo",
+    "admin1_type": "governorate",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://english.ahram.org.eg/",
+    "coverage": [
+      "Cairo",
+      "Cairo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-076",
+    "name": "Egypt Independent",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "Asia",
+    "city": "Cairo",
+    "admin1_name": "Cairo",
+    "admin1_type": "governorate",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://egyptindependent.com/",
+    "coverage": [
+      "Cairo",
+      "Cairo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-077",
+    "name": "The Africa News",
+    "country": "CIV",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abidjan",
+    "admin1_name": "Abidjan",
+    "admin1_type": "district",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.africanews.com/",
+    "coverage": [
+      "Abidjan",
+      "Abidjan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-078",
+    "name": "FratMat",
+    "country": "CIV",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abidjan",
+    "admin1_name": "Abidjan",
+    "admin1_type": "district",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.fratmat.info/",
+    "coverage": [
+      "Abidjan",
+      "Abidjan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-079",
+    "name": "Abidjan.net",
+    "country": "CIV",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abidjan",
+    "admin1_name": "Abidjan",
+    "admin1_type": "district",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://news.abidjan.net/",
+    "coverage": [
+      "Abidjan",
+      "Abidjan"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-080",
+    "name": "Seneweb",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Dakar",
+    "admin1_name": "Dakar",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.seneweb.com/",
+    "coverage": [
+      "Dakar",
+      "Dakar"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-081",
+    "name": "Dakaractu",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Dakar",
+    "admin1_name": "Dakar",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dakaractu.com/",
+    "coverage": [
+      "Dakar",
+      "Dakar"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-082",
+    "name": "Cameroon Tribune",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Yaoundé",
+    "admin1_name": "Centre",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cameroon-tribune.cm/",
+    "coverage": [
+      "Yaoundé",
+      "Centre"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-083",
+    "name": "Journal du Cameroun",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Yaoundé",
+    "admin1_name": "Centre",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.journalducameroun.com/",
+    "coverage": [
+      "Yaoundé",
+      "Centre"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-084",
+    "name": "Business in Cameroon",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Douala",
+    "admin1_name": "Littoral",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.businessincameroon.com/",
+    "coverage": [
+      "Douala",
+      "Littoral"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-085",
+    "name": "The Citizen Madagascar",
+    "country": "MDG",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "admin1_name": "Analamanga",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lexpress.mg/",
+    "coverage": [
+      "Antananarivo",
+      "Analamanga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-086",
+    "name": "Madagascar Tribune",
+    "country": "MDG",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "admin1_name": "Analamanga",
+    "admin1_type": "region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.madagascar-tribune.com/",
+    "coverage": [
+      "Antananarivo",
+      "Analamanga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-087",
+    "name": "L'Express Maurice",
+    "country": "MUS",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Port Louis",
+    "admin1_name": "Port Louis",
+    "admin1_type": "district",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://lexpress.mu/",
+    "coverage": [
+      "Port Louis",
+      "Port Louis"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-088",
+    "name": "Mauritius Times",
+    "country": "MUS",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Port Louis",
+    "admin1_name": "Port Louis",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mauritiustimes.com/",
+    "coverage": [
+      "Port Louis",
+      "Port Louis"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-089",
+    "name": "Seychelles Nation",
+    "country": "SYC",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "admin1_name": "Mahé",
+    "admin1_type": "island",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nation.sc/",
+    "coverage": [
+      "Victoria",
+      "Mahé"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-090",
+    "name": "Seychelles News Agency",
+    "country": "SYC",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "admin1_name": "Mahé",
+    "admin1_type": "island",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.seychellesnewsagency.com/",
+    "coverage": [
+      "Victoria",
+      "Mahé"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-091",
+    "name": "The Fiji Times",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "admin1_name": "Central Division",
+    "admin1_type": "division",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.fijitimes.com.fj/",
+    "coverage": [
+      "Suva",
+      "Central Division"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-092",
+    "name": "FBC News",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "admin1_name": "Central Division",
+    "admin1_type": "division",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.fbcnews.com.fj/",
+    "coverage": [
+      "Suva",
+      "Central Division"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-093",
+    "name": "Fiji Sun",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "admin1_name": "Central Division",
+    "admin1_type": "division",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://fijisun.com.fj/",
+    "coverage": [
+      "Suva",
+      "Central Division"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-094",
+    "name": "The National PNG",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Moresby",
+    "admin1_name": "National Capital District",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thenational.com.pg/",
+    "coverage": [
+      "Port Moresby",
+      "National Capital District"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-095",
+    "name": "Post-Courier",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Moresby",
+    "admin1_name": "National Capital District",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.postcourier.com.pg/",
+    "coverage": [
+      "Port Moresby",
+      "National Capital District"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-096",
+    "name": "EMTV Online",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Moresby",
+    "admin1_name": "National Capital District",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://emtv.com.pg/",
+    "coverage": [
+      "Port Moresby",
+      "National Capital District"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-097",
+    "name": "Samoa Observer",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Apia",
+    "admin1_name": "Tuamasaga",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.samoaobserver.ws/",
+    "coverage": [
+      "Apia",
+      "Tuamasaga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-098",
+    "name": "Talamua",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Apia",
+    "admin1_name": "Tuamasaga",
+    "admin1_type": "district",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://talamua.com/",
+    "coverage": [
+      "Apia",
+      "Tuamasaga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-099",
+    "name": "Matangi Tonga",
+    "country": "TON",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Nuku'alofa",
+    "admin1_name": "Tongatapu",
+    "admin1_type": "island group",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://matangitonga.to/",
+    "coverage": [
+      "Nuku'alofa",
+      "Tongatapu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-100",
+    "name": "Tonga Daily News",
+    "country": "TON",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Nuku'alofa",
+    "admin1_name": "Tongatapu",
+    "admin1_type": "island group",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://tongadailynews.to/",
+    "coverage": [
+      "Nuku'alofa",
+      "Tongatapu"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-101",
+    "name": "Vanuatu Daily Post",
+    "country": "VUT",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Vila",
+    "admin1_name": "Shefa",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dailypost.vu/",
+    "coverage": [
+      "Port Vila",
+      "Shefa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-102",
+    "name": "Vanuatu News",
+    "country": "VUT",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Port Vila",
+    "admin1_name": "Shefa",
+    "admin1_type": "province",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vanuatu.news/",
+    "coverage": [
+      "Port Vila",
+      "Shefa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-103",
+    "name": "Solomon Star",
+    "country": "SLB",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Honiara",
+    "admin1_name": "Honiara",
+    "admin1_type": "city",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.solomonstarnews.com/",
+    "coverage": [
+      "Honiara",
+      "Honiara"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-104",
+    "name": "The Marshall Islands Journal",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "city": "Majuro",
+    "admin1_name": "Majuro",
+    "admin1_type": "atoll",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://marshallislandsjournal.com/",
+    "coverage": [
+      "Majuro",
+      "Majuro"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-105",
+    "name": "Radio New Zealand Pacific",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Wellington",
+    "admin1_name": "Wellington",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rnz.co.nz/international",
+    "coverage": [
+      "Wellington",
+      "Wellington"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-106",
+    "name": "Pacific Media Network",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Auckland",
+    "admin1_name": "Auckland",
+    "admin1_type": "region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://pmn.co.nz/",
+    "coverage": [
+      "Auckland",
+      "Auckland"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-107",
+    "name": "ABC Pacific",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Sydney",
+    "admin1_name": "New South Wales",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.abc.net.au/pacific",
+    "coverage": [
+      "Sydney",
+      "New South Wales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GLOBAL4-108",
+    "name": "SBS News",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "city": "Sydney",
+    "admin1_name": "New South Wales",
+    "admin1_type": "state",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sbs.com.au/news",
+    "coverage": [
+      "Sydney",
+      "New South Wales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios internacionales de prensa y directorios regionales de Asia, África y el Pacífico.",
+    "source_references": [
+      "https://newspapersonline.com/",
+      "https://www.thenewsatlas.com/",
+      "https://www.newsmedialists.com/"
+    ],
+    "verification_note": "Candidato de directorio; verificar por separado URL, actividad editorial, sede y cobertura antes de marcar como verificado."
+  }
+]
