@@ -1,0 +1,2610 @@
+[
+  {
+    "id": "MED-IN-2026-001",
+    "name": "Aaj Tak",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "politics",
+      "television"
+    ],
+    "official_url": "https://www.aajtak.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-002",
+    "name": "NDTV",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "politics",
+      "television"
+    ],
+    "official_url": "https://www.ndtv.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-003",
+    "name": "News18",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "Noida",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "politics",
+      "television"
+    ],
+    "official_url": "https://www.news18.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-004",
+    "name": "DD News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "public-broadcaster",
+    "categories": [
+      "general-news",
+      "public-media",
+      "television"
+    ],
+    "official_url": "https://ddnews.gov.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-005",
+    "name": "The Times of India",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://timesofindia.indiatimes.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-006",
+    "name": "Hindustan Times",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.hindustantimes.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-007",
+    "name": "The Hindu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national",
+      "investigative"
+    ],
+    "official_url": "https://www.thehindu.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-008",
+    "name": "The Indian Express",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://indianexpress.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-009",
+    "name": "The Telegraph",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.telegraphindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-010",
+    "name": "The Statesman",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.thestatesman.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-011",
+    "name": "The Pioneer",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.dailypioneer.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-012",
+    "name": "The Asian Age",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://www.asianage.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-013",
+    "name": "The New Indian Express",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.newindianexpress.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-014",
+    "name": "Deccan Chronicle",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.deccanchronicle.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-015",
+    "name": "The Hans India",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thehansindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-016",
+    "name": "The Tribune",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Chandigarh",
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tribuneindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-017",
+    "name": "The Financial Express",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://www.financialexpress.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-018",
+    "name": "Business Standard",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://www.business-standard.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-019",
+    "name": "The Economic Times",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://economictimes.indiatimes.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-020",
+    "name": "Mint",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://www.livemint.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-021",
+    "name": "Outlook India",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://www.outlookindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-022",
+    "name": "India Today",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.indiatoday.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-023",
+    "name": "The Week",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kochi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.theweek.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-024",
+    "name": "Frontline",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://frontline.thehindu.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-025",
+    "name": "The Caravan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://caravanmagazine.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-026",
+    "name": "The Quint",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "fact-checking"
+    ],
+    "official_url": "https://www.thequint.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-027",
+    "name": "ThePrint",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://theprint.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-028",
+    "name": "Firstpost",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.firstpost.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-029",
+    "name": "Rediff News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.rediff.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-030",
+    "name": "Oneindia",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.oneindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-031",
+    "name": "The Free Press Journal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.freepressjournal.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-032",
+    "name": "Mid-Day",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mid-day.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-033",
+    "name": "DNA India",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.dnaindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-034",
+    "name": "Mumbai Mirror",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://mumbaimirror.indiatimes.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-035",
+    "name": "Ahmedabad Mirror",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ahmedabadmirror.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-036",
+    "name": "Pune Mirror",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://punemirror.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-037",
+    "name": "Bangalore Mirror",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://bangaloremirror.indiatimes.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-038",
+    "name": "Chennai Online",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "culture"
+    ],
+    "official_url": "https://www.chennaionline.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-039",
+    "name": "Live Chennai",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.livechennai.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-040",
+    "name": "Citizen Matters",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "civic-journalism",
+      "local-news"
+    ],
+    "official_url": "https://citizenmatters.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-041",
+    "name": "Deccan Herald",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.deccanherald.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-042",
+    "name": "Prajavani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prajavani.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-043",
+    "name": "Udayavani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Manipal",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.udayavani.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-044",
+    "name": "Vijaya Karnataka",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://vijaykarnataka.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-045",
+    "name": "Kannada Prabha",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kannadaprabha.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-046",
+    "name": "Vijayavani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.vijayavani.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-047",
+    "name": "Samyukta Karnataka",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Hubballi",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.samyukthakarnataka.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-048",
+    "name": "Sanjevani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "language": "kn",
+    "languages": [
+      "kn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sanjevani.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-049",
+    "name": "Star of Mysore",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://starofmysore.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-050",
+    "name": "Mangalorean",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Mangaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mangalorean.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-051",
+    "name": "News Karnataka",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karnataka",
+    "state": "Karnataka",
+    "city": "Mangaluru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://newskarnataka.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-052",
+    "name": "The News Minute",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "regional-news",
+      "investigative"
+    ],
+    "official_url": "https://www.thenewsminute.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-053",
+    "name": "Daily Thanthi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailythanthi.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-054",
+    "name": "Dinamalar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dinamalar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-055",
+    "name": "Dinamani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dinamani.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-056",
+    "name": "Dinakaran",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dinakaran.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-057",
+    "name": "Maalaimalar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.maalaimalar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-058",
+    "name": "Hindu Tamil Thisai",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.hindutamil.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-059",
+    "name": "Puthiya Thalaimurai",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.puthiyathalaimurai.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-060",
+    "name": "Polimer News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.polimernews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-061",
+    "name": "News J",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.newj.tv",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-062",
+    "name": "Vikatan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "general-news"
+    ],
+    "official_url": "https://www.vikatan.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-063",
+    "name": "Ananda Vikatan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "language": "ta",
+    "languages": [
+      "ta"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "entertainment"
+    ],
+    "official_url": "https://www.vikatan.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-064",
+    "name": "Eenadu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.eenadu.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-065",
+    "name": "Sakshi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sakshi.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-066",
+    "name": "Andhra Jyothy",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.andhrajyothy.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-067",
+    "name": "Andhra Prabha",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prabhanews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-068",
+    "name": "Andhra Bhoomi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.andhrabhoomi.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-069",
+    "name": "Vaartha",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Hyderabad",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.vaartha.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-070",
+    "name": "Namasthe Telangana",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ntnews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-071",
+    "name": "Telangana Today",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://telanganatoday.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-072",
+    "name": "The Siasat Daily",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.siasat.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-073",
+    "name": "Etemaad",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.etemaaddaily.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-074",
+    "name": "NTV Telugu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://ntvtelugu.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-075",
+    "name": "TV9 Telugu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://tv9telugu.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-076",
+    "name": "T News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.tnews.media",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-077",
+    "name": "Prajasakti",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.prajasakti.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-078",
+    "name": "Visalaandhra",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "language": "te",
+    "languages": [
+      "te"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.visalaandhra.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-079",
+    "name": "Malayala Manorama",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kottayam",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.manoramaonline.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-080",
+    "name": "Mathrubhumi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mathrubhumi.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-081",
+    "name": "Madhyamam",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Malappuram",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.madhyamam.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-082",
+    "name": "Deshabhimani",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kochi",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.deshabhimani.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-083",
+    "name": "Deepika",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kottayam",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.deepika.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-084",
+    "name": "Kerala Kaumudi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://keralakaumudi.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-085",
+    "name": "Janmabhumi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kochi",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.janmabhumi.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-086",
+    "name": "Mangalam",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kottayam",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mangalam.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-087",
+    "name": "Thejas News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thejasnews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-088",
+    "name": "Reporter TV",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kochi",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.reporterlive.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-089",
+    "name": "Manorama News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kochi",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.manoramanews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-090",
+    "name": "Asianet News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.asianetnews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-091",
+    "name": "MediaOne TV",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "language": "ml",
+    "languages": [
+      "ml"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.mediaoneonline.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-092",
+    "name": "ABP Ananda",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "tv",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://bengali.abplive.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-093",
+    "name": "Anandabazar Patrika",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.anandabazar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-094",
+    "name": "Bartaman Patrika",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://bartamanpatrika.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-095",
+    "name": "Sangbad Pratidin",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sangbadpratidin.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-096",
+    "name": "Aajkaal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.aajkaal.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-097",
+    "name": "Ganashakti",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.ganashakti.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-098",
+    "name": "Ei Samay",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.easemy.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-099",
+    "name": "Uttarbanga Sambad",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Siliguri",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.uttarbangasambad.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-100",
+    "name": "The Telegraph Online",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "West Bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.telegraphindia.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
+    "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  }
+]
