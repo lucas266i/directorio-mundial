@@ -476,5 +476,145 @@
     "continent": "Mundo",
     "region": "Global",
     "language": "multi"
+  },
+  {
+    "id": "GBR",
+    "name": "Reino Unido",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "en"
+  },
+  {
+    "id": "IRL",
+    "name": "Irlanda",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "en"
+  },
+  {
+    "id": "SWE",
+    "name": "Suecia",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "sv"
+  },
+  {
+    "id": "NOR",
+    "name": "Noruega",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "no"
+  },
+  {
+    "id": "DNK",
+    "name": "Dinamarca",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "da"
+  },
+  {
+    "id": "FIN",
+    "name": "Finlandia",
+    "continent": "Europa",
+    "region": "Septentrional",
+    "language": "fi"
+  },
+  {
+    "id": "FRA",
+    "name": "Francia",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "fr"
+  },
+  {
+    "id": "DEU",
+    "name": "Alemania",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "de"
+  },
+  {
+    "id": "NLD",
+    "name": "Países Bajos",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "nl"
+  },
+  {
+    "id": "BEL",
+    "name": "Bélgica",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "nl"
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "de"
+  },
+  {
+    "id": "CHE",
+    "name": "Suiza",
+    "continent": "Europa",
+    "region": "Occidental",
+    "language": "de"
+  },
+  {
+    "id": "ESP",
+    "name": "España",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "es"
+  },
+  {
+    "id": "ITA",
+    "name": "Italia",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "it"
+  },
+  {
+    "id": "PRT",
+    "name": "Portugal",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "pt"
+  },
+  {
+    "id": "GRC",
+    "name": "Grecia",
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "el"
+  },
+  {
+    "id": "POL",
+    "name": "Polonia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "pl"
+  },
+  {
+    "id": "CZE",
+    "name": "Chequia",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "cs"
+  },
+  {
+    "id": "ROU",
+    "name": "Rumanía",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "ro"
+  },
+  {
+    "id": "UKR",
+    "name": "Ucrania",
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "uk"
   }
 ]
