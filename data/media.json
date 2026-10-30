@@ -4591,5 +4591,1486 @@
     "status": "pending_verification",
     "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
     "verification_note": "Candidato incorporado a partir de directorios periodísticos, instituciones académicas o redes públicas regionales. La ubicación se asoció al condado de referencia disponible; verificar URL, actividad editorial y cobertura exacta antes de marcar como verified_active."
+  },
+  {
+    "id": "MED-USA-NE2-ME-001",
+    "name": "Sun Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Lewiston",
+    "county": "Androscoggin County",
+    "county_id": "ME-androscoggin-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sunjournal.com/",
+    "coverage": [
+      "Lewiston",
+      "Androscoggin County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.metln.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-ME-002",
+    "name": "Morning Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Waterville",
+    "county": "Kennebec County",
+    "county_id": "ME-kennebec-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.centralmaine.com/",
+    "coverage": [
+      "Waterville",
+      "Kennebec County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.metln.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-ME-003",
+    "name": "Kennebec Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Augusta",
+    "county": "Kennebec County",
+    "county_id": "ME-kennebec-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "government"
+    ],
+    "official_url": "https://www.centralmaine.com/",
+    "coverage": [
+      "Augusta",
+      "Kennebec County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.metln.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-ME-004",
+    "name": "The Times Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "ME",
+    "city": "Brunswick",
+    "county": "Cumberland County",
+    "county_id": "ME-cumberland-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pressherald.com/category/times-record/",
+    "coverage": [
+      "Brunswick",
+      "Cumberland County",
+      "ME",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.metln.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NH-001",
+    "name": "The Keene Sentinel",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Keene",
+    "county": "Cheshire County",
+    "county_id": "NH-cheshire-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sentinelsource.com/",
+    "coverage": [
+      "Keene",
+      "Cheshire County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nhpress.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NH-002",
+    "name": "The Telegraph",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Nashua",
+    "county": "Hillsborough County",
+    "county_id": "NH-hillsborough-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nashuatelegraph.com/",
+    "coverage": [
+      "Nashua",
+      "Hillsborough County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nhpress.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NH-003",
+    "name": "The Conway Daily Sun",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Conway",
+    "county": "Carroll County",
+    "county_id": "NH-carroll-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.conwaydailysun.com/",
+    "coverage": [
+      "Conway",
+      "Carroll County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nhpress.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NH-004",
+    "name": "The Caledonian-Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NH",
+    "city": "Littleton",
+    "county": "Grafton County",
+    "county_id": "NH-grafton-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.caledonianrecord.com/",
+    "coverage": [
+      "Littleton",
+      "Grafton County",
+      "NH",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nhpress.org/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-001",
+    "name": "Addison County Independent",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Middlebury",
+    "county": "Addison County",
+    "county_id": "VT-addison-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.addisonindependent.com/",
+    "coverage": [
+      "Middlebury",
+      "Addison County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-002",
+    "name": "Times Argus",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Barre",
+    "county": "Washington County",
+    "county_id": "VT-washington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.timesargus.com/",
+    "coverage": [
+      "Barre",
+      "Washington County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-003",
+    "name": "The Chronicle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Barton",
+    "county": "Orleans County",
+    "county_id": "VT-orleans-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bartonchronicle.com/",
+    "coverage": [
+      "Barton",
+      "Orleans County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-004",
+    "name": "Bennington Banner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Bennington",
+    "county": "Bennington County",
+    "county_id": "VT-bennington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.benningtonbanner.com/",
+    "coverage": [
+      "Bennington",
+      "Bennington County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-005",
+    "name": "Brattleboro Reformer",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Brattleboro",
+    "county": "Windham County",
+    "county_id": "VT-windham-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.reformer.com/",
+    "coverage": [
+      "Brattleboro",
+      "Windham County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.sevendaysvt.com/news/vermont-news-outlets-directory/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-006",
+    "name": "Journal Opinion",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Bradford",
+    "county": "Orange County",
+    "county_id": "VT-orange-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.jonews.com/",
+    "coverage": [
+      "Bradford",
+      "Orange County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-VT-007",
+    "name": "The World",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "VT",
+    "city": "Barre",
+    "county": "Washington County",
+    "county_id": "VT-washington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vt-world.com/",
+    "coverage": [
+      "Barre",
+      "Washington County",
+      "VT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.vtpress.org/about-our-newspapers/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-001",
+    "name": "The Lowell Sun",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Lowell",
+    "county": "Middlesex County",
+    "county_id": "MA-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lowellsun.com/",
+    "coverage": [
+      "Lowell",
+      "Middlesex County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.bpl.org/newspapers/massachusetts-news-industry",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-002",
+    "name": "The Salem News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "county_id": "MA-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.salemnews.com/",
+    "coverage": [
+      "Salem",
+      "Essex County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-003",
+    "name": "Gloucester Daily Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Gloucester",
+    "county": "Essex County",
+    "county_id": "MA-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gloucestertimes.com/",
+    "coverage": [
+      "Gloucester",
+      "Essex County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-004",
+    "name": "The Daily Item",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Lynn",
+    "county": "Essex County",
+    "county_id": "MA-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.itemlive.com/",
+    "coverage": [
+      "Lynn",
+      "Essex County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-005",
+    "name": "Nantucket Inquirer and Mirror",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Nantucket",
+    "county": "Nantucket County",
+    "county_id": "MA-nantucket-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ack.net/",
+    "coverage": [
+      "Nantucket",
+      "Nantucket County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-006",
+    "name": "The Vineyard Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Edgartown",
+    "county": "Dukes County",
+    "county_id": "MA-dukes-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vineyardgazette.com/",
+    "coverage": [
+      "Edgartown",
+      "Dukes County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-007",
+    "name": "The Standard-Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "New Bedford",
+    "county": "Bristol County",
+    "county_id": "MA-bristol-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.southcoasttoday.com/",
+    "coverage": [
+      "New Bedford",
+      "Bristol County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-MA-008",
+    "name": "The Herald News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "MA",
+    "city": "Fall River",
+    "county": "Bristol County",
+    "county_id": "MA-bristol-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.heraldnews.com/",
+    "coverage": [
+      "Fall River",
+      "Bristol County",
+      "MA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/list-of-newspapers-for-informal-publication",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-CT-001",
+    "name": "Connecticut Post",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Bridgeport",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ctpost.com/",
+    "coverage": [
+      "Bridgeport",
+      "Fairfield County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-CT-002",
+    "name": "Waterbury Republican-American",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Waterbury",
+    "county": "New Haven County",
+    "county_id": "CT-new-haven-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rep-am.com/",
+    "coverage": [
+      "Waterbury",
+      "New Haven County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-CT-003",
+    "name": "The News-Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Danbury",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newstimes.com/",
+    "coverage": [
+      "Danbury",
+      "Fairfield County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-CT-004",
+    "name": "Stamford Advocate",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Stamford",
+    "county": "Fairfield County",
+    "county_id": "CT-fairfield-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stamfordadvocate.com/",
+    "coverage": [
+      "Stamford",
+      "Fairfield County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-CT-005",
+    "name": "Middletown Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "CT",
+    "city": "Middletown",
+    "county": "Middlesex County",
+    "county_id": "CT-middlesex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.middletownpress.com/",
+    "coverage": [
+      "Middletown",
+      "Middlesex County",
+      "CT",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mass.gov/info-details/registered-news-media-under-sjc-rule-119",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-001",
+    "name": "The Press of Atlantic City",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Atlantic City",
+    "county": "Atlantic County",
+    "county_id": "NJ-atlantic-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://pressofatlanticcity.com/",
+    "coverage": [
+      "Atlantic City",
+      "Atlantic County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.njpa.org/njpa/members.html",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-002",
+    "name": "Burlington County Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Burlington",
+    "county": "Burlington County",
+    "county_id": "NJ-burlington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.burlingtoncountytimes.com/",
+    "coverage": [
+      "Burlington",
+      "Burlington County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njnn/scan/participating_newspapers.html",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-003",
+    "name": "Courier-Post",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "county": "Camden County",
+    "county_id": "NJ-camden-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.courierpostonline.com/",
+    "coverage": [
+      "Cherry Hill",
+      "Camden County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njnn/scan/participating_newspapers.html",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-004",
+    "name": "The Montclair Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Montclair",
+    "county": "Essex County",
+    "county_id": "NJ-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.northjersey.com/",
+    "coverage": [
+      "Montclair",
+      "Essex County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://njpa.org/njnn/2x2/participating_newspapers.html",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-001",
+    "name": "The Daily Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Schenectady",
+    "county": "Schenectady County",
+    "county_id": "NY-schenectady-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://dailygazette.com/",
+    "coverage": [
+      "Schenectady",
+      "Schenectady County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mediaanddemocracyproject.org/journalism-directory-list/new-york",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-002",
+    "name": "Altamont Enterprise",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Altamont",
+    "county": "Albany County",
+    "county_id": "NY-albany-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://altamontenterprise.com/",
+    "coverage": [
+      "Altamont",
+      "Albany County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.mediaanddemocracyproject.org/journalism-directory-list/new-york",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-003",
+    "name": "Ithaca Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Ithaca",
+    "county": "Tompkins County",
+    "county_id": "NY-tompkins-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ithaca.com/",
+    "coverage": [
+      "Ithaca",
+      "Tompkins County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-004",
+    "name": "The Daily Star",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Oneonta",
+    "county": "Otsego County",
+    "county_id": "NY-otsego-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thedailystar.com/",
+    "coverage": [
+      "Oneonta",
+      "Otsego County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-005",
+    "name": "Adirondack Daily Enterprise",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Saranac Lake",
+    "county": "Essex County",
+    "county_id": "NY-essex-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.adirondackdailyenterprise.com/",
+    "coverage": [
+      "Saranac Lake",
+      "Essex County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-006",
+    "name": "Press-Republican",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Plattsburgh",
+    "county": "Clinton County",
+    "county_id": "NY-clinton-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pressrepublican.com/",
+    "coverage": [
+      "Plattsburgh",
+      "Clinton County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-007",
+    "name": "Poughkeepsie Journal",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Poughkeepsie",
+    "county": "Dutchess County",
+    "county_id": "NY-dutchess-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.poughkeepsiejournal.com/",
+    "coverage": [
+      "Poughkeepsie",
+      "Dutchess County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-008",
+    "name": "The Journal News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "White Plains",
+    "county": "Westchester County",
+    "county_id": "NY-westchester-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lohud.com/",
+    "coverage": [
+      "White Plains",
+      "Westchester County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-009",
+    "name": "Staten Island Advance",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Staten Island",
+    "county": "Richmond County",
+    "county_id": "NY-richmond-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.silive.com/",
+    "coverage": [
+      "Staten Island",
+      "Richmond County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NY-010",
+    "name": "Brooklyn Eagle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://brooklyneagle.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nystia.org/storage/files/8933048/Statewide%20Regional%20Media%20Kit%202022.pdf",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-001",
+    "name": "The Intelligencer",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Doylestown",
+    "county": "Bucks County",
+    "county_id": "PA-bucks-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theintell.com/",
+    "coverage": [
+      "Doylestown",
+      "Bucks County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-002",
+    "name": "York Daily Record",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "York",
+    "county": "York County",
+    "county_id": "PA-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ydr.com/",
+    "coverage": [
+      "York",
+      "York County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-003",
+    "name": "Reading Eagle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Reading",
+    "county": "Berks County",
+    "county_id": "PA-berks-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.readingeagle.com/",
+    "coverage": [
+      "Reading",
+      "Berks County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-004",
+    "name": "Centre Daily Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "State College",
+    "county": "Centre County",
+    "county_id": "PA-centre-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.centredaily.com/",
+    "coverage": [
+      "State College",
+      "Centre County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-005",
+    "name": "Delaware County Daily Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Media",
+    "county": "Delaware County",
+    "county_id": "PA-delaware-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.delcotimes.com/",
+    "coverage": [
+      "Media",
+      "Delaware County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-PA-006",
+    "name": "Observer-Reporter",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "PA",
+    "city": "Washington",
+    "county": "Washington County",
+    "county_id": "PA-washington-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.observer-reporter.com/",
+    "coverage": [
+      "Washington",
+      "Washington County",
+      "PA",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.papress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-RI-001",
+    "name": "Newport Daily News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Newport",
+    "county": "Newport County",
+    "county_id": "RI-newport-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newportri.com/",
+    "coverage": [
+      "Newport",
+      "Newport County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.ripress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-RI-002",
+    "name": "The Valley Breeze",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Cumberland",
+    "county": "Providence County",
+    "county_id": "RI-providence-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.valleybreeze.com/",
+    "coverage": [
+      "Cumberland",
+      "Providence County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.ripress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-RI-003",
+    "name": "The Warwick Beacon",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "RI",
+    "city": "Warwick",
+    "county": "Kent County",
+    "county_id": "RI-kent-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://warwickonline.com/",
+    "coverage": [
+      "Warwick",
+      "Kent County",
+      "RI",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.ripress.com/",
+    "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
   }
 ]
