@@ -199,31 +199,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-AS-2026-009",
-    "name": "The Business Standard Bangladesh",
-    "country": "BGD",
-    "continent": "Asia",
-    "continent_region": "Asia meridional",
-    "city": "Dhaka",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "business",
-      "economy",
-      "general-news"
-    ],
-    "official_url": "https://www.tbsnews.net/",
-    "coverage": [
-      "BGD"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-AS-2026-010",
     "name": "Vera Files",
     "country": "PHL",
@@ -291,31 +266,6 @@
       "politics"
     ],
     "official_url": "https://www.frontiermyanmar.net/",
-    "coverage": [
-      "MMR"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AS-2026-013",
-    "name": "The Irrawaddy",
-    "country": "MMR",
-    "continent": "Asia",
-    "continent_region": "Asia sudoriental",
-    "city": "Chiang Mai",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "politics",
-      "human-rights"
-    ],
-    "official_url": "https://www.irrawaddy.com/",
     "coverage": [
       "MMR"
     ],
@@ -397,56 +347,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-AS-2026-017",
-    "name": "Hong Kong Free Press",
-    "country": "HKG",
-    "continent": "Asia",
-    "continent_region": "Asia oriental",
-    "city": "Hong Kong",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "human-rights",
-      "politics"
-    ],
-    "official_url": "https://hongkongfp.com/",
-    "coverage": [
-      "HKG"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AS-2026-018",
-    "name": "The Korea Herald",
-    "country": "KOR",
-    "continent": "Asia",
-    "continent_region": "Asia oriental",
-    "city": "Seoul",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "business",
-      "politics"
-    ],
-    "official_url": "https://www.koreaherald.com/",
-    "coverage": [
-      "KOR"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-AS-2026-019",
     "name": "Hankyoreh",
     "country": "KOR",
@@ -515,31 +415,6 @@
     "official_url": "https://mongolia.today/",
     "coverage": [
       "MNG"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AS-2026-022",
-    "name": "OC Media",
-    "country": "GEO",
-    "continent": "Asia",
-    "continent_region": "Asia occidental",
-    "city": "Tbilisi",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "human-rights",
-      "investigative"
-    ],
-    "official_url": "https://oc-media.org/",
-    "coverage": [
-      "GEO"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
@@ -663,31 +538,6 @@
       "politics"
     ],
     "official_url": "https://africacheck.org/",
-    "coverage": [
-      "ZAF"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-004",
-    "name": "The Continent",
-    "country": "ZAF",
-    "continent": "África",
-    "continent_region": "África austral",
-    "city": "Johannesburg",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "international",
-      "investigative"
-    ],
-    "official_url": "https://www.thecontinent.org/",
     "coverage": [
       "ZAF"
     ],
@@ -846,31 +696,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-AF-2026-011",
-    "name": "TheCable",
-    "country": "NGA",
-    "continent": "África",
-    "continent_region": "África occidental",
-    "city": "Lagos",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "politics",
-      "business"
-    ],
-    "official_url": "https://www.thecable.ng/",
-    "coverage": [
-      "NGA"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-AF-2026-012",
     "name": "The Republic",
     "country": "NGA",
@@ -938,30 +763,6 @@
       "human-rights"
     ],
     "official_url": "https://www.madamasr.com/",
-    "coverage": [
-      "EGY"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-015",
-    "name": "Egypt Independent",
-    "country": "EGY",
-    "continent": "África",
-    "continent_region": "África septentrional",
-    "city": "Cairo",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "politics"
-    ],
-    "official_url": "https://www.egyptindependent.com/",
     "coverage": [
       "EGY"
     ],
@@ -1095,31 +896,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-AF-2026-021",
-    "name": "The Namibian Investigative Unit",
-    "country": "NAM",
-    "continent": "África",
-    "continent_region": "África austral",
-    "city": "Windhoek",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "investigative",
-      "politics",
-      "accountability"
-    ],
-    "official_url": "https://www.namibian.com.na/",
-    "coverage": [
-      "NAM"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-AF-2026-022",
     "name": "ZimLive",
     "country": "ZWE",
@@ -1139,55 +915,6 @@
     "official_url": "https://www.zimlive.com/",
     "coverage": [
       "ZWE"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-023",
-    "name": "Nyasa Times",
-    "country": "MWI",
-    "continent": "África",
-    "continent_region": "África austral",
-    "city": "Blantyre",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "politics"
-    ],
-    "official_url": "https://www.nyasatimes.com/",
-    "coverage": [
-      "MWI"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-024",
-    "name": "Addis Standard",
-    "country": "ETH",
-    "continent": "África",
-    "continent_region": "África oriental",
-    "city": "Addis Ababa",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "politics",
-      "human-rights"
-    ],
-    "official_url": "https://addisstandard.com/",
-    "coverage": [
-      "ETH"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
@@ -1269,81 +996,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-OC-2026-003",
-    "name": "SBS News",
-    "country": "AUS",
-    "continent": "Oceanía",
-    "continent_region": "Australasia",
-    "city": "Sydney",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "public-media",
-    "categories": [
-      "general-news",
-      "multicultural",
-      "international"
-    ],
-    "official_url": "https://www.sbs.com.au/news/",
-    "coverage": [
-      "AUS"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-004",
-    "name": "ABC News Australia",
-    "country": "AUS",
-    "continent": "Oceanía",
-    "continent_region": "Australasia",
-    "city": "Sydney",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "public-media",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.abc.net.au/news/",
-    "coverage": [
-      "AUS"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-005",
-    "name": "The Saturday Paper",
-    "country": "AUS",
-    "continent": "Oceanía",
-    "continent_region": "Australasia",
-    "city": "Melbourne",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "magazine",
-    "categories": [
-      "investigative",
-      "politics",
-      "culture"
-    ],
-    "official_url": "https://www.thesaturdaypaper.com.au/",
-    "coverage": [
-      "AUS"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-OC-2026-006",
     "name": "Stuff",
     "country": "NZL",
@@ -1361,31 +1013,6 @@
       "politics"
     ],
     "official_url": "https://www.stuff.co.nz/",
-    "coverage": [
-      "NZL"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-007",
-    "name": "RNZ",
-    "country": "NZL",
-    "continent": "Oceanía",
-    "continent_region": "Australasia",
-    "city": "Wellington",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "public-media",
-    "categories": [
-      "general-news",
-      "politics",
-      "radio"
-    ],
-    "official_url": "https://www.rnz.co.nz/",
     "coverage": [
       "NZL"
     ],
@@ -1444,31 +1071,6 @@
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
   },
   {
-    "id": "MED-OC-2026-010",
-    "name": "Fiji Times",
-    "country": "FJI",
-    "continent": "Oceanía",
-    "continent_region": "Melanesia",
-    "city": "Suva",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.fijitimes.com.fj/",
-    "coverage": [
-      "FJI"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
     "id": "MED-OC-2026-011",
     "name": "Islands Business",
     "country": "FJI",
@@ -1488,180 +1090,6 @@
     "official_url": "https://islandsbusiness.com/",
     "coverage": [
       "FJI"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-012",
-    "name": "The National",
-    "country": "PNG",
-    "continent": "Oceanía",
-    "continent_region": "Melanesia",
-    "city": "Port Moresby",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.thenational.com.pg/",
-    "coverage": [
-      "PNG"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-013",
-    "name": "Post-Courier",
-    "country": "PNG",
-    "continent": "Oceanía",
-    "continent_region": "Melanesia",
-    "city": "Port Moresby",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.postcourier.com.pg/",
-    "coverage": [
-      "PNG"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-014",
-    "name": "Samoa Observer",
-    "country": "WSM",
-    "continent": "Oceanía",
-    "continent_region": "Polinesia",
-    "city": "Apia",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.samoaobserver.ws/",
-    "coverage": [
-      "WSM"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-015",
-    "name": "Tonga Daily News",
-    "country": "TON",
-    "continent": "Oceanía",
-    "continent_region": "Polinesia",
-    "city": "Nuku'alofa",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "local-news"
-    ],
-    "official_url": "https://tongadailypost.to/",
-    "coverage": [
-      "TON"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-016",
-    "name": "Vanuatu Daily Post",
-    "country": "VUT",
-    "continent": "Oceanía",
-    "continent_region": "Melanesia",
-    "city": "Port Vila",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.dailypost.vu/",
-    "coverage": [
-      "VUT"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-017",
-    "name": "Solomon Star",
-    "country": "SLB",
-    "continent": "Oceanía",
-    "continent_region": "Melanesia",
-    "city": "Honiara",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "politics",
-      "local-news"
-    ],
-    "official_url": "https://www.solomonstarnews.com/",
-    "coverage": [
-      "SLB"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
-    "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
-  },
-  {
-    "id": "MED-OC-2026-018",
-    "name": "Pacific Media Network",
-    "country": "NZL",
-    "continent": "Oceanía",
-    "continent_region": "Polinesia",
-    "city": "Auckland",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "public-radio",
-    "categories": [
-      "pacific",
-      "community-media",
-      "culture"
-    ],
-    "official_url": "https://pmn.co.nz/",
-    "coverage": [
-      "NZL"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
