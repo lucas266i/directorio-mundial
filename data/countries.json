@@ -460,5 +460,14 @@
     "continent": "América",
     "region": "Caribe",
     "language": "fr"
+  },
+  {
+    "id": "BLM",
+    "name": "San Bartolomé (Saint-Barthélemy)",
+    "m49": "652",
+    "iso2": "BL",
+    "continent": "América",
+    "region": "Caribe",
+    "language": "fr"
   }
 ]
