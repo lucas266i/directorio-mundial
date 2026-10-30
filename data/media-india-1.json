@@ -2606,5 +2606,2605 @@
     "status": "pending_verification",
     "discovery_source": "Directorio regional de prensa india, Paperboy, Online Newspapers, directorios lingüísticos y fuentes sectoriales",
     "verification_note": "Dominio y edición local pendientes de comprobación individual. La inclusión no constituye una evaluación de independencia, calidad ni fiabilidad."
+  },
+  {
+    "id": "MED-IN-2026-101",
+    "name": "Akila",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.akilanews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-102",
+    "name": "I Am Gujarat",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.iamgujarat.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-103",
+    "name": "Gujarati Mid Day",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.gujaratimidday.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-104",
+    "name": "VTV Gujarati",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://www.vtvgujarati.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-105",
+    "name": "TV9 Gujarati",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://tv9gujarati.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-106",
+    "name": "ABP Asmita",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://gujarati.abplive.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-107",
+    "name": "Divya Bhaskar Gujarati",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.divyabhaskar.co.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-108",
+    "name": "Kutch Mitra",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Bhuj",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kutchmitradaily.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-109",
+    "name": "Phulchhab",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.phulchhab.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-110",
+    "name": "Saurashtra Samachar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Bhavnagar",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.saurashtrasamachar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-111",
+    "name": "Gujarat Guardian",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Surat",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gujaratguardian.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-112",
+    "name": "Sandesh News TV",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://www.sandesh.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-113",
+    "name": "Navgujarat Samay",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Gujarat",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.navgujaratsamay.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-114",
+    "name": "Mumbai Samachar Gujarati",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "gu",
+    "languages": [
+      "gu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bombaysamachar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-115",
+    "name": "Dainik Aikya",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Satara",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dainikaikya.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-116",
+    "name": "Deshdoot",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.deshdoot.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-117",
+    "name": "Lokprabha",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "politics"
+    ],
+    "official_url": "https://www.lokprabha.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-118",
+    "name": "Pudhari News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://pudhari.news",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-119",
+    "name": "Tarun Bharat Pune",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tarunbharat.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-120",
+    "name": "Prahaar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prahaar.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-121",
+    "name": "Navakal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.navakal.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-122",
+    "name": "Saamana Marathi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics",
+      "general-news"
+    ],
+    "official_url": "https://www.saamana.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-123",
+    "name": "Lokmat Samachar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.lokmat.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-124",
+    "name": "Marathwada Neta",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.marathwadaneta.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-125",
+    "name": "Beed Reporter",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.beedreporter.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-126",
+    "name": "Punya Nagari",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.punyanagari.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-127",
+    "name": "Saptahik Vivek",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://www.weeklyvivek.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-128",
+    "name": "Maharashtra Desha",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://maharashtradesha.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-129",
+    "name": "Pune Pulse",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "civic-journalism"
+    ],
+    "official_url": "https://www.mypunepulse.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-130",
+    "name": "Thane Vaibhav",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Maharashtra",
+    "state": "Maharashtra",
+    "city": "Thane",
+    "language": "mr",
+    "languages": [
+      "mr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thanevaibhav.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-131",
+    "name": "The Goan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thegoan.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-132",
+    "name": "Goa Chronicle",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://goachronicle.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-133",
+    "name": "Goa Today",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://goatoday.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-134",
+    "name": "Prudent Media",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://prudentmedia.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-135",
+    "name": "In Goa 24x7",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://ingoanews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-136",
+    "name": "The Goan Everyday",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Goa",
+    "state": "Goa",
+    "city": "Panaji",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thegoan.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-137",
+    "name": "Raj Express",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.rajexpress.co",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-138",
+    "name": "Narmadanchal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Hoshangabad",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://narmadanchal.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-139",
+    "name": "Bansal News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://www.bansalnews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-140",
+    "name": "News 24 Madhya Pradesh",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://mp.news24online.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-141",
+    "name": "Swadesh News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.swadeshnews.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-142",
+    "name": "Dainik Savera",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dainiksavera.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-143",
+    "name": "Rajasthan Patrika Jaipur",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.patrika.com/jaipur-news",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-144",
+    "name": "First India News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://firstindianews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-145",
+    "name": "News Rajasthan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newsrajasthan.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-146",
+    "name": "Dainik Bhaskar Jaipur",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bhaskar.com/rajasthan/jaipur",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-147",
+    "name": "Rajasthan Khaskhabar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.khaskhabar.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-148",
+    "name": "Seema Sandesh",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Sri Ganganagar",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.seemasandesh.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-149",
+    "name": "Dainik Bhaskar Udaipur",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bhaskar.com/rajasthan/udaipur",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-150",
+    "name": "Rajasthan TV",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://rajasthantv.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-151",
+    "name": "News18 Rajasthan",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://hindi.news18.com/rajasthan",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-152",
+    "name": "Prabhat Khabar Jharkhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prabhatkhabar.com/state/jharkhand",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-153",
+    "name": "The Avenue Mail",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://avenuemail.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-154",
+    "name": "Dainik Jagran Jharkhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/jharkhand",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-155",
+    "name": "News Wing Jharkhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "regional-news"
+    ],
+    "official_url": "https://newswing.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-156",
+    "name": "Jharkhand News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jharkhandnews.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-157",
+    "name": "Khabar Mantra",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://khabarmantra.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-158",
+    "name": "Bihar News Network",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://biharnewsnetwork.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-159",
+    "name": "Prabhat Khabar Bihar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prabhatkhabar.com/state/bihar",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-160",
+    "name": "Dainik Jagran Bihar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/bihar",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-161",
+    "name": "Hindustan Bihar News",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.livehindustan.com/bihar",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-162",
+    "name": "Bihar Today",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bihartoday.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-163",
+    "name": "Patna Press",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://patnapress.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-164",
+    "name": "Bihar Breaking",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://biharbreaking.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-165",
+    "name": "The Telegraph Bihar",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.telegraphindia.com/bihar",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-166",
+    "name": "The Telegraph Jharkhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jharkhand",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.telegraphindia.com/jharkhand",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-167",
+    "name": "Dainik Jagran Uttar Pradesh",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/uttar-pradesh",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-168",
+    "name": "Amar Ujala Lucknow",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/uttar-pradesh/lucknow",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-169",
+    "name": "Hindustan Lucknow",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.livehindustan.com/uttar-pradesh/lucknow",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-170",
+    "name": "Inext Live",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.inextlive.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-171",
+    "name": "News18 Uttar Pradesh",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "regional-news"
+    ],
+    "official_url": "https://hindi.news18.com/uttar-pradesh",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-172",
+    "name": "UP Tak",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "regional-news"
+    ],
+    "official_url": "https://www.uptak.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-173",
+    "name": "Live Hindustan Varanasi",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.livehindustan.com/uttar-pradesh/varanasi",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-174",
+    "name": "Dainik Jagran Kanpur",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/uttar-pradesh/kanpur-city",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-175",
+    "name": "Amar Ujala Agra",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/uttar-pradesh/agra",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-176",
+    "name": "Hindustan Bareilly",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Bareilly",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.livehindustan.com/uttar-pradesh/bareilly",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-177",
+    "name": "Dainik Jagran Gorakhpur",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Gorakhpur",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/uttar-pradesh/gorakhpur",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-178",
+    "name": "Amar Ujala Meerut",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/uttar-pradesh/meerut",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-179",
+    "name": "Hindustan Dehradun",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttarakhand",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.livehindustan.com/uttarakhand/dehradun",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-180",
+    "name": "Amar Ujala Uttarakhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttarakhand",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/uttarakhand",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-181",
+    "name": "Dainik Jagran Uttarakhand",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Uttarakhand",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jagran.com/uttarakhand",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-182",
+    "name": "Himachal Dastak",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://himachaldastak.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-183",
+    "name": "Divya Himachal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Dharamshala",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.divyahimachal.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-184",
+    "name": "Amar Ujala Himachal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.amarujala.com/himachal-pradesh",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-185",
+    "name": "The Tribune Himachal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tribuneindia.com/news/himachal",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-186",
+    "name": "News18 Himachal",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "language": "hi",
+    "languages": [
+      "hi"
+    ],
+    "type": "tv",
+    "categories": [
+      "television",
+      "regional-news"
+    ],
+    "official_url": "https://hindi.news18.com/himachal-pradesh",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-187",
+    "name": "The Kashmir Monitor Jammu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmirmonitor.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-188",
+    "name": "Kashmir News Service",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.kashmirnewsservice.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-189",
+    "name": "Kashmir Despatch",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmirdespatch.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-190",
+    "name": "The Dispatch",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "regional-news"
+    ],
+    "official_url": "https://thedispatch.in",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-191",
+    "name": "Daily Excelsior Kashmir",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailyexcelsior.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-192",
+    "name": "Greater Kashmir Urdu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.greaterkashmir.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-193",
+    "name": "Kashmir Uzma",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmiruzma.net",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-194",
+    "name": "Kashmir Reader Urdu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmirreader.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-195",
+    "name": "Rising Kashmir Urdu",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://risingkashmir.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-196",
+    "name": "The Northlines",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://thenorthlines.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-197",
+    "name": "Daily Excelsior English",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailyexcelsior.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-198",
+    "name": "Kashmir News Bureau",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmirnewsbureau.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-199",
+    "name": "The Kashmir Horizon",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://thekashmirhorizon.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
+  },
+  {
+    "id": "MED-IN-2026-200",
+    "name": "Kashmir Ahead",
+    "country": "IND",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://kashmirahead.com",
+    "coverage": [
+      "IND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios de prensa regional y listados lingüísticos de India",
+    "verification_note": "URL y presencia editorial local pendientes de verificación individual. Algunas marcas pueden tener ediciones locales bajo un mismo dominio; se revisarán duplicados de dominio y titularidad."
   }
 ]
