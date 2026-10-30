@@ -1337,5 +1337,68 @@
     "continent": "Oceanía",
     "region": "Micronesia",
     "language": "mh"
+  },
+  {
+    "id": "TGO",
+    "name": "Togo",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "IRN",
+    "name": "Irán",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "fa",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "FSM",
+    "name": "Estados Federados de Micronesia",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "en",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "GUM",
+    "name": "Guam",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "en",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "MNP",
+    "name": "Islas Marianas del Norte",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "en",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "COK",
+    "name": "Islas Cook",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "en",
+    "m49": "",
+    "iso2": ""
+  },
+  {
+    "id": "PYF",
+    "name": "Polinesia Francesa",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "fr",
+    "m49": "",
+    "iso2": ""
   }
 ]
