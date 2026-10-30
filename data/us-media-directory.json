@@ -12079,5 +12079,102 @@
     "discovery_source": "Official White Eagle Media New York edition page",
     "source_directory": "White Eagle Media publication directory",
     "verification_note": "Publisher identifies a dedicated New York edition of its Polish-language newspaper, with biweekly publication and local community coverage. Publisher headquarters are in Connecticut; geographic placement is based on the New York edition's stated market, not a verified New York newsroom address."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-010",
+    "name": "NYC Arab Post",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York City",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "arab-american-media",
+      "immigrant-media",
+      "local-news"
+    ],
+    "official_url": "https://arabamerican.media/",
+    "coverage": [
+      "New York City",
+      "Brooklyn",
+      "Queens",
+      "Bronx",
+      "Staten Island",
+      "Manhattan",
+      "Arab American communities"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY community-media ecosystem; official NYC Arab Post website, contact page and issue archive",
+    "source_directory": "NYC community and ethnic media directories; publisher website",
+    "verification_note": "Bilingual Arabic-English NYC-focused platform and print newspaper. Official site identifies New York City as its address and lists issues published from May through October 2026. Editorial ownership and independence not independently assessed."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-011",
+    "name": "USA Bangla News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York City",
+    "language": "bn",
+    "languages": [
+      "bn",
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "bengali-language-media",
+      "bangladeshi-diaspora",
+      "immigrant-media",
+      "local-news"
+    ],
+    "official_url": "https://www.usabanglanews.com/",
+    "coverage": [
+      "New York City",
+      "Bangladeshi diaspora",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Many Voices, One City directory; official publisher website",
+    "source_directory": "CUNY Center for Community Media – Many Voices, One City; publisher site",
+    "verification_note": "Bengali-language outlet whose site includes a New York section and English-language news. Current reporting dated October 2026 observed. New York geographic assignment reflects stated local coverage; newsroom address not confirmed."
+  },
+  {
+    "id": "MED-USA-NY-CCM3-012",
+    "name": "Urdu Times USA",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Jamaica, Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "ur",
+    "languages": [
+      "ur"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "urdu-language-media",
+      "pakistani-diaspora",
+      "immigrant-media"
+    ],
+    "official_url": "https://urdutimesusa.com/",
+    "coverage": [
+      "Queens",
+      "New York City",
+      "New Jersey",
+      "Pakistani diaspora"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "CUNY Many Voices, One City directory; official Urdu Times USA website",
+    "source_directory": "CUNY Center for Community Media – Many Voices, One City; publisher site",
+    "verification_note": "Urdu-language publication listed by CUNY as serving the Pakistani-American community in New York and surrounding markets. Official site accessible with October 2026 content; current publication frequency and precise newsroom address require direct confirmation."
   }
 ]
