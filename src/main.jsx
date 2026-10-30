@@ -89,12 +89,13 @@ function App() {
       fetch(`${base}data/media-europe-2.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/media-europe-3.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/media-europe-4.json`).then((r) => r.ok ? r.json() : []),
+      fetch(`${base}data/media-global-1.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
       fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : [])
      ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, categoryData, stateData, geographyData]) => {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
-      setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : [])]);
+      setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(global1MediaData) ? global1MediaData : [])]);
       setCategories(Array.isArray(categoryData) ? categoryData.filter((c) => c && (c.id || c.name)) : fallbackCategories);
       setStates(Array.isArray(stateData) ? stateData : []);
       setGeography(Array.isArray(geographyData) ? geographyData : []);
