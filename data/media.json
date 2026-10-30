@@ -2860,5 +2860,350 @@
     ],
     "status": "pending_verification",
     "verification_note": "City-level candidate; verify current activity, coverage area and ownership details."
+  },
+  {
+    "id": "MED-USA-LANG-001",
+    "name": "La Opinión",
+    "country": "USA",
+    "state": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "county_id": "CA-los-angeles-county",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "general-news",
+      "spanish-language",
+      "immigration"
+    ],
+    "official_url": "https://laopinion.com/",
+    "coverage": [
+      "Los Angeles",
+      "Southern California",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "La Opinión official about page; CUNY Latino media research",
+    "verification_note": "Official site and Spanish-language editorial operation identified; confirm current ownership and detailed county coverage."
+  },
+  {
+    "id": "MED-USA-LANG-002",
+    "name": "El Diario NY",
+    "country": "USA",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "general-news",
+      "spanish-language",
+      "immigration"
+    ],
+    "official_url": "https://eldiariony.com/",
+    "coverage": [
+      "New York City",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "CUNY Center for Community Media — Many Voices, One City",
+    "verification_note": "CUNY profile identifies Spanish-language publication and Brooklyn ZIP code 11201; confirm current ownership and coverage."
+  },
+  {
+    "id": "MED-USA-LANG-003",
+    "name": "El Observador",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Jose",
+    "county": "Santa Clara County",
+    "county_id": "CA-santa-clara-county",
+    "language": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "general-news",
+      "spanish-language"
+    ],
+    "official_url": "https://el-observador.com/",
+    "coverage": [
+      "San Francisco Bay Area",
+      "Santa Clara County"
+    ],
+    "status": "pending_verification",
+    "source_directory": "Official About Us page; Latino Media Collaborative",
+    "verification_note": "Official page describes bilingual print and online newspaper serving the Bay Area."
+  },
+  {
+    "id": "MED-USA-LANG-004",
+    "name": "El Tecolote",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Francisco",
+    "county": "San Francisco County",
+    "county_id": "CA-san-francisco-county",
+    "language": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "culture",
+      "spanish-language"
+    ],
+    "official_url": "https://eltecolote.org/",
+    "coverage": [
+      "San Francisco",
+      "Bay Area"
+    ],
+    "status": "pending_verification",
+    "source_directory": "Latino Media Collaborative; CUNY community media research",
+    "verification_note": "Bilingual community newspaper; verify current publication frequency and exact service area."
+  },
+  {
+    "id": "MED-USA-LANG-005",
+    "name": "Radio Bilingüe",
+    "country": "USA",
+    "state": "CA",
+    "city": "Fresno",
+    "county": "Fresno County",
+    "county_id": "CA-fresno-county",
+    "language": "es",
+    "languages": [
+      "es",
+      "en",
+      "mixteco",
+      "triqui"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "independent-media",
+      "public-media",
+      "local-news",
+      "spanish-language"
+    ],
+    "official_url": "https://radiobilingue.org/",
+    "coverage": [
+      "California",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "Latino Media Collaborative",
+    "verification_note": "Community public-radio network; reported programming in Spanish, English, Mixteco and Triqui."
+  },
+  {
+    "id": "MED-USA-LANG-006",
+    "name": "The Arab American News",
+    "country": "USA",
+    "state": "MI",
+    "city": "Dearborn",
+    "county": "Wayne County",
+    "county_id": "MI-wayne-county",
+    "language": "en",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://arabamericannews.com/",
+    "coverage": [
+      "Metro Detroit",
+      "Arab American communities",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "Official About Us and Distribution pages",
+    "verification_note": "Official pages describe bilingual weekly newspaper headquartered in Dearborn."
+  },
+  {
+    "id": "MED-USA-LANG-007",
+    "name": "Al Jadid",
+    "country": "USA",
+    "state": "CA",
+    "city": "Orange County",
+    "county": "Orange County",
+    "county_id": "CA-orange-county",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "international",
+      "culture"
+    ],
+    "official_url": "https://www.aljadid.com/",
+    "coverage": [
+      "Orange County",
+      "Southern California"
+    ],
+    "status": "pending_verification",
+    "source_directory": "American Community Media directory",
+    "verification_note": "ACoM directory lists Arab audience and Orange County; confirm publication languages and current activity."
+  },
+  {
+    "id": "MED-USA-LANG-008",
+    "name": "Al Enteshar",
+    "country": "USA",
+    "state": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "county_id": "CA-los-angeles-county",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "international"
+    ],
+    "official_url": "https://alentesharnewspaper.com/",
+    "coverage": [
+      "Los Angeles County",
+      "Southern California"
+    ],
+    "status": "pending_verification",
+    "source_directory": "American Community Media directory",
+    "verification_note": "ACoM directory lists Arab audience and Los Angeles County; confirm current activity and language mix."
+  },
+  {
+    "id": "MED-USA-LANG-009",
+    "name": "Afisha Media Group",
+    "country": "USA",
+    "state": "CA",
+    "city": "Sacramento",
+    "county": "Sacramento County",
+    "county_id": "CA-sacramento-county",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "culture"
+    ],
+    "official_url": "https://afishamedia.com/",
+    "coverage": [
+      "Sacramento County",
+      "Northern California"
+    ],
+    "status": "pending_verification",
+    "source_directory": "American Community Media directory",
+    "verification_note": "ACoM directory identifies Russian-language audience and Sacramento County; verify individual publication titles and activity."
+  },
+  {
+    "id": "MED-USA-LANG-010",
+    "name": "World Journal",
+    "country": "USA",
+    "state": "NY",
+    "city": "Whitestone, Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "international",
+      "economy"
+    ],
+    "official_url": "https://www.worldjournal.com/",
+    "coverage": [
+      "New York",
+      "Los Angeles",
+      "San Francisco",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "World Journal corporate website",
+    "verification_note": "Corporate website lists New York, Los Angeles and San Francisco editions; verify local bureaus and languages by edition."
+  },
+  {
+    "id": "MED-USA-LANG-011",
+    "name": "World Journal Atlanta / Chinese Media USA",
+    "country": "USA",
+    "state": "GA",
+    "city": "Chamblee",
+    "county": "DeKalb County",
+    "county_id": "GA-dekalb-county",
+    "language": "zh",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "international"
+    ],
+    "official_url": "https://www.chinesemediausa.com/",
+    "coverage": [
+      "Atlanta metro",
+      "Southeastern United States"
+    ],
+    "status": "pending_verification",
+    "source_directory": "Official About Us page",
+    "verification_note": "Official page describes Chinese-language newspaper serving Atlanta and the Southeast."
+  },
+  {
+    "id": "MED-USA-LANG-012",
+    "name": "Chinese Daily News",
+    "country": "USA",
+    "state": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "county_id": "CA-los-angeles-county",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "international"
+    ],
+    "official_url": "https://www.chinesedaily.com/",
+    "coverage": [
+      "Los Angeles",
+      "Southern California"
+    ],
+    "status": "pending_verification",
+    "source_directory": "American Community Media directory",
+    "verification_note": "ACoM directory lists Chinese audience and Los Angeles County; verify current status and publication format."
   }
 ]
