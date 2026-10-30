@@ -54,7 +54,9 @@ const categoryLabels = {
   "digital_native": "Medio digital", "digital-native": "Medio digital", "accountability": "Rendición de cuentas",
   "criminal-justice": "Justicia penal", "national-security": "Seguridad nacional", "technology": "Tecnología",
   "privacy": "Privacidad", "gender": "Género", "culture": "Cultura", "immigration": "Inmigración",
-  "spanish-language": "En español", "housing": "Vivienda"
+  "spanish-language": "En español", "housing": "Vivienda",
+  "community-media": "Medios comunitarios", "ethnic-media": "Medios de comunidades étnicas",
+  "multilingual": "Multilingües", "public-radio": "Radio pública"
 };
 
 const languageLabels = { es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", mixteco: "Mixteco", triqui: "Triqui" };
@@ -117,7 +119,7 @@ function App() {
       const tags = (m.categories || []).map((id) => categoryLabels[id] || id);
       const stateName = stateMap[m.state]?.name || m.state;
       const countyName = m.county || m.county_name || "";
-      const text = [m.name, m.city, countyName, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...tags]
+      const text = [m.name, m.city, countyName, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...(m.languages || []).map((lang) => languageLabels[lang] || lang), ...tags]
         .filter(Boolean).join(" ").toLowerCase();
       const matchesQuery = !q || text.includes(q);
       const matchesCategory = category === "Todas" || (m.categories || []).includes(selectedCategoryId);
