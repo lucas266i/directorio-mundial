@@ -106,5 +106,21 @@
   {
     "id": "education",
     "name": "Educación"
+  },
+  {
+    "id": "community-media",
+    "name": "Medios comunitarios"
+  },
+  {
+    "id": "ethnic-media",
+    "name": "Medios de comunidades étnicas"
+  },
+  {
+    "id": "multilingual",
+    "name": "Multilingües"
+  },
+  {
+    "id": "public-radio",
+    "name": "Radio pública"
   }
 ]
