@@ -1,0 +1,2862 @@
+[
+  {
+    "id": "MED-EU2-001",
+    "name": "Delfi",
+    "country": "EST",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Tallinn",
+    "language": "et",
+    "languages": [
+      "et"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.delfi.ee",
+    "coverage": [
+      "EST"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-002",
+    "name": "ERR",
+    "country": "EST",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Tallinn",
+    "language": "et",
+    "languages": [
+      "et"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://news.err.ee",
+    "coverage": [
+      "EST"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-003",
+    "name": "Õhtuleht",
+    "country": "EST",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Tallinn",
+    "language": "et",
+    "languages": [
+      "et"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ohtuleht.ee",
+    "coverage": [
+      "EST"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-004",
+    "name": "Postimees",
+    "country": "EST",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Tallinn",
+    "language": "et",
+    "languages": [
+      "et"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.postimees.ee",
+    "coverage": [
+      "EST"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-005",
+    "name": "Heimildin",
+    "country": "ISL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Reykjavík",
+    "language": "is",
+    "languages": [
+      "is"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://heimildin.is",
+    "coverage": [
+      "ISL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-006",
+    "name": "DV",
+    "country": "ISL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Reykjavík",
+    "language": "is",
+    "languages": [
+      "is"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dv.is",
+    "coverage": [
+      "ISL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-007",
+    "name": "Morgunblaðið",
+    "country": "ISL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Reykjavík",
+    "language": "is",
+    "languages": [
+      "is"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.mbl.is",
+    "coverage": [
+      "ISL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-008",
+    "name": "RÚV",
+    "country": "ISL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Reykjavík",
+    "language": "is",
+    "languages": [
+      "is"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.ruv.is",
+    "coverage": [
+      "ISL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-009",
+    "name": "Vísir",
+    "country": "ISL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Reykjavík",
+    "language": "is",
+    "languages": [
+      "is"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.visir.is",
+    "coverage": [
+      "ISL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-010",
+    "name": "Delfi Latvia",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.delfi.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-011",
+    "name": "Diena",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.diena.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-012",
+    "name": "LSM",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.lsm.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-013",
+    "name": "TVNET",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tvnet.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-014",
+    "name": "Latvijas Avīze",
+    "country": "LVA",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Riga",
+    "language": "lv",
+    "languages": [
+      "lv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.la.lv",
+    "coverage": [
+      "LVA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-015",
+    "name": "15min",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.15min.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-016",
+    "name": "Delfi Lithuania",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.delfi.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-017",
+    "name": "Lietuvos rytas",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lrytas.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-018",
+    "name": "LRT",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.lrt.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-019",
+    "name": "Vakaro žinios",
+    "country": "LTU",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Vilnius",
+    "language": "lt",
+    "languages": [
+      "lt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ve.lt",
+    "coverage": [
+      "LTU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-020",
+    "name": "BalkanWeb",
+    "country": "ALB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Tirana",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.balkanweb.com",
+    "coverage": [
+      "ALB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-021",
+    "name": "Exit.al",
+    "country": "ALB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Tirana",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://exit.al/en",
+    "coverage": [
+      "ALB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-022",
+    "name": "Panorama",
+    "country": "ALB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Tirana",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.panorama.com.al",
+    "coverage": [
+      "ALB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-023",
+    "name": "Shqiptarja.com",
+    "country": "ALB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Tirana",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://shqiptarja.com/home",
+    "coverage": [
+      "ALB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-024",
+    "name": "Top Channel",
+    "country": "ALB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Tirana",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://top-channel.tv",
+    "coverage": [
+      "ALB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-025",
+    "name": "Dnevni avaz",
+    "country": "BIH",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sarajevo",
+    "language": "bs",
+    "languages": [
+      "bs"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.avaz.ba",
+    "coverage": [
+      "BIH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-026",
+    "name": "Klix.ba",
+    "country": "BIH",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sarajevo",
+    "language": "bs",
+    "languages": [
+      "bs"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.klix.ba",
+    "coverage": [
+      "BIH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-027",
+    "name": "N1 BiH",
+    "country": "BIH",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sarajevo",
+    "language": "bs",
+    "languages": [
+      "bs"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://n1info.ba",
+    "coverage": [
+      "BIH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-028",
+    "name": "Nezavisne novine",
+    "country": "BIH",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sarajevo",
+    "language": "bs",
+    "languages": [
+      "bs"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nezavisne.com",
+    "coverage": [
+      "BIH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-029",
+    "name": "Oslobođenje",
+    "country": "BIH",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Sarajevo",
+    "language": "bs",
+    "languages": [
+      "bs"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.oslobodjenje.ba",
+    "coverage": [
+      "BIH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-030",
+    "name": "Index.hr",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.index.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-031",
+    "name": "Jutarnji list",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.jutarnji.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-032",
+    "name": "Večernji list",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.vecernji.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-033",
+    "name": "Novi list",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.novilist.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-034",
+    "name": "tportal",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tportal.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-035",
+    "name": "24sata",
+    "country": "HRV",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Zagreb",
+    "language": "hr",
+    "languages": [
+      "hr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.24sata.hr",
+    "coverage": [
+      "HRV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-036",
+    "name": "Cyprus Mail",
+    "country": "CYP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Nicosia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://cyprus-mail.com",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-037",
+    "name": "in-cyprus",
+    "country": "CYP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Nicosia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://in-cyprus.philenews.com",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-038",
+    "name": "Kathimerini Cyprus",
+    "country": "CYP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Nicosia",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.kathimerini.com.cy",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-039",
+    "name": "Alithia",
+    "country": "CYP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Nicosia",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://alithia.com.cy",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-040",
+    "name": "Dialogos",
+    "country": "CYP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Nicosia",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://dialogos.com.cy",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-041",
+    "name": "Koha Ditore",
+    "country": "XKX",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pristina",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.koha.net",
+    "coverage": [
+      "XKX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-042",
+    "name": "Telegrafi",
+    "country": "XKX",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pristina",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://telegrafi.com",
+    "coverage": [
+      "XKX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-043",
+    "name": "Klan Kosova",
+    "country": "XKX",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Pristina",
+    "language": "sq",
+    "languages": [
+      "sq"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://klankosova.tv",
+    "coverage": [
+      "XKX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-044",
+    "name": "Times of Malta",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valletta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://timesofmalta.com",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-045",
+    "name": "The Malta Independent",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valletta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.independent.com.mt",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-046",
+    "name": "MaltaToday",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valletta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.maltatoday.com.mt",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-047",
+    "name": "Net News",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valletta",
+    "language": "mt",
+    "languages": [
+      "mt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://netnews.com.mt",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-048",
+    "name": "Lovin Malta",
+    "country": "MLT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Valletta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://lovinmalta.com",
+    "coverage": [
+      "MLT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-049",
+    "name": "Pobjeda",
+    "country": "MNE",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Podgorica",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.pobjeda.me",
+    "coverage": [
+      "MNE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-050",
+    "name": "Portal Analitika",
+    "country": "MNE",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Podgorica",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.portalanalitika.me",
+    "coverage": [
+      "MNE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-051",
+    "name": "RTCG",
+    "country": "MNE",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Podgorica",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://rtcg.me",
+    "coverage": [
+      "MNE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-052",
+    "name": "Vijesti",
+    "country": "MNE",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Podgorica",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.vijesti.me",
+    "coverage": [
+      "MNE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-053",
+    "name": "Dan",
+    "country": "MNE",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Podgorica",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dan.co.me",
+    "coverage": [
+      "MNE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-054",
+    "name": "SDK.mk",
+    "country": "MKD",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Skopje",
+    "language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://sdk.mk",
+    "coverage": [
+      "MKD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-055",
+    "name": "Kurir",
+    "country": "MKD",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Skopje",
+    "language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://kurir.mk",
+    "coverage": [
+      "MKD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-056",
+    "name": "MKD.mk",
+    "country": "MKD",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Skopje",
+    "language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://mkd.mk",
+    "coverage": [
+      "MKD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-057",
+    "name": "Sloboden Pečat",
+    "country": "MKD",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Skopje",
+    "language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.slobodenpecat.mk",
+    "coverage": [
+      "MKD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-058",
+    "name": "San Marino RTV",
+    "country": "SMR",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "San Marino",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.sanmarinortv.sm",
+    "coverage": [
+      "SMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-059",
+    "name": "Libertas",
+    "country": "SMR",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "San Marino",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.libertas.sm",
+    "coverage": [
+      "SMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-060",
+    "name": "Blic",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.blic.rs",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-061",
+    "name": "B92",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.b92.net",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-062",
+    "name": "RTS",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.rts.rs",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-063",
+    "name": "Danas",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.danas.rs",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-064",
+    "name": "Politika",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.politika.rs",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-065",
+    "name": "Nova.rs",
+    "country": "SRB",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Belgrade",
+    "language": "sr",
+    "languages": [
+      "sr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://nova.rs",
+    "coverage": [
+      "SRB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-066",
+    "name": "RTV Slovenija",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://www.rtvslo.si",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-067",
+    "name": "Delo",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.delo.si",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-068",
+    "name": "Dnevnik",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dnevnik.si",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-069",
+    "name": "24ur",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.24ur.com",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-070",
+    "name": "Siol",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://siol.net",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-071",
+    "name": "Večer",
+    "country": "SVN",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Ljubljana",
+    "language": "sl",
+    "languages": [
+      "sl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.vecer.com",
+    "coverage": [
+      "SVN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-072",
+    "name": "Liechtensteiner Vaterland",
+    "country": "LIE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vaduz",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.vaterland.li",
+    "coverage": [
+      "LIE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-073",
+    "name": "lie:zeit",
+    "country": "LIE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vaduz",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lie-zeit.li",
+    "coverage": [
+      "LIE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-074",
+    "name": "Luxembourg Times",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.luxtimes.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-075",
+    "name": "L'essentiel",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lessentiel.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-076",
+    "name": "Luxemburger Wort",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.wort.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-077",
+    "name": "Tageblatt",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tageblatt.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-078",
+    "name": "RTL Today",
+    "country": "LUX",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Luxembourg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://today.rtl.lu",
+    "coverage": [
+      "LUX"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-079",
+    "name": "Monaco-Matin",
+    "country": "MCO",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Monaco",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.monacomatin.mc",
+    "coverage": [
+      "MCO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-080",
+    "name": "Monaco Tribune",
+    "country": "MCO",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Monaco",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.monaco-tribune.com",
+    "coverage": [
+      "MCO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-081",
+    "name": "Monaco Hebdo",
+    "country": "MCO",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Monaco",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.monacohebdo.mc",
+    "coverage": [
+      "MCO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-082",
+    "name": "Belsat",
+    "country": "BLR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Minsk",
+    "language": "be",
+    "languages": [
+      "be"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "international",
+      "investigative"
+    ],
+    "official_url": "https://belsat.eu",
+    "coverage": [
+      "BLR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-083",
+    "name": "BelTA",
+    "country": "BLR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Minsk",
+    "language": "be",
+    "languages": [
+      "be"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://belta.by",
+    "coverage": [
+      "BLR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-084",
+    "name": "Nasha Niva",
+    "country": "BLR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Minsk",
+    "language": "be",
+    "languages": [
+      "be"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://nashaniva.com",
+    "coverage": [
+      "BLR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-085",
+    "name": "Onliner",
+    "country": "BLR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Minsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.onliner.by",
+    "coverage": [
+      "BLR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-086",
+    "name": "SB. Belarus Segodnya",
+    "country": "BLR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Minsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.sb.by",
+    "coverage": [
+      "BLR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-087",
+    "name": "24 Chasa",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.24chasa.bg",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-088",
+    "name": "Dnevnik",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dnevnik.bg",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-089",
+    "name": "Capital",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.capital.bg",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-090",
+    "name": "Standart",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.standartnews.com",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-091",
+    "name": "Mediapool",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.mediapool.bg",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-092",
+    "name": "BNT",
+    "country": "BGR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Sofia",
+    "language": "bg",
+    "languages": [
+      "bg"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news",
+      "public-media"
+    ],
+    "official_url": "https://bntnews.bg",
+    "coverage": [
+      "BGR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-093",
+    "name": "Index",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://index.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-094",
+    "name": "Origo",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.origo.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-095",
+    "name": "444",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://444.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-096",
+    "name": "Telex",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://telex.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-097",
+    "name": "Népszava",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://nepszava.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-098",
+    "name": "Magyar Nemzet",
+    "country": "HUN",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Budapest",
+    "language": "hu",
+    "languages": [
+      "hu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://magyarnemzet.hu",
+    "coverage": [
+      "HUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-099",
+    "name": "Agora",
+    "country": "MDA",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Chișinău",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://agora.md",
+    "coverage": [
+      "MDA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-100",
+    "name": "Jurnal.md",
+    "country": "MDA",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Chișinău",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.jurnal.md",
+    "coverage": [
+      "MDA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-101",
+    "name": "NewsMaker",
+    "country": "MDA",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Chișinău",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://newsmaker.md",
+    "coverage": [
+      "MDA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-102",
+    "name": "Unimedia",
+    "country": "MDA",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Chișinău",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.unimedia.info",
+    "coverage": [
+      "MDA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-103",
+    "name": "Ziarul de Gardă",
+    "country": "MDA",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Chișinău",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://www.zdg.md",
+    "coverage": [
+      "MDA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-104",
+    "name": "RT",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://www.rt.com",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-105",
+    "name": "TASS",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://tass.com",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-106",
+    "name": "Kommersant",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.kommersant.ru",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-107",
+    "name": "RIA Novosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international"
+    ],
+    "official_url": "https://ria.ru",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-108",
+    "name": "Meduza",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://meduza.io",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-109",
+    "name": "Moskovsky Komsomolets",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Moscow",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.mk.ru",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-110",
+    "name": "SME",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.sme.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-111",
+    "name": "Pravda",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.pravda.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-112",
+    "name": "Aktuality",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.aktuality.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-113",
+    "name": "Denník N",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://dennikn.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-114",
+    "name": "Hospodárske noviny",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "economy",
+      "business"
+    ],
+    "official_url": "https://hnonline.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-115",
+    "name": "Topky",
+    "country": "SVK",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bratislava",
+    "language": "sk",
+    "languages": [
+      "sk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.topky.sk",
+    "coverage": [
+      "SVK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-116",
+    "name": "Diari d'Andorra",
+    "country": "AND",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Andorra la Vella",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.diariandorra.ad",
+    "coverage": [
+      "AND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-117",
+    "name": "El Periòdic d'Andorra",
+    "country": "AND",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Andorra la Vella",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.elperiodic.ad",
+    "coverage": [
+      "AND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-EU2-118",
+    "name": "Altaveu",
+    "country": "AND",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Andorra la Vella",
+    "language": "ca",
+    "languages": [
+      "ca"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.altaveu.com",
+    "coverage": [
+      "AND"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Registro incorporado desde el directorio abierto de Crosswire; verificar individualmente disponibilidad, actividad, sede y clasificación antes de marcar como verificado."
+  }
+]
