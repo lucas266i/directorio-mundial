@@ -24891,5 +24891,342 @@
     "status": "pending_verification",
     "discovery_source": "BVI Tourism official useful-links directory",
     "verification_note": "Identificado en directorio oficial de turismo de BVI; verificar disponibilidad actual del sitio y publicación."
+  },
+  {
+    "id": "MED-GTM-009",
+    "name": "Federación Guatemalteca de Escuelas Radiofónicas (FGER)",
+    "country": "GTM",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.fger.org/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "public-radio",
+      "education"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-010",
+    "name": "Radio Comunitaria Naköj",
+    "country": "GTM",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://radionakoj.org/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-011",
+    "name": "Radio Un Nuevo Sol Rebelde",
+    "country": "GTM",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://nuevosolrebelde.blogspot.com/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-GTM-012",
+    "name": "Radio La Voz del Campesino",
+    "country": "GTM",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.ccdagt.org/radio-la-voz-del-campesino/",
+    "categories": [
+      "community-media",
+      "rural-news",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-007",
+    "name": "Radio Guarajambala",
+    "country": "HND",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.radioscomunitarias.info/radio-guarajambala/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-HND-008",
+    "name": "Radio Victoria",
+    "country": "HND",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.radioscomunitarias.info/radio-victoria/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-009",
+    "name": "Radio Guazapa",
+    "country": "SLV",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.radioguazapa.org/",
+    "categories": [
+      "community-media",
+      "local-news",
+      "radio"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-010",
+    "name": "Radio Izcanal",
+    "country": "SLV",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://www.izcanal.org/",
+    "categories": [
+      "community-media",
+      "local-news",
+      "radio"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-SLV-011",
+    "name": "ARPAS - Asociación de Radiodifusión Participativa de El Salvador",
+    "country": "SLV",
+    "language": "es",
+    "type": "community-media",
+    "official_url": "https://arpas.org.sv/",
+    "categories": [
+      "community-media",
+      "radio",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-009",
+    "name": "Radio URACCAN Siuna",
+    "country": "NIC",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://radiouraccansiuna.com/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "education"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-NIC-010",
+    "name": "Radio Vos",
+    "country": "NIC",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://radiovos.org/",
+    "categories": [
+      "community-media",
+      "gender",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-PAN-007",
+    "name": "Radio Voces Originarias Panamá",
+    "country": "PAN",
+    "language": "es",
+    "type": "community-radio",
+    "official_url": "https://coonapippanama.org/radio/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-006",
+    "name": "Radio Ak' Kutan",
+    "country": "BLZ",
+    "language": "en",
+    "type": "community-radio",
+    "official_url": "https://www.akkutanradio.org/",
+    "categories": [
+      "community-media",
+      "indigenous-media",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CRI-010",
+    "name": "Voces Nuestras",
+    "country": "CRI",
+    "language": "es",
+    "type": "community-media",
+    "official_url": "https://vocesnuestras.org/",
+    "categories": [
+      "community-media",
+      "gender",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-ABW-003",
+    "name": "Amigoe",
+    "country": "ABW",
+    "language": "nl",
+    "type": "newspaper",
+    "official_url": "https://amigoe.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BES-002",
+    "name": "Voz di Boneiru",
+    "country": "BES",
+    "language": "pap",
+    "type": "community-radio",
+    "official_url": "https://vozdiboneiru.com/",
+    "categories": [
+      "community-media",
+      "local-news",
+      "multilingual"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-CUW-002",
+    "name": "Radio Hoyer",
+    "country": "CUW",
+    "language": "pap",
+    "type": "radio-digital",
+    "official_url": "https://radiohoyer.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AIA-002",
+    "name": "Anguilla News",
+    "country": "AIA",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://anguillanews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AIA-003",
+    "name": "Radio Anguilla",
+    "country": "AIA",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://radioanguilla.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-MSR-001",
+    "name": "The Montserrat Reporter",
+    "country": "MSR",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.montserratreporter.org/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
+  },
+  {
+    "id": "MED-BLZ-007",
+    "name": "The San Pedro Sun",
+    "country": "BLZ",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.sanpedrosun.com/",
+    "categories": [
+      "local-news",
+      "community-media",
+      "tourism"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "AMARC-ALC; Red Mesoamericana de Radios Comunitarias; Cultural Survival; ARPAS; Ondarural; directorios de medios caribeños",
+    "verification_note": "Registro de descubrimiento comunitario; comprobar emisión/publicación vigente, URL, propiedad, cobertura y clasificación editorial antes de marcar como verificado."
   }
 ]
