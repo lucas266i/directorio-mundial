@@ -68,8 +68,10 @@ function App() {
   const [media, setMedia] = useState(fallbackMedia);
   const [categories, setCategories] = useState(fallbackCategories);
   const [loading, setLoading] = useState(true);
-  const [selectedCountry, setSelectedCountry] = useState("Todas");
+  const [selectedContinent, setSelectedContinent] = useState("Todos");
   const [selectedRegion, setSelectedRegion] = useState("Todas");
+  const [selectedCountry, setSelectedCountry] = useState("Todas");
+  const [selectedLanguage, setSelectedLanguage] = useState("Todas");
   const [states, setStates] = useState([]);
   const [geography, setGeography] = useState([]);
   const [selectedState, setSelectedState] = useState("Todas");
@@ -102,10 +104,11 @@ function App() {
 
   const countryMap = useMemo(() => Object.fromEntries(countries.map((c) => [c.id, c])), [countries]);
   const stateMap = useMemo(() => Object.fromEntries(states.map((st) => [st.code, st])), [states]);
-  const countyOptions = useMemo(
-    () => geography.filter((county) => selectedState === "Todas" || county.state === selectedState),
-    [geography, selectedState]
-  );
+  const countryOptions = useMemo(() => countries.filter((c) => selectedContinent === "Todos" || c.continent === selectedContinent), [countries, selectedContinent]);
+  const regionOptions = useMemo(() => [...new Set(countryOptions.map((c) => c.region).filter(Boolean))].sort((a,b)=>a.localeCompare(b)), [countryOptions]);
+  const stateOptions = useMemo(() => [...new Set(media.filter((m) => selectedCountry !== "Todas" && m.country === selectedCountry && m.state && m.state !== "US").map((m) => m.state))].sort((a,b)=>a.localeCompare(b)), [media, selectedCountry]);
+  const languageOptions = useMemo(() => [...new Set(media.flatMap((m) => m.languages?.length ? m.languages : [m.language]).filter(Boolean))].sort((a,b)=>a.localeCompare(b)), [media]);
+  const countyOptions = useMemo(() => selectedCountry === "USA" ? geography.filter((county) => selectedState === "Todas" || county.state === selectedState) : [], [geography, selectedState, selectedCountry]);
   const selectedCountyRecord = useMemo(
     () => geography.find((county) => county.id === selectedCounty),
     [geography, selectedCounty]
@@ -124,20 +127,18 @@ function App() {
         .filter(Boolean).join(" ").toLowerCase();
       const matchesQuery = !q || text.includes(q);
       const matchesCategory = category === "Todas" || (m.categories || []).includes(selectedCategoryId);
+      const matchesContinent = selectedContinent === "Todos" || country?.continent === selectedContinent;
       const matchesCountry = selectedCountry === "Todas" || m.country === selectedCountry;
-      const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion || stateMap[m.state]?.region === selectedRegion;
+      const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion;
       const matchesState = selectedState === "Todas" || m.state === selectedState;
+      const mediaLanguages = m.languages?.length ? m.languages : [m.language].filter(Boolean);
+      const matchesLanguage = selectedLanguage === "Todas" || mediaLanguages.includes(selectedLanguage);
       const matchesCounty = selectedCounty === "Todas" || m.county_id === selectedCounty || countyName === selectedCountyRecord?.name;
       const city = String(m.city || "").toLowerCase();
       const matchesCity = !cityQuery.trim() || city.includes(cityQuery.trim().toLowerCase());
-      return matchesQuery && matchesCategory && matchesCountry && matchesRegion && matchesState && matchesCounty && matchesCity;
+      return matchesQuery && matchesCategory && matchesContinent && matchesCountry && matchesRegion && matchesState && matchesCounty && matchesCity && matchesLanguage;
     });
-  }, [query, category, selectedCountry, selectedRegion, selectedState, selectedCounty, cityQuery, selectedCountyRecord, media, countryMap, stateMap]);
-
-  const regions = useMemo(
-    () => [...new Set([...countries.map((c) => c.region), ...states.map((st) => st.region)].filter(Boolean))].sort((a, b) => a.localeCompare(b)),
-    [countries, states]
-  );
+  }, [query, category, selectedContinent, selectedCountry, selectedRegion, selectedState, selectedCounty, cityQuery, selectedLanguage, selectedCountyRecord, media, countryMap, stateMap]);
 
   return (
     <div className={showOnlyResults ? "app filteredView" : "app"}>
@@ -157,29 +158,16 @@ function App() {
           <div className="eyebrow">FASE 1 · GEOPOLÍTICA + MEDIOS INDEPENDIENTES</div>
           <h1>Un directorio mundial, organizado por país.</h1>
           <p>Los registros se cargan desde archivos JSON del proyecto, separados de la interfaz. Esto permite ampliar el inventario sin reescribir la aplicación.</p>
-          <div className="searchRow">
-            <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Buscar medio, país, idioma o temática..." />
-            <select value={selectedCountry} onChange={(e) => setSelectedCountry(e.target.value)}>
-              <option>Todas</option>
-              {countries.map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
-            </select>
-            <select value={selectedRegion} onChange={(e) => setSelectedRegion(e.target.value)}>
-              <option>Todas</option>
-              {regions.map((region) => <option key={region}>{region}</option>)}
-            </select>
-            <select value={selectedState} onChange={(e) => setSelectedState(e.target.value)}>
-              <option value="Todas">Todos los estados de EE. UU.</option>
-              {states.map((st) => <option key={st.code} value={st.code}>{st.name}</option>)}
-            </select>
-            <select value={selectedCounty} onChange={(e) => setSelectedCounty(e.target.value)} disabled={selectedState === "Todas"}>
-              <option value="Todas">Todos los condados</option>
-              {countyOptions.map((county) => <option key={county.id} value={county.id}>{county.name}</option>)}
-            </select>
-            <input value={cityQuery} onChange={(e) => setCityQuery(e.target.value)} placeholder="Filtrar por ciudad..." />
-            <select value={category} onChange={(e) => setCategory(e.target.value)}>
-              <option>Todas</option>
-              {categories.map((c) => <option key={c}>{c}</option>)}
-            </select>
+          <div className="filterPanel" aria-label="Filtros geográficos y temáticos">
+            <div className="filterGroup"><label htmlFor="continentFilter">1. Continente</label><select id="continentFilter" value={selectedContinent} onChange={(e) => {setSelectedContinent(e.target.value);setSelectedRegion("Todas");setSelectedCountry("Todas");setSelectedState("Todas");setSelectedCounty("Todas");}}><option value="Todos">Todos los continentes</option>{[...new Set(countries.map(c=>c.continent).filter(Boolean))].sort().map(v=><option key={v}>{v}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="regionFilter">2. Región del continente</label><select id="regionFilter" value={selectedRegion} onChange={(e) => {setSelectedRegion(e.target.value);setSelectedCountry("Todas");setSelectedState("Todas");setSelectedCounty("Todas");}}><option value="Todas">Todas las regiones</option>{regionOptions.map(v=><option key={v}>{v}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="countryFilter">3. País</label><select id="countryFilter" value={selectedCountry} onChange={(e) => {setSelectedCountry(e.target.value);setSelectedState("Todas");setSelectedCounty("Todas");}}><option value="Todas">Todos los países</option>{countryOptions.filter(c=>selectedRegion==="Todas"||c.region===selectedRegion).map(c=><option key={c.id} value={c.id}>{c.name}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="stateFilter">4. Estado / provincia</label><select id="stateFilter" value={selectedState} onChange={(e)=>{setSelectedState(e.target.value);setSelectedCounty("Todas");}} disabled={selectedCountry==="Todas"||stateOptions.length===0}><option value="Todas">{selectedCountry==="USA"?"Todos los estados":"Todos los estados / provincias"}</option>{selectedCountry==="USA"?states.map(st=><option key={st.code} value={st.code}>{st.name}</option>):stateOptions.map(st=><option key={st}>{st}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="cityFilter">5. Ciudad / municipio</label><input id="cityFilter" value={cityQuery} onChange={e=>setCityQuery(e.target.value)} placeholder="Escribe una ciudad o municipio..." /></div>
+            <div className="filterGroup"><label htmlFor="countyFilter">6. Condado (EE. UU.)</label><select id="countyFilter" value={selectedCounty} onChange={e=>setSelectedCounty(e.target.value)} disabled={selectedCountry!=="USA"||selectedState==="Todas"}><option value="Todas">Todos los condados</option>{countyOptions.map(county=><option key={county.id} value={county.id}>{county.name}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="languageFilter">7. Idioma</label><select id="languageFilter" value={selectedLanguage} onChange={e=>setSelectedLanguage(e.target.value)}><option value="Todas">Todos los idiomas</option>{languageOptions.map(lang=><option key={lang} value={lang}>{languageLabels[lang]||lang}</option>)}</select></div>
+            <div className="filterGroup"><label htmlFor="topicFilter">8. Tema / especialidad</label><select id="topicFilter" value={category} onChange={e=>setCategory(e.target.value)}><option value="Todas">Todos los temas</option>{categories.map(c=><option key={c}>{c}</option>)}</select></div>
+            <div className="filterGroup searchGroup"><label htmlFor="textSearch">Búsqueda libre</label><input id="textSearch" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Medio, ciudad, país, idioma o palabra clave..." /></div>
           </div>
           <div className="countBar">{loading ? "Cargando inventario..." : `${countries.length} países/áreas · ${media.length} medios en catálogo · ${media.filter((m) => m.country === "USA").length} registros de EE. UU. · ${geography.length.toLocaleString("es-CO")} condados/equivalentes · ${geography.reduce((sum, county) => sum + county.cities.length, 0).toLocaleString("es-CO")} ciudades y localidades de referencia`}</div>
           <div className="filterActions">
@@ -190,8 +178,10 @@ function App() {
             <button type="button" className="resetFilters" onClick={() => {
               setQuery("");
               setCategory("Todas");
+              setSelectedContinent("Todos");
               setSelectedCountry("Todas");
               setSelectedRegion("Todas");
+              setSelectedLanguage("Todas");
               setSelectedState("Todas");
               setSelectedCounty("Todas");
               setCityQuery("");
