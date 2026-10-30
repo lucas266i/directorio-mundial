@@ -5863,5 +5863,65 @@
     "status": "pending_verification",
     "discovery_source": "https://www.ripress.com/",
     "verification_note": "Local outlet candidate identified in a state press-association, institutional newspaper list, regional directory or local-news network. Confirm current publication status, exact office location and URL before changing verification status."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-005",
+    "name": "Cape May County Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Rio Grande",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://capemaycountyherald.com/",
+    "coverage": [
+      "Rio Grande",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://capemaycountynj.gov/DocumentCenter/View/2334",
+    "verification_note": "Identificado en el directorio de contactos de medios publicado por el gobierno del condado. La URL y actividad editorial se deben comprobar de forma periódica."
+  },
+  {
+    "id": "MED-USA-NE2-NJ-006",
+    "name": "Cape May Star and Wave",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NJ",
+    "city": "Cape May",
+    "county": "Cape May County",
+    "county_id": "NJ-cape-may-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.starandwave.com/",
+    "coverage": [
+      "Cape May",
+      "Cape May County",
+      "NJ",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://capemaycountynj.gov/DocumentCenter/View/2334",
+    "verification_note": "Identificado en el directorio de contactos de medios publicado por el gobierno del condado. La URL y actividad editorial se deben comprobar de forma periódica."
   }
 ]
