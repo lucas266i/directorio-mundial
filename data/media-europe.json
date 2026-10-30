@@ -1,0 +1,2797 @@
+[
+  {
+    "id": "MED-EU-2026-001",
+    "name": "BBC News",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.bbc.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-002",
+    "name": "Financial Times",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.ft.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-003",
+    "name": "The Times",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.thetimes.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-004",
+    "name": "The Independent",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.independent.co.uk",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-005",
+    "name": "Sky News",
+    "country": "GBR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://news.sky.com",
+    "coverage": [
+      "GBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-006",
+    "name": "The Irish Times",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Dublin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.irishtimes.com",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-007",
+    "name": "Irish Independent",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Dublin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.independent.ie",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-008",
+    "name": "RTÉ News",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Dublin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rte.ie/news",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-009",
+    "name": "The Journal",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Dublin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.thejournal.ie",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-010",
+    "name": "Irish Examiner",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Cork",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.irishexaminer.com",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-011",
+    "name": "BreakingNews.ie",
+    "country": "IRL",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Dublin",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.breakingnews.ie",
+    "coverage": [
+      "IRL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-012",
+    "name": "Dagens Nyheter",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dn.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-013",
+    "name": "Svenska Dagbladet",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.svd.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-014",
+    "name": "Aftonbladet",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.aftonbladet.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-015",
+    "name": "Expressen",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.expressen.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-016",
+    "name": "Göteborgs-Posten",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Gothenburg",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.gp.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-017",
+    "name": "Dagens Industri",
+    "country": "SWE",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Stockholm",
+    "language": "sv",
+    "languages": [
+      "sv"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.di.se",
+    "coverage": [
+      "SWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-018",
+    "name": "VG",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.vg.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-019",
+    "name": "Aftenposten",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.aftenposten.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-020",
+    "name": "NRK News",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nrk.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-021",
+    "name": "Dagbladet",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dagbladet.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-022",
+    "name": "TV 2 Norway",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Bergen",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.tv2.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-023",
+    "name": "Nettavisen",
+    "country": "NOR",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Oslo",
+    "language": "no",
+    "languages": [
+      "no"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nettavisen.no",
+    "coverage": [
+      "NOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-024",
+    "name": "Politiken",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Copenhagen",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://politiken.dk",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-025",
+    "name": "DR News",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Copenhagen",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dr.dk/nyheder",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-026",
+    "name": "Berlingske",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Copenhagen",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.berlingske.dk",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-027",
+    "name": "Jyllands-Posten",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Aarhus",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://jyllands-posten.dk",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-028",
+    "name": "Information",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Copenhagen",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.information.dk",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-029",
+    "name": "Ekstra Bladet",
+    "country": "DNK",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Copenhagen",
+    "language": "da",
+    "languages": [
+      "da"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ekstrabladet.dk",
+    "coverage": [
+      "DNK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-030",
+    "name": "Helsingin Sanomat",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.hs.fi",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-031",
+    "name": "Yle News",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://yle.fi/news",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-032",
+    "name": "Ilta-Sanomat",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.is.fi",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-033",
+    "name": "Iltalehti",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.iltalehti.fi",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-034",
+    "name": "Kauppalehti",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.kauppalehti.fi",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-035",
+    "name": "MTV Uutiset",
+    "country": "FIN",
+    "continent": "Europa",
+    "continent_region": "Septentrional",
+    "city": "Helsinki",
+    "language": "fi",
+    "languages": [
+      "fi"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.mtvuutiset.fi",
+    "coverage": [
+      "FIN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-036",
+    "name": "Le Monde",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lemonde.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-037",
+    "name": "Le Figaro",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lefigaro.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-038",
+    "name": "Libération",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.liberation.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-039",
+    "name": "Le Parisien",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.leparisien.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-040",
+    "name": "Les Echos",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.lesechos.fr",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-041",
+    "name": "France 24",
+    "country": "FRA",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Paris",
+    "language": "multi",
+    "languages": [
+      "multi"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "international"
+    ],
+    "official_url": "https://www.france24.com",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-042",
+    "name": "Der Spiegel",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hamburg",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://www.spiegel.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-043",
+    "name": "Frankfurter Allgemeine Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Frankfurt",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.faz.net",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-044",
+    "name": "Die Zeit",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hamburg",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.zeit.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-045",
+    "name": "BILD",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Berlin",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.bild.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-046",
+    "name": "Süddeutsche Zeitung",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Munich",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.sueddeutsche.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-047",
+    "name": "Die Welt",
+    "country": "DEU",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Berlin",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.welt.de",
+    "coverage": [
+      "DEU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-048",
+    "name": "NRC",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Amsterdam",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nrc.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-049",
+    "name": "NOS",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hilversum",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://nos.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-050",
+    "name": "Financieele Dagblad",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Amsterdam",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://fd.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-051",
+    "name": "WNL",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Hilversum",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://wnl.tv",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-052",
+    "name": "De Groene Amsterdammer",
+    "country": "NLD",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Amsterdam",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "magazine",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.groene.nl",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-053",
+    "name": "L'Echo",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.lecho.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-054",
+    "name": "La Libre",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lalibre.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-055",
+    "name": "De Standaard",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.standaard.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-056",
+    "name": "RTBF Info",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rtbf.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-057",
+    "name": "La Dernière Heure",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Brussels",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dhnet.be",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-058",
+    "name": "L'Avenir",
+    "country": "BEL",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Namur",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.lavenir.net",
+    "coverage": [
+      "BEL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-059",
+    "name": "Der Standard",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.derstandard.at",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-060",
+    "name": "Kronen Zeitung",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.krone.at",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-061",
+    "name": "Kurier",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://kurier.at",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-062",
+    "name": "Die Presse",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.diepresse.com",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-063",
+    "name": "ORF News",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://orf.at",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-064",
+    "name": "OE24",
+    "country": "AUT",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Vienna",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.oe24.at",
+    "coverage": [
+      "AUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-065",
+    "name": "Neue Zürcher Zeitung",
+    "country": "CHE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Zurich",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.nzz.ch",
+    "coverage": [
+      "CHE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-066",
+    "name": "Blick",
+    "country": "CHE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Zurich",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.blick.ch",
+    "coverage": [
+      "CHE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-067",
+    "name": "Le Temps",
+    "country": "CHE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Geneva",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.letemps.ch",
+    "coverage": [
+      "CHE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-068",
+    "name": "20 Minuten",
+    "country": "CHE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Zurich",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.20min.ch",
+    "coverage": [
+      "CHE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-069",
+    "name": "SRF News",
+    "country": "CHE",
+    "continent": "Europa",
+    "continent_region": "Occidental",
+    "city": "Zurich",
+    "language": "de",
+    "languages": [
+      "de"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.srf.ch/news",
+    "coverage": [
+      "CHE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-070",
+    "name": "El País",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://elpais.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-071",
+    "name": "El Mundo",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.elmundo.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-072",
+    "name": "ABC",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.abc.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-073",
+    "name": "La Vanguardia",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Barcelona",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lavanguardia.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-074",
+    "name": "elDiario.es",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative"
+    ],
+    "official_url": "https://www.eldiario.es",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-075",
+    "name": "Expansión",
+    "country": "ESP",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Madrid",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.expansion.com",
+    "coverage": [
+      "ESP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-076",
+    "name": "Corriere della Sera",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Milan",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.corriere.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-077",
+    "name": "La Repubblica",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Rome",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.repubblica.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-078",
+    "name": "La Stampa",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Turin",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lastampa.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-079",
+    "name": "Il Sole 24 Ore",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Milan",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.ilsole24ore.com",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-080",
+    "name": "Il Messaggero",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Rome",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ilmessaggero.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-081",
+    "name": "ANSA",
+    "country": "ITA",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Rome",
+    "language": "it",
+    "languages": [
+      "it"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ansa.it",
+    "coverage": [
+      "ITA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-082",
+    "name": "Público",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.publico.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-083",
+    "name": "Expresso",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://expresso.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-084",
+    "name": "Observador",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://observador.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-085",
+    "name": "Diário de Notícias",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.dn.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-086",
+    "name": "Jornal de Notícias",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Porto",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news"
+    ],
+    "official_url": "https://www.jn.pt",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-087",
+    "name": "RTP Notícias",
+    "country": "PRT",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Lisbon",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rtp.pt/noticias",
+    "coverage": [
+      "PRT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-088",
+    "name": "Gazeta Wyborcza",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Warsaw",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://wyborcza.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-089",
+    "name": "Rzeczpospolita",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Warsaw",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rp.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-090",
+    "name": "TVN24",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Warsaw",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://tvn24.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-091",
+    "name": "Onet",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Krakow",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.onet.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-092",
+    "name": "Wirtualna Polska",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Warsaw",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.wp.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-093",
+    "name": "RMF24",
+    "country": "POL",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Krakow",
+    "language": "pl",
+    "languages": [
+      "pl"
+    ],
+    "type": "radio-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.rmf24.pl",
+    "coverage": [
+      "POL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-094",
+    "name": "iDNES.cz",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.idnes.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-095",
+    "name": "Novinky.cz",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.novinky.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-096",
+    "name": "Aktuálně.cz",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.aktualne.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-097",
+    "name": "ČT24",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://ct24.ceskatelevize.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-098",
+    "name": "Seznam Zprávy",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.seznamzpravy.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-099",
+    "name": "Lidové noviny",
+    "country": "CZE",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Prague",
+    "language": "cs",
+    "languages": [
+      "cs"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.lidovky.cz",
+    "coverage": [
+      "CZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-100",
+    "name": "Adevărul",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://adevarul.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-101",
+    "name": "Digi24",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.digi24.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-102",
+    "name": "HotNews",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://hotnews.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-103",
+    "name": "Libertatea",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.libertatea.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-104",
+    "name": "G4Media",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative"
+    ],
+    "official_url": "https://www.g4media.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-105",
+    "name": "Gândul",
+    "country": "ROU",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Bucharest",
+    "language": "ro",
+    "languages": [
+      "ro"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.gandul.ro",
+    "coverage": [
+      "ROU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-106",
+    "name": "Kathimerini",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.kathimerini.gr",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-107",
+    "name": "Naftemporiki",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "economy",
+      "business"
+    ],
+    "official_url": "https://www.naftemporiki.gr",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-108",
+    "name": "Proto Thema",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.protothema.gr",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-109",
+    "name": "eKathimerini",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "international"
+    ],
+    "official_url": "https://www.ekathimerini.com",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-110",
+    "name": "EfSyn",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.efsyn.gr",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-111",
+    "name": "ERT News",
+    "country": "GRC",
+    "continent": "Europa",
+    "continent_region": "Meridional",
+    "city": "Athens",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "public-media",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ertnews.gr",
+    "coverage": [
+      "GRC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-112",
+    "name": "Ukrainska Pravda",
+    "country": "UKR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kyiv",
+    "language": "uk",
+    "languages": [
+      "uk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://www.pravda.com.ua",
+    "coverage": [
+      "UKR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-113",
+    "name": "UNIAN",
+    "country": "UKR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kyiv",
+    "language": "uk",
+    "languages": [
+      "uk"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.unian.net",
+    "coverage": [
+      "UKR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-114",
+    "name": "Kyiv Post",
+    "country": "UKR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kyiv",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "international"
+    ],
+    "official_url": "https://www.kyivpost.com",
+    "coverage": [
+      "UKR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-115",
+    "name": "Ukrinform",
+    "country": "UKR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kyiv",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news"
+    ],
+    "official_url": "https://www.ukrinform.net",
+    "coverage": [
+      "UKR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  },
+  {
+    "id": "MED-EU-2026-116",
+    "name": "Censor.NET",
+    "country": "UKR",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kyiv",
+    "language": "uk",
+    "languages": [
+      "uk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics"
+    ],
+    "official_url": "https://censor.net",
+    "coverage": [
+      "UKR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire (crosswire.online)",
+    "source_license": "CC BY 4.0",
+    "verification_note": "Fuente incluida en el directorio Crosswire; verificar URL, actividad y sede editorial antes de marcar como verificada."
+  }
+]
