@@ -25246,5 +25246,1253 @@
     "status": "pending_verification",
     "discovery_source": "Sitio oficial de YSUCA; Universidad Centroamericana José Simeón Cañas",
     "verification_note": "Medio identificado en fuentes institucionales y/o su propio sitio; falta completar ficha de propiedad, alcance y verificación de actividad."
+  },
+  {
+    "id": "MED-CUB-005",
+    "name": "CubaNet",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://cubanet.org/",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuba diaspora / independent digital outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-006",
+    "name": "ADN Cuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://adncuba.com/",
+    "categories": [
+      "general-news",
+      "politics",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuban-focused digital outlet; confirm editorial ownership. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-007",
+    "name": "CiberCuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.cibercuba.com/",
+    "categories": [
+      "general-news",
+      "diaspora-media",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuban diaspora digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-008",
+    "name": "Periódico Cubano",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.periodicocubano.com/",
+    "categories": [
+      "general-news",
+      "diaspora-media",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuban diaspora digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-009",
+    "name": "Café Fuerte",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://cafefuerte.com/",
+    "categories": [
+      "investigative",
+      "politics",
+      "diaspora-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuban-focused digital outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-010",
+    "name": "Havana Times",
+    "country": "CUB",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://havanatimes.org/",
+    "categories": [
+      "general-news",
+      "human-rights",
+      "international"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. English/Spanish Cuban-focused publication. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-011",
+    "name": "Periodismo de Barrio",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://periodismodebarrio.org/",
+    "categories": [
+      "investigative",
+      "environment",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Independent reporting project. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-012",
+    "name": "El Estornudo",
+    "country": "CUB",
+    "language": "es",
+    "type": "magazine-digital",
+    "official_url": "https://revistaelestornudo.com/",
+    "categories": [
+      "investigative",
+      "culture",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Narrative journalism magazine. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-013",
+    "name": "La Joven Cuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://jovencuba.com/",
+    "categories": [
+      "politics",
+      "culture",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cuban commentary and analysis. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-014",
+    "name": "Tremenda Nota",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://tremendanota.com/",
+    "categories": [
+      "gender",
+      "human-rights",
+      "culture"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. LGBTQ+ and social issues reporting. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-015",
+    "name": "Rialta",
+    "country": "CUB",
+    "language": "es",
+    "type": "magazine-digital",
+    "official_url": "https://rialta.org/",
+    "categories": [
+      "culture",
+      "arts-and-culture",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cultural and literary publication. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-016",
+    "name": "YucaByte",
+    "country": "CUB",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://yucabyte.org/",
+    "categories": [
+      "technology",
+      "privacy",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Digital rights and technology reporting. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-017",
+    "name": "IPS Cuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "news-agency",
+    "official_url": "https://www.ipscuba.net/",
+    "categories": [
+      "economy",
+      "environment",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Development and social reporting. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-018",
+    "name": "Granma",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.granma.cu/",
+    "categories": [
+      "general-news",
+      "politics",
+      "government"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Official party newspaper; ownership classification to verify. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-019",
+    "name": "Juventud Rebelde",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.juventudrebelde.cu/",
+    "categories": [
+      "general-news",
+      "politics",
+      "youth-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. State media; affiliation should be labelled. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-020",
+    "name": "Trabajadores",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.trabajadores.cu/",
+    "categories": [
+      "general-news",
+      "labor",
+      "economy"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Union-linked/state media; affiliation should be labelled. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-021",
+    "name": "Agencia Cubana de Noticias",
+    "country": "CUB",
+    "language": "es",
+    "type": "news-agency",
+    "official_url": "https://www.acn.cu/",
+    "categories": [
+      "news-agency",
+      "national",
+      "government"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National news agency; state affiliation should be labelled. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-022",
+    "name": "Radio Rebelde",
+    "country": "CUB",
+    "language": "es",
+    "type": "public-radio",
+    "official_url": "https://www.radiorebelde.cu/",
+    "categories": [
+      "public-radio",
+      "general-news",
+      "government"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. State radio; affiliation should be labelled. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-023",
+    "name": "Radio Reloj",
+    "country": "CUB",
+    "language": "es",
+    "type": "public-radio",
+    "official_url": "https://www.radioreloj.cu/",
+    "categories": [
+      "public-radio",
+      "general-news",
+      "government"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. State radio; affiliation should be labelled. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-024",
+    "name": "Radio Habana Cuba",
+    "country": "CUB",
+    "language": "es",
+    "type": "public-radio",
+    "official_url": "https://www.radiohc.cu/",
+    "categories": [
+      "public-radio",
+      "international",
+      "government"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. State international broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-025",
+    "name": "Bohemia",
+    "country": "CUB",
+    "language": "es",
+    "type": "magazine-digital",
+    "official_url": "https://www.bohemia.cu/",
+    "categories": [
+      "culture",
+      "politics",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National magazine; affiliation to verify. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-026",
+    "name": "Escambray",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.escambray.cu/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Provincial newspaper, Sancti Spíritus. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-027",
+    "name": "Adelante",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.adelante.cu/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Provincial newspaper, Camagüey. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-028",
+    "name": "Sierra Maestra",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://sierramaestra.cu/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Provincial newspaper, Santiago de Cuba. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-029",
+    "name": "Ahora",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.ahora.cu/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Provincial newspaper, Holguín. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUB-030",
+    "name": "Tribuna de La Habana",
+    "country": "CUB",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://tribuna.cu/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Capital city newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-006",
+    "name": "El Día",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://eldia.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-007",
+    "name": "Hoy",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://hoy.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-008",
+    "name": "El Nacional",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://elnacional.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-009",
+    "name": "El Nuevo Diario",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://elnuevodiario.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-010",
+    "name": "Noticias SIN",
+    "country": "DOM",
+    "language": "es",
+    "type": "television-digital",
+    "official_url": "https://noticiassin.com/",
+    "categories": [
+      "general-news",
+      "television",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. TV and digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-011",
+    "name": "CDN",
+    "country": "DOM",
+    "language": "es",
+    "type": "television-digital",
+    "official_url": "https://cdn.com.do/",
+    "categories": [
+      "general-news",
+      "television",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. TV and digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-012",
+    "name": "Diario Digital RD",
+    "country": "DOM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://diariodigital.com.do/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Digital newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-013",
+    "name": "De Último Minuto",
+    "country": "DOM",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://deultimominuto.net/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Digital news outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-014",
+    "name": "Dominican Today",
+    "country": "DOM",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://dominicantoday.com/",
+    "categories": [
+      "general-news",
+      "international",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. English-language Dominican news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-015",
+    "name": "La Información",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://lainformacion.com.do/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Santiago-based regional newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-DOM-016",
+    "name": "El Jaya",
+    "country": "DOM",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://eljaya.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. San Francisco de Macorís regional publication. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-005",
+    "name": "El Vocero",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.elvocero.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Puerto Rico daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-006",
+    "name": "Metro Puerto Rico",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.metro.pr/",
+    "categories": [
+      "general-news",
+      "national",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Puerto Rico edition. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-007",
+    "name": "San Juan Daily Star",
+    "country": "PRI",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.sanjuandailystar.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. English-language daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-008",
+    "name": "¡Ey Boricua!",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://eyboricua.com/",
+    "categories": [
+      "culture",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Puerto Rico community and culture outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-009",
+    "name": "Sin Comillas",
+    "country": "PRI",
+    "language": "es",
+    "type": "business-news",
+    "official_url": "https://sincomillas.com/",
+    "categories": [
+      "business",
+      "economy",
+      "accountability"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Business and economy reporting. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-010",
+    "name": "La Perla del Sur",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://www.periodicolaperla.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Southern Puerto Rico regional newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-011",
+    "name": "La Semana",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://lasemanapr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Regional Puerto Rico newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-012",
+    "name": "Presencia",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://presenciapr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Regional Puerto Rico newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-013",
+    "name": "El Sol de Puerto Rico",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://elsolpr.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Regional digital outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-014",
+    "name": "El Post Antillano",
+    "country": "PRI",
+    "language": "es",
+    "type": "magazine-digital",
+    "official_url": "https://elpostantillano.net/",
+    "categories": [
+      "culture",
+      "politics",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Caribbean and Puerto Rico cultural publication. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-015",
+    "name": "Claridad",
+    "country": "PRI",
+    "language": "es",
+    "type": "newspaper",
+    "official_url": "https://claridadpuertorico.com/",
+    "categories": [
+      "politics",
+      "culture",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Puerto Rico weekly newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-PRI-016",
+    "name": "Bandera Roja",
+    "country": "PRI",
+    "language": "es",
+    "type": "digital_native",
+    "official_url": "https://www.bandera.org/",
+    "categories": [
+      "politics",
+      "labor",
+      "human-rights"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Political and labor publication; affiliation to disclose. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-003",
+    "name": "Haiti Press Network",
+    "country": "HTI",
+    "language": "fr",
+    "type": "news-agency",
+    "official_url": "https://hpnhaiti.com/",
+    "categories": [
+      "news-agency",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian press network. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-004",
+    "name": "Radio Kiskeya",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://radiokiskeya.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian radio station. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-005",
+    "name": "Radio Métropole",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://metropole.ht/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian radio station. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-006",
+    "name": "Radio Vision 2000",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://www.radiovision2000haiti.net/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian radio station. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-007",
+    "name": "Radio Télévision Caraïbes",
+    "country": "HTI",
+    "language": "fr",
+    "type": "television-digital",
+    "official_url": "https://rtvc.ht/",
+    "categories": [
+      "television",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-008",
+    "name": "Le National",
+    "country": "HTI",
+    "language": "fr",
+    "type": "newspaper",
+    "official_url": "https://lenational.org/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-009",
+    "name": "Haiti Libre",
+    "country": "HTI",
+    "language": "fr",
+    "type": "digital_native",
+    "official_url": "https://www.haitilibre.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "international"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-JAM-005",
+    "name": "Western Mirror",
+    "country": "JAM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.westernmirror.com/",
+    "categories": [
+      "local-news",
+      "regional-news",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Western Jamaica regional newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-JAM-006",
+    "name": "The Star",
+    "country": "JAM",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://jamaica-star.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "entertainment"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Jamaican daily. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-JAM-007",
+    "name": "CVM Television",
+    "country": "JAM",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://cvmtv.com/",
+    "categories": [
+      "television",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Jamaican broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-JAM-008",
+    "name": "Irie FM",
+    "country": "JAM",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://iriefm.net/",
+    "categories": [
+      "radio",
+      "culture",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Jamaican radio broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-JAM-009",
+    "name": "Jamaica Information Service",
+    "country": "JAM",
+    "language": "en",
+    "type": "news-agency",
+    "official_url": "https://jis.gov.jm/",
+    "categories": [
+      "news-agency",
+      "government",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Government information service; label as official. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-BHS-004",
+    "name": "Bahamas Local",
+    "country": "BHS",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.bahamaslocal.com/",
+    "categories": [
+      "local-news",
+      "community-media",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Bahamas local news and directory. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-BHS-005",
+    "name": "The Bahama Journal",
+    "country": "BHS",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://jonesbahamas.com/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Bahamas newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-BRB-004",
+    "name": "CBC Barbados",
+    "country": "BRB",
+    "language": "en",
+    "type": "public-media",
+    "official_url": "https://www.cbc.bb/",
+    "categories": [
+      "public-media",
+      "radio",
+      "television"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Public broadcaster; affiliation to label. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-TTO-004",
+    "name": "Trinidad and Tobago Newsday",
+    "country": "TTO",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://newsday.co.tt/",
+    "categories": [
+      "general-news",
+      "national",
+      "politics"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. National newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-TTO-005",
+    "name": "TTT Limited",
+    "country": "TTO",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://www.ttt.live/",
+    "categories": [
+      "television",
+      "public-media",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Public broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-TTO-006",
+    "name": "Gayelle The Channel",
+    "country": "TTO",
+    "language": "en",
+    "type": "television-digital",
+    "official_url": "https://gayelle.tv/",
+    "categories": [
+      "television",
+      "culture",
+      "local-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Trinidad and Tobago broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-GRD-003",
+    "name": "The Grenada Informer",
+    "country": "GRD",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://www.grenadainformer.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Grenada newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-LCA-003",
+    "name": "St. Lucia Star",
+    "country": "LCA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://stluciastar.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. St Lucia newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-VCT-003",
+    "name": "The Vincentian",
+    "country": "VCT",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://thevincentian.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. St Vincent newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-MSR-002",
+    "name": "ZJB Radio Montserrat",
+    "country": "MSR",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://www.zjbradio.com/",
+    "categories": [
+      "radio",
+      "local-news",
+      "public-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Montserrat radio broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-MSR-003",
+    "name": "Gem Radio Montserrat",
+    "country": "MSR",
+    "language": "en",
+    "type": "radio-digital",
+    "official_url": "https://gemradio.net/",
+    "categories": [
+      "radio",
+      "local-news",
+      "community-media"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Montserrat radio broadcaster. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CYM-003",
+    "name": "Cayman Net News",
+    "country": "CYM",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://caymannetnews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Cayman Islands digital news. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-TCA-002",
+    "name": "Turks and Caicos Weekly News",
+    "country": "TCA",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://tcweeklynews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Turks and Caicos newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-ATG-003",
+    "name": "Caribbean News Now",
+    "country": "ATG",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://www.caribbeannewsnow.com/",
+    "categories": [
+      "regional-news",
+      "international",
+      "general-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Regional Caribbean news outlet. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-ABW-004",
+    "name": "Diario",
+    "country": "ABW",
+    "language": "pap",
+    "type": "newspaper",
+    "official_url": "https://diario.aw/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Aruba newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-CUW-003",
+    "name": "Antilliaans Dagblad",
+    "country": "CUW",
+    "language": "nl",
+    "type": "newspaper",
+    "official_url": "https://antilliaansdagblad.com/",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "business"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Dutch-language Caribbean newspaper. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
+  },
+  {
+    "id": "MED-HTI-010",
+    "name": "Radio Caraïbes FM",
+    "country": "HTI",
+    "language": "fr",
+    "type": "radio-digital",
+    "official_url": "https://radiocaraibesfm.com/",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios universitarios y regionales de prensa; GIJN; Caribbean Newspapers; Digital Library of the Caribbean; fuentes sectoriales nacionales",
+    "verification_note": "Registro de descubrimiento. Haitian radio; confirm official domain. Verificar actividad, titularidad, sede editorial y clasificación antes de cambiar el estado."
   }
 ]
