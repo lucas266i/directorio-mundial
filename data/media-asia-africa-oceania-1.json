@@ -1394,5 +1394,1355 @@
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · fuentes oficiales y redes de periodismo regional",
     "verification_note": "Registro añadido para ampliación geográfica. Comprobar disponibilidad del dominio, edición local y cobertura antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-025",
+    "name": "Radio Azattyq",
+    "country": "KAZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Almaty",
+    "language": "kk",
+    "languages": [
+      "kk"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://www.azattyq.org/",
+    "coverage": [
+      "KAZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-026",
+    "name": "Kloop",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "language": "ky",
+    "languages": [
+      "ky"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics",
+      "human-rights"
+    ],
+    "official_url": "https://kloop.kg/",
+    "coverage": [
+      "KGZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-027",
+    "name": "24.kg",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://24.kg/",
+    "coverage": [
+      "KGZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-028",
+    "name": "The Times of Central Asia",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "geopolitics",
+      "international",
+      "economy"
+    ],
+    "official_url": "https://timesca.com/",
+    "coverage": [
+      "KGZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-029",
+    "name": "Novastan",
+    "country": "KAZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Regional",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "geopolitics",
+      "culture",
+      "investigative"
+    ],
+    "official_url": "https://novastan.org/en/",
+    "coverage": [
+      "KAZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-030",
+    "name": "Kabar News Agency",
+    "country": "KGZ",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "city": "Bishkek",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "national",
+      "government"
+    ],
+    "official_url": "https://kabar.kg/",
+    "coverage": [
+      "KGZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-031",
+    "name": "Civil.ge",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Tbilisi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://civil.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-032",
+    "name": "Hetq",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Yerevan",
+    "language": "hy",
+    "languages": [
+      "hy"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "corruption",
+      "human-rights"
+    ],
+    "official_url": "https://hetq.am/en",
+    "coverage": [
+      "ARM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-033",
+    "name": "Meydan TV",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Berlin",
+    "language": "az",
+    "languages": [
+      "az"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics",
+      "human-rights"
+    ],
+    "official_url": "https://www.meydan.tv/",
+    "coverage": [
+      "AZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-034",
+    "name": "Abzas Media",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Baku",
+    "language": "az",
+    "languages": [
+      "az"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "corruption",
+      "politics"
+    ],
+    "official_url": "https://abzas.org/",
+    "coverage": [
+      "AZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-035",
+    "name": "The UB Post",
+    "country": "MNG",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Ulaanbaatar",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://theubpost.mn/",
+    "coverage": [
+      "MNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-036",
+    "name": "Taiwan News",
+    "country": "TWN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Taipei",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "international"
+    ],
+    "official_url": "https://www.taiwannews.com.tw/",
+    "coverage": [
+      "TWN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-037",
+    "name": "Focus Taiwan",
+    "country": "TWN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Taipei",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "politics",
+      "international"
+    ],
+    "official_url": "https://focustaiwan.tw/",
+    "coverage": [
+      "TWN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-038",
+    "name": "The Japan News",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "international",
+      "politics"
+    ],
+    "official_url": "https://japannews.yomiuri.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-039",
+    "name": "Kyodo News",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Tokyo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "international",
+      "politics"
+    ],
+    "official_url": "https://english.kyodonews.net/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-040",
+    "name": "The Korea JoongAng Daily",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Seoul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://koreajoongangdaily.joins.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-041",
+    "name": "The Jakarta Globe",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://jakartaglobe.id/",
+    "coverage": [
+      "IDN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-042",
+    "name": "The Jakarta Post",
+    "country": "IDN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Jakarta",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "international",
+      "politics"
+    ],
+    "official_url": "https://www.thejakartapost.com/",
+    "coverage": [
+      "IDN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-043",
+    "name": "The Laotian Times",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Vientiane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://laotiantimes.com/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AS-2026-044",
+    "name": "The Brunei Times Archive / Borneo Bulletin",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bandar Seri Begawan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "business",
+      "national"
+    ],
+    "official_url": "https://borneobulletin.com.bn/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-026",
+    "name": "The ICIR",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "nonprofit-newsroom",
+    "categories": [
+      "investigative",
+      "accountability",
+      "corruption"
+    ],
+    "official_url": "https://www.icirnigeria.org/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-027",
+    "name": "FactCheckHub",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "fact-checker",
+    "categories": [
+      "fact-checking",
+      "disinformation",
+      "politics"
+    ],
+    "official_url": "https://factcheckhub.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-028",
+    "name": "The Chanzo",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://thechanzo.com/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-029",
+    "name": "The Citizen Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "business",
+      "politics"
+    ],
+    "official_url": "https://www.thecitizen.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-030",
+    "name": "The Reporter Ethiopia",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.thereporterethiopia.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-031",
+    "name": "Tikuranbesa",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Regional",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "international"
+    ],
+    "official_url": "https://tikuranbesa.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-032",
+    "name": "Oxpeckers Center for Investigative Environmental Journalism",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "nonprofit-newsroom",
+    "categories": [
+      "investigative",
+      "environment",
+      "data-journalism"
+    ],
+    "official_url": "https://oxpeckers.org/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-033",
+    "name": "INK Centre for Investigative Journalism",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "nonprofit-newsroom",
+    "categories": [
+      "investigative",
+      "accountability",
+      "corruption"
+    ],
+    "official_url": "https://inkjournalism.org/",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-034",
+    "name": "Zamaneh Media",
+    "country": "NGA",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Amsterdam",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "politics"
+    ],
+    "official_url": "https://www.radiozamaneh.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-035",
+    "name": "Hespress English",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Casablanca",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://en.hespress.com/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-036",
+    "name": "Morocco World News",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "New York",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "international",
+      "politics"
+    ],
+    "official_url": "https://www.moroccoworldnews.com/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-037",
+    "name": "TSA Algérie",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Algiers",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "economy"
+    ],
+    "official_url": "https://www.tsa-algerie.com/",
+    "coverage": [
+      "DZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-038",
+    "name": "Kapitalis",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Tunis",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "economy"
+    ],
+    "official_url": "https://kapitalis.com/",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-039",
+    "name": "Seneweb",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.seneweb.com/",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-040",
+    "name": "Agence de Presse Sénégalaise",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "national",
+      "government"
+    ],
+    "official_url": "https://aps.sn/",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-042",
+    "name": "Journal du Cameroun",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.journalducameroun.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-043",
+    "name": "Cameroon Tribune",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national",
+      "government"
+    ],
+    "official_url": "https://www.cameroon-tribune.cm/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-044",
+    "name": "O País",
+    "country": "MOZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maputo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://opais.co.mz/",
+    "coverage": [
+      "MOZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-045",
+    "name": "Club of Mozambique",
+    "country": "MOZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maputo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "business",
+      "international"
+    ],
+    "official_url": "https://clubofmozambique.com/",
+    "coverage": [
+      "MOZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-046",
+    "name": "The Brief Namibia",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "economy",
+      "general-news"
+    ],
+    "official_url": "https://thebrief.com.na/",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-047",
+    "name": "Lusaka Times",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.lusakatimes.com/",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-048",
+    "name": "Nehanda Radio",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "international"
+    ],
+    "official_url": "https://nehandaradio.com/",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-049",
+    "name": "NewsDay Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "business"
+    ],
+    "official_url": "https://www.newsday.co.zw/",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-050",
+    "name": "AllAfrica",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-aggregator",
+    "categories": [
+      "international",
+      "regional-news",
+      "general-news"
+    ],
+    "official_url": "https://allafrica.com/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-031",
+    "name": "Kaselehlie Press",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "city": "Pohnpei",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://kpress.fm/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-032",
+    "name": "The Guam Daily Post",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "city": "Hagåtña",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.postguam.com/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-033",
+    "name": "Marianas Variety",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "city": "Saipan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.mvariety.com/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-034",
+    "name": "Pacific Islands News Association",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "media-directory",
+    "categories": [
+      "regional-news",
+      "media-directory",
+      "community-media"
+    ],
+    "official_url": "https://pina.com.fj/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-035",
+    "name": "Pacific Media Watch",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "media",
+      "human-rights",
+      "regional-news"
+    ],
+    "official_url": "https://pmw.curtin.edu.au/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-036",
+    "name": "Pacific Scoop",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Auckland",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "regional-news",
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://pacific.scoop.co.nz/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-037",
+    "name": "Cook Islands News",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Avarua",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.cookislandsnews.com/",
+    "coverage": [
+      "WSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-038",
+    "name": "Tahitian News",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Papeete",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.tahiti-infos.com/",
+    "coverage": [
+      "WSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-039",
+    "name": "RNZ Pacific",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "city": "Wellington",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-radio",
+    "categories": [
+      "regional-news",
+      "international",
+      "radio"
+    ],
+    "official_url": "https://www.rnz.co.nz/international/pacific-news",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-040",
+    "name": "Pacific News Service",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "regional-news",
+      "international",
+      "politics"
+    ],
+    "official_url": "https://www.pacificnewsservice.org/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
+    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
   }
 ]
