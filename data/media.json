@@ -8197,5 +8197,908 @@
     "status": "pending_verification",
     "discovery_source": "https://directory-ccm.journalism.cuny.edu/",
     "verification_note": "Identificado en Many Voices, One City, directorio del Center for Community Media de CUNY y/o en el Local Journalism Directory. Verificar individualmente la actividad editorial y la URL antes de cambiar el estado."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-001",
+    "name": "Queens Chronicle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.qchron.com/",
+    "coverage": [
+      "Queens",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nyc.gov/site/queenscb9/resources/media_press.page",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-002",
+    "name": "Queens Gazette",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Long Island City",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.qgazette.com/",
+    "coverage": [
+      "Long Island City",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nyc.gov/site/queenscb9/resources/media_press.page",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-003",
+    "name": "Queens Tribune",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Whitestone",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.queenstribune.com/",
+    "coverage": [
+      "Whitestone",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nyc.gov/site/queenscb9/resources/media_press.page",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-004",
+    "name": "TimesLedger",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Bayside",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.timesledger.com/",
+    "coverage": [
+      "Bayside",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nyc.gov/site/queenscb9/resources/media_press.page",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-005",
+    "name": "The Rockaway Wave",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Rockaway Park",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.rockawave.com/",
+    "coverage": [
+      "Rockaway Park",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-006",
+    "name": "Queens Daily Eagle",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://queenseagle.com/",
+    "coverage": [
+      "Queens",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-007",
+    "name": "Queens Ledger",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Queens",
+    "county": "Queens County",
+    "county_id": "NY-queens-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://queensledger.com/",
+    "coverage": [
+      "Queens",
+      "Queens County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-008",
+    "name": "Caribbean Life",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "diaspora-media",
+      "multilingual"
+    ],
+    "official_url": "https://www.caribbeanlife.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-009",
+    "name": "Bushwick Daily",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://bushwickdaily.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-010",
+    "name": "Greenpointers",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://greenpointers.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-011",
+    "name": "Canarsie Courier",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://canarsiecourier.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-012",
+    "name": "Brooklyn Paper",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.brooklynpaper.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-013",
+    "name": "Brownstoner",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Brooklyn",
+    "county": "Kings County",
+    "county_id": "NY-kings-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.brownstoner.com/",
+    "coverage": [
+      "Brooklyn",
+      "Kings County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-014",
+    "name": "Manhattan Times",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news",
+      "multilingual"
+    ],
+    "official_url": "https://www.manhattantimesnews.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-015",
+    "name": "Gay City News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://gaycitynews.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-016",
+    "name": "Our Town Downtown",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.ourtownny.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-017",
+    "name": "Chelsea News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://chelseanewsny.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-018",
+    "name": "The Villager",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "county_id": "NY-new-york-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "community-media",
+      "local-news"
+    ],
+    "official_url": "https://www.amny.com/",
+    "coverage": [
+      "New York",
+      "New York County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://guides.library.columbia.edu/reporting/nyc-news",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-019",
+    "name": "Staten Islander News Organization",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Staten Island",
+    "county": "Richmond County",
+    "county_id": "NY-richmond-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "local-news",
+      "multilingual"
+    ],
+    "official_url": "https://statenislander.org/",
+    "coverage": [
+      "Staten Island",
+      "Richmond County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-020",
+    "name": "Noticia Long Island",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Hempstead",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "community-media",
+      "multilingual",
+      "local-news"
+    ],
+    "official_url": "https://noticiali.com/",
+    "coverage": [
+      "Hempstead",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-021",
+    "name": "Long Island Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Hicksville",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.longislandpress.com/",
+    "coverage": [
+      "Hicksville",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-022",
+    "name": "Long Island Business News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Ronkonkoma",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "regional-news"
+    ],
+    "official_url": "https://libn.com/",
+    "coverage": [
+      "Ronkonkoma",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-023",
+    "name": "Dan's Papers",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Sag Harbor",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.danspapers.com/",
+    "coverage": [
+      "Sag Harbor",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-024",
+    "name": "The Sag Harbor Express",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Sag Harbor",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://sagharborexpress.com/",
+    "coverage": [
+      "Sag Harbor",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-025",
+    "name": "The Southampton Press",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Southampton",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.27east.com/",
+    "coverage": [
+      "Southampton",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-026",
+    "name": "The Long Islander",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Huntington",
+    "county": "Suffolk County",
+    "county_id": "NY-suffolk-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.longislandernews.com/",
+    "coverage": [
+      "Huntington",
+      "Suffolk County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-027",
+    "name": "Farmingdale Observer",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Farmingdale",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.liherald.com/farmingdale/",
+    "coverage": [
+      "Farmingdale",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nassaucountyny.gov/461/Designated-Newspapers",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-028",
+    "name": "Garden City News",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Garden City",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.gcnews.com/",
+    "coverage": [
+      "Garden City",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nassaucountyny.gov/461/Designated-Newspapers",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-029",
+    "name": "The Island Now",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Great Neck",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://theislandnow.com/",
+    "coverage": [
+      "Great Neck",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://nycmap.journalism.cuny.edu/",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-030",
+    "name": "The North Shore Leader",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Locust Valley",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.theleaderonline.com/",
+    "coverage": [
+      "Locust Valley",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nassaucountyny.gov/461/Designated-Newspapers",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
+  },
+  {
+    "id": "MED-USA-NY-CCM2-031",
+    "name": "Long Beach Herald",
+    "country": "USA",
+    "region": "Northeast",
+    "state": "NY",
+    "city": "Long Beach",
+    "county": "Nassau County",
+    "county_id": "NY-nassau-county",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.liherald.com/longbeach/",
+    "coverage": [
+      "Long Beach",
+      "Nassau County",
+      "NY",
+      "United States"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "https://www.nassaucountyny.gov/461/Designated-Newspapers",
+    "verification_note": "Identificado mediante directorios especializados de medios comunitarios de CUNY/Columbia, directorios municipales o listados oficiales de periódicos locales. La actividad y URL específica deben comprobarse individualmente antes de marcar como activo."
   }
 ]
