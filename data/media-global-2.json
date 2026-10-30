@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "MED-GLOBAL2-001",
+    "name": "Daily Graphic",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.graphic.com.gh/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-002",
+    "name": "Ghanaian Times",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://ghanaiantimes.com.gh/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-003",
+    "name": "The Chronicle Ghana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Kumasi",
+    "admin1_name": "Ashanti",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thechronicle.com.gh/",
+    "coverage": [
+      "Kumasi",
+      "Ashanti"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-004",
+    "name": "The Herald Ghana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Accra",
+    "admin1_name": "Greater Accra",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://theheraldghana.com/",
+    "coverage": [
+      "Accra",
+      "Greater Accra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-005",
+    "name": "The Citizen Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "admin1_name": "Dar es Salaam",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thecitizen.co.tz/",
+    "coverage": [
+      "Dar es Salaam",
+      "Dar es Salaam"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-006",
+    "name": "Mwananchi",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "admin1_name": "Dar es Salaam",
+    "admin1_type": "province/state/region",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mwananchi.co.tz/",
+    "coverage": [
+      "Dar es Salaam",
+      "Dar es Salaam"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-007",
+    "name": "Daily News Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "admin1_name": "Dar es Salaam",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://dailynews.co.tz/",
+    "coverage": [
+      "Dar es Salaam",
+      "Dar es Salaam"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-008",
+    "name": "The Guardian Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Dar es Salaam",
+    "admin1_name": "Dar es Salaam",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ippmedia.com/",
+    "coverage": [
+      "Dar es Salaam",
+      "Dar es Salaam"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-009",
+    "name": "The New Times",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kigali",
+    "admin1_name": "Kigali",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.newtimes.co.rw/",
+    "coverage": [
+      "Kigali",
+      "Kigali"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-010",
+    "name": "KT Press",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kigali",
+    "admin1_name": "Kigali",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ktpress.rw/",
+    "coverage": [
+      "Kigali",
+      "Kigali"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-011",
+    "name": "The Observer Uganda",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kampala",
+    "admin1_name": "Central Region",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://observer.ug/",
+    "coverage": [
+      "Kampala",
+      "Central Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-012",
+    "name": "Daily Monitor",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kampala",
+    "admin1_name": "Central Region",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.monitor.co.ug/",
+    "coverage": [
+      "Kampala",
+      "Central Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-013",
+    "name": "New Vision",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kampala",
+    "admin1_name": "Central Region",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.newvision.co.ug/",
+    "coverage": [
+      "Kampala",
+      "Central Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-014",
+    "name": "The Independent Uganda",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "city": "Kampala",
+    "admin1_name": "Central Region",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.independent.co.ug/",
+    "coverage": [
+      "Kampala",
+      "Central Region"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-015",
+    "name": "The Daily Nation Zambia",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Lusaka",
+    "admin1_name": "Lusaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.daily-mail.co.zm/",
+    "coverage": [
+      "Lusaka",
+      "Lusaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-016",
+    "name": "News Diggers!",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Lusaka",
+    "admin1_name": "Lusaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://diggers.news/",
+    "coverage": [
+      "Lusaka",
+      "Lusaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-017",
+    "name": "The Mast",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Lusaka",
+    "admin1_name": "Lusaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://mast.co.zm/",
+    "coverage": [
+      "Lusaka",
+      "Lusaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-018",
+    "name": "The Namibian",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Windhoek",
+    "admin1_name": "Khomas",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.namibian.com.na/",
+    "coverage": [
+      "Windhoek",
+      "Khomas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-019",
+    "name": "New Era",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Windhoek",
+    "admin1_name": "Khomas",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://neweralive.na/",
+    "coverage": [
+      "Windhoek",
+      "Khomas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-020",
+    "name": "The Botswana Gazette",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Gaborone",
+    "admin1_name": "South-East",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thegazette.news/",
+    "coverage": [
+      "Gaborone",
+      "South-East"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-021",
+    "name": "Mmegi",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Gaborone",
+    "admin1_name": "South-East",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.mmegi.bw/",
+    "coverage": [
+      "Gaborone",
+      "South-East"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-022",
+    "name": "Lesotho Times",
+    "country": "LSO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Maseru",
+    "admin1_name": "Maseru",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://lestimes.com/",
+    "coverage": [
+      "Maseru",
+      "Maseru"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-023",
+    "name": "Eswatini Observer",
+    "country": "SWZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "city": "Mbabane",
+    "admin1_name": "Hhohho",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.observer.org.sz/",
+    "coverage": [
+      "Mbabane",
+      "Hhohho"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-024",
+    "name": "The Point",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Serrekunda",
+    "admin1_name": "Kanifing",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thepoint.gm/",
+    "coverage": [
+      "Serrekunda",
+      "Kanifing"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-025",
+    "name": "Foroyaa",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Serrekunda",
+    "admin1_name": "Kanifing",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://foroyaa.net/",
+    "coverage": [
+      "Serrekunda",
+      "Kanifing"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-026",
+    "name": "The Standard Gambia",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Banjul",
+    "admin1_name": "Banjul",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://standard.gm/",
+    "coverage": [
+      "Banjul",
+      "Banjul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-027",
+    "name": "The Daily Observer Liberia",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Monrovia",
+    "admin1_name": "Montserrado",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.liberianobserver.com/",
+    "coverage": [
+      "Monrovia",
+      "Montserrado"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-028",
+    "name": "FrontPage Africa",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Monrovia",
+    "admin1_name": "Montserrado",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://frontpageafricaonline.com/",
+    "coverage": [
+      "Monrovia",
+      "Montserrado"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-029",
+    "name": "The Inquirer Liberia",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Monrovia",
+    "admin1_name": "Montserrado",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://inquirernewspaper.com/",
+    "coverage": [
+      "Monrovia",
+      "Montserrado"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-030",
+    "name": "The New Dawn Liberia",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Monrovia",
+    "admin1_name": "Montserrado",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thenewdawnliberia.com/",
+    "coverage": [
+      "Monrovia",
+      "Montserrado"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-031",
+    "name": "The Standard Sierra Leone",
+    "country": "SLE",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Freetown",
+    "admin1_name": "Western Area",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://standardtimespress.org/",
+    "coverage": [
+      "Freetown",
+      "Western Area"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-032",
+    "name": "Awoko",
+    "country": "SLE",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Freetown",
+    "admin1_name": "Western Area",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://awokonewspaper.sl/",
+    "coverage": [
+      "Freetown",
+      "Western Area"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-033",
+    "name": "The Patriotic Vanguard",
+    "country": "SLE",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "city": "Freetown",
+    "admin1_name": "Western Area",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thepatrioticvanguard.com/",
+    "coverage": [
+      "Freetown",
+      "Western Area"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-034",
+    "name": "The Daily Observer Bangladesh",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.observerbd.com/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-035",
+    "name": "The Daily Star Bangladesh",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thedailystar.net/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-036",
+    "name": "Prothom Alo",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "province/state/region",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.prothomalo.com/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-037",
+    "name": "Dhaka Tribune",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dhakatribune.com/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-038",
+    "name": "The Business Standard",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Dhaka",
+    "admin1_name": "Dhaka",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tbsnews.net/",
+    "coverage": [
+      "Dhaka",
+      "Dhaka"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-039",
+    "name": "Dawn",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Karachi",
+    "admin1_name": "Sindh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dawn.com/",
+    "coverage": [
+      "Karachi",
+      "Sindh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-040",
+    "name": "The News International",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Karachi",
+    "admin1_name": "Sindh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thenews.com.pk/",
+    "coverage": [
+      "Karachi",
+      "Sindh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-041",
+    "name": "Express Tribune",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Karachi",
+    "admin1_name": "Sindh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://tribune.com.pk/",
+    "coverage": [
+      "Karachi",
+      "Sindh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-042",
+    "name": "Daily Times Pakistan",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Lahore",
+    "admin1_name": "Punjab",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://dailytimes.com.pk/",
+    "coverage": [
+      "Lahore",
+      "Punjab"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-043",
+    "name": "The Friday Times",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Lahore",
+    "admin1_name": "Punjab",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thefridaytimes.com/",
+    "coverage": [
+      "Lahore",
+      "Punjab"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-044",
+    "name": "The Kathmandu Post",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kathmandu",
+    "admin1_name": "Bagmati",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://kathmandupost.com/",
+    "coverage": [
+      "Kathmandu",
+      "Bagmati"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-045",
+    "name": "The Himalayan Times",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kathmandu",
+    "admin1_name": "Bagmati",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thehimalayantimes.com/",
+    "coverage": [
+      "Kathmandu",
+      "Bagmati"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-046",
+    "name": "Republica",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kathmandu",
+    "admin1_name": "Bagmati",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://myrepublica.nagariknetwork.com/",
+    "coverage": [
+      "Kathmandu",
+      "Bagmati"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-047",
+    "name": "Rising Nepal Daily",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Kathmandu",
+    "admin1_name": "Bagmati",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://risingnepaldaily.com/",
+    "coverage": [
+      "Kathmandu",
+      "Bagmati"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-048",
+    "name": "Daily Mirror Sri Lanka",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Colombo",
+    "admin1_name": "Western Province",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailymirror.lk/",
+    "coverage": [
+      "Colombo",
+      "Western Province"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-049",
+    "name": "Sunday Times Sri Lanka",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Colombo",
+    "admin1_name": "Western Province",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.sundaytimes.lk/",
+    "coverage": [
+      "Colombo",
+      "Western Province"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-050",
+    "name": "Daily News Sri Lanka",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Colombo",
+    "admin1_name": "Western Province",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailynews.lk/",
+    "coverage": [
+      "Colombo",
+      "Western Province"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-051",
+    "name": "The Island",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "city": "Colombo",
+    "admin1_name": "Western Province",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://island.lk/",
+    "coverage": [
+      "Colombo",
+      "Western Province"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-052",
+    "name": "The Star Malaysia",
+    "country": "MYS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Petaling Jaya",
+    "admin1_name": "Selangor",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thestar.com.my/",
+    "coverage": [
+      "Petaling Jaya",
+      "Selangor"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-053",
+    "name": "New Straits Times",
+    "country": "MYS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Kuala Lumpur",
+    "admin1_name": "Kuala Lumpur",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.nst.com.my/",
+    "coverage": [
+      "Kuala Lumpur",
+      "Kuala Lumpur"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-054",
+    "name": "Malaysiakini",
+    "country": "MYS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Petaling Jaya",
+    "admin1_name": "Selangor",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.malaysiakini.com/",
+    "coverage": [
+      "Petaling Jaya",
+      "Selangor"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-055",
+    "name": "The Edge Malaysia",
+    "country": "MYS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Kuala Lumpur",
+    "admin1_name": "Kuala Lumpur",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://theedgemalaysia.com/",
+    "coverage": [
+      "Kuala Lumpur",
+      "Kuala Lumpur"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-056",
+    "name": "Bangkok Post",
+    "country": "THA",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bangkok",
+    "admin1_name": "Bangkok",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.bangkokpost.com/",
+    "coverage": [
+      "Bangkok",
+      "Bangkok"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-057",
+    "name": "The Nation Thailand",
+    "country": "THA",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bangkok",
+    "admin1_name": "Bangkok",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.nationthailand.com/",
+    "coverage": [
+      "Bangkok",
+      "Bangkok"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-058",
+    "name": "Khaosod English",
+    "country": "THA",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Bangkok",
+    "admin1_name": "Bangkok",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.khaosodenglish.com/",
+    "coverage": [
+      "Bangkok",
+      "Bangkok"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-059",
+    "name": "Vietnam News",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Hanoi",
+    "admin1_name": "Hanoi",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://vietnamnews.vn/",
+    "coverage": [
+      "Hanoi",
+      "Hanoi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-060",
+    "name": "Tuoi Tre News",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Ho Chi Minh City",
+    "admin1_name": "Ho Chi Minh City",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://tuoitrenews.vn/",
+    "coverage": [
+      "Ho Chi Minh City",
+      "Ho Chi Minh City"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-061",
+    "name": "VnExpress International",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Hanoi",
+    "admin1_name": "Hanoi",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.vnexpress.net/",
+    "coverage": [
+      "Hanoi",
+      "Hanoi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-062",
+    "name": "The Phnom Penh Post",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Phnom Penh",
+    "admin1_name": "Phnom Penh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.phnompenhpost.com/",
+    "coverage": [
+      "Phnom Penh",
+      "Phnom Penh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-063",
+    "name": "Khmer Times",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Phnom Penh",
+    "admin1_name": "Phnom Penh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.khmertimeskh.com/",
+    "coverage": [
+      "Phnom Penh",
+      "Phnom Penh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-064",
+    "name": "The Straits Times",
+    "country": "SGP",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Singapore",
+    "admin1_name": "Singapore",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.straitstimes.com/",
+    "coverage": [
+      "Singapore",
+      "Singapore"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-065",
+    "name": "Today Online",
+    "country": "SGP",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "city": "Singapore",
+    "admin1_name": "Singapore",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.todayonline.com/",
+    "coverage": [
+      "Singapore",
+      "Singapore"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-066",
+    "name": "The Korea Times",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Seoul",
+    "admin1_name": "Seoul",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.koreatimes.co.kr/",
+    "coverage": [
+      "Seoul",
+      "Seoul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-067",
+    "name": "The Korea Herald",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Seoul",
+    "admin1_name": "Seoul",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.koreaherald.com/",
+    "coverage": [
+      "Seoul",
+      "Seoul"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-068",
+    "name": "Taipei Times",
+    "country": "TWN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Taipei",
+    "admin1_name": "Taipei",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.taipeitimes.com/",
+    "coverage": [
+      "Taipei",
+      "Taipei"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-069",
+    "name": "The China Post",
+    "country": "TWN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "city": "Taipei",
+    "admin1_name": "Taipei",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://chinapost.nownews.com/",
+    "coverage": [
+      "Taipei",
+      "Taipei"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-070",
+    "name": "Arab News",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Riyadh",
+    "admin1_name": "Riyadh",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.arabnews.com/",
+    "coverage": [
+      "Riyadh",
+      "Riyadh"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-071",
+    "name": "Saudi Gazette",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Jeddah",
+    "admin1_name": "Makkah",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://saudigazette.com.sa/",
+    "coverage": [
+      "Jeddah",
+      "Makkah"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-072",
+    "name": "Gulf News",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Dubai",
+    "admin1_name": "Dubai",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://gulfnews.com/",
+    "coverage": [
+      "Dubai",
+      "Dubai"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-073",
+    "name": "The National",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Abu Dhabi",
+    "admin1_name": "Abu Dhabi",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.thenationalnews.com/",
+    "coverage": [
+      "Abu Dhabi",
+      "Abu Dhabi"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-074",
+    "name": "Khaleej Times",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Dubai",
+    "admin1_name": "Dubai",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.khaleejtimes.com/",
+    "coverage": [
+      "Dubai",
+      "Dubai"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-075",
+    "name": "Jordan Times",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Amman",
+    "admin1_name": "Amman",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://jordantimes.com/",
+    "coverage": [
+      "Amman",
+      "Amman"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-076",
+    "name": "The Daily Star Lebanon",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Beirut",
+    "admin1_name": "Beirut",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailystar.com.lb/",
+    "coverage": [
+      "Beirut",
+      "Beirut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-077",
+    "name": "L'Orient Today",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Beirut",
+    "admin1_name": "Beirut",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://today.lorientlejour.com/",
+    "coverage": [
+      "Beirut",
+      "Beirut"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-078",
+    "name": "The Peninsula Qatar",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Doha",
+    "admin1_name": "Doha",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://thepeninsulaqatar.com/",
+    "coverage": [
+      "Doha",
+      "Doha"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-079",
+    "name": "Gulf Times",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Doha",
+    "admin1_name": "Doha",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.gulf-times.com/",
+    "coverage": [
+      "Doha",
+      "Doha"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-080",
+    "name": "Kuwait Times",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Kuwait City",
+    "admin1_name": "Al Asimah",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://kuwaittimes.com/",
+    "coverage": [
+      "Kuwait City",
+      "Al Asimah"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-081",
+    "name": "The National Iraq",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "city": "Baghdad",
+    "admin1_name": "Baghdad",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ninanews.com/",
+    "coverage": [
+      "Baghdad",
+      "Baghdad"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-082",
+    "name": "Egypt Today",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Cairo",
+    "admin1_name": "Cairo",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.egypttoday.com/",
+    "coverage": [
+      "Cairo",
+      "Cairo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-083",
+    "name": "Al-Masry Al-Youm",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Cairo",
+    "admin1_name": "Cairo",
+    "admin1_type": "province/state/region",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.almasryalyoum.com/",
+    "coverage": [
+      "Cairo",
+      "Cairo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-084",
+    "name": "Daily News Egypt",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Cairo",
+    "admin1_name": "Cairo",
+    "admin1_type": "province/state/region",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dailynewsegypt.com/",
+    "coverage": [
+      "Cairo",
+      "Cairo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-085",
+    "name": "Hespress",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Rabat",
+    "admin1_name": "Rabat-Salé-Kénitra",
+    "admin1_type": "province/state/region",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.hespress.com/",
+    "coverage": [
+      "Rabat",
+      "Rabat-Salé-Kénitra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-086",
+    "name": "Le Matin",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Casablanca",
+    "admin1_name": "Casablanca-Settat",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://lematin.ma/",
+    "coverage": [
+      "Casablanca",
+      "Casablanca-Settat"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-087",
+    "name": "TelQuel",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Casablanca",
+    "admin1_name": "Casablanca-Settat",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://telquel.ma/",
+    "coverage": [
+      "Casablanca",
+      "Casablanca-Settat"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-088",
+    "name": "La Presse de Tunisie",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Tunis",
+    "admin1_name": "Tunis",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://lapresse.tn/",
+    "coverage": [
+      "Tunis",
+      "Tunis"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-089",
+    "name": "Tunisie Numerique",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Tunis",
+    "admin1_name": "Tunis",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tunisienumerique.com/",
+    "coverage": [
+      "Tunis",
+      "Tunis"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-090",
+    "name": "El Watan",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Algiers",
+    "admin1_name": "Algiers",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://elwatan-dz.com/",
+    "coverage": [
+      "Algiers",
+      "Algiers"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-091",
+    "name": "TSA Algérie",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Algiers",
+    "admin1_name": "Algiers",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.tsa-algerie.com/",
+    "coverage": [
+      "Algiers",
+      "Algiers"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  },
+  {
+    "id": "MED-GLOBAL2-092",
+    "name": "Le Quotidien d'Oran",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "city": "Oran",
+    "admin1_name": "Oran",
+    "admin1_type": "province/state/region",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.lequotidien-oran.com/",
+    "coverage": [
+      "Oran",
+      "Oran"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio y compilación editorial de prensa regional; pendiente de comprobación individual.",
+    "verification_note": "Registro candidato con ubicación administrativa declarada; URL, sede y actividad pendientes de verificación individual."
+  }
+]
