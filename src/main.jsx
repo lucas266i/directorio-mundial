@@ -60,7 +60,7 @@ const categoryLabels = {
   "multilingual": "Multilingües", "public-radio": "Radio pública", "media-directory": "Directorio de medios", "discovery-source": "Fuente de descubrimiento", "latin-america": "América Latina e Iberoamérica"
 };
 
-const languageLabels = { multi: "Multilingüe", es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", de: "Deutsch", sv: "Svenska", no: "Norsk", da: "Dansk", fi: "Suomi", it: "Italiano", el: "Ελληνικά", pl: "Polski", cs: "Čeština", ro: "Română", uk: "Українська", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", et: "Eesti", is: "Íslenska", lv: "Latviešu", lt: "Lietuvių", sq: "Shqip", bs: "Bosanski", hr: "Hrvatski", sr: "Српски", sl: "Slovenščina", mt: "Malti", mk: "Македонски", be: "Беларуская", bg: "Български", hu: "Magyar", sk: "Slovenčina", lb: "Lëtzebuergesch", ca: "Català", mixteco: "Mixteco", triqui: "Triqui" };
+const languageLabels = { multi: "Multilingüe", es: "Español", pt: "Português", en: "English", nl: "Nederlands", fr: "Français", de: "Deutsch", sv: "Svenska", no: "Norsk", da: "Dansk", fi: "Suomi", it: "Italiano", el: "Ελληνικά", pl: "Polski", cs: "Čeština", ro: "Română", uk: "Українська", zh: "中文", ru: "Русский", ar: "العربية", hi: "हिन्दी", ur: "اردو", ko: "한국어", ja: "日本語", vi: "Tiếng Việt", tl: "Tagalog", bn: "বাংলা", et: "Eesti", is: "Íslenska", lv: "Latviešu", lt: "Lietuvių", sq: "Shqip", bs: "Bosanski", hr: "Hrvatski", sr: "Српски", sl: "Slovenščina", mt: "Malti", mk: "Македонски", be: "Беларуская", bg: "Български", hu: "Magyar", sk: "Slovenčina", lb: "Lëtzebuergesch", ca: "Català", eu: "Euskara", mixteco: "Mixteco", triqui: "Triqui" };
 
 function App() {
   const [query, setQuery] = useState("");
@@ -110,7 +110,7 @@ function App() {
   const stateMap = useMemo(() => Object.fromEntries(states.map((st) => [st.code, st])), [states]);
   const countryOptions = useMemo(() => countries.filter((c) => selectedContinent === "Todos" || c.continent === selectedContinent), [countries, selectedContinent]);
   const regionOptions = useMemo(() => [...new Set(countryOptions.map((c) => c.region).filter(Boolean))].sort((a,b)=>a.localeCompare(b)), [countryOptions]);
-  const stateOptions = useMemo(() => [...new Set(media.filter((m) => selectedCountry !== "Todas" && m.country === selectedCountry && m.state && m.state !== "US").map((m) => m.state))].sort((a,b)=>a.localeCompare(b)), [media, selectedCountry]);
+  const stateOptions = useMemo(() => [...new Set(media.filter((m) => selectedCountry !== "Todas" && m.country === selectedCountry && (m.admin1_name || (m.state && m.state !== "US"))).map((m) => m.admin1_name || m.state))].sort((a,b)=>a.localeCompare(b)), [media, selectedCountry]);
   const languageOptions = useMemo(() => [...new Set(media.flatMap((m) => m.languages?.length ? m.languages : [m.language]).filter(Boolean))].sort((a,b)=>a.localeCompare(b)), [media]);
   const countyOptions = useMemo(() => selectedCountry === "USA" ? geography.filter((county) => selectedState === "Todas" || county.state === selectedState) : [], [geography, selectedState, selectedCountry]);
   const selectedCountyRecord = useMemo(
@@ -125,7 +125,7 @@ function App() {
     return media.filter((m) => {
       const country = countryMap[m.country];
       const tags = (m.categories || []).map((id) => categoryLabels[id] || id);
-      const stateName = stateMap[m.state]?.name || m.state;
+      const stateName = stateMap[m.state]?.name || m.admin1_name || m.state;
       const countyName = m.county || m.county_name || "";
       const text = [m.name, m.city, countyName, stateName, country?.name, country?.region, country?.continent, languageLabels[m.language] || m.language, ...(m.languages || []).map((lang) => languageLabels[lang] || lang), ...tags]
         .filter(Boolean).join(" ").toLowerCase();
@@ -134,7 +134,7 @@ function App() {
       const matchesContinent = selectedContinent === "Todos" || country?.continent === selectedContinent;
       const matchesCountry = selectedCountry === "Todas" || m.country === selectedCountry;
       const matchesRegion = selectedRegion === "Todas" || country?.region === selectedRegion;
-      const matchesState = selectedState === "Todas" || m.state === selectedState;
+      const matchesState = selectedState === "Todas" || (selectedCountry === "USA" ? m.state === selectedState : (m.admin1_name || m.state) === selectedState);
       const mediaLanguages = m.languages?.length ? m.languages : [m.language].filter(Boolean);
       const matchesLanguage = selectedLanguage === "Todas" || mediaLanguages.includes(selectedLanguage);
       const matchesCounty = selectedCounty === "Todas" || m.county_id === selectedCounty || countyName === selectedCountyRecord?.name;
@@ -236,7 +236,7 @@ function App() {
               return <article className="card media" key={m.id || m.name}>
                 <div className="mediaTop"><span className="sourceIcon">📰</span><span className="countryTag">{country?.name || m.country}</span></div>
                 <h3>{m.name}</h3>
-                <p>{[m.city, stateMap[m.state]?.name || (m.state === "US" ? "Cobertura nacional" : m.state), languageLabels[m.language] || m.language].filter(Boolean).join(" · ")}</p>
+                <p>{[m.city, stateMap[m.state]?.name || m.admin1_name || (m.state === "US" ? "Cobertura nacional" : m.state), languageLabels[m.language] || m.language].filter(Boolean).join(" · ")}</p>
                 <div className="chips">{(m.categories || []).map((id) => <span key={id}>{categoryLabels[id] || id}</span>)}</div>
                 <span className="muted">Estado: {m.status === "pending_verification" ? "pendiente de verificación" : m.status || "sin estado"}</span>
                 <a href={m.official_url} target="_blank" rel="noreferrer">Visitar sitio oficial ↗</a>
