@@ -90,7 +90,7 @@ function App() {
     ]).then(([countryData, mediaData, categoryData, stateData, geographyData]) => {
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
       setMedia(Array.isArray(mediaData) ? mediaData : fallbackMedia);
-      setCategories(Array.isArray(categoryData) ? categoryData.map((c) => c.name || c).filter(Boolean) : fallbackCategories);
+      setCategories(Array.isArray(categoryData) ? categoryData.filter((c) => c && (c.id || c.name)) : fallbackCategories);
       setStates(Array.isArray(stateData) ? stateData : []);
       setGeography(Array.isArray(geographyData) ? geographyData : []);
     }).catch(() => {
