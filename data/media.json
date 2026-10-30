@@ -12499,5 +12499,653 @@
     "discovery_source": "CUNY Many Voices, One City directory; official Urdu Times USA website",
     "source_directory": "CUNY Center for Community Media – Many Voices, One City; publisher site",
     "verification_note": "Urdu-language publication listed by CUNY as serving the Pakistani-American community in New York and surrounding markets. Official site accessible with October 2026 content; current publication frequency and precise newsroom address require direct confirmation."
+  },
+  {
+    "id": "MED-CA-002",
+    "name": "The Tyee",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "environment",
+      "local-news"
+    ],
+    "official_url": "https://thetyee.ca/",
+    "coverage": [
+      "British Columbia",
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Canadian Independent Media directory; News Media Canada Local Journalism Initiative host list",
+    "source_directory": "Canadian Independent Media; News Media Canada",
+    "verification_note": "British Columbia online news magazine, founded in 2003; directory listing and current official site identified. Ownership and editorial independence not independently audited."
+  },
+  {
+    "id": "MED-CA-003",
+    "name": "The Breach",
+    "country": "CAN",
+    "region": "North America",
+    "state": "ON",
+    "city": "Toronto",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "official_url": "https://breachmedia.ca/",
+    "coverage": [
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Saint Mary's University Canadian Independent Media guide; NB Media Co-op directory",
+    "source_directory": "Canadian Independent Media; NB Media Co-op",
+    "verification_note": "Canadian independent media outlet described by university and cooperative media directories; official website identified. Editorial positioning is publisher-described, not independently evaluated."
+  },
+  {
+    "id": "MED-CA-004",
+    "name": "Ricochet",
+    "country": "CAN",
+    "region": "North America",
+    "state": "QC",
+    "city": "Montreal",
+    "language": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://ricochet.media/",
+    "coverage": [
+      "Canada",
+      "Quebec"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "NB Media Co-op directory; Canadian media outlet directories",
+    "source_directory": "NB Media Co-op; Canadian Independent Media",
+    "verification_note": "Bilingual English-French Canadian digital outlet identified in cooperative media directories. Current official site accessible; editorial and ownership details require direct audit."
+  },
+  {
+    "id": "MED-CA-005",
+    "name": "APTN News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Winnipeg",
+    "language": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "type": "television-digital",
+    "categories": [
+      "indigenous-media",
+      "news",
+      "community-media",
+      "first-nations",
+      "inuit",
+      "metis"
+    ],
+    "official_url": "https://www.aptnnews.ca/",
+    "coverage": [
+      "Canada",
+      "First Nations",
+      "Inuit",
+      "Métis communities"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of British Columbia Indigenous news guide; Ontario Tech University Indigenous news sources guide",
+    "source_directory": "UBC Indigenous news and social media guide; Ontario Tech Indigenous news sources",
+    "verification_note": "Indigenous-focused Canadian television and digital news service listed in university Indigenous media research guides. Publisher ownership and governance should be reviewed separately."
+  },
+  {
+    "id": "MED-CA-006",
+    "name": "IndigiNews",
+    "country": "CAN",
+    "region": "North America",
+    "state": "BC",
+    "city": "Vancouver",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "indigenous-media",
+      "community-media",
+      "local-news",
+      "first-nations"
+    ],
+    "official_url": "https://indiginews.com/",
+    "coverage": [
+      "British Columbia",
+      "Indigenous communities"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Saint Mary's University Canadian Independent Media guide; Canadian Independent Media directory",
+    "source_directory": "Canadian Independent Media; university media guides",
+    "verification_note": "Indigenous-centred digital journalism project identified in Canadian university and independent-media directories. Precise newsroom location and current publishing status require confirmation."
+  },
+  {
+    "id": "MED-CA-007",
+    "name": "Ku'ku'kwes News",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NS",
+    "city": "Atlantic Canada",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "indigenous-media",
+      "community-media",
+      "local-news",
+      "mi'kmaq"
+    ],
+    "official_url": "https://kukukwes.com/",
+    "coverage": [
+      "Atlantic Canada",
+      "Mi'kmaq communities"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UBC Indigenous Publishers and News Media guide; Canadian Independent Media directory",
+    "source_directory": "UBC Indigenous news sources; Canadian Independent Media",
+    "verification_note": "Independent Indigenous news website focused on Indigenous news in Atlantic Canada, listed by university and Canadian media directories. Editorial governance not independently audited."
+  },
+  {
+    "id": "MED-CA-008",
+    "name": "Halifax Examiner",
+    "country": "CAN",
+    "region": "North America",
+    "state": "NS",
+    "city": "Halifax",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "local-news",
+      "accountability"
+    ],
+    "official_url": "https://www.halifaxexaminer.ca/",
+    "coverage": [
+      "Halifax",
+      "Nova Scotia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Saint Mary's University Canadian Independent Media guide; Canadian news sources directories",
+    "source_directory": "Saint Mary's University Canadian Independent Media guide",
+    "verification_note": "Halifax-based investigative digital news outlet described as independent by a university research guide. Current activity and ownership details should be verified directly."
+  },
+  {
+    "id": "MED-CA-009",
+    "name": "Canadian Dimension",
+    "country": "CAN",
+    "region": "North America",
+    "state": "MB",
+    "city": "Winnipeg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine-digital",
+    "categories": [
+      "independent-media",
+      "politics",
+      "culture",
+      "social-issues"
+    ],
+    "official_url": "https://canadiandimension.com/",
+    "coverage": [
+      "Canada"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Saint Mary's University Canadian Independent Media guide; NB Media Co-op directory",
+    "source_directory": "Saint Mary's University; NB Media Co-op",
+    "verification_note": "Canadian magazine covering politics, culture and social issues; listed in university and cooperative media directories. Editorial perspective is not a verification of factual reliability."
+  },
+  {
+    "id": "MED-MX-003",
+    "name": "Aristegui Noticias",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CDMX",
+    "city": "Ciudad de México",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability",
+      "general-news"
+    ],
+    "official_url": "https://aristeguinoticias.com/",
+    "coverage": [
+      "México",
+      "International"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Exposing the Invisible – Investigative Initiatives in the Americas",
+    "source_directory": "Tactical Tech / Exposing the Invisible investigative media mapping",
+    "verification_note": "Mexican investigative and news outlet included in an investigative-journalism mapping project. Official site identified; ownership and editorial-independence assessment pending."
+  },
+  {
+    "id": "MED-MX-004",
+    "name": "Mexicanos Contra la Corrupción y la Impunidad",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CDMX",
+    "city": "Ciudad de México",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "investigative",
+    "categories": [
+      "investigative",
+      "corruption",
+      "accountability",
+      "public-records"
+    ],
+    "official_url": "https://contralacorrupcion.mx/",
+    "coverage": [
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Exposing the Invisible; OCCRP global network Mexico profile",
+    "source_directory": "Exposing the Invisible; OCCRP",
+    "verification_note": "Non-governmental organization conducting journalistic and academic research and investigations into corruption and impunity; classified as an investigative publisher/research newsroom candidate."
+  },
+  {
+    "id": "MED-MX-005",
+    "name": "Pie de Página",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CDMX",
+    "city": "Ciudad de México",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "investigative",
+      "human-rights",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://piedepagina.mx/",
+    "coverage": [
+      "México",
+      "Ciudad de México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios; Periodistas de a Pie directory; Exposing the Invisible",
+    "source_directory": "Periodistas de a Pie – Alianza de Medios; Territorial",
+    "verification_note": "Member of the Territorial alliance of local and investigative digital media; listed as based in Mexico City. Current official site identified."
+  },
+  {
+    "id": "MED-MX-006",
+    "name": "Data Crítica",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CDMX",
+    "city": "Ciudad de México",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "investigative",
+    "categories": [
+      "data-journalism",
+      "investigative",
+      "social-issues",
+      "human-rights"
+    ],
+    "official_url": "https://datacritica.org/",
+    "coverage": [
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Exposing the Invisible – Investigative Initiatives in the Americas",
+    "source_directory": "Tactical Tech / Exposing the Invisible",
+    "verification_note": "Data journalism and investigative initiative included in an investigative media mapping project. Current publication status and newsroom location need individual verification."
+  },
+  {
+    "id": "MED-MX-007",
+    "name": "PODER",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CDMX",
+    "city": "Ciudad de México",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "investigative",
+    "categories": [
+      "investigative",
+      "business",
+      "extractive-industries",
+      "accountability"
+    ],
+    "official_url": "https://poderlatam.org/",
+    "coverage": [
+      "México",
+      "Latin America"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Exposing the Invisible – Investigative Initiatives in the Americas",
+    "source_directory": "Tactical Tech / Exposing the Invisible",
+    "verification_note": "Investigative organization focused on business, finance, extractive industries and accountability, listed in a regional investigative-journalism mapping project."
+  },
+  {
+    "id": "MED-MX-008",
+    "name": "LADO B",
+    "country": "MEX",
+    "region": "North America",
+    "state": "PUE",
+    "city": "Puebla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://ladobe.com.mx/",
+    "coverage": [
+      "Puebla",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie directory",
+    "source_directory": "Territorial; Periodistas de a Pie",
+    "verification_note": "Puebla-based local digital outlet and member of the Territorial alliance, whose 2026 membership was reported by LatAm Journalism Review."
+  },
+  {
+    "id": "MED-MX-009",
+    "name": "Chiapas Paralelo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHP",
+    "city": "Tuxtla Gutiérrez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "indigenous-issues"
+    ],
+    "official_url": "https://www.chiapasparalelo.com/",
+    "coverage": [
+      "Chiapas",
+      "Southern Mexico"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Chiapas-based local digital outlet and member of the Territorial alliance; regional placement based on alliance directory."
+  },
+  {
+    "id": "MED-MX-010",
+    "name": "Amapola Periodismo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GRO",
+    "city": "Chilpancingo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "human-rights"
+    ],
+    "official_url": "https://amapolaperiodismo.com/",
+    "coverage": [
+      "Guerrero",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Guerrero-based local journalism outlet included in Territorial alliance membership lists. Exact newsroom address and current publication status require further verification."
+  },
+  {
+    "id": "MED-MX-011",
+    "name": "ZonaDocs",
+    "country": "MEX",
+    "region": "North America",
+    "state": "JAL",
+    "city": "Guadalajara",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "human-rights",
+      "local-news"
+    ],
+    "official_url": "https://www.zonadocs.mx/",
+    "coverage": [
+      "Jalisco",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Jalisco-based local and investigative journalism outlet included in Territorial alliance membership lists."
+  },
+  {
+    "id": "MED-MX-012",
+    "name": "Revista Espejo",
+    "country": "MEX",
+    "region": "North America",
+    "state": "SIN",
+    "city": "Culiacán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://revistaespejo.com/",
+    "coverage": [
+      "Sinaloa",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie",
+    "source_directory": "Territorial; Periodistas de a Pie",
+    "verification_note": "Sinaloa-based publication included in the 2026 Territorial alliance member list. Current official site and editorial details should be reviewed."
+  },
+  {
+    "id": "MED-MX-013",
+    "name": "PopLab",
+    "country": "MEX",
+    "region": "North America",
+    "state": "GUA",
+    "city": "Guanajuato",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "local-news",
+      "public-interest"
+    ],
+    "official_url": "https://poplab.mx/",
+    "coverage": [
+      "Guanajuato",
+      "México"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie",
+    "source_directory": "Territorial; Periodistas de a Pie",
+    "verification_note": "Guanajuato-based journalism outlet and member of Territorial, a multi-state alliance of local digital media."
+  },
+  {
+    "id": "MED-MX-014",
+    "name": "Raíchali",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Chihuahua",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "human-rights"
+    ],
+    "official_url": "https://raichali.com/",
+    "coverage": [
+      "Chihuahua",
+      "Northern Mexico"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Chihuahua-based local journalism outlet included in the Territorial alliance member lists."
+  },
+  {
+    "id": "MED-MX-015",
+    "name": "La Verdad Juárez",
+    "country": "MEX",
+    "region": "North America",
+    "state": "CHH",
+    "city": "Ciudad Juárez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "human-rights"
+    ],
+    "official_url": "https://laverdadjuarez.com/",
+    "coverage": [
+      "Ciudad Juárez",
+      "Chihuahua",
+      "Northern Mexico"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Ciudad Juárez-based local digital outlet included in the Territorial alliance member lists."
+  },
+  {
+    "id": "MED-MX-016",
+    "name": "Página 3",
+    "country": "MEX",
+    "region": "North America",
+    "state": "OAX",
+    "city": "Oaxaca de Juárez",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "independent-media",
+      "local-news",
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://pagina3.mx/",
+    "coverage": [
+      "Oaxaca",
+      "Southern Mexico"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie; SciELO collaborative journalism study",
+    "source_directory": "Territorial; Periodistas de a Pie; SciELO",
+    "verification_note": "Oaxaca-based newspaper and digital outlet included in Territorial alliance membership lists."
+  },
+  {
+    "id": "MED-MX-017",
+    "name": "Elefante Blanco",
+    "country": "MEX",
+    "region": "North America",
+    "state": "TAM",
+    "city": "Ciudad Victoria",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital_native",
+    "categories": [
+      "independent-media",
+      "investigative",
+      "local-news",
+      "accountability"
+    ],
+    "official_url": "https://elefanteblanco.mx/",
+    "coverage": [
+      "Tamaulipas",
+      "Northeastern Mexico"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Territorial Alianza de Medios 2026; Periodistas de a Pie",
+    "source_directory": "Territorial; Periodistas de a Pie",
+    "verification_note": "Tamaulipas-based investigative and local journalism outlet included in Territorial alliance membership lists."
   }
 ]
