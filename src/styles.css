@@ -33,3 +33,11 @@ footer{padding:28px 6%;border-top:1px solid #203149;color:#8193a8;text-align:cen
 @media(max-width:760px){.topbar{align-items:flex-start;flex-direction:column}.searchRow{grid-template-columns:1fr}.hero{padding-top:28px}.sectionHead{align-items:flex-start;flex-direction:column}}
 .geoNote{color:#91a4ba;line-height:1.6;max-width:850px}
 input:disabled,select:disabled{opacity:.45;cursor:not-allowed}
+.filterActions{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.filterActions button{min-height:46px;padding:12px 18px;border-radius:12px;font-size:14px;font-weight:700;cursor:pointer}
+.applyFilters{border:1px solid #3b9bd4;background:#1476ad;color:#fff}
+.resetFilters{border:1px solid #35516d;background:#102237;color:#c5d7e8}
+.filterNotice{margin-top:12px;padding:11px 14px;border:1px solid #28618a;border-radius:10px;background:#0b2438;color:#a9dfff;font-size:13px}
+.filteredView #continentes,.filteredView #paises,.filteredView #geografia-eeuu,.filteredView #categorias{display:none}
+.filteredView #medios{margin-top:32px;scroll-margin-top:24px}
+@media(max-width:600px){.filterActions{display:grid;grid-template-columns:1fr}.filterActions button{width:100%}}
