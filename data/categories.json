@@ -1,10 +1,110 @@
 [
-  {"id":"geopolitics","name":"Geopolítica"},
-  {"id":"independent-media","name":"Medios independientes"},
-  {"id":"investigative","name":"Investigación"},
-  {"id":"politics","name":"Política"},
-  {"id":"international","name":"Internacional"},
-  {"id":"economy","name":"Economía"},
-  {"id":"human-rights","name":"Derechos humanos"},
-  {"id":"fact-checking","name":"Fact-checking"}
+  {
+    "id": "geopolitics",
+    "name": "Geopolítica"
+  },
+  {
+    "id": "independent-media",
+    "name": "Medios independientes"
+  },
+  {
+    "id": "investigative",
+    "name": "Investigación"
+  },
+  {
+    "id": "politics",
+    "name": "Política"
+  },
+  {
+    "id": "international",
+    "name": "Internacional"
+  },
+  {
+    "id": "economy",
+    "name": "Economía"
+  },
+  {
+    "id": "human-rights",
+    "name": "Derechos humanos"
+  },
+  {
+    "id": "fact-checking",
+    "name": "Fact-checking"
+  },
+  {
+    "id": "general-news",
+    "name": "Noticias generales"
+  },
+  {
+    "id": "national",
+    "name": "Cobertura nacional"
+  },
+  {
+    "id": "business",
+    "name": "Negocios y empresas"
+  },
+  {
+    "id": "government",
+    "name": "Gobierno y asuntos públicos"
+  },
+  {
+    "id": "local-news",
+    "name": "Noticias locales"
+  },
+  {
+    "id": "public-media",
+    "name": "Medios públicos"
+  },
+  {
+    "id": "culture",
+    "name": "Cultura"
+  },
+  {
+    "id": "criminal-justice",
+    "name": "Justicia penal"
+  },
+  {
+    "id": "national-security",
+    "name": "Seguridad nacional"
+  },
+  {
+    "id": "technology",
+    "name": "Tecnología y privacidad"
+  },
+  {
+    "id": "privacy",
+    "name": "Privacidad"
+  },
+  {
+    "id": "gender",
+    "name": "Género"
+  },
+  {
+    "id": "immigration",
+    "name": "Migración e inmigración"
+  },
+  {
+    "id": "spanish-language",
+    "name": "Medios en español"
+  },
+  {
+    "id": "housing",
+    "name": "Vivienda"
+  },
+  {
+    "id": "accountability",
+    "name": "Rendición de cuentas"
+  },
+  {
+    "id": "radio",
+    "name": "Radio"
+  },
+  {
+    "id": "television",
+    "name": "Televisión"
+  },
+  {
+    "id": "education",
+    "name": "Educación"
+  }
 ]
