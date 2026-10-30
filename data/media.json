@@ -24626,7 +24626,7 @@
     "country": "VGB",
     "language": "en",
     "type": "newspaper",
-    "official_url": "https://bvinews.com/",
+    "official_url": "https://www.bvibeacon.com/",
     "categories": [
       "general-news",
       "local-news",
@@ -24634,7 +24634,7 @@
     ],
     "status": "pending_verification",
     "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
-    "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+    "verification_note": "URL oficial contrastada con el sitio del periódico y el directorio de publicaciones del organismo de turismo de Islas Vírgenes Británicas; comprobar demás metadatos antes de marcar como verificado."
   },
   {
     "id": "MED-AIA-001",
@@ -24859,5 +24859,37 @@
     "status": "pending_verification",
     "discovery_source": "GIJN; Otras Miradas; directorios universitarios y regionales del Caribe y Centroamérica",
     "verification_note": "Registro de descubrimiento; comprobar actividad actual, URL, ubicación editorial, propiedad y clasificación antes de marcar como verificado."
+  },
+  {
+    "id": "MED-VGB-002",
+    "name": "BVI News",
+    "country": "VGB",
+    "language": "en",
+    "type": "digital_native",
+    "official_url": "https://bvinews.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BVI Tourism official useful-links directory",
+    "verification_note": "Identificado en directorio oficial de turismo de BVI; verificar actividad y datos editoriales."
+  },
+  {
+    "id": "MED-VGB-003",
+    "name": "Island Sun",
+    "country": "VGB",
+    "language": "en",
+    "type": "newspaper",
+    "official_url": "https://islandsunbvi.com/",
+    "categories": [
+      "general-news",
+      "local-news",
+      "national"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BVI Tourism official useful-links directory",
+    "verification_note": "Identificado en directorio oficial de turismo de BVI; verificar disponibilidad actual del sitio y publicación."
   }
 ]
