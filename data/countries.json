@@ -1421,5 +1421,54 @@
     "continent": "Asia",
     "region": "Asia meridional",
     "language": "ps"
+  },
+  {
+    "id": "TUR",
+    "name": "Turquía",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "tr"
+  },
+  {
+    "id": "BHR",
+    "name": "Baréin",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "OMN",
+    "name": "Omán",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "YEM",
+    "name": "Yemen",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "SYR",
+    "name": "Siria",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
+  },
+  {
+    "id": "ISR",
+    "name": "Israel",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "he"
+  },
+  {
+    "id": "PSE",
+    "name": "Palestina",
+    "continent": "Asia",
+    "region": "Asia occidental",
+    "language": "ar"
   }
 ]
