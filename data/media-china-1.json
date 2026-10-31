@@ -3014,5 +3014,3723 @@
     "status": "pending_verification",
     "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
     "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-117",
+    "name": "People's Daily Print Edition",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.people.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-118",
+    "name": "PLA Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://81.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-119",
+    "name": "Qiushi Journal",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "analysis"
+    ],
+    "official_url": "https://qstheory.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-120",
+    "name": "Guangming Daily Print Edition",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.gmw.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-121",
+    "name": "Economic Daily Print Edition",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.ce.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-122",
+    "name": "Science and Technology Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://digitalpaper.stdaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-123",
+    "name": "Workers' Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://media.workercn.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-124",
+    "name": "China Youth Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zqb.cyol.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-125",
+    "name": "Farmers Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.farmer.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-126",
+    "name": "Hebei Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hbrb.hebnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-127",
+    "name": "Shanxi Daily Epaper",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Shanxi",
+    "state": "Shanxi",
+    "city": "Taiyuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.sxrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-128",
+    "name": "Inner Mongolia Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.northnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-129",
+    "name": "Liaoning Daily Epaper",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Shenyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.lnd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-130",
+    "name": "Jilin Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Jilin",
+    "state": "Jilin",
+    "city": "Changchun",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jlrbszb.chinajilin.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-131",
+    "name": "Heilongjiang Daily Epaper",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ipaper.hljnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-132",
+    "name": "Jiefang Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newspaper.jfdaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-133",
+    "name": "Xinhua Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://xh.xhby.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-134",
+    "name": "Zhejiang Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zjdaily.zjol.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-135",
+    "name": "Anhui Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.anhuinews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-136",
+    "name": "Fujian Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://fjrb.fjsen.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-137",
+    "name": "Jiangxi Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangxi",
+    "state": "Jiangxi",
+    "city": "Nanchang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.jxnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-138",
+    "name": "Dazhong Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Jinan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.dzwww.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-139",
+    "name": "Henan Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newpaper.dahe.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-140",
+    "name": "Hubei Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hbrb.cnhubei.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-141",
+    "name": "Hunan Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.voc.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-142",
+    "name": "Nanfang Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.nfdaily.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-143",
+    "name": "Guangxi Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Nanning",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://gxrb.gxnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-144",
+    "name": "Hainan Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Hainan",
+    "state": "Hainan",
+    "city": "Haikou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hnrb.hinews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-145",
+    "name": "Chongqing Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cqrb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-146",
+    "name": "Sichuan Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.scdaily.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-147",
+    "name": "Guizhou Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Guizhou",
+    "state": "Guizhou",
+    "city": "Guiyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.gzrbs.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-148",
+    "name": "Yunnan Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://yndaily.yunnan.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-149",
+    "name": "Tibet Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Tibet",
+    "state": "Tibet",
+    "city": "Lhasa",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.chinatibetnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-150",
+    "name": "Shaanxi Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Shaanxi",
+    "state": "Shaanxi",
+    "city": "Xi'an",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://esb.sxdaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-151",
+    "name": "Gansu Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Gansu",
+    "state": "Gansu",
+    "city": "Lanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.gansudaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-152",
+    "name": "Qinghai Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Qinghai",
+    "state": "Qinghai",
+    "city": "Xining",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.tibet3.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-153",
+    "name": "Ningxia Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Ningxia",
+    "state": "Ningxia",
+    "city": "Yinchuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://sz.nxnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-154",
+    "name": "Xinjiang Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Xinjiang",
+    "state": "Xinjiang",
+    "city": "Urumqi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.xjdaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-155",
+    "name": "Xinjiang Production and Construction Corps Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Xinjiang",
+    "state": "Xinjiang",
+    "city": "Urumqi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.bingtuannet.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-156",
+    "name": "Jinghua Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.jinghua.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-157",
+    "name": "Fazhi Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dzb.fawan.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-158",
+    "name": "Beijing Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.stardaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-159",
+    "name": "Beijing Morning Post",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://bjcb.morningpost.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-160",
+    "name": "Bohai Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Tianjin",
+    "state": "Tianjin",
+    "city": "Tianjin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://bhsb.tjbhnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-161",
+    "name": "Chongqing Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cqwb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-162",
+    "name": "Chongqing Morning Post Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.cqcb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-163",
+    "name": "Chongqing Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cqtimes.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-164",
+    "name": "Chongqing Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.chinacqsb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-165",
+    "name": "Three Gorges Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Yichang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dpaper.sxcm.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-166",
+    "name": "Wuling Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changde",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cnepaper.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-167",
+    "name": "Chongqing Youth News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cqqnb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-168",
+    "name": "Southern Metropolis Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.oeeee.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-169",
+    "name": "Yangcheng Evening News Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ep.ycwb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-170",
+    "name": "Xin Kuai Bao",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.xkb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-171",
+    "name": "Shenzhen Special Zone Daily Print",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://sztqb.sznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-172",
+    "name": "Information Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.xxsb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-173",
+    "name": "Dongguan Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Dongguan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dgtime.timedg.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-174",
+    "name": "Nandu Weekly",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "analysis"
+    ],
+    "official_url": "https://nbweekly.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-175",
+    "name": "Jing Bao",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jb.sznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-176",
+    "name": "Shenzhen Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://wb.sznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-177",
+    "name": "Shenzhen Business Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szsb.sznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-178",
+    "name": "Zhuhai Special Zone Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Zhuhai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zhuhaidaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-179",
+    "name": "Zhongshan Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Zhongshan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zsnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-180",
+    "name": "Yangcheng Metro Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ycdtb.dayoo.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-181",
+    "name": "Shantou Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shantou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dsb.dahuawang.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-182",
+    "name": "Pearl River Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Foshan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.sc168.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-183",
+    "name": "Pearl River Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Zhuhai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zjwb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-184",
+    "name": "Dongjiang Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Huizhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.hznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-185",
+    "name": "Yanzhao Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://yzwb.sjzdaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-186",
+    "name": "Yanzhao Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://yzdsb.hebnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-187",
+    "name": "Hebei Youth Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.hbqnb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-188",
+    "name": "Niucheng Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Xingtai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://xtrb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-189",
+    "name": "Hebei Workers Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hbgrb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-190",
+    "name": "Hebei Legal News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szbz.hbfzb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-191",
+    "name": "Yellow River Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Shanxi",
+    "state": "Shanxi",
+    "city": "Yuncheng",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.sxycrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-192",
+    "name": "Shanxi Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Shanxi",
+    "state": "Shanxi",
+    "city": "Taiyuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://sxshangbao.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-193",
+    "name": "Inner Mongolia Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.nmgcb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-194",
+    "name": "Inner Mongolia Legal News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nmgfzb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-195",
+    "name": "Inner Mongolia Science News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nmgkjb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-196",
+    "name": "Peninsula Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Dalian",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.hilizi.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-197",
+    "name": "Huashang Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Shenyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.hsxiang.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-198",
+    "name": "Dalian Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Dalian",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.dlxww.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-199",
+    "name": "Huludao Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Huludao",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.hldnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-200",
+    "name": "New Culture Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Jilin",
+    "state": "Jilin",
+    "city": "Changchun",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://enews.xwh.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-201",
+    "name": "East Asia Economic News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Jilin",
+    "state": "Jilin",
+    "city": "Changchun",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dnews.365jilin.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-202",
+    "name": "Life Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.hljnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-203",
+    "name": "Heilongjiang Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newspaper.dbw.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-204",
+    "name": "Daqing Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Daqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dqwb.dqdaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-205",
+    "name": "Heilongjiang Economic News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hljjjb.org.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-206",
+    "name": "Yangtze Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.yzwb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-207",
+    "name": "Modern Express",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dz.xdkb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-208",
+    "name": "Pengcheng Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Xuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.cnxz.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-209",
+    "name": "Jiangsu Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jssb.njnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-210",
+    "name": "Oriental Guardian",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dfwb.njnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-211",
+    "name": "Jinling Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jlwb.njnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-212",
+    "name": "Nanjing Morning Post",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://njcb.xhby.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-213",
+    "name": "Jiangsu Economic News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jsjjb.xhby.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-214",
+    "name": "Qianjiang Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://qjwb.zjol.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-215",
+    "name": "Southeast Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Ningbo",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://daily.cnnb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-216",
+    "name": "Metropolis Express",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hzdaily.hangzhou.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-217",
+    "name": "Nanhu Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Jiaxing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nhwb.cnjxol.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-218",
+    "name": "Youth Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://qnsb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-219",
+    "name": "Xin'an Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.ahwang.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-220",
+    "name": "Jianghuai Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.hf365.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-221",
+    "name": "Hefei Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hf365.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-222",
+    "name": "Southeast Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Quanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.qzwb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-223",
+    "name": "Southeast Express",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://digi.dnkb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-224",
+    "name": "Straits Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dzb.hxnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-225",
+    "name": "Fuzhou Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://mag.fznews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-226",
+    "name": "Straits Herald",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.taihainet.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-227",
+    "name": "Nanchang Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangxi",
+    "state": "Jiangxi",
+    "city": "Nanchang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ncwbw.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-228",
+    "name": "Qilu Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Jinan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.qlwb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-229",
+    "name": "Yantai Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Yantai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://shm.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-230",
+    "name": "Weifang Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Weifang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://wfwb.wfnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-231",
+    "name": "Zhengzhou Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zzwb.zynews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-232",
+    "name": "Luoyang Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Luoyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://lywb.lyd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-233",
+    "name": "Chutian Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ctdsb.cnhubei.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-234",
+    "name": "Wuhan Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://whwb.cjn.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-235",
+    "name": "Wuhan Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://whcb.cjn.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-236",
+    "name": "Chutian Golden News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ctjb.cnhubei.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-237",
+    "name": "Three Gorges Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Yichang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://sxwb.cnhubei.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-238",
+    "name": "Shiyan Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Shiyan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://sywb.10yan.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-239",
+    "name": "Enshi Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Enshi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.enshi.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-240",
+    "name": "Changsha Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://icswb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-241",
+    "name": "Changde Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changde",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cdyee.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-242",
+    "name": "Nanguo Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Nanning",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ngzb.gxrb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-243",
+    "name": "Nanguo Today",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Nanning",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.gxrb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-244",
+    "name": "Tianfu Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://morning.scol.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-245",
+    "name": "Chengdu Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cdwb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-246",
+    "name": "Chengdu Business Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://e.chengdu.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-247",
+    "name": "Mianyang Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Mianyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.su-long.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-248",
+    "name": "West China City Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://wccdaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-249",
+    "name": "Yunnan Information News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ynxxb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-250",
+    "name": "Spring City Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ccwb.yunnan.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-251",
+    "name": "Metropolis Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://times.clzg.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-252",
+    "name": "Xi'an Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Shaanxi",
+    "state": "Shaanxi",
+    "city": "Xi'an",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.xiancn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-253",
+    "name": "Northwest Information News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Shaanxi",
+    "state": "Shaanxi",
+    "city": "Xi'an",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://xbxxb.joyhua.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-254",
+    "name": "Lanzhou Morning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Gansu",
+    "state": "Gansu",
+    "city": "Lanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://lzcbnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-255",
+    "name": "Western Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Gansu",
+    "state": "Gansu",
+    "city": "Lanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://xbsb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-256",
+    "name": "Haikou Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Hainan",
+    "state": "Hainan",
+    "city": "Haikou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.hkwb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-257",
+    "name": "Urumqi Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Xinjiang",
+    "state": "Xinjiang",
+    "city": "Urumqi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.xinjiangnet.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-258",
+    "name": "Nanguo Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Hainan",
+    "state": "Hainan",
+    "city": "Haikou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ngdsb.hinews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-259",
+    "name": "Lhasa Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Tibet",
+    "state": "Tibet",
+    "city": "Lhasa",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://lasa-eveningnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
+    "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
   }
 ]
