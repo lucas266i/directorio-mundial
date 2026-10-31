@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AFR-SRC-001",
+    "name": "Africa is Watching",
+    "url": "https://africaiswatching.com/docs",
+    "description": "Directorio y documentación de medios y fuentes informativas africanas.",
+    "focus": [
+      "África",
+      "Directorio de medios",
+      "Cobertura por país"
+    ],
+    "type": "media-directory"
+  },
+  {
+    "id": "AFR-SRC-002",
+    "name": "CivicSignal / Code for Africa",
+    "url": "https://civicsignal.africa/",
+    "description": "Plataforma cívica y de datos para explorar señales, medios y ecosistemas informativos africanos.",
+    "focus": [
+      "África",
+      "Datos cívicos",
+      "Ecosistema informativo"
+    ],
+    "type": "media-mapping"
+  },
+  {
+    "id": "AFR-SRC-003",
+    "name": "Social Light – Media Coverage",
+    "url": "https://sociallight.africa/coverage/",
+    "description": "Mapa de cobertura y presencia de medios africanos por país.",
+    "focus": [
+      "África",
+      "Cobertura por país",
+      "Medios locales"
+    ],
+    "type": "media-mapping"
+  },
+  {
+    "id": "AFR-SRC-004",
+    "name": "Newspapers Online",
+    "url": "https://newspapersonline.com/",
+    "description": "Directorio internacional de periódicos, utilizado como fuente complementaria para localizar publicaciones africanas.",
+    "focus": [
+      "África y mundo",
+      "Periódicos",
+      "Descubrimiento"
+    ],
+    "type": "newspaper-directory"
+  }
+]
