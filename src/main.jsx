@@ -79,6 +79,7 @@ function App() {
   const [selectedCounty, setSelectedCounty] = useState("Todas");
   const [cityQuery, setCityQuery] = useState("");
   const [showOnlyResults, setShowOnlyResults] = useState(false);
+  const [africaDiscoverySources, setAfricaDiscoverySources] = useState([]);
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -109,8 +110,10 @@ function App() {
       fetch(`${base}data/media-oceania-local-3.json`).then((r) => r.ok ? r.json() : []),
       fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
       fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : [])
-     ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, global1MediaData, global2MediaData, global3MediaData, global4MediaData, asiaAfricaOceaniaData, africa1MediaData, africa2MediaData, indiaMediaData, chinaMediaData, china2MediaData, northeastAsiaRussiaData, asiaCentral2Data, southAsia2Data, southeastAsia2Data, westAsia2Data, westAsiaLocal3Data, oceaniaLocal2Data, oceaniaLocal3Data, categoryData, stateData, geographyData]) => {
+      fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : []),
+      fetch(`${base}data/discovery-sources-africa.json`).then((r) => r.ok ? r.json() : [])
+     ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, global1MediaData, global2MediaData, global3MediaData, global4MediaData, asiaAfricaOceaniaData, africa1MediaData, africa2MediaData, indiaMediaData, chinaMediaData, china2MediaData, northeastAsiaRussiaData, asiaCentral2Data, southAsia2Data, southeastAsia2Data, westAsia2Data, westAsiaLocal3Data, oceaniaLocal2Data, oceaniaLocal3Data, categoryData, stateData, geographyData, africaSourcesData]) => {
+      setAfricaDiscoverySources(Array.isArray(africaSourcesData) ? africaSourcesData : []);
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
       setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(global1MediaData) ? global1MediaData : []), ...(Array.isArray(global2MediaData) ? global2MediaData : []), ...(Array.isArray(global3MediaData) ? global3MediaData : []), ...(Array.isArray(global4MediaData) ? global4MediaData : []), ...(Array.isArray(asiaAfricaOceaniaData) ? asiaAfricaOceaniaData : []), ...(Array.isArray(africa1MediaData) ? africa1MediaData : []),
         ...(Array.isArray(africa2MediaData) ? africa2MediaData : []), ...(Array.isArray(indiaMediaData) ? indiaMediaData : []), ...(Array.isArray(chinaMediaData) ? chinaMediaData : []), ...(Array.isArray(china2MediaData) ? china2MediaData : []), ...(Array.isArray(northeastAsiaRussiaData) ? northeastAsiaRussiaData : []), ...(Array.isArray(asiaCentral2Data) ? asiaCentral2Data : []), ...(Array.isArray(southAsia2Data) ? southAsia2Data : []), ...(Array.isArray(southeastAsia2Data) ? southeastAsia2Data : []), ...(Array.isArray(westAsia2Data) ? westAsia2Data : []), ...(Array.isArray(westAsiaLocal3Data) ? westAsiaLocal3Data : []), ...(Array.isArray(oceaniaLocal2Data) ? oceaniaLocal2Data : []), ...(Array.isArray(oceaniaLocal3Data) ? oceaniaLocal3Data : [])]);
@@ -123,6 +126,7 @@ function App() {
       setCategories(fallbackCategories);
       setStates([]);
       setGeography([]);
+      setAfricaDiscoverySources([]);
     }).finally(() => setLoading(false));
   }, []);
 
@@ -264,6 +268,22 @@ function App() {
             })}
           </div>
           {!results.length && <div className="card empty">No hay coincidencias con los filtros actuales.</div>}
+        </section>
+
+        <section id="fuentes-africa" className="section">
+          <div className="sectionHead">
+            <div><span className="eyebrow">FUENTES DE DESCUBRIMIENTO</span><h2>Directorios y mapas de medios africanos</h2></div>
+            <span className="count">{africaDiscoverySources.length} fuentes</span>
+          </div>
+          <p className="geoNote">Estos recursos sirven para localizar y ampliar el catálogo de medios. No se muestran como periódicos ni como medios individuales.</p>
+          <div className="grid">
+            {africaDiscoverySources.map((source) => <article className="card" key={source.id}>
+              <h3>{source.name}</h3>
+              <p>{source.description}</p>
+              <div className="chips">{(source.focus || []).map((tag) => <span key={tag}>{tag}</span>)}</div>
+              <a href={source.url} target="_blank" rel="noreferrer">Abrir directorio ↗</a>
+            </article>)}
+          </div>
         </section>
 
         <section id="categorias" className="section">
