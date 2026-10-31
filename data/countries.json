@@ -1505,5 +1505,12 @@
     "continent": "Oceanía",
     "region": "Melanesia",
     "language": "fr"
+  },
+  {
+    "id": "NRU",
+    "name": "Nauru",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "en"
   }
 ]
