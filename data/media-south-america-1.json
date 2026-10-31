@@ -2461,14 +2461,14 @@
   },
   {
     "id": "MED-SA-ADD-2026-083",
-    "name": "Diario del Huila",
+    "name": "El Nuevo Siglo",
     "country": "COL",
     "continent": "América",
     "continent_region": "Sudamérica",
-    "admin1_name": "Huila",
-    "admin1_type": "provincia/departamento",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "departamento",
     "state": null,
-    "city": "Neiva",
+    "city": "Bogotá",
     "language": "es",
     "languages": [
       "es"
@@ -2477,17 +2477,18 @@
     "categories": [
       "general-news",
       "local-news",
-      "regional-news"
+      "regional-news",
+      "newspaper"
     ],
-    "official_url": "https://diariodelhuila.com/",
+    "official_url": "https://www.elnuevosiglo.com.co/",
     "coverage": [
-      "Huila",
-      "Neiva"
+      "Bogotá D.C.",
+      "Bogotá"
     ],
     "status": "pending_verification",
     "discovery_source": "Directorios de prensa regional, registros públicos de medios y directorios nacionales de radio/televisión; incorporación como candidato, pendiente de comprobación individual.",
     "source_url": "https://www.mintic.gov.co/portal/maparadio/842/w3-channel.html",
-    "verification_note": "Registro nuevo de ampliación sudamericana. La URL, vigencia, identidad editorial, localidad y cobertura deben verificarse individualmente; no se considera verificado."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-084",
@@ -3544,33 +3545,34 @@
   },
   {
     "id": "MED-SA-ADD-2026-119",
-    "name": "El Austral de Osorno",
+    "name": "Radio Universidad de Chile",
     "country": "CHL",
     "continent": "América",
     "continent_region": "Sudamérica",
-    "admin1_name": "Los Lagos",
+    "admin1_name": "Metropolitana",
     "admin1_type": "región",
     "state": null,
-    "city": "Osorno",
+    "city": "Santiago",
     "language": "es",
     "languages": [
       "es"
     ],
-    "type": "newspaper",
+    "type": "radio",
     "categories": [
       "general-news",
       "local-news",
-      "regional-news"
+      "regional-news",
+      "radio"
     ],
-    "official_url": "https://www.australosorno.cl/",
+    "official_url": "https://radio.uchile.cl/",
     "coverage": [
-      "Los Lagos",
-      "Osorno"
+      "Metropolitana",
+      "Santiago"
     ],
     "status": "pending_verification",
     "discovery_source": "Directorios de prensa regional, registros públicos de medios y directorios nacionales de radio/televisión; incorporación como candidato, pendiente de comprobación individual.",
     "source_url": "https://www.monitormunicipios.cl/medios",
-    "verification_note": "Registro nuevo de ampliación sudamericana. La URL, vigencia, identidad editorial, localidad y cobertura deben verificarse individualmente; no se considera verificado."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-120",
@@ -6877,14 +6879,14 @@
   },
   {
     "id": "MED-SA-ADD-2026-229",
-    "name": "Gazeta de Alagoas",
+    "name": "Folha de Londrina",
     "country": "BRA",
     "continent": "América",
     "continent_region": "Sudamérica",
-    "admin1_name": "Alagoas",
+    "admin1_name": "Paraná",
     "admin1_type": "estado",
     "state": null,
-    "city": "Maceió",
+    "city": "Londrina",
     "language": "pt",
     "languages": [
       "pt"
@@ -6893,17 +6895,18 @@
     "categories": [
       "general-news",
       "local-news",
-      "regional-news"
+      "regional-news",
+      "newspaper"
     ],
-    "official_url": "https://gazetadealagoas.com.br/",
+    "official_url": "https://www.folhadelondrina.com.br/",
     "coverage": [
-      "Alagoas",
-      "Maceió"
+      "Paraná",
+      "Londrina"
     ],
     "status": "pending_verification",
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
-    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-230",
@@ -7458,14 +7461,14 @@
   },
   {
     "id": "MED-SA-ADD-2026-248",
-    "name": "Radio Bío Bío Concepción",
+    "name": "Radio Agricultura",
     "country": "CHL",
     "continent": "América",
     "continent_region": "Sudamérica",
-    "admin1_name": "Biobío",
+    "admin1_name": "Metropolitana",
     "admin1_type": "región",
     "state": null,
-    "city": "Concepción",
+    "city": "Santiago",
     "language": "es",
     "languages": [
       "es"
@@ -7477,15 +7480,15 @@
       "regional-news",
       "radio"
     ],
-    "official_url": "https://www.biobiochile.cl/",
+    "official_url": "https://www.radioagricultura.cl/",
     "coverage": [
-      "Biobío",
-      "Concepción"
+      "Metropolitana",
+      "Santiago"
     ],
     "status": "pending_verification",
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
-    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-249",
@@ -7582,7 +7585,7 @@
   },
   {
     "id": "MED-SA-ADD-2026-252",
-    "name": "TV Perú",
+    "name": "Canal IPe",
     "country": "PER",
     "continent": "América",
     "continent_region": "Sudamérica",
@@ -7601,7 +7604,7 @@
       "regional-news",
       "television"
     ],
-    "official_url": "https://www.tvperu.gob.pe/",
+    "official_url": "https://canalipe.tv/",
     "coverage": [
       "Lima",
       "Lima"
@@ -7609,7 +7612,7 @@
     "status": "pending_verification",
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
-    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-253",
@@ -8698,7 +8701,7 @@
   },
   {
     "id": "MED-SA-ADD-2026-288",
-    "name": "RCI Guyane",
+    "name": "France-Antilles Guyane",
     "country": "GUF",
     "continent": "América",
     "continent_region": "Sudamérica",
@@ -8710,14 +8713,14 @@
     "languages": [
       "fr"
     ],
-    "type": "radio",
+    "type": "newspaper",
     "categories": [
       "general-news",
       "local-news",
       "regional-news",
-      "radio"
+      "newspaper"
     ],
-    "official_url": "https://www.rci.fm/",
+    "official_url": "https://www.franceantilles.fr/guyane/",
     "coverage": [
       "Guyane",
       "Cayenne"
@@ -8725,7 +8728,7 @@
     "status": "pending_verification",
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
-    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-289",
@@ -8915,7 +8918,7 @@
   },
   {
     "id": "MED-SA-ADD-2026-295",
-    "name": "Radio Exitosa",
+    "name": "Radio Ovación",
     "country": "PER",
     "continent": "América",
     "continent_region": "Sudamérica",
@@ -8934,7 +8937,7 @@
       "regional-news",
       "radio"
     ],
-    "official_url": "https://www.exitosanoticias.pe/",
+    "official_url": "https://ovacion.pe/",
     "coverage": [
       "Lima",
       "Lima"
@@ -8942,7 +8945,7 @@
     "status": "pending_verification",
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
-    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+    "verification_note": "Registro candidato de ampliación sudamericana; URL, actividad editorial, identidad y localización pendientes de verificación individual."
   },
   {
     "id": "MED-SA-ADD-2026-296",
