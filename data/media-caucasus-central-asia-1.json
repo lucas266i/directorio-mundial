@@ -1121,7 +1121,7 @@
   },
   {
     "id": "MED-ARM-2026-041",
-    "name": "News.am Russian",
+    "name": "ArmeniaNow",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1138,7 +1138,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://ru.news.am/",
+    "official_url": "https://armenianow.com/",
     "coverage": [
       "ARM"
     ],
@@ -1149,7 +1149,7 @@
   },
   {
     "id": "MED-ARM-2026-042",
-    "name": "News.am English",
+    "name": "Noyan Tapan",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1166,7 +1166,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://news.am/en/",
+    "official_url": "https://nt.am/",
     "coverage": [
       "ARM"
     ],
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "MED-ARM-2026-043",
-    "name": "Hetq English",
+    "name": "Epress.am Russian",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1194,7 +1194,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://hetq.am/en/",
+    "official_url": "https://epress.am/ru/",
     "coverage": [
       "ARM"
     ],
@@ -1205,7 +1205,7 @@
   },
   {
     "id": "MED-ARM-2026-044",
-    "name": "CivilNet English",
+    "name": "Armenian News Network",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1222,7 +1222,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://civilnet.am/en/",
+    "official_url": "https://groong.org/",
     "coverage": [
       "ARM"
     ],
@@ -1345,7 +1345,7 @@
   },
   {
     "id": "MED-ARM-2026-049",
-    "name": "168.am English",
+    "name": "Armenia Today",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1362,7 +1362,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://168.am/en/",
+    "official_url": "https://armeniatoday.news/",
     "coverage": [
       "ARM"
     ],
@@ -1373,7 +1373,7 @@
   },
   {
     "id": "MED-ARM-2026-050",
-    "name": "Armenian Public Radio News",
+    "name": "Armenian Weekly",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1390,7 +1390,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://en.armradio.am/",
+    "official_url": "https://armenianweekly.com/",
     "coverage": [
       "ARM"
     ],
@@ -4117,7 +4117,7 @@
   },
   {
     "id": "MED-GEO-2026-048",
-    "name": "Batumi TV / Adjara TV",
+    "name": "Adjara TV",
     "country": "GEO",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -4134,7 +4134,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https:// აჭარა.tv/",
+    "official_url": "https://ajaratv.ge/",
     "coverage": [
       "GEO"
     ],
