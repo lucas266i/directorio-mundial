@@ -282,7 +282,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -309,7 +309,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -498,7 +498,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -525,7 +525,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -957,7 +957,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -1146,7 +1146,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -1254,7 +1254,7 @@
     "languages": [
       "en"
     ],
-    "type": "newspaper",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -1281,7 +1281,7 @@
     "languages": [
       "en"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -1713,7 +1713,7 @@
     "languages": [
       "fr"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
@@ -1848,7 +1848,7 @@
     "languages": [
       "ar"
     ],
-    "type": "television",
+    "type": "news-agency",
     "categories": [
       "general-news",
       "regional-news",
@@ -1875,7 +1875,7 @@
     "languages": [
       "ar"
     ],
-    "type": "television",
+    "type": "radio",
     "categories": [
       "general-news",
       "regional-news",
