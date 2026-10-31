@@ -1,0 +1,2628 @@
+[
+  {
+    "id": "MED-JPN-2026-201",
+    "name": "To-o Nippo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Aomori",
+    "state": "Aomori",
+    "city": "Aomori",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.toonippo.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-202",
+    "name": "Mutsu Shimpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Aomori",
+    "state": "Aomori",
+    "city": "Hirosaki",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://mutsushimpo.com/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-203",
+    "name": "Daily Tohoku",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Aomori",
+    "state": "Aomori",
+    "city": "Hachinohe",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.daily-tohoku.news/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-204",
+    "name": "Iwate Nippo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Iwate",
+    "state": "Iwate",
+    "city": "Morioka",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.iwate-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-205",
+    "name": "Iwate Nichinichi",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Iwate",
+    "state": "Iwate",
+    "city": "Ichinoseki",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.iwanichi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-206",
+    "name": "Akita Sakigake",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Akita",
+    "state": "Akita",
+    "city": "Akita",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.sakigake.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-207",
+    "name": "Yamagata Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Yamagata",
+    "state": "Yamagata",
+    "city": "Yamagata",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.yamagata-np.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-208",
+    "name": "Shonai Nippo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Yamagata",
+    "state": "Yamagata",
+    "city": "Tsuruoka",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.shonai-nippo.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-209",
+    "name": "Fukushima Minpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Fukushima",
+    "state": "Fukushima",
+    "city": "Fukushima",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.minpo.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-210",
+    "name": "Fukushima Minyu",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Fukushima",
+    "state": "Fukushima",
+    "city": "Fukushima",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.minyu-net.com/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-211",
+    "name": "Ibaraki Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Ibaraki",
+    "state": "Ibaraki",
+    "city": "Mito",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ibarakinews.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-212",
+    "name": "Jomo Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gunma",
+    "state": "Gunma",
+    "city": "Maebashi",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.jomo-news.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-213",
+    "name": "Shimotsuke Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Tochigi",
+    "state": "Tochigi",
+    "city": "Utsunomiya",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.shimotsuke.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-214",
+    "name": "Saitama Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Saitama",
+    "state": "Saitama",
+    "city": "Saitama",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.saitama-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-215",
+    "name": "Chiba Nippo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Chiba",
+    "state": "Chiba",
+    "city": "Chiba",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.chibanippo.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-216",
+    "name": "Kanagawa Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kanagawa",
+    "state": "Kanagawa",
+    "city": "Yokohama",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kanaloco.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-217",
+    "name": "Niigata Nippo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Niigata",
+    "state": "Niigata",
+    "city": "Niigata",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.niigata-nippo.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-218",
+    "name": "Hokkoku Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Ishikawa",
+    "state": "Ishikawa",
+    "city": "Kanazawa",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hokkoku.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-219",
+    "name": "Kitanihon Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Toyama",
+    "state": "Toyama",
+    "city": "Toyama",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://webun.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-220",
+    "name": "Fukui Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Fukui",
+    "state": "Fukui",
+    "city": "Fukui",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.fukuishimbun.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi y Japan Newspaper Association",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-201",
+    "name": "Gangwon Domin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gangwon",
+    "state": "Gangwon",
+    "city": "Chuncheon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kado.net/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-202",
+    "name": "Kangwon Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gangwon",
+    "state": "Gangwon",
+    "city": "Chuncheon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kwnews.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-203",
+    "name": "Gyeonggi Daily",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeonggi",
+    "state": "Gyeonggi",
+    "city": "Hwaseong",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kgdm.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-204",
+    "name": "Gyeonggi Maeil",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeonggi",
+    "state": "Gyeonggi",
+    "city": "Ansan",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kgmaeil.net/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-205",
+    "name": "Gyeonggi Shinmun",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeonggi",
+    "state": "Gyeonggi",
+    "city": "Suwon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kgnews.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-206",
+    "name": "Gyeonggi Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeonggi",
+    "state": "Gyeonggi",
+    "city": "Suwon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kgib.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-207",
+    "name": "Gyeongnam Domin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "South Gyeongsang",
+    "state": "South Gyeongsang",
+    "city": "Changwon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.idomin.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-208",
+    "name": "Gyeongnam Shinmun",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "South Gyeongsang",
+    "state": "South Gyeongsang",
+    "city": "Changwon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.knnews.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-209",
+    "name": "Gyeongbuk Domin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "North Gyeongsang",
+    "state": "North Gyeongsang",
+    "city": "Pohang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hidomin.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-210",
+    "name": "Gyeongbuk Maeil",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "North Gyeongsang",
+    "state": "North Gyeongsang",
+    "city": "Pohang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kbmaeil.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-211",
+    "name": "Kyungsang Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Ulsan",
+    "state": "Ulsan",
+    "city": "Ulsan",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ksilbo.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-212",
+    "name": "Gyeongin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeonggi",
+    "state": "Gyeonggi",
+    "city": "Suwon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kyeongin.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-213",
+    "name": "Gwangnam Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gwangju",
+    "state": "Gwangju",
+    "city": "Gwangju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.gwangnam.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-214",
+    "name": "Gwangju Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gwangju",
+    "state": "Gwangju",
+    "city": "Gwangju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kwangju.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-215",
+    "name": "Kookje Shinmun",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Busan",
+    "state": "Busan",
+    "city": "Busan",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pusannews.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-216",
+    "name": "Kiho Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Incheon",
+    "state": "Incheon",
+    "city": "Incheon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kihoilbo.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-217",
+    "name": "Namdo Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gwangju",
+    "state": "Gwangju",
+    "city": "Gwangju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.namdonews.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-218",
+    "name": "Daegu Shinmun",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Daegu",
+    "state": "Daegu",
+    "city": "Daegu",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.idaegu.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-219",
+    "name": "Daegu Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Daegu",
+    "state": "Daegu",
+    "city": "Daegu",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.idaegu.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-KOR-2026-220",
+    "name": "Daejeon Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Daejeon",
+    "state": "Daejeon",
+    "city": "Daejeon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.daejonilbo.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Media Map; Korea Press Foundation; perfiles de medios locales",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-201",
+    "name": "Aginskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Zabaykalsky Krai",
+    "state": "Zabaykalsky Krai",
+    "city": "Aginskoye",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.aginsk-pravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-202",
+    "name": "Blagovest Ryazan",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Ryazan Oblast",
+    "state": "Ryazan Oblast",
+    "city": "Ryazan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.blagovesti.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-203",
+    "name": "Blagovest Samara",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Samara Oblast",
+    "state": "Samara Oblast",
+    "city": "Samara",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://благовестсамара.рф/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-204",
+    "name": "Vecherniy Stavropol",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Stavropol Krai",
+    "state": "Stavropol Krai",
+    "city": "Stavropol",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vechorka.ru/newspaper",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-205",
+    "name": "Vladimirskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Vladimir Oblast",
+    "state": "Vladimir Oblast",
+    "city": "Vladimir",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vedom.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-206",
+    "name": "Volgogradskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Volgograd Oblast",
+    "state": "Volgograd Oblast",
+    "city": "Volgograd",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-207",
+    "name": "Volnaya Kuban",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Krasnodar Krai",
+    "state": "Krasnodar Krai",
+    "city": "Krasnodar",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.gazetavk.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-208",
+    "name": "Gubernskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Sakhalin Oblast",
+    "state": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.skr.su/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-209",
+    "name": "Zvezda Altaya",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Altai Republic",
+    "state": "Altai Republic",
+    "city": "Gorno-Altaysk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://zvezdaaltaya.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-210",
+    "name": "Izvestia Udmurtskoy Respubliki",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Udmurtia",
+    "state": "Udmurtia",
+    "city": "Izhevsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.izvestiaur.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-211",
+    "name": "Kabardino-Balkarskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Kabardino-Balkaria",
+    "state": "Kabardino-Balkaria",
+    "city": "Nalchik",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kbpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-212",
+    "name": "Kamchatskiy Kray",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Kamchatka Krai",
+    "state": "Kamchatka Krai",
+    "city": "Petropavlovsk-Kamchatsky",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://kam-kray.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-213",
+    "name": "Karelia",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Karelia",
+    "state": "Karelia",
+    "city": "Petrozavodsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://gazeta-karelia.ru/arhiv-gazety-kareliya/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-214",
+    "name": "Kirovskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Kirov Oblast",
+    "state": "Kirov Oblast",
+    "city": "Kirov",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://kirovpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-215",
+    "name": "Kostromskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Kostroma Oblast",
+    "state": "Kostroma Oblast",
+    "city": "Kostroma",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.44kv.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-216",
+    "name": "Krasny Sever",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Vologda Oblast",
+    "state": "Vologda Oblast",
+    "city": "Vologda",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.krassever.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-217",
+    "name": "Nizhegorodskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Nizhny Novgorod Oblast",
+    "state": "Nizhny Novgorod Oblast",
+    "city": "Nizhny Novgorod",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pravda-nn.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-218",
+    "name": "Novy Mir Kurgan",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Kurgan Oblast",
+    "state": "Kurgan Oblast",
+    "city": "Kurgan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nm45.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-219",
+    "name": "Oblastnaya Gazeta",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Sverdlovsk Oblast",
+    "state": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.oblgazeta.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-220",
+    "name": "Penzenskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Penza Oblast",
+    "state": "Penza Oblast",
+    "city": "Penza",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pravda-news.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-221",
+    "name": "Pravoslavnaya Gazeta",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Sverdlovsk Oblast",
+    "state": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://orthodox-newspaper.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-222",
+    "name": "Pskovskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Pskov Oblast",
+    "state": "Pskov Oblast",
+    "city": "Pskov",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://pravdapskov.ru/newspapers?page=50",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-223",
+    "name": "Rabochiy Krai",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Ivanovo Oblast",
+    "state": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://rk37.ru/newspapers",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-224",
+    "name": "Respublika Tatarstan",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tatarstan",
+    "state": "Tatarstan",
+    "city": "Kazan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://rt-online.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-225",
+    "name": "Sankt-Peterburgskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Saint Petersburg",
+    "state": "Saint Petersburg",
+    "city": "Saint Petersburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://spbvedomosti.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-226",
+    "name": "Tambovskaya Zhizn",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tambov Oblast",
+    "state": "Tambov Oblast",
+    "city": "Tambov",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://tamlife.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-227",
+    "name": "Tverskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tver Oblast",
+    "state": "Tver Oblast",
+    "city": "Tver",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vedtver.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-228",
+    "name": "Tuvinskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tuva",
+    "state": "Tuva",
+    "city": "Kyzyl",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.tuvapravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-229",
+    "name": "Tulskie Izvestiya",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tula Oblast",
+    "state": "Tula Oblast",
+    "city": "Tula",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://ti71.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-230",
+    "name": "Tyumenskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Tyumen Oblast",
+    "state": "Tyumen Oblast",
+    "city": "Tyumen",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://tyum-pravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-231",
+    "name": "Ulyanovskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Ulyanovsk Oblast",
+    "state": "Ulyanovsk Oblast",
+    "city": "Ulyanovsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ulpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-232",
+    "name": "Khakassia Gazette",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Khakassia",
+    "state": "Khakassia",
+    "city": "Abakan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://gazeta19.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-233",
+    "name": "Yuzhny Ural",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Chelyabinsk Oblast",
+    "state": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://yuzh-ural.ru/product/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-234",
+    "name": "Altaiskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Altai Krai",
+    "state": "Altai Krai",
+    "city": "Barnaul",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ap22.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-235",
+    "name": "Vecherniy Barnaul",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Altai Krai",
+    "state": "Altai Krai",
+    "city": "Barnaul",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://barnaul.press/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-236",
+    "name": "Pravda Severa",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Arkhangelsk Oblast",
+    "state": "Arkhangelsk Oblast",
+    "city": "Arkhangelsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://pravdasevera.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-237",
+    "name": "Volga-Kaspiy",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Astrakhan Oblast",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://volga-kaspiy.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-238",
+    "name": "Vechernyaya Ufa",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Bashkortostan",
+    "state": "Bashkortostan",
+    "city": "Ufa",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vechufa.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-239",
+    "name": "Respublika Bashkortostan",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Bashkortostan",
+    "state": "Bashkortostan",
+    "city": "Ufa",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://resbash.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-240",
+    "name": "Belgorodskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Belgorod Oblast",
+    "state": "Belgorod Oblast",
+    "city": "Belgorod",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.belpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-241",
+    "name": "Bryanskiy Rabochiy",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Bryansk Oblast",
+    "state": "Bryansk Oblast",
+    "city": "Bryansk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://bryansku.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-242",
+    "name": "Bryanskie Fakty",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Bryansk Oblast",
+    "state": "Bryansk Oblast",
+    "city": "Bryansk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://bryansk.news/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-243",
+    "name": "Chelyabinskiy Rabochiy",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Chelyabinsk Oblast",
+    "state": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://chelrab.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-244",
+    "name": "Yuzhnouralskaya Panorama",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Chelyabinsk Oblast",
+    "state": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://up74.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-245",
+    "name": "Vesti Chuvashii",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Chuvashia",
+    "state": "Chuvashia",
+    "city": "Cheboksary",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vesti21.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-246",
+    "name": "Sovetskaya Chuvashia",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Chuvashia",
+    "state": "Chuvashia",
+    "city": "Cheboksary",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://sovch.chuvashia.com/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-247",
+    "name": "Dagestanskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Dagestan",
+    "state": "Dagestan",
+    "city": "Makhachkala",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://dagevesti.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-248",
+    "name": "Novoye Delo",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Dagestan",
+    "state": "Dagestan",
+    "city": "Makhachkala",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ndelo.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-249",
+    "name": "Vostochno-Sibirskaya Pravda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Irkutsk Oblast",
+    "state": "Irkutsk Oblast",
+    "city": "Irkutsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.vsp.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-250",
+    "name": "Ivanovskaya Gazeta",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Ivanovo Oblast",
+    "state": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ivgazeta.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-251",
+    "name": "Fontanka",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Europa oriental",
+    "admin1_name": "Saint Petersburg",
+    "state": "Saint Petersburg",
+    "city": "Saint Petersburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.fontanka.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca Histórica Pública Estatal de Rusia y WPS Russian Media Monitoring Agency",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-001",
+    "name": "Korean Central News Agency",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kcna.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-002",
+    "name": "Rodong Sinmun",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.rodong.rep.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-003",
+    "name": "Minju Choson",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://minzu.rep.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-004",
+    "name": "The Pyongyang Times",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.pyongyangtimes.com.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-005",
+    "name": "Voice of Korea",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "general-news"
+    ],
+    "official_url": "https://vok.rep.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-006",
+    "name": "Naenara",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://naenara.com.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-007",
+    "name": "Tongil Sinbo",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://tongilvoice.com/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-008",
+    "name": "Korea Today",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "magazine",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://koreatoday.com.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-009",
+    "name": "Kumsugangsan",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Pyongyang",
+    "state": "Pyongyang",
+    "city": "Pyongyang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "magazine",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://kumsugangsan.com.kp/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-PRK-2026-010",
+    "name": "KCNA Watch archive",
+    "country": "PRK",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Outside North Korea",
+    "state": "Outside North Korea",
+    "city": "External archive",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "media-archive",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://kcnawatch.org/",
+    "coverage": [
+      "PRK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
+    "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  }
+]
