@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "MED-AF-2026-101",
+    "name": "Botswana Guardian",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.botswanaguardian.co.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-102",
+    "name": "The Patriot on Sunday",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thepatriot.co.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-103",
+    "name": "The Weekend Post",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://weekendpost.co.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-104",
+    "name": "Botswana Daily News",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://dailynews.gov.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-105",
+    "name": "Botswana Unplugged",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://botswanaunplugged.com",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-106",
+    "name": "The Monitor Botswana",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.themonitor.co.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-107",
+    "name": "The Voice Botswana",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "North-East",
+    "state": "North-East",
+    "city": "Francistown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thevoicebw.com",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-108",
+    "name": "Business Weekly & Review",
+    "country": "BWA",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "South-East",
+    "state": "South-East",
+    "city": "Gaborone",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://businessweekly.co.bw",
+    "coverage": [
+      "BWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-109",
+    "name": "The Nairobian",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.standardmedia.co.ke/thenairobian",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-110",
+    "name": "NTV Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://ntvkenya.co.ke",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-111",
+    "name": "Kameme FM",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.kameme.co.ke",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-112",
+    "name": "Radio Citizen",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.radiocitizen.co.ke",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-113",
+    "name": "The New Telegraph",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://newtelegraphng.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-114",
+    "name": "The Will",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thewillnews.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-115",
+    "name": "Nigerian Observer",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Edo",
+    "state": "Edo",
+    "city": "Benin City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://nigerianobservernews.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-116",
+    "name": "National Economy",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://nationaleconomy.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-117",
+    "name": "NTA News",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "FCT",
+    "state": "FCT",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nta.ng",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-118",
+    "name": "AIT News",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://ait.live",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-119",
+    "name": "Freedom Radio",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Kano",
+    "state": "Kano",
+    "city": "Kano",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://freedomradionig.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-120",
+    "name": "Wazobia FM",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://wazobiafm.com",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-121",
+    "name": "GBC Ghana Online",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gbcghanaonline.com",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-122",
+    "name": "Metro TV Ghana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://metrotvonline.com",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-123",
+    "name": "Times of Zambia",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Copperbelt",
+    "state": "Copperbelt",
+    "city": "Ndola",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.times.co.zm",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-124",
+    "name": "Zambian Watchdog",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.zambianwatchdog.com",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-125",
+    "name": "Mwebantu",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mwebantu.com",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-126",
+    "name": "Zambia Monitor",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.zambiamonitor.com",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-127",
+    "name": "Zambian Business Times",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://zambianbusinesstimes.com",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-128",
+    "name": "Diamond TV Zambia",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://diamondtvzambia.com",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-129",
+    "name": "ZNBC",
+    "country": "ZMB",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Lusaka",
+    "state": "Lusaka",
+    "city": "Lusaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.znbc.co.zm",
+    "coverage": [
+      "ZMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-130",
+    "name": "Wasafi TV",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://wasafimedia.co.tz",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-131",
+    "name": "ITV Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.itv.co.tz",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-132",
+    "name": "TBC Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tbc.go.tz",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-133",
+    "name": "Windhoek Observer",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.observer24.com.na",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-134",
+    "name": "Informanté",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://informante.web.na",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-135",
+    "name": "NBC Namibia",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://nbcnews.na",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-136",
+    "name": "Fresh FM Namibia",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://freshfm.com.na",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-137",
+    "name": "One Africa TV",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://oneafrica.tv",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-138",
+    "name": "Bulawayo24",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Bulawayo",
+    "state": "Bulawayo",
+    "city": "Bulawayo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://bulawayo24.com",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-139",
+    "name": "Pindula News",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pindula.co.zw",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-140",
+    "name": "ZimEye",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.zimeye.net",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-141",
+    "name": "Zimbabwe Independent",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theindependent.co.zw",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-142",
+    "name": "The Sunday Mail Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sundaymail.co.zw",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-143",
+    "name": "Star FM Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://starfm.co.zw",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-144",
+    "name": "ZBC News",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.zbcnews.co.zw",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-145",
+    "name": "Malawi24",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Southern Region",
+    "state": "Southern Region",
+    "city": "Blantyre",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://malawi24.com",
+    "coverage": [
+      "MWI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-146",
+    "name": "Times 360 Malawi",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Southern Region",
+    "state": "Southern Region",
+    "city": "Blantyre",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://times.mw",
+    "coverage": [
+      "MWI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-147",
+    "name": "Malawi News Agency",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Central Region",
+    "state": "Central Region",
+    "city": "Lilongwe",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://manaonline.gov.mw",
+    "coverage": [
+      "MWI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-148",
+    "name": "Zodiak Broadcasting Station",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Central Region",
+    "state": "Central Region",
+    "city": "Lilongwe",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://zodiakmalawi.com",
+    "coverage": [
+      "MWI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-149",
+    "name": "MBC Malawi",
+    "country": "MWI",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Southern Region",
+    "state": "Southern Region",
+    "city": "Blantyre",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mbc.mw",
+    "coverage": [
+      "MWI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-150",
+    "name": "The Reporter Lesotho",
+    "country": "LSO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Maseru",
+    "state": "Maseru",
+    "city": "Maseru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://theroof.co.ls",
+    "coverage": [
+      "LSO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-151",
+    "name": "Public Eye Lesotho",
+    "country": "LSO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Maseru",
+    "state": "Maseru",
+    "city": "Maseru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://publiceyenews.com",
+    "coverage": [
+      "LSO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-152",
+    "name": "Lesotho Tribune",
+    "country": "LSO",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Maseru",
+    "state": "Maseru",
+    "city": "Maseru",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://lesothotribune.co.ls",
+    "coverage": [
+      "LSO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-153",
+    "name": "Eswatini Financial Times",
+    "country": "SWZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Hhohho",
+    "state": "Hhohho",
+    "city": "Mbabane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.times.co.sz",
+    "coverage": [
+      "SWZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-154",
+    "name": "Eswatini Daily News",
+    "country": "SWZ",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Hhohho",
+    "state": "Hhohho",
+    "city": "Mbabane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gov.sz",
+    "coverage": [
+      "SWZ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-155",
+    "name": "Alwihda Info",
+    "country": "TCD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "N'Djamena",
+    "state": "N'Djamena",
+    "city": "N'Djamena",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alwihdainfo.com",
+    "coverage": [
+      "TCD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-156",
+    "name": "Tchadinfos",
+    "country": "TCD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "N'Djamena",
+    "state": "N'Djamena",
+    "city": "N'Djamena",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://tchadinfos.com",
+    "coverage": [
+      "TCD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-157",
+    "name": "Les Dépêches de Brazzaville",
+    "country": "COG",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Brazzaville",
+    "state": "Brazzaville",
+    "city": "Brazzaville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.adiac-congo.com",
+    "coverage": [
+      "COG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-158",
+    "name": "Radio Okapi",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.radiookapi.net",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-159",
+    "name": "Mediacongo",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mediacongo.net",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-160",
+    "name": "RTNC",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://rtnc.cd",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-161",
+    "name": "Actu Cameroun",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Littoral",
+    "state": "Littoral",
+    "city": "Douala",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://actucameroun.com",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-162",
+    "name": "Mutations",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Centre",
+    "state": "Centre",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mutations.cm",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-163",
+    "name": "DBS TV",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Littoral",
+    "state": "Littoral",
+    "city": "Douala",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://dbstv.cm",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-164",
+    "name": "Kalak FM",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Centre",
+    "state": "Centre",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kalakfm.com",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-165",
+    "name": "Gabonreview",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Estuaire",
+    "state": "Estuaire",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gabonreview.com",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-166",
+    "name": "Gabonactu",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Estuaire",
+    "state": "Estuaire",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://gabonactu.com",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-167",
+    "name": "Echos du Nord",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Estuaire",
+    "state": "Estuaire",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://echosdunord.net",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-168",
+    "name": "Nawaat",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tunis",
+    "state": "Tunis",
+    "city": "Tunis",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://nawaat.org",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-169",
+    "name": "TAP Tunisia",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tunis",
+    "state": "Tunis",
+    "city": "Tunis",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tap.info.tn",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-170",
+    "name": "Mosaïque FM",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tunis",
+    "state": "Tunis",
+    "city": "Tunis",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mosaiquefm.net",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-171",
+    "name": "Alchourouk",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tunis",
+    "state": "Tunis",
+    "city": "Tunis",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alchourouk.com",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-172",
+    "name": "Le360",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://fr.le360.ma",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-173",
+    "name": "Assabah Morocco",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://assabah.ma",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-174",
+    "name": "MAP Express",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Rabat-Salé-Kénitra",
+    "state": "Rabat-Salé-Kénitra",
+    "city": "Rabat",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mapexpress.ma",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-175",
+    "name": "2M Maroc",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://2m.ma",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-176",
+    "name": "SNRT",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Rabat-Salé-Kénitra",
+    "state": "Rabat-Salé-Kénitra",
+    "city": "Rabat",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.snrt.ma",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-177",
+    "name": "Sud Quotidien",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sudquotidien.sn",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-178",
+    "name": "WalFadjri",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.walf-groupe.com",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  },
+  {
+    "id": "MED-AF-2026-179",
+    "name": "RTS Senegal",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rts.sn",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Social Light Africa coverage directory; Crosswire open outlet directory; Newspapers Online Africa directory; CivicSignal / Code for Africa media mapping.",
+    "verification_note": "Entrada identificada en directorios de medios africanos. URL, actividad editorial y sede requieren comprobación individual; pendiente de verificación."
+  }
+]
