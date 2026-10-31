@@ -6815,5 +6815,2041 @@
     "discovery_source": "Directorios de prensa regional, registros públicos de medios y directorios nacionales de radio/televisión; incorporación como candidato, pendiente de comprobación individual.",
     "source_url": "https://www.periodicos.com.ar/periodicos/sudamerica/",
     "verification_note": "Registro nuevo de ampliación sudamericana. La URL, vigencia, identidad editorial, localidad y cobertura deben verificarse individualmente; no se considera verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-227",
+    "name": "Ecos Diarios",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Necochea",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.ecosdiariosweb.com.ar/",
+    "coverage": [
+      "Buenos Aires",
+      "Necochea"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-228",
+    "name": "El Eco de Tandil",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Tandil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.eleco.com.ar/",
+    "coverage": [
+      "Buenos Aires",
+      "Tandil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-229",
+    "name": "Gazeta de Alagoas",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Alagoas",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Maceió",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://gazetadealagoas.com.br/",
+    "coverage": [
+      "Alagoas",
+      "Maceió"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-230",
+    "name": "Jornal Opção",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Goiás",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Goiânia",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.jornalopcao.com.br/",
+    "coverage": [
+      "Goiás",
+      "Goiânia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-231",
+    "name": "Diário da Manhã",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Goiás",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Goiânia",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.dm.com.br/",
+    "coverage": [
+      "Goiás",
+      "Goiânia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-232",
+    "name": "Campo Grande News",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mato Grosso do Sul",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Campo Grande",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.campograndenews.com.br/",
+    "coverage": [
+      "Mato Grosso do Sul",
+      "Campo Grande"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-233",
+    "name": "Midiamax",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mato Grosso do Sul",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Campo Grande",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://midiamax.com.br/",
+    "coverage": [
+      "Mato Grosso do Sul",
+      "Campo Grande"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-234",
+    "name": "Gazeta Digital",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mato Grosso",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Cuiabá",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.gazetadigital.com.br/",
+    "coverage": [
+      "Mato Grosso",
+      "Cuiabá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-235",
+    "name": "Olhar Direto",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mato Grosso",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Cuiabá",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.olhardireto.com.br/",
+    "coverage": [
+      "Mato Grosso",
+      "Cuiabá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-236",
+    "name": "A Gazeta MT",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mato Grosso",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Cuiabá",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.agazetamt.com.br/",
+    "coverage": [
+      "Mato Grosso",
+      "Cuiabá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-237",
+    "name": "Telecaribe",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Atlántico",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Barranquilla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.telecaribe.co/",
+    "coverage": [
+      "Atlántico",
+      "Barranquilla"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-238",
+    "name": "Telepacífico",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Valle del Cauca",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Cali",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://telepacifico.com/",
+    "coverage": [
+      "Valle del Cauca",
+      "Cali"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-239",
+    "name": "Canal TRO",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santander",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bucaramanga",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://canaltro.com/",
+    "coverage": [
+      "Santander",
+      "Bucaramanga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-240",
+    "name": "Telecafé",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Caldas",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Manizales",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://telecafe.gov.co/",
+    "coverage": [
+      "Caldas",
+      "Manizales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-241",
+    "name": "Canal Capital",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.canalcapital.gov.co/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-242",
+    "name": "Citytv",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://citytv.eltiempo.com/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-243",
+    "name": "Radio Nacional de Colombia",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radionacional.co/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-244",
+    "name": "Canal Institucional",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.canalinstitucional.tv/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-245",
+    "name": "Emisora Cultural Universidad de Antioquia",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Antioquia",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.udea.edu.co/",
+    "coverage": [
+      "Antioquia",
+      "Medellín"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-246",
+    "name": "Radio UIS",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santander",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Bucaramanga",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://radio.uis.edu.co/",
+    "coverage": [
+      "Santander",
+      "Bucaramanga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-247",
+    "name": "La Voz del Cinaruco",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Arauca",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Arauca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://lavozdelcinaruco.com/",
+    "coverage": [
+      "Arauca",
+      "Arauca"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-248",
+    "name": "Radio Bío Bío Concepción",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Biobío",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Concepción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.biobiochile.cl/",
+    "coverage": [
+      "Biobío",
+      "Concepción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-249",
+    "name": "Radio Nacional del Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radionacional.gob.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-250",
+    "name": "Radio Santa Rosa",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radiosantarosa.com.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-251",
+    "name": "Radio San Borja",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radiosanborja.com/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-252",
+    "name": "TV Perú",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.tvperu.gob.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-253",
+    "name": "Panamericana Televisión",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
+    "state": null,
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://panamericana.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-254",
+    "name": "Radio La Voz de la Península",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santa Elena",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "La Libertad",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.lavozdelapeninsula.com/",
+    "coverage": [
+      "Santa Elena",
+      "La Libertad"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-255",
+    "name": "Radio CRE",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guayas",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.cre.com.ec/",
+    "coverage": [
+      "Guayas",
+      "Guayaquil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-256",
+    "name": "Radio Democracia",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://radiodemocracia.com/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-257",
+    "name": "Radio Canela",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.canela.com.ec/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-258",
+    "name": "Gamavisión",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.gamavision.com/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-259",
+    "name": "RTS Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guayas",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.rts.com.ec/",
+    "coverage": [
+      "Guayas",
+      "Guayaquil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-260",
+    "name": "Oromar TV",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Manabí",
+    "admin1_type": "provincia",
+    "state": null,
+    "city": "Manta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://oromartv.com/",
+    "coverage": [
+      "Manabí",
+      "Manta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-261",
+    "name": "Venezolana de Televisión",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.vtv.gob.ve/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-262",
+    "name": "Televen",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://televen.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-263",
+    "name": "Venevisión",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.venevision.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-264",
+    "name": "Radio Fe y Alegría Noticias",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radiofeyalegrianoticias.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-265",
+    "name": "Unión Radio",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://unionradio.net/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-266",
+    "name": "YVKE Mundial",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "estado",
+    "state": null,
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://radiomundial.com.ve/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-267",
+    "name": "Cadena A",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.cadenaa.tv/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-268",
+    "name": "RTP Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.rtpbolivia.com.bo/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-269",
+    "name": "PAT Bolivia",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santa Cruz",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Santa Cruz de la Sierra",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.redpat.tv/",
+    "coverage": [
+      "Santa Cruz",
+      "Santa Cruz de la Sierra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-270",
+    "name": "Gigavisión",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santa Cruz",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Santa Cruz de la Sierra",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://gigavision.com/",
+    "coverage": [
+      "Santa Cruz",
+      "Santa Cruz de la Sierra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-271",
+    "name": "Radio Panamericana",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.panamericana.bo/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-272",
+    "name": "Unicanal",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.unicanal.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-273",
+    "name": "GEN Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://gen.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-274",
+    "name": "NPY",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://npy.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-275",
+    "name": "Radio Cardinal",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.cardinal.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-276",
+    "name": "Radio Aspen Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.aspen.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-277",
+    "name": "Radio 970 AM",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Central",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.970universal.com.py/",
+    "coverage": [
+      "Central",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-278",
+    "name": "TV Ciudad",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://tvciudad.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-279",
+    "name": "Canal 5 Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.canal5.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-280",
+    "name": "Radio El Espectador",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://espectador.com/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-281",
+    "name": "Del Sol FM",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://delsol.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-282",
+    "name": "Azul FM",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "departamento",
+    "state": null,
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://azulfm.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-283",
+    "name": "HGPTV Guyana",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://www.hgptv.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-284",
+    "name": "Demerara TV",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://demeraratv.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-285",
+    "name": "Guyana Broadcasting Corporation",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://gbc.gy/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-286",
+    "name": "Radio Guyana International",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://radioguyana.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-287",
+    "name": "Trishul TV",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paramaribo",
+    "admin1_type": "district",
+    "state": null,
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "television"
+    ],
+    "official_url": "https://trishultv.com/",
+    "coverage": [
+      "Paramaribo",
+      "Paramaribo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-288",
+    "name": "RCI Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guyane",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.rci.fm/",
+    "coverage": [
+      "Guyane",
+      "Cayenne"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-289",
+    "name": "NRJ Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guyane",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.nrj.fr/",
+    "coverage": [
+      "Guyane",
+      "Cayenne"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-290",
+    "name": "Radio Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guyane",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radioguyane.com/",
+    "coverage": [
+      "Guyane",
+      "Cayenne"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-291",
+    "name": "Atlantica Guyane",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guyane",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.atlantica.fr/",
+    "coverage": [
+      "Guyane",
+      "Cayenne"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-292",
+    "name": "Radio Pégasus",
+    "country": "GUF",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guyane",
+    "admin1_type": "region",
+    "state": null,
+    "city": "Cayenne",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radiopegasus.com/",
+    "coverage": [
+      "Guyane",
+      "Cayenne"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
+    "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
+    "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
   }
 ]
