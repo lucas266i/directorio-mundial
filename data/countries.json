@@ -1512,5 +1512,187 @@
     "continent": "Oceanía",
     "region": "Micronesia",
     "language": "en"
+  },
+  {
+    "id": "BEN",
+    "name": "Benín",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "BFA",
+    "name": "Burkina Faso",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "BDI",
+    "name": "Burundi",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "fr"
+  },
+  {
+    "id": "CPV",
+    "name": "Cabo Verde",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "pt"
+  },
+  {
+    "id": "CAF",
+    "name": "República Centroafricana",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "TCD",
+    "name": "Chad",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "COM",
+    "name": "Comoras",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "ar"
+  },
+  {
+    "id": "COD",
+    "name": "República Democrática del Congo",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "COG",
+    "name": "República del Congo",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "DJI",
+    "name": "Yibuti",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "fr"
+  },
+  {
+    "id": "GNQ",
+    "name": "Guinea Ecuatorial",
+    "continent": "África",
+    "region": "África central",
+    "language": "es"
+  },
+  {
+    "id": "ERI",
+    "name": "Eritrea",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "ti"
+  },
+  {
+    "id": "GAB",
+    "name": "Gabón",
+    "continent": "África",
+    "region": "África central",
+    "language": "fr"
+  },
+  {
+    "id": "GIN",
+    "name": "Guinea",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "GNB",
+    "name": "Guinea-Bisáu",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "pt"
+  },
+  {
+    "id": "LBY",
+    "name": "Libia",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
+  },
+  {
+    "id": "MLI",
+    "name": "Malí",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "MRT",
+    "name": "Mauritania",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "ar"
+  },
+  {
+    "id": "NER",
+    "name": "Níger",
+    "continent": "África",
+    "region": "África occidental",
+    "language": "fr"
+  },
+  {
+    "id": "STP",
+    "name": "Santo Tomé y Príncipe",
+    "continent": "África",
+    "region": "África central",
+    "language": "pt"
+  },
+  {
+    "id": "SOM",
+    "name": "Somalia",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "so"
+  },
+  {
+    "id": "SSD",
+    "name": "Sudán del Sur",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "en"
+  },
+  {
+    "id": "SDN",
+    "name": "Sudán",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "ar"
+  },
+  {
+    "id": "ESH",
+    "name": "Sáhara Occidental",
+    "continent": "África",
+    "region": "África septentrional",
+    "language": "ar"
+  },
+  {
+    "id": "REU",
+    "name": "Reunión",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "fr"
+  },
+  {
+    "id": "MYT",
+    "name": "Mayotte",
+    "continent": "África",
+    "region": "África oriental",
+    "language": "fr"
   }
 ]
