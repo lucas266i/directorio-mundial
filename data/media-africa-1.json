@@ -1,0 +1,2618 @@
+[
+  {
+    "id": "MED-AF-2026-001",
+    "name": "Cape Times",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.iol.co.za/capetimes",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-002",
+    "name": "Cape Argus",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.iol.co.za/capeargus",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-003",
+    "name": "Daily Dispatch",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Eastern Cape",
+    "state": "Eastern Cape",
+    "city": "East London",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "investigative"
+    ],
+    "official_url": "https://www.dispatchlive.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-004",
+    "name": "Isolezwe",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "KwaZulu-Natal",
+    "state": "KwaZulu-Natal",
+    "city": "Durban",
+    "language": "zu",
+    "languages": [
+      "zu"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.isolezwe.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-005",
+    "name": "Maroela Media",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Pretoria",
+    "language": "af",
+    "languages": [
+      "af"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "culture"
+    ],
+    "official_url": "https://maroelamedia.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-006",
+    "name": "Politicsweb",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "analysis"
+    ],
+    "official_url": "https://www.politicsweb.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-007",
+    "name": "Polity",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "government",
+      "economy"
+    ],
+    "official_url": "https://www.polity.org.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-008",
+    "name": "Eyewitness News",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://ewn.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-009",
+    "name": "Moneyweb",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business",
+      "financial-news"
+    ],
+    "official_url": "https://www.moneyweb.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-010",
+    "name": "BusinessTech",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "technology",
+      "business",
+      "economy"
+    ],
+    "official_url": "https://businesstech.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-011",
+    "name": "Bizcommunity",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "media",
+      "marketing"
+    ],
+    "official_url": "https://www.bizcommunity.com/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-012",
+    "name": "MyBroadband",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "technology",
+      "business"
+    ],
+    "official_url": "https://mybroadband.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-013",
+    "name": "ITWeb",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "technology",
+      "business"
+    ],
+    "official_url": "https://www.itweb.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-014",
+    "name": "Engineering News",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business",
+      "industry",
+      "economy"
+    ],
+    "official_url": "https://www.engineeringnews.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-015",
+    "name": "Netwerk24",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "af",
+    "languages": [
+      "af"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.netwerk24.com/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-016",
+    "name": "Die Burger",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "af",
+    "languages": [
+      "af"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dieburger.com/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-017",
+    "name": "Rapport",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Western Cape",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "language": "af",
+    "languages": [
+      "af"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.rapport.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-018",
+    "name": "Beeld",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "af",
+    "languages": [
+      "af"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.beeld.com/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-019",
+    "name": "The South African",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.thesouthafrican.com/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-020",
+    "name": "Nigerian Tribune",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Oyo",
+    "state": "Oyo",
+    "city": "Ibadan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://tribuneonlineng.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-021",
+    "name": "ThisDay",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.thisdaylive.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-022",
+    "name": "Daily Post Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://dailypost.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-023",
+    "name": "Peoples Gazette",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "official_url": "https://gazettengr.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-024",
+    "name": "Legit.ng",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "society"
+    ],
+    "official_url": "https://www.legit.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-025",
+    "name": "Ripples Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "investigative",
+      "economy"
+    ],
+    "official_url": "https://www.ripplesnigeria.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-026",
+    "name": "Pulse Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "culture"
+    ],
+    "official_url": "https://www.pulse.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-027",
+    "name": "The Whistler",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Abuja Federal Capital Territory",
+    "state": "Abuja Federal Capital Territory",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://thewhistler.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-028",
+    "name": "The Nigerian Voice",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.thenigerianvoice.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-029",
+    "name": "Nairametrics",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "economy",
+      "financial-news"
+    ],
+    "official_url": "https://nairametrics.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-030",
+    "name": "Business AM",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "economy"
+    ],
+    "official_url": "https://businessamlive.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-031",
+    "name": "Nigeria Communications Week",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "technology",
+      "business"
+    ],
+    "official_url": "https://www.nigeriacommunicationsweek.com.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-032",
+    "name": "Channels Television",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "politics",
+      "television"
+    ],
+    "official_url": "https://www.channelstv.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-033",
+    "name": "Arise News",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "politics",
+      "television"
+    ],
+    "official_url": "https://www.arise.tv/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-034",
+    "name": "TVC News",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "television"
+    ],
+    "official_url": "https://www.tvcnews.tv/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-035",
+    "name": "Voice of Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Abuja Federal Capital Territory",
+    "state": "Abuja Federal Capital Territory",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "public-media",
+      "radio",
+      "international"
+    ],
+    "official_url": "https://von.gov.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-036",
+    "name": "Radio Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "public-media",
+      "radio"
+    ],
+    "official_url": "https://radionigeria.gov.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-037",
+    "name": "Blueprint",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Abuja Federal Capital Territory",
+    "state": "Abuja Federal Capital Territory",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://blueprint.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-038",
+    "name": "The Tide",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Rivers",
+    "state": "Rivers",
+    "city": "Port Harcourt",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thetidenewsonline.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-039",
+    "name": "PM News",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://pmnewsnigeria.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-040",
+    "name": "The Point Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "investigative"
+    ],
+    "official_url": "https://thepointng.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-041",
+    "name": "3News",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://3news.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-042",
+    "name": "Adom Online",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.adomonline.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-043",
+    "name": "BusinessGhana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "economy"
+    ],
+    "official_url": "https://www.businessghana.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-044",
+    "name": "Ghana News Agency",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "national",
+      "news-agency"
+    ],
+    "official_url": "https://gna.org.gh/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-045",
+    "name": "Peace FM Online",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.peacefmonline.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-046",
+    "name": "Daily Guide Ghana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://dailyguidenetwork.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-047",
+    "name": "Business and Financial Times",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business",
+      "economy"
+    ],
+    "official_url": "https://thebftonline.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-048",
+    "name": "People Daily Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.pd.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-049",
+    "name": "Taifa Leo",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://taifaleo.nation.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-050",
+    "name": "Capital FM Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "radio"
+    ],
+    "official_url": "https://www.capitalfm.co.ke/news/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-051",
+    "name": "Citizen Digital",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.citizen.digital/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-052",
+    "name": "Kenyans.co.ke",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.kenyans.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-053",
+    "name": "Tuko",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "society"
+    ],
+    "official_url": "https://www.tuko.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-054",
+    "name": "KBC Digital",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "public-media",
+      "news"
+    ],
+    "official_url": "https://www.kbc.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-055",
+    "name": "KTN News",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "news"
+    ],
+    "official_url": "https://www.standardmedia.co.ke/ktnnews",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-056",
+    "name": "Citizen TV Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "news"
+    ],
+    "official_url": "https://www.citizen.digital/tv",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-057",
+    "name": "Radio Jambo",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi County",
+    "state": "Nairobi County",
+    "city": "Nairobi",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "local-news"
+    ],
+    "official_url": "https://radiojambo.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-058",
+    "name": "Nipashe",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.nipashe.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-059",
+    "name": "HabariLeo",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://habarileo.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-060",
+    "name": "Millard Ayo",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "entertainment"
+    ],
+    "official_url": "https://millardayo.com/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-061",
+    "name": "Clouds FM",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "entertainment"
+    ],
+    "official_url": "https://cloudsfm.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-062",
+    "name": "ChimpReports",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kampala",
+    "state": "Kampala",
+    "city": "Kampala",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "investigative"
+    ],
+    "official_url": "https://chimpreports.com/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-063",
+    "name": "Nile Post",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kampala",
+    "state": "Kampala",
+    "city": "Kampala",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://nilepost.co.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-064",
+    "name": "Bukedde",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kampala",
+    "state": "Kampala",
+    "city": "Kampala",
+    "language": "lg",
+    "languages": [
+      "lg"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bukedde.co.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-065",
+    "name": "NBS Television Uganda",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kampala",
+    "state": "Kampala",
+    "city": "Kampala",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "news"
+    ],
+    "official_url": "https://nbstv.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-066",
+    "name": "CBS Radio Buganda",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kampala",
+    "state": "Kampala",
+    "city": "Kampala",
+    "language": "lg",
+    "languages": [
+      "lg"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "local-news"
+    ],
+    "official_url": "https://cbsfm.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-067",
+    "name": "Addis Fortune",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business",
+      "economy"
+    ],
+    "official_url": "https://addisfortune.news/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-068",
+    "name": "Capital Ethiopia",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business",
+      "economy"
+    ],
+    "official_url": "https://capitalethiopia.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-069",
+    "name": "Addis Insight",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://addisinsight.net/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-070",
+    "name": "Ethiopian Reporter",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "am",
+    "languages": [
+      "am"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.ethiopianreporter.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-071",
+    "name": "The Chronicles Rwanda",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kigali",
+    "state": "Kigali",
+    "city": "Kigali",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.chronicles.rw/",
+    "coverage": [
+      "RWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-072",
+    "name": "Le Soleil",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://lesoleil.sn/",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-073",
+    "name": "Le Quotidien Senegal",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://lequotidien.sn/",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-074",
+    "name": "Senego",
+    "country": "SEN",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Dakar",
+    "state": "Dakar",
+    "city": "Dakar",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://senego.com/",
+    "coverage": [
+      "SEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-075",
+    "name": "Linfodrome",
+    "country": "CIV",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Abidjan",
+    "state": "Abidjan",
+    "city": "Abidjan",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.linfodrome.com/",
+    "coverage": [
+      "CIV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-076",
+    "name": "Koaci",
+    "country": "CIV",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Abidjan",
+    "state": "Abidjan",
+    "city": "Abidjan",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.koaci.com/",
+    "coverage": [
+      "CIV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-077",
+    "name": "Cameroon Info Net",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Centre",
+    "state": "Centre",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.cameroon-info.net/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-078",
+    "name": "237 Actu",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Centre",
+    "state": "Centre",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://237actu.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-079",
+    "name": "Cameroon Voice",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Southwest",
+    "state": "Southwest",
+    "city": "Buea",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://cameroonvoice.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-080",
+    "name": "CRTV",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Centre",
+    "state": "Centre",
+    "city": "Yaoundé",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "public-media",
+      "television",
+      "radio"
+    ],
+    "official_url": "https://crtv.cm/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-081",
+    "name": "Actualite.cd",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://actualite.cd/",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-082",
+    "name": "7sur7.cd",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://7sur7.cd/",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-083",
+    "name": "Le Potentiel",
+    "country": "COD",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Kinshasa",
+    "state": "Kinshasa",
+    "city": "Kinshasa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://lepotentiel.cd/",
+    "coverage": [
+      "COD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-084",
+    "name": "Gabon Media Time",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Estuaire",
+    "state": "Estuaire",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://gabonmediatime.com/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-085",
+    "name": "L'Union Gabon",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "admin1_name": "Estuaire",
+    "state": "Estuaire",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.union.sonapresse.com/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-086",
+    "name": "Libya Observer",
+    "country": "LBY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tripoli",
+    "state": "Tripoli",
+    "city": "Tripoli",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://libyaobserver.ly/",
+    "coverage": [
+      "LBY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-087",
+    "name": "Libya Herald",
+    "country": "LBY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tripoli",
+    "state": "Tripoli",
+    "city": "Tripoli",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://libyaherald.com/",
+    "coverage": [
+      "LBY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-088",
+    "name": "Al Wasat Libya",
+    "country": "LBY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Benghazi",
+    "state": "Benghazi",
+    "city": "Benghazi",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://alwasat.ly/",
+    "coverage": [
+      "LBY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-089",
+    "name": "Al-Ahram",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.ahram.org.eg/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-090",
+    "name": "Youm7",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.youm7.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-091",
+    "name": "Al-Shorouk",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.shorouknews.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-092",
+    "name": "Al-Wafd",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://alwafd.news/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-093",
+    "name": "Al-Akhbar Egypt",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://akhbarelyom.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-094",
+    "name": "El Gomhuria",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.gom.com.eg/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-095",
+    "name": "Masrawy",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.masrawy.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-096",
+    "name": "Cairo24",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.cairo24.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-097",
+    "name": "Nile TV International",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "public-media"
+    ],
+    "official_url": "https://www.niletc.tv/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-098",
+    "name": "El Khabar",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Algiers",
+    "state": "Algiers",
+    "city": "Algiers",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.elkhabar.com/",
+    "coverage": [
+      "DZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-099",
+    "name": "Echorouk",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Algiers",
+    "state": "Algiers",
+    "city": "Algiers",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.echoroukonline.com/",
+    "coverage": [
+      "DZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  },
+  {
+    "id": "MED-AF-2026-100",
+    "name": "Ennahar Online",
+    "country": "DZA",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Algiers",
+    "state": "Algiers",
+    "city": "Algiers",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics"
+    ],
+    "official_url": "https://www.ennaharonline.com/",
+    "coverage": [
+      "DZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Newspapers Online Africa country directory; Social Light Africa media coverage directory; CivicSignal / Code for Africa media mapping; national outlet directories.",
+    "verification_note": "Entrada localizada en directorios de medios y fuentes regionales. Ciudad/sede y dominio requieren comprobación individual; estado pendiente, no equivale a enlace activo verificado."
+  }
+]
