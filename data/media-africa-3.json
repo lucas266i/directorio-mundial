@@ -432,33 +432,6 @@
     "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
   },
   {
-    "id": "MED-AF-2026-196",
-    "name": "The Africa Report",
-    "country": "FRA",
-    "continent": "África",
-    "continent_region": "Fuera de África",
-    "admin1_name": "Île-de-France",
-    "state": "Île-de-France",
-    "city": "Paris",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "magazine",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://www.theafricareport.com/",
-    "coverage": [
-      "FRA"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
-    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
-  },
-  {
     "id": "MED-AF-2026-197",
     "name": "The Point",
     "country": "GMB",
@@ -885,60 +858,6 @@
     "official_url": "https://addisstandard.com/",
     "coverage": [
       "ETH"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
-    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-213",
-    "name": "Sudan Tribune",
-    "country": "SDN",
-    "continent": "África",
-    "continent_region": "África septentrional",
-    "admin1_name": "Île-de-France",
-    "state": "Île-de-France",
-    "city": "Paris",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "digital-news",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://sudantribune.com/",
-    "coverage": [
-      "SDN"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
-    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
-  },
-  {
-    "id": "MED-AF-2026-214",
-    "name": "Radio Dabanga",
-    "country": "NLD",
-    "continent": "África",
-    "continent_region": "Fuera de África",
-    "admin1_name": "North Holland",
-    "state": "North Holland",
-    "city": "Amsterdam",
-    "language": "en",
-    "languages": [
-      "en"
-    ],
-    "type": "radio",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "broadcast-media"
-    ],
-    "official_url": "https://www.dabangasudan.org/",
-    "coverage": [
-      "NLD"
     ],
     "status": "pending_verification",
     "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
