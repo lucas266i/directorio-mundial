@@ -1,0 +1,2658 @@
+[
+  {
+    "id": "MED-IRN-2026-001",
+    "name": "IRNA",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.irna.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-002",
+    "name": "ISNA",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.isna.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-003",
+    "name": "Mehr News Agency",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "en",
+    "languages": [
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://en.mehrnews.com/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-004",
+    "name": "Fars News Agency",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.farsnews.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-005",
+    "name": "Tasnim News Agency",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tasnimnews.com/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-006",
+    "name": "Tehran Times",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tehrantimes.com/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-007",
+    "name": "Iran Daily",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.iran-daily.com/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-008",
+    "name": "Financial Tribune",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://financialtribune.com/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-009",
+    "name": "Etemad",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.etemadnewspaper.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRN-2026-010",
+    "name": "Hamshahri",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hamshahrionline.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-001",
+    "name": "Iraqi News Agency (INA)",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ina.iq/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-002",
+    "name": "Rudaw",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Erbil",
+    "state": "Erbil",
+    "city": "Erbil",
+    "language": "ku",
+    "languages": [
+      "ku",
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rudaw.net/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-003",
+    "name": "Shafaq News",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Erbil",
+    "state": "Erbil",
+    "city": "Erbil",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en",
+      "ku"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://shafaq.com/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-004",
+    "name": "Iraqi News",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "en",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.iraqinews.com/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-005",
+    "name": "Alsumaria",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alsumaria.tv/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-006",
+    "name": "Kurdistan 24",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Erbil",
+    "state": "Erbil",
+    "city": "Erbil",
+    "language": "ku",
+    "languages": [
+      "ku",
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.kurdistan24.net/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-007",
+    "name": "NRT",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Sulaymaniyah",
+    "state": "Sulaymaniyah",
+    "city": "Sulaymaniyah",
+    "language": "ku",
+    "languages": [
+      "ku",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://nrttv.com/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-008",
+    "name": "964media",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://964media.com/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-009",
+    "name": "Al Mada",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://almadapaper.net/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-IRQ-2026-010",
+    "name": "Baghdad Today",
+    "country": "IRQ",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baghdad",
+    "state": "Baghdad",
+    "city": "Baghdad",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://baghdadtoday.news/",
+    "coverage": [
+      "IRQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-001",
+    "name": "Petra News Agency",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://petra.gov.jo/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-002",
+    "name": "The Jordan Times",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://jordantimes.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-003",
+    "name": "Ammon News",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ammonnews.net/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-004",
+    "name": "Roya News",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "en",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://en.royanews.tv/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-005",
+    "name": "Al Ghad",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://alghad.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-006",
+    "name": "Ad-Dustour",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.addustour.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-007",
+    "name": "Al Rai Jordan",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://alrai.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-008",
+    "name": "7iber",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://7iber.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-JOR-2026-009",
+    "name": "Saraya News",
+    "country": "JOR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Amman",
+    "state": "Amman",
+    "city": "Amman",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sarayanews.com/",
+    "coverage": [
+      "JOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-001",
+    "name": "National News Agency Lebanon",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nna-leb.gov.lb/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-002",
+    "name": "L'Orient Today",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://today.lorientlejour.com/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-003",
+    "name": "Naharnet",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "en",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.naharnet.com/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-004",
+    "name": "LBCI Lebanon",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lbcgroup.tv/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-005",
+    "name": "MTV Lebanon",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mtv.com.lb/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-006",
+    "name": "Al Jadeed",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.aljadeed.tv/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-007",
+    "name": "Megaphone News",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://megaphone.news/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LBN-2026-008",
+    "name": "Daraj",
+    "country": "LBN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Beirut",
+    "state": "Beirut",
+    "city": "Beirut",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://daraj.media/",
+    "coverage": [
+      "LBN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-001",
+    "name": "Saudi Press Agency (SPA)",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Riyadh",
+    "state": "Riyadh",
+    "city": "Riyadh",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.spa.gov.sa/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-002",
+    "name": "Arab News",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Riyadh",
+    "state": "Riyadh",
+    "city": "Riyadh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.arabnews.com/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-003",
+    "name": "Saudi Gazette",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Jeddah",
+    "state": "Jeddah",
+    "city": "Jeddah",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://saudigazette.com.sa/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-004",
+    "name": "Okaz",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Jeddah",
+    "state": "Jeddah",
+    "city": "Jeddah",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.okaz.com.sa/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-005",
+    "name": "Al Riyadh",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Riyadh",
+    "state": "Riyadh",
+    "city": "Riyadh",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alriyadh.com/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SAU-2026-006",
+    "name": "Al Eqtisadiah",
+    "country": "SAU",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Riyadh",
+    "state": "Riyadh",
+    "city": "Riyadh",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.aleqt.com/",
+    "coverage": [
+      "SAU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-001",
+    "name": "Emirates News Agency (WAM)",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Abu Dhabi",
+    "state": "Abu Dhabi",
+    "city": "Abu Dhabi",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.wam.ae/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-002",
+    "name": "Gulf News",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Dubai",
+    "state": "Dubai",
+    "city": "Dubai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://gulfnews.com/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-003",
+    "name": "Khaleej Times",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Dubai",
+    "state": "Dubai",
+    "city": "Dubai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.khaleejtimes.com/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-004",
+    "name": "The National",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Abu Dhabi",
+    "state": "Abu Dhabi",
+    "city": "Abu Dhabi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thenationalnews.com/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-005",
+    "name": "Emarat Al Youm",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Dubai",
+    "state": "Dubai",
+    "city": "Dubai",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.emaratalyoum.com/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARE-2026-006",
+    "name": "Al Bayan",
+    "country": "ARE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Dubai",
+    "state": "Dubai",
+    "city": "Dubai",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.albayan.ae/",
+    "coverage": [
+      "ARE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-001",
+    "name": "Qatar News Agency (QNA)",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.qna.org.qa/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-002",
+    "name": "Al Jazeera",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "en",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.aljazeera.com/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-003",
+    "name": "Gulf Times",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gulf-times.com/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-004",
+    "name": "The Peninsula",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thepeninsulaqatar.com/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-005",
+    "name": "Doha News",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://dohanews.co/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-QAT-2026-006",
+    "name": "Qatar Tribune",
+    "country": "QAT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Doha",
+    "state": "Doha",
+    "city": "Doha",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.qatar-tribune.com/",
+    "coverage": [
+      "QAT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KWT-2026-001",
+    "name": "Kuwait News Agency (KUNA)",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kuwait City",
+    "state": "Kuwait City",
+    "city": "Kuwait City",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.kuna.net.kw/",
+    "coverage": [
+      "KWT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KWT-2026-002",
+    "name": "Kuwait Times",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kuwait City",
+    "state": "Kuwait City",
+    "city": "Kuwait City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kuwaittimes.com/",
+    "coverage": [
+      "KWT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KWT-2026-003",
+    "name": "Arab Times",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kuwait City",
+    "state": "Kuwait City",
+    "city": "Kuwait City",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.arabtimesonline.com/",
+    "coverage": [
+      "KWT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KWT-2026-004",
+    "name": "Al Rai Kuwait",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kuwait City",
+    "state": "Kuwait City",
+    "city": "Kuwait City",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alraimedia.com/",
+    "coverage": [
+      "KWT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KWT-2026-005",
+    "name": "Al Qabas",
+    "country": "KWT",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kuwait City",
+    "state": "Kuwait City",
+    "city": "Kuwait City",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alqabas.com/",
+    "coverage": [
+      "KWT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARM-2026-001",
+    "name": "Armenpress",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Yerevan",
+    "state": "Yerevan",
+    "city": "Yerevan",
+    "language": "hy",
+    "languages": [
+      "hy",
+      "en",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://armenpress.am/",
+    "coverage": [
+      "ARM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARM-2026-002",
+    "name": "CivilNet",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Yerevan",
+    "state": "Yerevan",
+    "city": "Yerevan",
+    "language": "hy",
+    "languages": [
+      "hy",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.civilnet.am/",
+    "coverage": [
+      "ARM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARM-2026-003",
+    "name": "News.am",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Yerevan",
+    "state": "Yerevan",
+    "city": "Yerevan",
+    "language": "hy",
+    "languages": [
+      "hy",
+      "en",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://news.am/eng/",
+    "coverage": [
+      "ARM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ARM-2026-004",
+    "name": "1in.am",
+    "country": "ARM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Yerevan",
+    "state": "Yerevan",
+    "city": "Yerevan",
+    "language": "hy",
+    "languages": [
+      "hy",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.1in.am/",
+    "coverage": [
+      "ARM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AZE-2026-001",
+    "name": "APA News Agency",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baku",
+    "state": "Baku",
+    "city": "Baku",
+    "language": "az",
+    "languages": [
+      "az",
+      "en",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://apa.az/en",
+    "coverage": [
+      "AZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AZE-2026-002",
+    "name": "Trend News Agency",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baku",
+    "state": "Baku",
+    "city": "Baku",
+    "language": "en",
+    "languages": [
+      "en",
+      "az",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.trend.az/",
+    "coverage": [
+      "AZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AZE-2026-003",
+    "name": "Azernews",
+    "country": "AZE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Baku",
+    "state": "Baku",
+    "city": "Baku",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.azernews.az/",
+    "coverage": [
+      "AZE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-GEO-2026-001",
+    "name": "Agenda.ge",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tbilisi",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://agenda.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-GEO-2026-002",
+    "name": "Netgazeti",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tbilisi",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "language": "ka",
+    "languages": [
+      "ka"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://netgazeti.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-GEO-2026-003",
+    "name": "Interpressnews",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tbilisi",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "language": "ka",
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.interpressnews.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-GEO-2026-004",
+    "name": "Publika",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tbilisi",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "language": "ka",
+    "languages": [
+      "ka"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://publika.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-GEO-2026-005",
+    "name": "Tabula",
+    "country": "GEO",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tbilisi",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "language": "ka",
+    "languages": [
+      "ka"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tabula.ge/",
+    "coverage": [
+      "GEO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-001",
+    "name": "Anadolu Agency",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Ankara",
+    "state": "Ankara",
+    "city": "Ankara",
+    "language": "tr",
+    "languages": [
+      "tr",
+      "en",
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.aa.com.tr/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-002",
+    "name": "TRT World",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.trtworld.com/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-003",
+    "name": "Hürriyet Daily News",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hurriyetdailynews.com/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-004",
+    "name": "Bianet",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "tr",
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bianet.org/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-005",
+    "name": "T24",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "tr",
+    "languages": [
+      "tr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://t24.com.tr/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-006",
+    "name": "Cumhuriyet",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "tr",
+    "languages": [
+      "tr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cumhuriyet.com.tr/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-007",
+    "name": "Daily Sabah",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dailysabah.com/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TUR-2026-008",
+    "name": "Gazete Duvar",
+    "country": "TUR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Istanbul",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "language": "tr",
+    "languages": [
+      "tr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gazeteduvar.com.tr/",
+    "coverage": [
+      "TUR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-CYP-2026-001",
+    "name": "Cyprus Mail",
+    "country": "CYP",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Nicosia",
+    "state": "Nicosia",
+    "city": "Nicosia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cyprus-mail.com/",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-CYP-2026-002",
+    "name": "Cyprus News Agency (CNA)",
+    "country": "CYP",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Nicosia",
+    "state": "Nicosia",
+    "city": "Nicosia",
+    "language": "el",
+    "languages": [
+      "el",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cna.org.cy/",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-CYP-2026-003",
+    "name": "Phileleftheros",
+    "country": "CYP",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Nicosia",
+    "state": "Nicosia",
+    "city": "Nicosia",
+    "language": "el",
+    "languages": [
+      "el"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.philenews.com/",
+    "coverage": [
+      "CYP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BHR-2026-001",
+    "name": "Bahrain News Agency (BNA)",
+    "country": "BHR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Manama",
+    "state": "Manama",
+    "city": "Manama",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bna.bh/",
+    "coverage": [
+      "BHR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BHR-2026-002",
+    "name": "Gulf Daily News",
+    "country": "BHR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Manama",
+    "state": "Manama",
+    "city": "Manama",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gdnonline.com/",
+    "coverage": [
+      "BHR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BHR-2026-003",
+    "name": "The Daily Tribune Bahrain",
+    "country": "BHR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Manama",
+    "state": "Manama",
+    "city": "Manama",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newsofbahrain.com/",
+    "coverage": [
+      "BHR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-OMN-2026-001",
+    "name": "Oman News Agency (ONA)",
+    "country": "OMN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Muscat",
+    "state": "Muscat",
+    "city": "Muscat",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://omannews.gov.om/",
+    "coverage": [
+      "OMN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-OMN-2026-002",
+    "name": "Oman Observer",
+    "country": "OMN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Muscat",
+    "state": "Muscat",
+    "city": "Muscat",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.omanobserver.om/",
+    "coverage": [
+      "OMN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-OMN-2026-003",
+    "name": "Times of Oman",
+    "country": "OMN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Muscat",
+    "state": "Muscat",
+    "city": "Muscat",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://timesofoman.com/",
+    "coverage": [
+      "OMN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-YEM-2026-001",
+    "name": "Saba News Agency",
+    "country": "YEM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Aden",
+    "state": "Aden",
+    "city": "Aden",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sabanew.net/",
+    "coverage": [
+      "YEM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-YEM-2026-002",
+    "name": "Yemen Online",
+    "country": "YEM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Sana'a",
+    "state": "Sana'a",
+    "city": "Sana'a",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://yemenonline.info/",
+    "coverage": [
+      "YEM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-YEM-2026-003",
+    "name": "Al-Masdar Online",
+    "country": "YEM",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Sana'a",
+    "state": "Sana'a",
+    "city": "Sana'a",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://al-masdaronline.net/",
+    "coverage": [
+      "YEM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-SYR-2026-001",
+    "name": "SANA – Syrian Arab News Agency",
+    "country": "SYR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Damascus",
+    "state": "Damascus",
+    "city": "Damascus",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sana.sy/",
+    "coverage": [
+      "SYR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ISR-2026-001",
+    "name": "Haaretz",
+    "country": "ISR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tel Aviv",
+    "state": "Tel Aviv",
+    "city": "Tel Aviv",
+    "language": "he",
+    "languages": [
+      "he",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.haaretz.com/",
+    "coverage": [
+      "ISR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ISR-2026-002",
+    "name": "The Times of Israel",
+    "country": "ISR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Jerusalem",
+    "state": "Jerusalem",
+    "city": "Jerusalem",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.timesofisrael.com/",
+    "coverage": [
+      "ISR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ISR-2026-003",
+    "name": "The Jerusalem Post",
+    "country": "ISR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Jerusalem",
+    "state": "Jerusalem",
+    "city": "Jerusalem",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.jpost.com/",
+    "coverage": [
+      "ISR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-ISR-2026-004",
+    "name": "+972 Magazine",
+    "country": "ISR",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tel Aviv",
+    "state": "Tel Aviv",
+    "city": "Tel Aviv",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.972mag.com/",
+    "coverage": [
+      "ISR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PSE-2026-001",
+    "name": "WAFA – Palestine News & Information Agency",
+    "country": "PSE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Ramallah",
+    "state": "Ramallah",
+    "city": "Ramallah",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://english.wafa.ps/",
+    "coverage": [
+      "PSE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PSE-2026-002",
+    "name": "Ma'an News Agency",
+    "country": "PSE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Bethlehem",
+    "state": "Bethlehem",
+    "city": "Bethlehem",
+    "language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.maannews.net/",
+    "coverage": [
+      "PSE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PSE-2026-003",
+    "name": "Al-Quds",
+    "country": "PSE",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Jerusalem",
+    "state": "Jerusalem",
+    "city": "Jerusalem",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.alquds.com/",
+    "coverage": [
+      "PSE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon MENA Studies Local News Guide; Indiana University Middle East News Directory; regional media directories",
+    "verification_note": "Medio atribuido al país por sede editorial o ubicación publicada en directorios sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial, idioma, sede y situación de independencia; no se considera enlace activo verificado."
+  }
+]
