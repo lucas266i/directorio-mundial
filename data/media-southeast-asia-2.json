@@ -1,0 +1,963 @@
+[
+  {
+    "id": "MED-BRN-2026-001",
+    "name": "Borneo Bulletin",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://borneobulletin.com.bn/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BRN-2026-002",
+    "name": "BruDirect",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://brudirect.com/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BRN-2026-003",
+    "name": "Radio Television Brunei",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "ms",
+    "languages": [
+      "ms",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rtb.gov.bn/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BRN-2026-004",
+    "name": "Media Permata",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "ms",
+    "languages": [
+      "ms"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://mediapermata.com.bn/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BRN-2026-005",
+    "name": "The Scoop",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thescoop.co/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BRN-2026-006",
+    "name": "Pelita Brunei",
+    "country": "BRN",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Brunei-Muara",
+    "state": "Brunei-Muara",
+    "city": "Bandar Seri Begawan",
+    "language": "ms",
+    "languages": [
+      "ms"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://pelitabrunei.gov.bn/",
+    "coverage": [
+      "BRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Brunei Media Guide, Yale Southeast Asian Media y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-001",
+    "name": "Phnom Penh Post",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en",
+      "km"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.phnompenhpost.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-002",
+    "name": "Khmer Times",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en",
+      "km"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.khmertimeskh.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-003",
+    "name": "Agence Kampuchea Presse (AKP)",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "km",
+    "languages": [
+      "km",
+      "en",
+      "fr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://akp.gov.kh/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-004",
+    "name": "Cambodianess",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cambodianess.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-005",
+    "name": "CamboJA News",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en",
+      "km"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cambojanews.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-006",
+    "name": "Kiripost",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kiripost.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-007",
+    "name": "Fresh News",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "km",
+    "languages": [
+      "km",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://freshnewsasia.com/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-KHM-2026-008",
+    "name": "Voice of Democracy (VOD)",
+    "country": "KHM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Phnom Penh",
+    "state": "Phnom Penh",
+    "city": "Phnom Penh",
+    "language": "en",
+    "languages": [
+      "en",
+      "km"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vodenglish.news/",
+    "coverage": [
+      "KHM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, Japan Cambodia Association y directorios sectoriales",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-001",
+    "name": "Vientiane Times",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vientianetimes.org.la/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-002",
+    "name": "KPL – Lao News Agency",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "lo",
+    "languages": [
+      "lo",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kpl.gov.la/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-003",
+    "name": "Pasaxon",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "lo",
+    "languages": [
+      "lo"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pasaxon.org.la/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-004",
+    "name": "Vientiane Mai",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "lo",
+    "languages": [
+      "lo"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vientianemai.net/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-005",
+    "name": "Laotian Times",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://laotiantimes.com/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-006",
+    "name": "Lao National Radio",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "lo",
+    "languages": [
+      "lo"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://lnr.org.la/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-007",
+    "name": "Le Rénovateur",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Vientiane Prefecture",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "language": "fr",
+    "languages": [
+      "fr",
+      "lo"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vientianetimeslao.la/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LAO-2026-008",
+    "name": "Khammouane News",
+    "country": "LAO",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Khammouane",
+    "state": "Khammouane",
+    "city": "Thakhek",
+    "language": "lo",
+    "languages": [
+      "lo"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://khammouanenews.com/",
+    "coverage": [
+      "LAO"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Información, Cultura y Turismo de Laos y Vientiane Times media links",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TLS-2026-001",
+    "name": "TATOLI – Agência Noticiosa de Timor-Leste",
+    "country": "TLS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Dili",
+    "state": "Dili",
+    "city": "Dili",
+    "language": "tet",
+    "languages": [
+      "tet",
+      "pt",
+      "en",
+      "id"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tatoli.tl/",
+    "coverage": [
+      "TLS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "The Asia Foundation State of the Media: Timor-Leste 2024 y Tatoli official site",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TLS-2026-002",
+    "name": "Timor Post",
+    "country": "TLS",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Dili",
+    "state": "Dili",
+    "city": "Dili",
+    "language": "tet",
+    "languages": [
+      "tet",
+      "pt",
+      "en",
+      "id"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://timorpost.com/",
+    "coverage": [
+      "TLS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "The Asia Foundation State of the Media: Timor-Leste 2024 y Tatoli official site",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-001",
+    "name": "VnExpress",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vnexpress.net/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-002",
+    "name": "Tuổi Trẻ",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Ho Chi Minh City",
+    "state": "Ho Chi Minh City",
+    "city": "Ho Chi Minh City",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tuoitre.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-003",
+    "name": "Thanh Niên",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Ho Chi Minh City",
+    "state": "Ho Chi Minh City",
+    "city": "Ho Chi Minh City",
+    "language": "vi",
+    "languages": [
+      "vi"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thanhnien.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-004",
+    "name": "Dân Trí",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://dantri.com.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-005",
+    "name": "Nhân Dân",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://en.nhandan.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-006",
+    "name": "Việt Nam News",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vietnamnews.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-007",
+    "name": "VietnamPlus",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "en",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://en.vietnamplus.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-008",
+    "name": "VietNamNet",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vietnamnet.vn/en",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-009",
+    "name": "VTC News",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vtcnews.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-010",
+    "name": "People's Army Newspaper",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://en.qdnd.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-011",
+    "name": "Voice of Vietnam (VOV)",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Hanoi",
+    "state": "Hanoi",
+    "city": "Hanoi",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://english.vov.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-VNM-2026-012",
+    "name": "The Saigon Times",
+    "country": "VNM",
+    "continent": "Asia",
+    "continent_region": "Asia sudoriental",
+    "admin1_name": "Ho Chi Minh City",
+    "state": "Ho Chi Minh City",
+    "city": "Ho Chi Minh City",
+    "language": "vi",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thesaigontimes.vn/",
+    "coverage": [
+      "VNM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Yale Southeast Asian Media, ANU Library y directorios de prensa vietnamita",
+    "verification_note": "Registro identificado en directorios académicos, institucionales o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  }
+]
