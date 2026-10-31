@@ -3874,14 +3874,14 @@
   },
   {
     "id": "MED-SA-ADD-2026-130",
-    "name": "El Ciclón",
+    "name": "El Popular Perú",
     "country": "PER",
     "continent": "América",
     "continent_region": "Sudamérica",
-    "admin1_name": "Lambayeque",
-    "admin1_type": "provincia/departamento",
+    "admin1_name": "Lima",
+    "admin1_type": "región",
     "state": null,
-    "city": "Chiclayo",
+    "city": "Lima",
     "language": "es",
     "languages": [
       "es"
@@ -3892,10 +3892,9 @@
       "local-news",
       "regional-news"
     ],
-    "official_url": "https://elciclondel norte.pe/",
+    "official_url": "https://elpopular.pe/",
     "coverage": [
-      "Lambayeque",
-      "Chiclayo"
+      "Lima"
     ],
     "status": "pending_verification",
     "discovery_source": "Directorios de prensa regional, registros públicos de medios y directorios nacionales de radio/televisión; incorporación como candidato, pendiente de comprobación individual.",
