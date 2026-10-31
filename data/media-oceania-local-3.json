@@ -1,0 +1,1355 @@
+[
+  {
+    "id": "MED-OC-2026-071",
+    "name": "Geelong Advertiser",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Victoria",
+    "state": "Victoria",
+    "city": "Geelong",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.geelongadvertiser.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-072",
+    "name": "The Border Mail",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Victoria",
+    "state": "Victoria",
+    "city": "Albury",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bordermail.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-073",
+    "name": "The Courier-Mail",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.couriermail.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-074",
+    "name": "The Australian",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "economy"
+    ],
+    "official_url": "https://www.theaustralian.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-075",
+    "name": "The Mandarin",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "government",
+      "accountability"
+    ],
+    "official_url": "https://www.themandarin.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-076",
+    "name": "The Klaxon",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics",
+      "accountability"
+    ],
+    "official_url": "https://www.theklaxon.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-077",
+    "name": "The Daily Aus",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "education"
+    ],
+    "official_url": "https://thedailyaus.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-078",
+    "name": "The Tally Room",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Australian Capital Territory",
+    "state": "Australian Capital Territory",
+    "city": "Canberra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "politics",
+      "elections",
+      "analysis"
+    ],
+    "official_url": "https://www.tallyroom.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-079",
+    "name": "Bay of Plenty Times",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Bay of Plenty",
+    "state": "Bay of Plenty",
+    "city": "Tauranga",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/bay-of-plenty-times/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-080",
+    "name": "Rotorua Daily Post",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Bay of Plenty",
+    "state": "Bay of Plenty",
+    "city": "Rotorua",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/rotorua-daily-post/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-081",
+    "name": "Taranaki Daily News",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Taranaki",
+    "state": "Taranaki",
+    "city": "New Plymouth",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/taranaki-daily-news",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-082",
+    "name": "Manawatu Standard",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Manawatū-Whanganui",
+    "state": "Manawatū-Whanganui",
+    "city": "Palmerston North",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/manawatu-standard",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-083",
+    "name": "Whanganui Chronicle",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Manawatū-Whanganui",
+    "state": "Manawatū-Whanganui",
+    "city": "Whanganui",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/whanganui-chronicle/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-084",
+    "name": "Timaru Herald",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Canterbury",
+    "state": "Canterbury",
+    "city": "Timaru",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/timaru-herald",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-085",
+    "name": "Wairarapa Times-Age",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Wellington",
+    "state": "Wellington",
+    "city": "Masterton",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://times-age.co.nz/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-086",
+    "name": "Northland Age",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Northland",
+    "state": "Northland",
+    "city": "Kaitaia",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/northland-age/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-087",
+    "name": "Marlborough Express",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Marlborough",
+    "state": "Marlborough",
+    "city": "Blenheim",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/marlborough-express",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-088",
+    "name": "Mai TV",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Central Division",
+    "state": "Central Division",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en",
+      "fj",
+      "hi"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "television"
+    ],
+    "official_url": "https://maitvfiji.com/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-089",
+    "name": "National Broadcasting Corporation PNG",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "National Capital District",
+    "state": "National Capital District",
+    "city": "Port Moresby",
+    "language": "en",
+    "languages": [
+      "en",
+      "tpi"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "public-media",
+      "radio"
+    ],
+    "official_url": "https://nbc.com.pg/",
+    "coverage": [
+      "PNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-090",
+    "name": "Island Sun Newspaper",
+    "country": "SLB",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Guadalcanal",
+    "state": "Guadalcanal",
+    "city": "Honiara",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://theislandsun.com.sb/",
+    "coverage": [
+      "SLB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-091",
+    "name": "Pacific Island Times",
+    "country": "GUM",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Hagåtña",
+    "state": "Hagåtña",
+    "city": "Hagåtña",
+    "language": "en",
+    "languages": [
+      "en",
+      "ch"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "politics"
+    ],
+    "official_url": "https://www.pacificislandtimes.com/",
+    "coverage": [
+      "GUM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-092",
+    "name": "Pacific News Center",
+    "country": "GUM",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Hagåtña",
+    "state": "Hagåtña",
+    "city": "Hagåtña",
+    "language": "en",
+    "languages": [
+      "en",
+      "ch"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pacificnewscenter.com/",
+    "coverage": [
+      "GUM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-093",
+    "name": "Nauru Media News",
+    "country": "NRU",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "",
+    "state": "",
+    "city": "Yaren",
+    "language": "en",
+    "languages": [
+      "en",
+      "na"
+    ],
+    "type": "social-media-news",
+    "categories": [
+      "general-news",
+      "government",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/naurumedianews/",
+    "coverage": [
+      "NRU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-094",
+    "name": "Te Uekara",
+    "country": "KIR",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Gilbert Islands",
+    "state": "Gilbert Islands",
+    "city": "Bairiki",
+    "language": "en",
+    "languages": [
+      "en",
+      "gil"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "government",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/teuekara/",
+    "coverage": [
+      "KIR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-095",
+    "name": "Kiribati Newstar",
+    "country": "KIR",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Gilbert Islands",
+    "state": "Gilbert Islands",
+    "city": "South Tarawa",
+    "language": "en",
+    "languages": [
+      "en",
+      "gil"
+    ],
+    "type": "social-media-news",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/kiribatinewstar/",
+    "coverage": [
+      "KIR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-096",
+    "name": "Tuvalu Echoes",
+    "country": "TUV",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Funafuti",
+    "state": "Funafuti",
+    "city": "Funafuti",
+    "language": "en",
+    "languages": [
+      "en",
+      "tvl"
+    ],
+    "type": "social-media-news",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/tuvaluechoes/",
+    "coverage": [
+      "TUV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-097",
+    "name": "Palau Horizon",
+    "country": "PLW",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Koror",
+    "state": "Koror",
+    "city": "Koror",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "social-media-news",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/palauhorizon/",
+    "coverage": [
+      "PLW"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-098",
+    "name": "Palau Wave Radio",
+    "country": "PLW",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Koror",
+    "state": "Koror",
+    "city": "Koror",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "local-news"
+    ],
+    "official_url": "http://palauwaveradio.com/",
+    "coverage": [
+      "PLW"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-099",
+    "name": "FSM Radio",
+    "country": "FSM",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Pohnpei",
+    "state": "Pohnpei",
+    "city": "Kolonia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "public-media",
+      "local-news"
+    ],
+    "official_url": "http://www.fm/radio.htm",
+    "coverage": [
+      "FSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-100",
+    "name": "Saipan Tribune",
+    "country": "MNP",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Saipan",
+    "state": "Saipan",
+    "city": "Saipan",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.saipantribune.com/",
+    "coverage": [
+      "MNP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-101",
+    "name": "Radio Samoa",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Auckland",
+    "state": "Auckland",
+    "city": "Auckland",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "radio",
+    "categories": [
+      "radio",
+      "community-media",
+      "diaspora"
+    ],
+    "official_url": "https://radiosamoa.co.nz/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-102",
+    "name": "Cook Islands Television News",
+    "country": "COK",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Rarotonga",
+    "state": "Rarotonga",
+    "city": "Avarua",
+    "language": "en",
+    "languages": [
+      "en",
+      "rar"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "local-news"
+    ],
+    "official_url": "https://www.facebook.com/cookislandstelevisionnews/",
+    "coverage": [
+      "COK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-103",
+    "name": "The Bunyip",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "South Australia",
+    "state": "South Australia",
+    "city": "Gawler",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thebunyip.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-104",
+    "name": "The Area News",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Griffith",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.areanews.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-105",
+    "name": "The Riverine Herald",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Victoria",
+    "state": "Victoria",
+    "city": "Echuca",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.riverineherald.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-106",
+    "name": "The Advocate",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Tasmania",
+    "state": "Tasmania",
+    "city": "Burnie",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theadvocate.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-107",
+    "name": "The Gympie Times",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Gympie",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gympietimes.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-108",
+    "name": "Fraser Coast Chronicle",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Hervey Bay",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.frasercoastchronicle.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-109",
+    "name": "The Coffs Coast Advocate",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Coffs Harbour",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.coffscoastadvocate.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-110",
+    "name": "The Northern Daily Leader",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Tamworth",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.northerndailyleader.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-111",
+    "name": "The Canberra Weekly",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Australian Capital Territory",
+    "state": "Australian Capital Territory",
+    "city": "Canberra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "local-news",
+      "culture"
+    ],
+    "official_url": "https://canberraweekly.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-112",
+    "name": "The Illawarra Flame",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Wollongong",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.theillawarraflame.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-113",
+    "name": "The Westender",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://westender.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-114",
+    "name": "Vanuatu Daily Post",
+    "country": "VUT",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Shefa",
+    "state": "Shefa",
+    "city": "Port Vila",
+    "language": "en",
+    "languages": [
+      "en",
+      "bi",
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.dailypost.vu/",
+    "coverage": [
+      "VUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-115",
+    "name": "Marshall Islands Journal",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Majuro",
+    "state": "Majuro",
+    "city": "Majuro",
+    "language": "en",
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://marshallislandsjournal.com/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-116",
+    "name": "E-Tangata",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Auckland",
+    "state": "Auckland",
+    "city": "Auckland",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "magazine",
+    "categories": [
+      "culture",
+      "society",
+      "human-rights"
+    ],
+    "official_url": "https://e-tangata.co.nz/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-117",
+    "name": "Waatea News",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Auckland",
+    "state": "Auckland",
+    "city": "Auckland",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "community-media"
+    ],
+    "official_url": "https://waateanews.com/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-118",
+    "name": "Māori Television",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Auckland",
+    "state": "Auckland",
+    "city": "Auckland",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "culture",
+      "community-media"
+    ],
+    "official_url": "https://www.maoritelevision.com/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-119",
+    "name": "RNZ Pacific",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Wellington",
+    "state": "Wellington",
+    "city": "Wellington",
+    "language": "en",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "type": "radio",
+    "categories": [
+      "regional-news",
+      "international",
+      "public-media"
+    ],
+    "official_url": "https://www.rnz.co.nz/international/pacific-news",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  },
+  {
+    "id": "MED-OC-2026-120",
+    "name": "ABC Pacific",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "regional-news",
+      "international",
+      "public-media"
+    ],
+    "official_url": "https://www.abc.net.au/pacific",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "PINA Media Members; University of Canterbury Library Pacific newspapers guide; University of Hawaiʻi Pacific Islands collections; ABC Pacific; Pacific regional and national media directories.",
+    "verification_note": "Identificado en una fuente institucional, académica o directorio regional. URL y actividad editorial pendientes de comprobación individual; no se presenta como enlace activo verificado."
+  }
+]
