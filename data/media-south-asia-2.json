@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "MED-AFG-2026-001",
+    "name": "TOLOnews",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "ps",
+    "languages": [
+      "ps",
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tolonews.com/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-002",
+    "name": "Pajhwok Afghan News",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "ps",
+    "languages": [
+      "ps",
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://pajhwok.com/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-003",
+    "name": "Khaama Press",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "en",
+    "languages": [
+      "en",
+      "ps",
+      "fa"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.khaama.com/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-004",
+    "name": "Ariana News",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "ps",
+    "languages": [
+      "ps",
+      "fa",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ariananews.af/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-005",
+    "name": "Etilaatroz",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "ps"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.etilaatroz.com/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-006",
+    "name": "8AM Media",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "fa",
+    "languages": [
+      "fa",
+      "ps"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://8am.media/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-AFG-2026-007",
+    "name": "Salam Watandar",
+    "country": "AFG",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Kabul",
+    "state": "Kabul",
+    "city": "Kabul",
+    "language": "ps",
+    "languages": [
+      "ps",
+      "fa"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://swn.af/",
+    "coverage": [
+      "AFG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Municipalidad de Kabul, directorio oficial de medios y TOLOnews About Us",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-001",
+    "name": "Kuensel",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en",
+      "dz",
+      "ne"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kuenselonline.com/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-002",
+    "name": "The Bhutanese",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thebhutanese.bt/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-003",
+    "name": "Bhutan Broadcasting Service",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "dz",
+    "languages": [
+      "dz",
+      "en",
+      "ne"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bbs.bt/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-004",
+    "name": "Business Bhutan",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://businessbhutan.bt/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-005",
+    "name": "Bhutan Times",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bhutantimes.com/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-006",
+    "name": "Bhutan Today",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bhutantoday.bt/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-007",
+    "name": "Bhutan Observer",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bhutanobserver.bt/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BTN-2026-008",
+    "name": "Gyalchi Sarshog",
+    "country": "BTN",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Thimphu",
+    "state": "Thimphu",
+    "city": "Thimphu",
+    "language": "dz",
+    "languages": [
+      "dz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gyalchi.com/",
+    "coverage": [
+      "BTN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ministerio de Asuntos Exteriores de Bután, directorio oficial de medios",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-001",
+    "name": "Mihaaru",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://mihaaru.com/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-002",
+    "name": "Maldives Independent",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "en",
+    "languages": [
+      "en",
+      "dv"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://maldivesindependent.com/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-003",
+    "name": "Sun Online",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sun.mv/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-004",
+    "name": "Avas",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://avas.mv/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-005",
+    "name": "Miadhu",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://miadhu.com/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-006",
+    "name": "The Edition",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "en",
+    "languages": [
+      "en",
+      "dv"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://edition.mv/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-007",
+    "name": "Raajje TV",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://raajje.mv/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-MDV-2026-008",
+    "name": "Public Service Media",
+    "country": "MDV",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Malé",
+    "state": "Malé",
+    "city": "Malé",
+    "language": "dv",
+    "languages": [
+      "dv",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://psmnews.mv/",
+    "coverage": [
+      "MDV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "BBC Maldives Media Guide y directorios de prensa maldiva",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-001",
+    "name": "Dawn",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karachi",
+    "state": "Karachi",
+    "city": "Karachi",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dawn.com/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-002",
+    "name": "The News International",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karachi",
+    "state": "Karachi",
+    "city": "Karachi",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thenews.com.pk/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-003",
+    "name": "The Express Tribune",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karachi",
+    "state": "Karachi",
+    "city": "Karachi",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tribune.com.pk/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-004",
+    "name": "Business Recorder",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karachi",
+    "state": "Karachi",
+    "city": "Karachi",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.brecorder.com/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-005",
+    "name": "The Friday Times",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Lahore",
+    "state": "Lahore",
+    "city": "Lahore",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thefridaytimes.com/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-006",
+    "name": "Daily Times",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Lahore",
+    "state": "Lahore",
+    "city": "Lahore",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://dailytimes.com.pk/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-007",
+    "name": "The Nation",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Lahore",
+    "state": "Lahore",
+    "city": "Lahore",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nation.com.pk/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-008",
+    "name": "Pakistan Today",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Lahore",
+    "state": "Lahore",
+    "city": "Lahore",
+    "language": "en",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pakistantoday.com.pk/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-009",
+    "name": "Naya Daur",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Islamabad",
+    "state": "Islamabad",
+    "city": "Islamabad",
+    "language": "ur",
+    "languages": [
+      "ur",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://nayadaur.tv/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-PAK-2026-010",
+    "name": "Geo News",
+    "country": "PAK",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Karachi",
+    "state": "Karachi",
+    "city": "Karachi",
+    "language": "ur",
+    "languages": [
+      "ur",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.geo.tv/",
+    "coverage": [
+      "PAK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "World Press y guías de periódicos de Asia meridional",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-001",
+    "name": "Daily Mirror",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dailymirror.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-002",
+    "name": "Daily News",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en",
+      "si"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dailynews.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-003",
+    "name": "Sunday Times",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sundaytimes.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-004",
+    "name": "The Island",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://island.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-005",
+    "name": "Sunday Observer",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sundayobserver.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-006",
+    "name": "EconomyNext",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://economynext.com/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-007",
+    "name": "Groundviews",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en",
+      "si",
+      "ta"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://groundviews.org/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-008",
+    "name": "Newsfirst",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en",
+      "si",
+      "ta"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newsfirst.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-009",
+    "name": "Ada Derana",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "si",
+    "languages": [
+      "si",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.adaderana.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-010",
+    "name": "Daily FT",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ft.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-011",
+    "name": "Ceylon Today",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ceylontoday.lk/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-LKA-2026-012",
+    "name": "Lanka Truth",
+    "country": "LKA",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Western Province",
+    "state": "Western Province",
+    "city": "Colombo",
+    "language": "si",
+    "languages": [
+      "si",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lankatruth.com/",
+    "coverage": [
+      "LKA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio de periódicos de Sri Lanka y guías de medios regionales",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-001",
+    "name": "The Daily Star",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thedailystar.net/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-002",
+    "name": "Prothom Alo",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "bn",
+    "languages": [
+      "bn",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.prothomalo.com/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-003",
+    "name": "Dhaka Tribune",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dhakatribune.com/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-004",
+    "name": "bdnews24.com",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bdnews24.com/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-005",
+    "name": "New Age",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newagebd.net/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-006",
+    "name": "The Daily Ittefaq",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "bn",
+    "languages": [
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ittefaq.com.bd/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-007",
+    "name": "Daily Sun",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.daily-sun.com/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-008",
+    "name": "Bangladesh Sangbad Sangstha (BSS)",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.bssnews.net/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-009",
+    "name": "Banglanews24",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "bn",
+    "languages": [
+      "bn",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.banglanews24.com/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-BGD-2026-010",
+    "name": "The Business Standard",
+    "country": "BGD",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Dhaka",
+    "state": "Dhaka",
+    "city": "Dhaka",
+    "language": "en",
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tbsnews.net/",
+    "coverage": [
+      "BGD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon South Asian Studies Media Guide y WAN-IFRA South Asia",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-001",
+    "name": "The Kathmandu Post",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kathmandupost.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-002",
+    "name": "The Himalayan Times",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thehimalayantimes.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-003",
+    "name": "Republica",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://myrepublica.nagariknetwork.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-004",
+    "name": "Onlinekhabar",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://english.onlinekhabar.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-005",
+    "name": "Setopati",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.setopati.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-006",
+    "name": "Ratopati",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ratopati.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-007",
+    "name": "Annapurna Post",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://annapurnapost.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-008",
+    "name": "Kantipur",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ekantipur.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-009",
+    "name": "Gorkhapatra",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "ne",
+    "languages": [
+      "ne"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://gorkhapatraonline.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-NPL-2026-010",
+    "name": "Nepal Live Today",
+    "country": "NPL",
+    "continent": "Asia",
+    "continent_region": "Asia meridional",
+    "admin1_name": "Bagmati",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nepallivetoday.com/",
+    "coverage": [
+      "NPL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "University of Oregon y WAN-IFRA South Asia media directories",
+    "verification_note": "Registro catalogado a partir de directorios institucionales, académicos o sectoriales. Pendiente de verificación individual de HTTP/TLS, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  }
+]
