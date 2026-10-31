@@ -1151,24 +1151,24 @@
   },
   {
     "id": "MED-AF-2026-268",
-    "name": "ITV Tanzania",
-    "country": "TZA",
+    "name": "Midi Madagasikara",
+    "country": "MDG",
     "continent": "África",
     "continent_region": "África oriental",
-    "city": "Dar es Salaam",
-    "language": "sw",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "sw"
+      "mg"
     ],
-    "type": "television",
+    "type": "newspaper",
     "categories": [
-      "television",
       "general-news",
-      "regional-news"
+      "regional-news",
+      "local-news"
     ],
-    "official_url": "https://itv.co.tz",
+    "official_url": "https://midi-madagasikara.mg",
     "coverage": [
-      "TZA"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -2401,24 +2401,24 @@
   },
   {
     "id": "MED-AF-2026-318",
-    "name": "The Voice Botswana",
-    "country": "BWA",
+    "name": "Les Nouvelles Madagascar",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África austral",
-    "city": "Gaborone",
-    "language": "en",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "fr",
     "languages": [
-      "en"
+      "fr"
     ],
-    "type": "news-website",
+    "type": "newspaper",
     "categories": [
       "general-news",
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://thevoicebw.com",
+    "official_url": "https://lesnouvelles.com",
     "coverage": [
-      "BWA"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -2426,24 +2426,24 @@
   },
   {
     "id": "MED-AF-2026-319",
-    "name": "The Botswana Gazette",
-    "country": "BWA",
+    "name": "Madagascar Matin",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África austral",
-    "city": "Gaborone",
-    "language": "en",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "fr",
     "languages": [
-      "en"
+      "fr"
     ],
-    "type": "news-website",
+    "type": "newspaper",
     "categories": [
       "general-news",
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://thegazette.news",
+    "official_url": "https://madagascar-matin.com",
     "coverage": [
-      "BWA"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -2451,24 +2451,24 @@
   },
   {
     "id": "MED-AF-2026-320",
-    "name": "Mmegi",
-    "country": "BWA",
+    "name": "TVM Madagascar",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África austral",
-    "city": "Gaborone",
-    "language": "en",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "en"
+      "mg"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://www.mmegi.bw",
+    "official_url": "https://tvm.mg",
     "coverage": [
-      "BWA"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -2726,24 +2726,24 @@
   },
   {
     "id": "MED-AF-2026-331",
-    "name": "The Reporter Lesotho",
-    "country": "LSO",
+    "name": "Radio Don Bosco",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África austral",
-    "city": "Maseru",
-    "language": "en",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "en"
+      "mg"
     ],
-    "type": "news-website",
+    "type": "radio",
     "categories": [
+      "radio",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://www.thereporter.co.ls",
+    "official_url": "https://rdb.mg",
     "coverage": [
-      "LSO"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -3451,24 +3451,24 @@
   },
   {
     "id": "MED-AF-2026-360",
-    "name": "ANGOP",
-    "country": "AGO",
+    "name": "Viva TV Madagascar",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África austral",
-    "city": "Luanda",
-    "language": "pt",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "pt"
+      "mg"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://www.angop.ao",
+    "official_url": "https://vivaradio.mg",
     "coverage": [
-      "AGO"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -4726,24 +4726,24 @@
   },
   {
     "id": "MED-AF-2026-411",
-    "name": "Les Dépêches de Brazzaville",
-    "country": "COG",
+    "name": "Real TV Madagascar",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África central",
-    "city": "Brazzaville",
-    "language": "fr",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "fr"
+      "mg"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://www.adiac-congo.com",
+    "official_url": "https://realtv.mg",
     "coverage": [
-      "COG"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -4926,14 +4926,14 @@
   },
   {
     "id": "MED-AF-2026-419",
-    "name": "Gabon Review",
-    "country": "GAB",
+    "name": "News Mada",
+    "country": "MDG",
     "continent": "África",
-    "continent_region": "África central",
-    "city": "Libreville",
-    "language": "fr",
+    "continent_region": "África oriental",
+    "city": "Antananarivo",
+    "language": "mg",
     "languages": [
-      "fr"
+      "mg"
     ],
     "type": "news-website",
     "categories": [
@@ -4941,9 +4941,9 @@
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://www.gabonreview.com",
+    "official_url": "https://newsmada.com",
     "coverage": [
-      "GAB"
+      "MDG"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -4951,24 +4951,24 @@
   },
   {
     "id": "MED-AF-2026-420",
-    "name": "L'Union Gabon",
-    "country": "GAB",
+    "name": "SBC Seychelles",
+    "country": "SYC",
     "continent": "África",
-    "continent_region": "África central",
-    "city": "Libreville",
-    "language": "fr",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "language": "en",
     "languages": [
-      "fr"
+      "en"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://www.union.sonapresse.com",
+    "official_url": "https://www.sbc.sc",
     "coverage": [
-      "GAB"
+      "SYC"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -4976,14 +4976,14 @@
   },
   {
     "id": "MED-AF-2026-421",
-    "name": "Gabonactu",
-    "country": "GAB",
+    "name": "Today in Seychelles",
+    "country": "SYC",
     "continent": "África",
-    "continent_region": "África central",
-    "city": "Libreville",
-    "language": "fr",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "language": "en",
     "languages": [
-      "fr"
+      "en"
     ],
     "type": "news-website",
     "categories": [
@@ -4991,9 +4991,9 @@
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://gabonactu.com",
+    "official_url": "https://today.sc",
     "coverage": [
-      "GAB"
+      "SYC"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -6701,24 +6701,24 @@
   },
   {
     "id": "MED-AF-2026-490",
-    "name": "El Watan",
-    "country": "DZA",
+    "name": "The People Seychelles",
+    "country": "SYC",
     "continent": "África",
-    "continent_region": "África septentrional",
-    "city": "Argel",
-    "language": "ar",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "language": "en",
     "languages": [
-      "ar"
+      "en"
     ],
-    "type": "news-website",
+    "type": "newspaper",
     "categories": [
       "general-news",
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://elwatan-dz.com",
+    "official_url": "https://thepeople.sc",
     "coverage": [
-      "DZA"
+      "SYC"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -6726,24 +6726,24 @@
   },
   {
     "id": "MED-AF-2026-491",
-    "name": "TSA Algérie",
-    "country": "DZA",
+    "name": "Seychelles Independent",
+    "country": "SYC",
     "continent": "África",
-    "continent_region": "África septentrional",
-    "city": "Argel",
-    "language": "ar",
+    "continent_region": "África oriental",
+    "city": "Victoria",
+    "language": "en",
     "languages": [
-      "ar"
+      "en"
     ],
-    "type": "news-website",
+    "type": "newspaper",
     "categories": [
       "general-news",
       "regional-news",
       "local-news"
     ],
-    "official_url": "https://www.tsa-algerie.com",
+    "official_url": "https://seychellesindependent.com",
     "coverage": [
-      "DZA"
+      "SYC"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -7026,24 +7026,24 @@
   },
   {
     "id": "MED-AF-2026-503",
-    "name": "Alwasat Libya",
-    "country": "LBY",
+    "name": "AYV Media Empire",
+    "country": "SLE",
     "continent": "África",
-    "continent_region": "África septentrional",
-    "city": "Trípoli",
-    "language": "ar",
+    "continent_region": "África occidental",
+    "city": "Freetown",
+    "language": "en",
     "languages": [
-      "ar"
+      "en"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://alwasat.ly",
+    "official_url": "https://ayvnews.com",
     "coverage": [
-      "LBY"
+      "SLE"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
@@ -7476,24 +7476,24 @@
   },
   {
     "id": "MED-AF-2026-521",
-    "name": "L'Express Maurice",
-    "country": "MUS",
+    "name": "Sierra Leone Broadcasting Corporation",
+    "country": "SLE",
     "continent": "África",
-    "continent_region": "África oriental",
-    "city": "Port Louis",
+    "continent_region": "África occidental",
+    "city": "Freetown",
     "language": "en",
     "languages": [
       "en"
     ],
-    "type": "news-website",
+    "type": "television",
     "categories": [
+      "television",
       "general-news",
-      "regional-news",
-      "local-news"
+      "regional-news"
     ],
-    "official_url": "https://lexpress.mu",
+    "official_url": "https://slbc.gov.sl",
     "coverage": [
-      "MUS"
+      "SLE"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
