@@ -1,0 +1,2506 @@
+{
+  "dataset": "media-caucasus-central-asia-1",
+  "generated_at": "2026-10-30",
+  "method": "Conservación únicamente de registros cuya página fue abierta y mostró contenido editorial en la revisión previa. No equivale a auditoría completa de vigencia, propiedad, independencia ni geografía.",
+  "retained_count": 167,
+  "removed_count": 83,
+  "retained_by_country": {
+    "ARM": 40,
+    "AZE": 34,
+    "GEO": 33,
+    "KAZ": 34,
+    "TUR": 26
+  },
+  "removed_records": [
+    {
+      "id": "MED-ARM-2026-001",
+      "name": "Azatutyun",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://azatutyun.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-021",
+      "name": "Aysor.am",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://aysor.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-022",
+      "name": "Lragir",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://lragir.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-025",
+      "name": "AZG Daily",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://azg.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-031",
+      "name": "Shant News",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://shantnews.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-033",
+      "name": "AM News",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://amnews.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-034",
+      "name": "Armenia TV",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://armeniatv.am/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-041",
+      "name": "ArmeniaNow",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://armenianow.com/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "Actividad y vigencia no confirmadas; se retira hasta verificar que el medio siga operativo.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-044",
+      "name": "Armenian News Network",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://groong.org/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-ARM-2026-050",
+      "name": "Armenian Weekly",
+      "country": "ARM",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "hy",
+      "languages": [
+        "hy"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://armenianweekly.com/",
+      "coverage": [
+        "ARM"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Media Ownership Monitor Armenia 2025; RSF Armenia; Armenia360; NewspaperIndex",
+      "source_url": "https://armenia.mom-gmr.org/en/media/online/",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "Medio de la diáspora con sede en Boston; no corresponde clasificarlo como medio domiciliado en Armenia.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-002",
+      "name": "İctimai TV",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://itv.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-003",
+      "name": "REAL TV",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://realtv.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-004",
+      "name": "ARB24",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://arb24.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-007",
+      "name": "Space TV",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://spacetv.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-008",
+      "name": "CBC TV",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://cbc.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-009",
+      "name": "Yeni Müsavat",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://musavat.com/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-016",
+      "name": "Ayna",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://ayna.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-024",
+      "name": "Türküstan",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://turkustan.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-025",
+      "name": "Hürriyyət",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://hurriyyet.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "El sitio devolvió HTTP 410 en la comprobación; se retira del conjunto activo.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-026",
+      "name": "Paralel",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://paralel.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-028",
+      "name": "Cənub xəbərləri",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://cenub.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "El sitio cargó, pero el contenido observado parecía antiguo (2020); requiere confirmar actividad reciente.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-029",
+      "name": "Mingəçevir işıqları",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://mi-news.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-034",
+      "name": "Turan",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://turan.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-039",
+      "name": "Bakupost",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://bakupost.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-041",
+      "name": "Moderator.az",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://moderator.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-AZE-2026-049",
+      "name": "Cebhe.info",
+      "country": "AZE",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "az",
+      "languages": [
+        "az"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://cebheinfo.az/",
+      "coverage": [
+        "AZE"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Azerbaijan Journalists' Media Entities Directory; Azerbaijan Press Council members",
+      "source_url": "https://www.azerbaijanjournalists.az/en/media-outlets",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-003",
+      "name": "Mtavari Arkhi",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://mtavari.tv/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-014",
+      "name": "Radio Tavisupleba",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://radiotavisupleba.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-018",
+      "name": "Agenda.ge",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://agenda.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-021",
+      "name": "Guria News",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gurianews.com/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-022",
+      "name": "Kartli.ge",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://kartli.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-024",
+      "name": "Kutaisi Post",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://kutaisipost.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-025",
+      "name": "Livepress",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://livepress.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-026",
+      "name": "Reginfo",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://reginfo.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-027",
+      "name": "Samkhretis Karibche",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://sknews.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-028",
+      "name": "Guriis Moambe",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://guriismoambe.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-029",
+      "name": "Timer.ge",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://timer.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-034",
+      "name": "Geworld.ge",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://geworld.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-039",
+      "name": "Financial",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://financial.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-045",
+      "name": "Alia",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://alia.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-046",
+      "name": "Asaval-Dasavali",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://asaval-dasavali.com/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-047",
+      "name": "Qronika Plus",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://qronikaplus.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-GEO-2026-049",
+      "name": "Marneuli Radio",
+      "country": "GEO",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "ka",
+      "languages": [
+        "ka"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://marneulifm.ge/",
+      "coverage": [
+        "GEO"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "EEAS/UNDP Georgia Election Media Monitoring; Georgian Media Directory; MDF regional media sources",
+      "source_url": "https://www.undp.org/georgia/press-releases/election-media-monitoring",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-001",
+      "name": "Egemen Qazaqstan",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://egemen.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-011",
+      "name": "Qazaquni",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://qazaquni.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-012",
+      "name": "Abai.kz",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://abai.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-013",
+      "name": "Time.kz",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://time.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-019",
+      "name": "Vecher.kz",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://vecher.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-020",
+      "name": "Almaty Aqshamy",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://almaty-akshamy.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-021",
+      "name": "Inbusiness.kz",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://inbusiness.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-024",
+      "name": "Almaty TV",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://almaty.tv/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-033",
+      "name": "Akmolinform",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://akmolinform.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-034",
+      "name": "Arainews",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://arainews.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-036",
+      "name": "Jambylinfo",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://jambylinfo.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-037",
+      "name": "Kokshetau Asia",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://kokshetau.asia/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-038",
+      "name": "Koksheinform",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://koksheinform.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-041",
+      "name": "Rikatv",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://rikatv.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-044",
+      "name": "Elitar.kz",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://elitar.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-KAZ-2026-045",
+      "name": "Qazaqstan Media",
+      "country": "KAZ",
+      "continent": "Europa",
+      "continent_region": "Oriental",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "kk",
+      "languages": [
+        "kk"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://qazaqstanmedia.kz/",
+      "coverage": [
+        "KAZ"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Central Election Commission of Kazakhstan Internet Media Register; Kazakhstan regional media directories",
+      "source_url": "https://www.election.gov.kz/rus/Qurultai/smi/internet-smi.php",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-002",
+      "name": "100 Yıl Haber",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://100yilhaber.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-003",
+      "name": "10 Life Dergisi",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://10lifedergisi.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-006",
+      "name": "16 Haber",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://16haber.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-007",
+      "name": "1923 TV",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://1923tv.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-008",
+      "name": "1 Medya",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://1medya.net/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-011",
+      "name": "3B Haber",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://3bhaber.com.tr/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-014",
+      "name": "Gazete Van",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gazetevan.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-015",
+      "name": "Gazete Yaman",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gazeteyaman.com.tr/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-018",
+      "name": "Gazette",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gazette.com.tr/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se encontró evidencia suficiente en la comprobación inicial; se retira del conjunto principal y queda para revisión.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-019",
+      "name": "Gaziantep Haber Ajansı",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gaziantephaberajansi.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-020",
+      "name": "Gaziantep Hakikat",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gaziantephakikat.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-022",
+      "name": "Gazikent Gazetesi",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gazikentgazetesi.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-029",
+      "name": "Gerçek İzmir",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gercekizmir.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-032",
+      "name": "Güneydoğu Güncel",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://guneydoguguncel.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-035",
+      "name": "Güney Gazetesi",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://guneygazetesi.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-036",
+      "name": "Güneyin Sesi",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://guneyinsesi.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-038",
+      "name": "Günlük TV",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://gunluk.tv/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-040",
+      "name": "Haber 16",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber16.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-041",
+      "name": "Haber 1919",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber1919.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-043",
+      "name": "Haber 26",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber26.com.tr/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-044",
+      "name": "Haber 266",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber266.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-045",
+      "name": "Haber 3",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber3.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-048",
+      "name": "Haber 365",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber365.com.tr/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    },
+    {
+      "id": "MED-TUR-2026-049",
+      "name": "Haber 44",
+      "country": "TUR",
+      "continent": "Europa",
+      "continent_region": "Meridional",
+      "admin1_name": null,
+      "admin1_type": null,
+      "state": null,
+      "city": null,
+      "language": "tr",
+      "languages": [
+        "tr"
+      ],
+      "type": "digital-native",
+      "categories": [
+        "general-news",
+        "local-news"
+      ],
+      "official_url": "https://haber44.com/",
+      "coverage": [
+        "TUR"
+      ],
+      "status": "pending_verification",
+      "discovery_source": "Basın İlan Kurumu official periodical and internet news-site lists; Turkish national and regional press directories",
+      "source_url": "https://gazete.bik.gov.tr/Uygulamalar/AylikListe",
+      "verification_note": "Registro incorporado desde directorios y listados de medios del país. La URL, actividad editorial, independencia, localidad y posible duplicación deben verificarse individualmente; no se considera verificado.",
+      "removal_reason": "No se logró confirmar la página en la primera comprobación; el nombre/dominio genérico no basta para darlo por válido.",
+      "review_status": "quarantined_pending_recheck"
+    }
+  ]
+}
