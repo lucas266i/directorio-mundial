@@ -1,0 +1,3018 @@
+[
+  {
+    "id": "MED-CHN-2026-001",
+    "name": "People's Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://people.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-002",
+    "name": "Xinhua News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://xinhuanet.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-003",
+    "name": "China Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://chinadaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-004",
+    "name": "Global Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://globaltimes.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-005",
+    "name": "Guangming Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://gmw.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-006",
+    "name": "China Youth Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://cyol.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-007",
+    "name": "Economic Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://jjckb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-008",
+    "name": "China News Service",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://chinanews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-009",
+    "name": "China Radio International",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://cri.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-010",
+    "name": "China National Radio",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://cnr.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-011",
+    "name": "CCTV",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://cctv.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-012",
+    "name": "CGTN",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "television",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://cgtn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-013",
+    "name": "China.org.cn",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://china.org.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-014",
+    "name": "China Internet Information Center",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://china.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-015",
+    "name": "Beijing Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bjd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-016",
+    "name": "Beijing News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://bjnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-017",
+    "name": "Qianlong",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://qianlong.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-018",
+    "name": "Beijing Youth Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ynet.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-019",
+    "name": "Beijing Review",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://bjreview.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-020",
+    "name": "The Paper",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://thepaper.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-021",
+    "name": "Shanghai Observer",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://shobserver.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-022",
+    "name": "Jiefang Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://jfdaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-023",
+    "name": "Wenhui Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://whb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-024",
+    "name": "Xinmin Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://xinmin.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-025",
+    "name": "Eastday",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://eastday.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-026",
+    "name": "Shanghai Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://shanghaidaily.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-027",
+    "name": "Yicai",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "business-news",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://yicai.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-028",
+    "name": "Shanghai Hotline",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://online.sh.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-029",
+    "name": "North Network Tianjin",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Tianjin",
+    "state": "Tianjin",
+    "city": "Tianjin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://enorth.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-030",
+    "name": "Tianjin Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Tianjin",
+    "state": "Tianjin",
+    "city": "Tianjin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tjbh.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-031",
+    "name": "Tianjin News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Tianjin",
+    "state": "Tianjin",
+    "city": "Tianjin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tjnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-032",
+    "name": "Hebei News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hebnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-033",
+    "name": "Great Wall Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hebei.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-034",
+    "name": "Shanxi Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Shanxi",
+    "state": "Shanxi",
+    "city": "Taiyuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sxrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-035",
+    "name": "Taiyuan News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Shanxi",
+    "state": "Shanxi",
+    "city": "Taiyuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tynews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-036",
+    "name": "Inner Mongolia News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nmgnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-037",
+    "name": "North News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Inner Mongolia",
+    "state": "Inner Mongolia",
+    "city": "Hohhot",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://northnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-038",
+    "name": "Liaoning Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Shenyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://lnrb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-039",
+    "name": "Northeast News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Shenyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nen.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-040",
+    "name": "Shenyang Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Liaoning",
+    "state": "Liaoning",
+    "city": "Shenyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://syd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-041",
+    "name": "China Jilin",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Jilin",
+    "state": "Jilin",
+    "city": "Changchun",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cnjiwang.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-042",
+    "name": "Songhua River Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Jilin",
+    "state": "Jilin",
+    "city": "Jilin City",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://shjnet.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-043",
+    "name": "Heilongjiang News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hljnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-044",
+    "name": "Harbin News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noreste de China",
+    "admin1_name": "Heilongjiang",
+    "state": "Heilongjiang",
+    "city": "Harbin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://harbin.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-045",
+    "name": "China Jiangsu",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jschina.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-046",
+    "name": "Xinhua Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://xhby.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-047",
+    "name": "Longhoo",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nanjing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://longhoo.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-048",
+    "name": "China Xuzhou",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Xuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cnxz.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-049",
+    "name": "Wuxi Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Wuxi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://wxrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-050",
+    "name": "Zhejiang Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://zjol.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-051",
+    "name": "Hangzhou Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Hangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hangzhou.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-052",
+    "name": "China Ningbo",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Ningbo",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cnnb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-053",
+    "name": "Wenzhou Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Zhejiang",
+    "state": "Zhejiang",
+    "city": "Wenzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://66wz.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-054",
+    "name": "Anhui News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ahwang.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-055",
+    "name": "Hefei Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Anhui",
+    "state": "Anhui",
+    "city": "Hefei",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hefei.cc",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-056",
+    "name": "Southeast Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://fjnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-057",
+    "name": "Fuzhou News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Fuzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://fznews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-058",
+    "name": "Xiamen Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Fujian",
+    "state": "Fujian",
+    "city": "Xiamen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://xmnn.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-059",
+    "name": "Jiangxi News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangxi",
+    "state": "Jiangxi",
+    "city": "Nanchang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jxnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-060",
+    "name": "Nanchang News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangxi",
+    "state": "Jiangxi",
+    "city": "Nanchang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ncnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-061",
+    "name": "Dazhong Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Jinan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dzwww.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-062",
+    "name": "Shun Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Jinan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://e23.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-063",
+    "name": "Qingdao News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Qingdao",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://qingdaonews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-064",
+    "name": "Jiaodong Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Yantai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://jihaojiaodong.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-065",
+    "name": "Dahe Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://dahe.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-066",
+    "name": "Zhongyuan Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://zynews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-067",
+    "name": "Luoyang Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Luoyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://lyd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-068",
+    "name": "Jingchu Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cnhubei.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-069",
+    "name": "Changjiang Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cjn.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-070",
+    "name": "Qinchu Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Shiyan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://10yan.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-071",
+    "name": "Rednet",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://rednet.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-072",
+    "name": "Hunan Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://voc.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-073",
+    "name": "Xingchen Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://changsinews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-074",
+    "name": "Southcn",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://southcn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-075",
+    "name": "Dayoo",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://dayoo.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-076",
+    "name": "Southern Metropolis Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://oeeee.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-077",
+    "name": "Yangcheng Evening News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://ycwb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-078",
+    "name": "21st Century Business Herald",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "business-news",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://21jingji.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-079",
+    "name": "Shenzhen News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sznews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-080",
+    "name": "Zhuhai News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Zhuhai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://zhnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-081",
+    "name": "Dongguan Sunshine",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Dongguan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sun0769.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-082",
+    "name": "Guangxi News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Nanning",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://gxnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-083",
+    "name": "Nanning News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Nanning",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://nnnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-084",
+    "name": "Guilin Life",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangxi",
+    "state": "Guangxi",
+    "city": "Guilin",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://guilinlife.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-085",
+    "name": "Hainan News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Hainan",
+    "state": "Hainan",
+    "city": "Haikou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://hinews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-086",
+    "name": "Haikou Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Hainan",
+    "state": "Hainan",
+    "city": "Haikou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://haikou.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-087",
+    "name": "Chongqing News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cqnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-088",
+    "name": "Chongqing Morning Post",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Chongqing",
+    "state": "Chongqing",
+    "city": "Chongqing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cqcb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-089",
+    "name": "Sichuan Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://scol.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-090",
+    "name": "Sichuan News Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newssc.org",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-091",
+    "name": "Chengdu All Search",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://cdqss.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-092",
+    "name": "Guizhou Colorful",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Guizhou",
+    "state": "Guizhou",
+    "city": "Guiyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://gog.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-093",
+    "name": "Guiyang Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Guizhou",
+    "state": "Guizhou",
+    "city": "Guiyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://gywb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-094",
+    "name": "Yunnan Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://yunnan.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-095",
+    "name": "Kunming Information Port",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://km.org.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-096",
+    "name": "China Tibet News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Tibet",
+    "state": "Tibet",
+    "city": "Lhasa",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://tibet.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-097",
+    "name": "China Tibet Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Tibet",
+    "state": "Tibet",
+    "city": "Lhasa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "international",
+      "geopolitics"
+    ],
+    "official_url": "https://chinatibetnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-098",
+    "name": "Tibet Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Tibet",
+    "state": "Tibet",
+    "city": "Lhasa",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://xizangribao.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-099",
+    "name": "Western Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Shaanxi",
+    "state": "Shaanxi",
+    "city": "Xi'an",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://cnwest.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-100",
+    "name": "Xi'an News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Shaanxi",
+    "state": "Shaanxi",
+    "city": "Xi'an",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://xiannews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-101",
+    "name": "China Gansu",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Gansu",
+    "state": "Gansu",
+    "city": "Lanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://gscn.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-102",
+    "name": "Lanzhou China",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Gansu",
+    "state": "Gansu",
+    "city": "Lanzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://lzbs.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-103",
+    "name": "Qinghai News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Qinghai",
+    "state": "Qinghai",
+    "city": "Xining",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://qhnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-104",
+    "name": "Ningxia News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Ningxia",
+    "state": "Ningxia",
+    "city": "Yinchuan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://nxnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-105",
+    "name": "Tianshan Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Xinjiang",
+    "state": "Xinjiang",
+    "city": "Urumqi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ts.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-106",
+    "name": "Xinjiang News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Xinjiang",
+    "state": "Xinjiang",
+    "city": "Urumqi",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://xjnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-107",
+    "name": "Caixin",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://caixin.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-108",
+    "name": "Jiemian News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://jiemian.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-109",
+    "name": "China Economic Net",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://ce.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-110",
+    "name": "Securities Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Shenzhen",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://stcn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-111",
+    "name": "China Securities Journal",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://cs.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-112",
+    "name": "National Business Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy"
+    ],
+    "official_url": "https://nbd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-113",
+    "name": "Southern Weekly",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Sur de China",
+    "admin1_name": "Guangdong",
+    "state": "Guangdong",
+    "city": "Guangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "magazine",
+    "categories": [
+      "investigative",
+      "politics"
+    ],
+    "official_url": "https://infzm.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-114",
+    "name": "Sixth Tone",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shanghai",
+    "state": "Shanghai",
+    "city": "Shanghai",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "social-issues",
+      "general-news"
+    ],
+    "official_url": "https://sixthtone.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-115",
+    "name": "China Dialogue",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "environment",
+      "investigative"
+    ],
+    "official_url": "https://chinadialogue.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  },
+  {
+    "id": "MED-CHN-2026-116",
+    "name": "China Digital Times",
+    "country": "USA",
+    "continent": "América",
+    "continent_region": "Cobertura internacional",
+    "admin1_name": "California",
+    "state": "California",
+    "city": "Berkeley",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "media",
+      "analysis"
+    ],
+    "official_url": "https://chinadigitaltimes.net",
+    "coverage": [
+      "USA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorios regionales de prensa china; Newspapers Online; GIJN y directorios de medios por provincia",
+    "verification_note": "Enlace, vigencia y actividad editorial pendientes de verificación individual. La ubicación es orientativa y debe confirmarse."
+  }
+]
