@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "MED-AF-2026-180",
+    "name": "Daily Monitor",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Central",
+    "state": "Central",
+    "city": "Kampala",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.monitor.co.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-181",
+    "name": "New Vision",
+    "country": "UGA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Central",
+    "state": "Central",
+    "city": "Kampala",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newvision.co.ug/",
+    "coverage": [
+      "UGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-182",
+    "name": "The EastAfrican",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theeastafrican.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-183",
+    "name": "The Star Kenya",
+    "country": "KEN",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Nairobi",
+    "state": "Nairobi",
+    "city": "Nairobi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.the-star.co.ke/",
+    "coverage": [
+      "KEN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-184",
+    "name": "The Citizen",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thecitizen.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-185",
+    "name": "Mwananchi",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "sw",
+    "languages": [
+      "sw"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mwananchi.co.tz/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-186",
+    "name": "The Guardian Tanzania",
+    "country": "TZA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Dar es Salaam",
+    "state": "Dar es Salaam",
+    "city": "Dar es Salaam",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ippmedia.com/",
+    "coverage": [
+      "TZA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-187",
+    "name": "The New Times",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kigali",
+    "state": "Kigali",
+    "city": "Kigali",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newtimes.co.rw/",
+    "coverage": [
+      "RWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-188",
+    "name": "KT Press",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kigali",
+    "state": "Kigali",
+    "city": "Kigali",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ktpress.rw/",
+    "coverage": [
+      "RWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-189",
+    "name": "The Namibian",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.namibian.com.na/",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-190",
+    "name": "Namibian Sun",
+    "country": "NAM",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Khomas",
+    "state": "Khomas",
+    "city": "Windhoek",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.namibiansun.com/",
+    "coverage": [
+      "NAM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-191",
+    "name": "The Herald Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.herald.co.zw/",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-192",
+    "name": "NewsDay Zimbabwe",
+    "country": "ZWE",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Harare",
+    "state": "Harare",
+    "city": "Harare",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newsday.co.zw/",
+    "coverage": [
+      "ZWE"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-193",
+    "name": "The Sunday Times South Africa",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.timeslive.co.za/sunday-times/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-194",
+    "name": "Daily Maverick",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dailymaverick.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-195",
+    "name": "Mail & Guardian",
+    "country": "ZAF",
+    "continent": "África",
+    "continent_region": "África austral",
+    "admin1_name": "Gauteng",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://mg.co.za/",
+    "coverage": [
+      "ZAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-196",
+    "name": "The Africa Report",
+    "country": "FRA",
+    "continent": "África",
+    "continent_region": "Fuera de África",
+    "admin1_name": "Île-de-France",
+    "state": "Île-de-France",
+    "city": "Paris",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theafricareport.com/",
+    "coverage": [
+      "FRA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-197",
+    "name": "The Point",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Banjul",
+    "state": "Banjul",
+    "city": "Banjul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thepoint.gm/",
+    "coverage": [
+      "GMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-198",
+    "name": "The Standard Gambia",
+    "country": "GMB",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Banjul",
+    "state": "Banjul",
+    "city": "Banjul",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://standard.gm/",
+    "coverage": [
+      "GMB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-199",
+    "name": "Liberian Observer",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Montserrado",
+    "state": "Montserrado",
+    "city": "Monrovia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.liberianobserver.com/",
+    "coverage": [
+      "LBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-200",
+    "name": "FrontPage Africa",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Montserrado",
+    "state": "Montserrado",
+    "city": "Monrovia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://frontpageafricaonline.com/",
+    "coverage": [
+      "LBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-201",
+    "name": "The New Dawn Liberia",
+    "country": "LBR",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Montserrado",
+    "state": "Montserrado",
+    "city": "Monrovia",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thenewdawnliberia.com/",
+    "coverage": [
+      "LBR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-202",
+    "name": "The Daily Graphic",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.graphic.com.gh/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-203",
+    "name": "GhanaWeb",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ghanaweb.com/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-204",
+    "name": "The Chronicle Ghana",
+    "country": "GHA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Greater Accra",
+    "state": "Greater Accra",
+    "city": "Accra",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thechronicle.com.gh/",
+    "coverage": [
+      "GHA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-205",
+    "name": "The Nation Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://thenationonlineng.net/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-206",
+    "name": "The Punch",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://punchng.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-207",
+    "name": "Premium Times",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Federal Capital Territory",
+    "state": "Federal Capital Territory",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.premiumtimesng.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-208",
+    "name": "Daily Trust",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Federal Capital Territory",
+    "state": "Federal Capital Territory",
+    "city": "Abuja",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://dailytrust.com/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-209",
+    "name": "TheCable",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thecable.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-210",
+    "name": "The Guardian Nigeria",
+    "country": "NGA",
+    "continent": "África",
+    "continent_region": "África occidental",
+    "admin1_name": "Lagos",
+    "state": "Lagos",
+    "city": "Lagos",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://guardian.ng/",
+    "coverage": [
+      "NGA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-211",
+    "name": "The Reporter Ethiopia",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thereporterethiopia.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-212",
+    "name": "Addis Standard",
+    "country": "ETH",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Addis Ababa",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://addisstandard.com/",
+    "coverage": [
+      "ETH"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-213",
+    "name": "Sudan Tribune",
+    "country": "SDN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Île-de-France",
+    "state": "Île-de-France",
+    "city": "Paris",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://sudantribune.com/",
+    "coverage": [
+      "SDN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-214",
+    "name": "Radio Dabanga",
+    "country": "NLD",
+    "continent": "África",
+    "continent_region": "Fuera de África",
+    "admin1_name": "North Holland",
+    "state": "North Holland",
+    "city": "Amsterdam",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "broadcast-media"
+    ],
+    "official_url": "https://www.dabangasudan.org/",
+    "coverage": [
+      "NLD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-215",
+    "name": "The Libya Observer",
+    "country": "LBY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tripoli",
+    "state": "Tripoli",
+    "city": "Tripoli",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://libyaobserver.ly/",
+    "coverage": [
+      "LBY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-216",
+    "name": "Tunisie Numérique",
+    "country": "TUN",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Tunis",
+    "state": "Tunis",
+    "city": "Tunis",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tunisienumerique.com/",
+    "coverage": [
+      "TUN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-217",
+    "name": "Mada Masr",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.madamasr.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-218",
+    "name": "Egypt Independent",
+    "country": "EGY",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Cairo",
+    "state": "Cairo",
+    "city": "Cairo",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://egyptindependent.com/",
+    "coverage": [
+      "EGY"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-219",
+    "name": "The North Africa Post",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://northafricapost.com/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-220",
+    "name": "Le Desk",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://ledesk.ma/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-221",
+    "name": "Hespress",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Rabat-Salé-Kénitra",
+    "state": "Rabat-Salé-Kénitra",
+    "city": "Rabat",
+    "language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hespress.com/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-222",
+    "name": "Le Matin",
+    "country": "MAR",
+    "continent": "África",
+    "continent_region": "África septentrional",
+    "admin1_name": "Casablanca-Settat",
+    "state": "Casablanca-Settat",
+    "city": "Casablanca",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://lematin.ma/",
+    "coverage": [
+      "MAR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-223",
+    "name": "The New Times Rwanda - Kinyarwanda",
+    "country": "RWA",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Kigali",
+    "state": "Kigali",
+    "city": "Kigali",
+    "language": "rw",
+    "languages": [
+      "rw"
+    ],
+    "type": "digital-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.newtimes.co.rw/",
+    "coverage": [
+      "RWA"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-224",
+    "name": "Seychelles News Agency",
+    "country": "SYC",
+    "continent": "África",
+    "continent_region": "África oriental",
+    "admin1_name": "Mahé",
+    "state": "Mahé",
+    "city": "Victoria",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.seychellesnewsagency.com/",
+    "coverage": [
+      "SYC"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Inventario de candidatos ampliado a partir de directorios de prensa y conocimiento editorial regional; requiere validación individual.",
+    "verification_note": "Candidato incorporado. Confirmar que el dominio está activo, que el medio publica actualmente y que sede/idioma/cobertura corresponden antes de marcar como verificado."
+  }
+]
