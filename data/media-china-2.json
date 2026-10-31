@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MED-CHN-2026-303",
+    "name": "Signal News (Qingdao Xinhua)",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Qingdao",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "investigative",
+      "general-news"
+    ],
+    "official_url": "https://www.qdxin.cn/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial QDXin; directorio Maigoo de medios locales de China",
+    "verification_note": "Sitio identificado y con contenido editorial visible en la consulta. Pendiente de prueba técnica individual, continuidad editorial y validación de ubicación."
+  },
+  {
+    "id": "MED-CHN-2026-304",
+    "name": "Dongying News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Shandong",
+    "state": "Shandong",
+    "city": "Dongying",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.dongyingnews.cn/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial del centro de convergencia de Dongying; directorio Maigoo de medios locales",
+    "verification_note": "Sitio identificado y con contenido editorial visible en la consulta. Pendiente de prueba técnica individual y validación de ubicación."
+  },
+  {
+    "id": "MED-CHN-2026-305",
+    "name": "Taihang News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "regional-news",
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.thxww.com.cn/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial Taihang News; directorio Maigoo de medios de Hebei",
+    "verification_note": "Portal regional con cobertura de ciudades de Hebei. Pendiente de prueba técnica individual y validación de alcance geográfico."
+  },
+  {
+    "id": "MED-CHN-2026-306",
+    "name": "Henan Economic News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "business-news",
+      "economy",
+      "local-news"
+    ],
+    "official_url": "https://www.hnjjbs.com/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial Henan Economic News; directorios de medios de Henan",
+    "verification_note": "El sitio se identifica como portal del periódico económico de Henan y muestra noticias locales. Pendiente de prueba técnica individual."
+  },
+  {
+    "id": "MED-CHN-2026-307",
+    "name": "Zhongyuan Economic Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Henan",
+    "state": "Henan",
+    "city": "Zhengzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business-news",
+      "economy",
+      "local-news"
+    ],
+    "official_url": "https://www.zyjjw.cn/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial Zhongyuan Economic Network; directorios de medios de Henan",
+    "verification_note": "Portal con secciones de economía regional y noticias por condado/ciudad. Pendiente de prueba técnica individual."
+  },
+  {
+    "id": "MED-CHN-2026-308",
+    "name": "Nantong News Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Nantong",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.ntrb.com.cn/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial Nantong News; directorio Maigoo de medios de Jiangsu",
+    "verification_note": "Portal del grupo de prensa de Nantong con noticias locales y ediciones digitales. Pendiente de prueba técnica individual."
+  },
+  {
+    "id": "MED-CHN-2026-309",
+    "name": "Suzhou News Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Este de China",
+    "admin1_name": "Jiangsu",
+    "state": "Jiangsu",
+    "city": "Suzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.subaonet.com/",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio oficial Suzhou News Network; directorio Maigoo de medios de Jiangsu",
+    "verification_note": "Portal local de noticias de Suzhou con contenido editorial visible en la consulta. Pendiente de prueba técnica individual."
+  }
+]
