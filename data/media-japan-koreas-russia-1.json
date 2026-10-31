@@ -4285,5 +4285,135 @@
     "discovery_source": "Omsk Union of Journalists print and media directory",
     "source_license": "unknown",
     "verification_note": "Outlet listed by the regional journalists' union; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-273",
+    "name": "Mestnaya Gazeta Vologda",
+    "admin1_name": "Vologda Oblast",
+    "city": "Vologda",
+    "official_url": "https://mestgazeta.ru/",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "state": "Vologda Oblast",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "WPS Russian regional newspapers; sitios editoriales regionales identificados mediante búsqueda web",
+    "verification_note": "Identificado como medio regional en directorios o sitio editorial público. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-274",
+    "name": "Sokolsky Vestnik",
+    "admin1_name": "Vologda Oblast",
+    "city": "Sokol",
+    "official_url": "https://infosokol.ru/",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "state": "Vologda Oblast",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "WPS Russian regional newspapers; sitios editoriales regionales identificados mediante búsqueda web",
+    "verification_note": "Identificado como medio regional en directorios o sitio editorial público. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-275",
+    "name": "SeverInfo",
+    "admin1_name": "Vologda Oblast",
+    "city": "Cherepovets",
+    "official_url": "https://www.severinfo.ru/",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "state": "Vologda Oblast",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "WPS Russian regional newspapers; sitios editoriales regionales identificados mediante búsqueda web",
+    "verification_note": "Identificado como medio regional en directorios o sitio editorial público. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-276",
+    "name": "Regional News Agency (RAN Press)",
+    "admin1_name": "Vologda Oblast",
+    "city": "Vologda",
+    "official_url": "https://ranpress.ru/",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "state": "Vologda Oblast",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "WPS Russian regional newspapers; sitios editoriales regionales identificados mediante búsqueda web",
+    "verification_note": "Identificado como medio regional en directorios o sitio editorial público. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-RUS-2026-277",
+    "name": "Novomoskovskaya Pravda",
+    "admin1_name": "Tula Oblast",
+    "city": "Novomoskovsk",
+    "official_url": "https://nov-pravda.ru/",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "state": "Tula Oblast",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "WPS Russian regional newspapers; sitios editoriales regionales identificados mediante búsqueda web",
+    "verification_note": "Identificado como medio regional en directorios o sitio editorial público. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
   }
 ]
