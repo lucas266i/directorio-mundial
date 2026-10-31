@@ -1414,5 +1414,12 @@
     "continent": "Asia",
     "region": "Asia oriental",
     "language": "ko"
+  },
+  {
+    "id": "AFG",
+    "name": "Afganistán",
+    "continent": "Asia",
+    "region": "Asia meridional",
+    "language": "ps"
   }
 ]
