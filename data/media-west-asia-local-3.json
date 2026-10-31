@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MED-IRN-2026-011",
+    "name": "Yazd Rasa",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Yazd",
+    "state": "Yazd",
+    "city": "Yazd",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://yazdrasa.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-012",
+    "name": "Eilrah",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kohgiluyeh and Boyer-Ahmad",
+    "state": "Kohgiluyeh and Boyer-Ahmad",
+    "city": "Yasuj",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://eilrah.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-013",
+    "name": "Ofogh-e Sanabad",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Razavi Khorasan",
+    "state": "Razavi Khorasan",
+    "city": "Mashhad",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://ofoghesanabad.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-014",
+    "name": "Sardasht Press",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "West Azerbaijan",
+    "state": "West Azerbaijan",
+    "city": "Sardasht",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://sardashtpress.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-015",
+    "name": "Asr-e Kashan",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Isfahan",
+    "state": "Isfahan",
+    "city": "Kashan",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://asrkashan.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-016",
+    "name": "Tanin Urmia",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "West Azerbaijan",
+    "state": "West Azerbaijan",
+    "city": "Urmia",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://taninurmia.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-017",
+    "name": "Guilan Farda",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Gilan",
+    "state": "Gilan",
+    "city": "Rasht",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://guilanfarda.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-018",
+    "name": "Nazar Press",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Mazandaran",
+    "state": "Mazandaran",
+    "city": "Babol",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://nazarpress.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-019",
+    "name": "Karavarzesh",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "East Azerbaijan",
+    "state": "East Azerbaijan",
+    "city": "Tabriz",
+    "language": "az",
+    "languages": [
+      "az"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://karavarzesh.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-020",
+    "name": "Javan-e Dirooz",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kerman",
+    "state": "Kerman",
+    "city": "Kerman",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://javanedirooz.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-021",
+    "name": "Mehraan News",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Ilam",
+    "state": "Ilam",
+    "city": "Ilam",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://mehraannews.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-022",
+    "name": "Avaye Zahedan",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Sistan and Baluchestan",
+    "state": "Sistan and Baluchestan",
+    "city": "Zahedan",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://avayezahedan.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-023",
+    "name": "Rega Online",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Kermanshah",
+    "state": "Kermanshah",
+    "city": "Javanrud",
+    "language": "ku",
+    "languages": [
+      "ku"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://regaonline.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-024",
+    "name": "Amanj 24",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "West Azerbaijan",
+    "state": "West Azerbaijan",
+    "city": "Piranshahr",
+    "language": "ku",
+    "languages": [
+      "ku"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://amanj24.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-025",
+    "name": "Nofeh",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Qazvin",
+    "state": "Qazvin",
+    "city": "Qazvin",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://nofeh.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-026",
+    "name": "Miras-e Azar",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "East Azerbaijan",
+    "state": "East Azerbaijan",
+    "city": "Tabriz",
+    "language": "az",
+    "languages": [
+      "az"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://mirasazar.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-027",
+    "name": "Hodhod Khabar",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Razavi Khorasan",
+    "state": "Razavi Khorasan",
+    "city": "Mashhad",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://hodhodkhabar.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-028",
+    "name": "Charkheh Eghtesad",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://charkheeghtesad.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-029",
+    "name": "Seday-e Rey",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Rey",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://sedayerey.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-IRN-2026-030",
+    "name": "Qiamdasht News",
+    "country": "IRN",
+    "continent": "Asia",
+    "continent_region": "Asia occidental",
+    "admin1_name": "Tehran",
+    "state": "Tehran",
+    "city": "Qiamdasht",
+    "language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://qiamdashtnews.ir/",
+    "coverage": [
+      "IRN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Iran national licensed-media directory (media records by province; source data credited to the national media registry and national open-data portal).",
+    "verification_note": "Registro local/provincial identificado en el directorio de medios autorizados. La sede y el dominio se incorporan según la ficha del directorio; pendiente comprobar individualmente HTTP/TLS, actividad editorial, idioma y dirección antes de marcar como verificado."
+  }
+]
