@@ -6732,5 +6732,1123 @@
     "status": "pending_verification",
     "discovery_source": "China Search newspaper directory; 2025 internet-news source list; provincial newspaper directories",
     "verification_note": "Direct URL listed in a newspaper directory; current availability and editorial status remain pending individual verification."
+  },
+  {
+    "id": "MED-CHN-2026-260",
+    "name": "China Health News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.jkb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-261",
+    "name": "China Labor Security News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.clssn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-262",
+    "name": "China Discipline Inspection News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://jjjcb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-263",
+    "name": "Legal Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.legaldaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-264",
+    "name": "Procuratorial Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newspaper.jcrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-265",
+    "name": "People's Court Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://rmfyb.chinacourt.org",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-266",
+    "name": "People's Public Security Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.cpd.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-267",
+    "name": "China Education Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.jyb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-268",
+    "name": "China Industry and Commerce News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://pc.cicn.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-269",
+    "name": "People's Railway Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://szb.peoplerail.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-270",
+    "name": "People's Posts and Telecommunications News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://paper.cnii.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-271",
+    "name": "China Transport News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.zgjtb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-272",
+    "name": "China Quality News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.cqn.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-273",
+    "name": "China Tax News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://ctaxnews.net.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-274",
+    "name": "China Sports Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://csol.sports.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-275",
+    "name": "China Environment News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://news.cenews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-276",
+    "name": "China Culture Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.ccdy.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-277",
+    "name": "China Water Resources News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.chinawater.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-278",
+    "name": "International Business Daily",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.comnews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-279",
+    "name": "China Business Times",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://epaper.cbt.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-280",
+    "name": "China Business News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Beijing",
+    "state": "Beijing",
+    "city": "Beijing",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.zgswcn.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-281",
+    "name": "Hebei Economic Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hbjjrb.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-282",
+    "name": "Great Wall Network Hebei",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hebccw.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-283",
+    "name": "Bohai Rim News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Tangshan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.huanbohainews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-284",
+    "name": "Beijing-Langfang Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Langfang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.010lf.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-285",
+    "name": "Shijiazhuang Daily Online",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Shijiazhuang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.sjzdaily.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-286",
+    "name": "Qinhuangdao News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Qinhuangdao",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.qhdnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-287",
+    "name": "Chengde News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Chengde",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.chengdenews.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-288",
+    "name": "Hengshui Daily Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Hengshui",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hsrb.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-289",
+    "name": "Xingtai Daily Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Xingtai",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.xtrb.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-290",
+    "name": "Cangzhou News Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Cangzhou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cznews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-291",
+    "name": "Handan News Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Handan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hdnews.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-292",
+    "name": "Zhangjiakou News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Zhangjiakou",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.zjknews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-293",
+    "name": "Tangshan News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Tangshan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tsnews.com.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-294",
+    "name": "Langfang Media Network",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Norte de China",
+    "admin1_name": "Hebei",
+    "state": "Hebei",
+    "city": "Langfang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lfcmw.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-295",
+    "name": "Hunan Daily New Hunan",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hunan",
+    "state": "Hunan",
+    "city": "Changsha",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.xhnnews.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-296",
+    "name": "Jimu News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Centro de China",
+    "admin1_name": "Hubei",
+    "state": "Hubei",
+    "city": "Wuhan",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ctdsb.net",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-297",
+    "name": "Cover News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.thecover.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-298",
+    "name": "Red Star News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Sichuan",
+    "state": "Sichuan",
+    "city": "Chengdu",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.chengdu.cn",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-299",
+    "name": "Guizhou Daily Tianyan News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Guizhou",
+    "state": "Guizhou",
+    "city": "Guiyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gzstv.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-300",
+    "name": "Dynamic Guizhou",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Guizhou",
+    "state": "Guizhou",
+    "city": "Guiyang",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dongjingguizhou.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-301",
+    "name": "Yunnan Information Port",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Suroeste de China",
+    "admin1_name": "Yunnan",
+    "state": "Yunnan",
+    "city": "Kunming",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.yninfo.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
+  },
+  {
+    "id": "MED-CHN-2026-302",
+    "name": "Qinghai Radio and Television News",
+    "country": "CHN",
+    "continent": "Asia",
+    "continent_region": "Noroeste de China",
+    "admin1_name": "Qinghai",
+    "state": "Qinghai",
+    "city": "Xining",
+    "language": "zh",
+    "languages": [
+      "zh"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.qhbtv.com",
+    "coverage": [
+      "CHN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
+    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
   }
 ]
