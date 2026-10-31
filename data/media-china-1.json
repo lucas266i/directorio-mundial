@@ -7774,32 +7774,6 @@
     "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
   },
   {
-    "id": "MED-CHN-2026-300",
-    "name": "Dynamic Guizhou",
-    "country": "CHN",
-    "continent": "Asia",
-    "continent_region": "Suroeste de China",
-    "admin1_name": "Guizhou",
-    "state": "Guizhou",
-    "city": "Guiyang",
-    "language": "zh",
-    "languages": [
-      "zh"
-    ],
-    "type": "digital-native",
-    "categories": [
-      "general-news",
-      "local-news"
-    ],
-    "official_url": "https://www.dongjingguizhou.com",
-    "coverage": [
-      "CHN"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "China Search; directorios provinciales; lista de medios con licencia de información noticiosa de China",
-    "verification_note": "Dominio identificado en directorios públicos o listados de medios. Disponibilidad actual y actividad editorial pendientes de comprobación individual."
-  },
-  {
     "id": "MED-CHN-2026-301",
     "name": "Yunnan Information Port",
     "country": "CHN",
