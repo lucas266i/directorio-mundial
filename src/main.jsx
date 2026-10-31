@@ -181,6 +181,7 @@ function App() {
           <a href="#inicio">Inicio</a>
           <a href="#continentes">Continentes</a>
           <a href="#paises">Países</a>
+          <a href="#sudamerica">Sudamérica</a>
           <a href="#medios">Medios</a>
           <a href="#categorias">Categorías</a>
         </nav>
@@ -243,6 +244,20 @@ function App() {
           <div className="grid">
             {countries.map((c) => <article className="card" key={c.id}><div className="flag">🌐</div><h3>{c.name}</h3><p>{c.continent} · {c.region} · {languageLabels[c.language] || c.language}</p><div className="chips"><span>🌎 Geopolítica</span><span>🟢 Independientes</span></div></article>)}
           </div>
+        </section>
+
+        <section id="sudamerica" className="section">
+          <div className="sectionHead">
+            <div><span className="eyebrow">DIRECTORIO REGIONAL</span><h2>Sudamérica</h2></div>
+            <span className="count">Edición regional interactiva</span>
+          </div>
+          <article className="card">
+            <h3>Explorar el directorio completo de Sudamérica</h3>
+            <p>Abre el catálogo regional independiente con sus propios filtros territoriales, idiomas, categorías y buscador. La aplicación principal conserva sus filtros y el catálogo global.</p>
+            <div className="filterActions">
+              <a className="applyFilters" style={{display:"inline-flex",alignItems:"center",textDecoration:"none"}} href={`${import.meta.env.BASE_URL}directorio-sudamerica.html`} target="_blank" rel="noreferrer">Abrir directorio de Sudamérica ↗</a>
+            </div>
+          </article>
         </section>
 
         <section id="geografia-eeuu" className="section">
