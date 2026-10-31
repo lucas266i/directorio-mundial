@@ -1407,5 +1407,12 @@
     "continent": "Asia",
     "region": "Asia oriental",
     "language": "zh"
+  },
+  {
+    "id": "PRK",
+    "name": "Corea del Norte",
+    "continent": "Asia",
+    "region": "Asia oriental",
+    "language": "ko"
   }
 ]
