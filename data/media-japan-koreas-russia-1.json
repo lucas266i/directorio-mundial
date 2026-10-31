@@ -3014,5 +3014,1071 @@
     "status": "pending_verification",
     "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
     "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-228",
+    "name": "Yamanashi Nichinichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Yamanashi",
+    "state": "Yamanashi",
+    "city": "Kofu",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.sannichi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-229",
+    "name": "Shinano Mainichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Nagano",
+    "state": "Nagano",
+    "city": "Nagano",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.shinmai.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-230",
+    "name": "Gifu Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gifu",
+    "state": "Gifu",
+    "city": "Gifu",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.gifu-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-231",
+    "name": "Shizuoka Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Shizuoka",
+    "state": "Shizuoka",
+    "city": "Shizuoka",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://news.at-s.com/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-232",
+    "name": "Chunichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Aichi",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.chunichi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-233",
+    "name": "Kyoto Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kyoto",
+    "state": "Kyoto",
+    "city": "Kyoto",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.kyoto-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-234",
+    "name": "Ise Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Mie",
+    "state": "Mie",
+    "city": "Tsu",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.isenp.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-235",
+    "name": "Nara Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Nara",
+    "state": "Nara",
+    "city": "Nara",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.nara-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-236",
+    "name": "Kobe Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hyogo",
+    "state": "Hyogo",
+    "city": "Kobe",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.kobe-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-237",
+    "name": "Kii Minpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Wakayama",
+    "state": "Wakayama",
+    "city": "Tanabe",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.agara.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-238",
+    "name": "Sanyo Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Okayama",
+    "state": "Okayama",
+    "city": "Okayama",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.sanyonews.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-239",
+    "name": "Chugoku Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hiroshima",
+    "state": "Hiroshima",
+    "city": "Hiroshima",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.chugoku-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-240",
+    "name": "San-in Chuo Shimpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Shimane",
+    "state": "Shimane",
+    "city": "Matsue",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.sanin-chuo.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-241",
+    "name": "Nihonkai Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Tottori",
+    "state": "Tottori",
+    "city": "Tottori",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.nnn.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-242",
+    "name": "Yamaguchi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Yamaguchi",
+    "state": "Yamaguchi",
+    "city": "Shimonoseki",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://yama.minato-yamaguchi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-243",
+    "name": "Shikoku Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kagawa",
+    "state": "Kagawa",
+    "city": "Takamatsu",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.shikoku-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-244",
+    "name": "Ehime Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Ehime",
+    "state": "Ehime",
+    "city": "Matsuyama",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.ehime-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-245",
+    "name": "Kochi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kochi",
+    "state": "Kochi",
+    "city": "Kochi",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.kochinews.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-246",
+    "name": "Tokushima Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Tokushima",
+    "state": "Tokushima",
+    "city": "Tokushima",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.topics.or.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-247",
+    "name": "Nishi Nippon Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Fukuoka",
+    "state": "Fukuoka",
+    "city": "Fukuoka",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.nishinippon.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-248",
+    "name": "Saga Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Saga",
+    "state": "Saga",
+    "city": "Saga",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.saga-s.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-249",
+    "name": "Nagasaki Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Nagasaki",
+    "state": "Nagasaki",
+    "city": "Nagasaki",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.nagasaki-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-250",
+    "name": "Kumamoto Nichinichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kumamoto",
+    "state": "Kumamoto",
+    "city": "Kumamoto",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://kumanichi.com/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-251",
+    "name": "Oita Godo Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Oita",
+    "state": "Oita",
+    "city": "Oita",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.oita-press.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-252",
+    "name": "Miyazaki Nichinichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Miyazaki",
+    "state": "Miyazaki",
+    "city": "Miyazaki",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.the-miyanichi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-253",
+    "name": "Minami Nihon Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Kagoshima",
+    "state": "Kagoshima",
+    "city": "Kagoshima",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://373news.com/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-254",
+    "name": "Ryukyu Shimpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Okinawa",
+    "state": "Okinawa",
+    "city": "Naha",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ryukyushimpo.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-JPN-2026-255",
+    "name": "Okinawa Times",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Okinawa",
+    "state": "Okinawa",
+    "city": "Naha",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "http://www.okinawatimes.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library Research Navi, directorio nacional de periódicos actualizado en 2026",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-252",
+    "name": "Maykopskie Novosti",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Republic of Adygea",
+    "state": "Republic of Adygea",
+    "city": "Maykop",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://maykop-news.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-253",
+    "name": "Vecherniy Novosibirsk",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Novosibirsk Oblast",
+    "state": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vn.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-254",
+    "name": "Kontinent Sibir",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Novosibirsk Oblast",
+    "state": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://ksonline.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-255",
+    "name": "Novosibirskie Novosti",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Novosibirsk Oblast",
+    "state": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://nsknews.info/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-256",
+    "name": "Sovetskaya Sibir",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Novosibirsk Oblast",
+    "state": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://sovsibir.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-257",
+    "name": "Magadanskaya Pravda",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Magadan Oblast",
+    "state": "Magadan Oblast",
+    "city": "Magadan",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://magadanpravda.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-258",
+    "name": "Murmanskiy Vestnik",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Murmansk Oblast",
+    "state": "Murmansk Oblast",
+    "city": "Murmansk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.mvestnik.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-259",
+    "name": "Vecherniy Murmansk",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Murmansk Oblast",
+    "state": "Murmansk Oblast",
+    "city": "Murmansk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://vmnews.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-260",
+    "name": "Novgorodskie Vedomosti",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Novgorod Oblast",
+    "state": "Novgorod Oblast",
+    "city": "Veliky Novgorod",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://novvedomosti.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-261",
+    "name": "Orlovskaya Pravda",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Oryol Oblast",
+    "state": "Oryol Oblast",
+    "city": "Oryol",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://orelgazeta.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-262",
+    "name": "Orenburzhye",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Orenburg Oblast",
+    "state": "Orenburg Oblast",
+    "city": "Orenburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://orenburzhie.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-263",
+    "name": "Zvezda Perm",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Perm Krai",
+    "state": "Perm Krai",
+    "city": "Perm",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://zvezda-perm.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-264",
+    "name": "Novyy Kompanon",
+    "country": "RUS",
+    "continent": "Europe",
+    "continent_region": "Europa oriental y norte de Asia",
+    "admin1_name": "Perm Krai",
+    "state": "Perm Krai",
+    "city": "Perm",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.nkom.ru/",
+    "coverage": [
+      "RUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
+    "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
   }
 ]
