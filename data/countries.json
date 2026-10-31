@@ -1470,5 +1470,40 @@
     "continent": "Asia",
     "region": "Asia occidental",
     "language": "ar"
+  },
+  {
+    "id": "KIR",
+    "name": "Kiribati",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "en"
+  },
+  {
+    "id": "TUV",
+    "name": "Tuvalu",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "tvl"
+  },
+  {
+    "id": "NIU",
+    "name": "Niue",
+    "continent": "Oceanía",
+    "region": "Polinesia",
+    "language": "niu"
+  },
+  {
+    "id": "PLW",
+    "name": "Palaos",
+    "continent": "Oceanía",
+    "region": "Micronesia",
+    "language": "pau"
+  },
+  {
+    "id": "NCL",
+    "name": "Nueva Caledonia",
+    "continent": "Oceanía",
+    "region": "Melanesia",
+    "language": "fr"
   }
 ]
