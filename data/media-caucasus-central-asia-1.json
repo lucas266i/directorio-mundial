@@ -1177,7 +1177,7 @@
   },
   {
     "id": "MED-ARM-2026-043",
-    "name": "Epress.am Russian",
+    "name": "Armenia Sputnik",
     "country": "ARM",
     "continent": "Europa",
     "continent_region": "Oriental",
@@ -1194,7 +1194,7 @@
       "general-news",
       "local-news"
     ],
-    "official_url": "https://epress.am/ru/",
+    "official_url": "https://armeniasputnik.am/",
     "coverage": [
       "ARM"
     ],
