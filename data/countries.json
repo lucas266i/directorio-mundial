@@ -1117,9 +1117,10 @@
   {
     "id": "KAZ",
     "name": "Kazajistán",
-    "continent": "Asia",
-    "region": "Asia central",
-    "language": "kk"
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "kk",
+    "classification_note": "País transcontinental; incluido en la cobertura ampliada europea por solicitud del proyecto."
   },
   {
     "id": "KGZ",
@@ -1152,23 +1153,26 @@
   {
     "id": "AZE",
     "name": "Azerbaiyán",
-    "continent": "Asia",
-    "region": "Asia occidental",
-    "language": "az"
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "az",
+    "classification_note": "Cáucaso; país transcontinental o de clasificación regional variable."
   },
   {
     "id": "ARM",
     "name": "Armenia",
-    "continent": "Asia",
-    "region": "Asia occidental",
-    "language": "hy"
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "hy",
+    "classification_note": "Cáucaso; país transcontinental o de clasificación regional variable."
   },
   {
     "id": "GEO",
     "name": "Georgia",
-    "continent": "Asia",
-    "region": "Asia occidental",
-    "language": "ka"
+    "continent": "Europa",
+    "region": "Oriental",
+    "language": "ka",
+    "classification_note": "Cáucaso; país transcontinental o de clasificación regional variable."
   },
   {
     "id": "MMR",
@@ -1425,9 +1429,10 @@
   {
     "id": "TUR",
     "name": "Turquía",
-    "continent": "Asia",
-    "region": "Asia occidental",
-    "language": "tr"
+    "continent": "Europa",
+    "region": "Meridional",
+    "language": "tr",
+    "classification_note": "País transcontinental; incluido en la cobertura ampliada europea por solicitud del proyecto."
   },
   {
     "id": "BHR",
