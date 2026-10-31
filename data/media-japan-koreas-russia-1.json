@@ -2624,5 +2624,395 @@
     "status": "pending_verification",
     "discovery_source": "KCNA Watch; State Media Monitor; George Washington University Korean Studies resources",
     "verification_note": "Enlace registrado desde directorios públicos o página editorial identificada. Pendiente de comprobación HTTP/TLS, actividad editorial y confirmación geográfica individual."
+  },
+  {
+    "id": "MED-JPN-2026-221",
+    "name": "Hokkaido Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Sapporo",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hokkaido-np.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-222",
+    "name": "Muroran Minpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Muroran",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.muromin.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-223",
+    "name": "Tokachi Mainichi Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Obihiro",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.tokachi.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-224",
+    "name": "Kushiro Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Kushiro",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://kushironews.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-225",
+    "name": "Tomakomai Minpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Tomakomai",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.tomamin.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-226",
+    "name": "Hakodate Shimbun",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Hokkaido",
+    "state": "Hokkaido",
+    "city": "Hakodate",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://digital.hakoshin.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-JPN-2026-227",
+    "name": "Hokuu Shimpo",
+    "country": "JPN",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Akita",
+    "state": "Akita",
+    "city": "Noshiro",
+    "language": "ja",
+    "languages": [
+      "ja"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.hokuu.co.jp/",
+    "coverage": [
+      "JPN"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "National Diet Library y Japan Newspaper Association",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-221",
+    "name": "Incheon Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Incheon",
+    "state": "Incheon",
+    "city": "Incheon",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.incheonilbo.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-222",
+    "name": "Busan Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Busan",
+    "state": "Busan",
+    "city": "Busan",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.busan.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-223",
+    "name": "Jeju Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Jeju-do",
+    "state": "Jeju-do",
+    "city": "Jeju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.jejunews.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-224",
+    "name": "Jemin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Jeju-do",
+    "state": "Jeju-do",
+    "city": "Jeju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.jemin.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-225",
+    "name": "Gyeongbuk Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Gyeongsangbuk-do",
+    "state": "Gyeongsangbuk-do",
+    "city": "Pohang",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.kyongbuk.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-226",
+    "name": "Yeongnam Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Daegu",
+    "state": "Daegu",
+    "city": "Daegu",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.yeongnam.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-227",
+    "name": "Maeil Shinmun",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Daegu",
+    "state": "Daegu",
+    "city": "Daegu",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.imaeil.com/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
+  },
+  {
+    "id": "MED-KOR-2026-228",
+    "name": "Jeonbuk Domin Ilbo",
+    "country": "KOR",
+    "continent": "Asia",
+    "continent_region": "Asia oriental",
+    "admin1_name": "Jeollabuk-do",
+    "state": "Jeollabuk-do",
+    "city": "Jeonju",
+    "language": "ko",
+    "languages": [
+      "ko"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "general-news"
+    ],
+    "official_url": "https://www.domin.co.kr/",
+    "coverage": [
+      "KOR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Korea Local Press Development Fund 2026 y directorios regionales de prensa",
+    "verification_note": "Registro incorporado desde directorios institucionales o sectoriales. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y ubicación de la redacción."
   }
 ]
