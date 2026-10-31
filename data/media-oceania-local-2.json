@@ -1,0 +1,797 @@
+[
+  {
+    "id": "MED-OC-2026-041",
+    "name": "Newcastle Herald",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Newcastle",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.newcastleherald.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-042",
+    "name": "Illawarra Mercury",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "New South Wales",
+    "state": "New South Wales",
+    "city": "Wollongong",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.illawarramercury.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-043",
+    "name": "The Examiner",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Tasmania",
+    "state": "Tasmania",
+    "city": "Launceston",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.examiner.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-045",
+    "name": "Townsville Bulletin",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Townsville",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.townsvillebulletin.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-046",
+    "name": "Cairns Post",
+    "country": "AUS",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Queensland",
+    "state": "Queensland",
+    "city": "Cairns",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cairnspost.com.au/",
+    "coverage": [
+      "AUS"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-047",
+    "name": "Hawke's Bay Today",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Hawke's Bay",
+    "state": "Hawke's Bay",
+    "city": "Napier",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.nzherald.co.nz/hawkes-bay-today/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-048",
+    "name": "Gisborne Herald",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Gisborne",
+    "state": "Gisborne",
+    "city": "Gisborne",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gisborneherald.co.nz/",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-049",
+    "name": "Nelson Mail",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Nelson",
+    "state": "Nelson",
+    "city": "Nelson",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/nelson-mail",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-050",
+    "name": "Southland Times",
+    "country": "NZL",
+    "continent": "Oceanía",
+    "continent_region": "Australasia",
+    "admin1_name": "Southland",
+    "state": "Southland",
+    "city": "Invercargill",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stuff.co.nz/southland-times",
+    "coverage": [
+      "NZL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-051",
+    "name": "FijiVillage",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Central Division",
+    "state": "Central Division",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.fijivillage.com/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-052",
+    "name": "FijiLive",
+    "country": "FJI",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Central Division",
+    "state": "Central Division",
+    "city": "Suva",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.fijilive.com/",
+    "coverage": [
+      "FJI"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-053",
+    "name": "One Papua New Guinea",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "National Capital District",
+    "state": "National Capital District",
+    "city": "Port Moresby",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://www.onepng.com/",
+    "coverage": [
+      "PNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-054",
+    "name": "Business Advantage PNG",
+    "country": "PNG",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "National Capital District",
+    "state": "National Capital District",
+    "city": "Port Moresby",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "business",
+      "economy",
+      "analysis"
+    ],
+    "official_url": "https://www.businessadvantagepng.com/",
+    "coverage": [
+      "PNG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-055",
+    "name": "In-Depth Solomons",
+    "country": "SLB",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Honiara",
+    "state": "Honiara",
+    "city": "Honiara",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "investigative",
+      "politics",
+      "local-news"
+    ],
+    "official_url": "https://indepthsolomons.com.sb/",
+    "coverage": [
+      "SLB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-056",
+    "name": "Solomon Times",
+    "country": "SLB",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Honiara",
+    "state": "Honiara",
+    "city": "Honiara",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.solomontimes.com/",
+    "coverage": [
+      "SLB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-057",
+    "name": "Vanuatu Broadcasting and Television Corporation",
+    "country": "VUT",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "Shefa",
+    "state": "Shefa",
+    "city": "Port Vila",
+    "language": "bi",
+    "languages": [
+      "bi"
+    ],
+    "type": "public-media",
+    "categories": [
+      "radio",
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://www.vbtc.vu/",
+    "coverage": [
+      "VUT"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-058",
+    "name": "Savali",
+    "country": "WSM",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Tuamasaga",
+    "state": "Tuamasaga",
+    "city": "Apia",
+    "language": "sm",
+    "languages": [
+      "sm"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "government",
+      "national",
+      "local-news"
+    ],
+    "official_url": "https://savali.gov.ws/",
+    "coverage": [
+      "WSM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-059",
+    "name": "Kaniva Tonga News",
+    "country": "TON",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Tongatapu",
+    "state": "Tongatapu",
+    "city": "Nuku'alofa",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "diaspora"
+    ],
+    "official_url": "https://www.kanivatonga.nz/",
+    "coverage": [
+      "TON"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-060",
+    "name": "Cook Islands News",
+    "country": "COK",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Rarotonga",
+    "state": "Rarotonga",
+    "city": "Avarua",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cookislandsnews.com/",
+    "coverage": [
+      "COK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-061",
+    "name": "Niue Star",
+    "country": "NIU",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Niue",
+    "state": "Niue",
+    "city": "Alofi",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://niue.star/",
+    "coverage": [
+      "NIU"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-062",
+    "name": "Island Times",
+    "country": "PLW",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Koror",
+    "state": "Koror",
+    "city": "Koror",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://islandtimes.org/",
+    "coverage": [
+      "PLW"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-063",
+    "name": "Tia Belau",
+    "country": "PLW",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Koror",
+    "state": "Koror",
+    "city": "Koror",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tiabelaunews.com/",
+    "coverage": [
+      "PLW"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-064",
+    "name": "Radio Kiribati",
+    "country": "KIR",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "South Tarawa",
+    "state": "South Tarawa",
+    "city": "Bairiki",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "radio",
+      "general-news",
+      "national"
+    ],
+    "official_url": "https://www.bpa.gov.ki/",
+    "coverage": [
+      "KIR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-065",
+    "name": "Tuvalu Broadcasting Corporation",
+    "country": "TUV",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Funafuti",
+    "state": "Funafuti",
+    "city": "Funafuti",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "public-media",
+    "categories": [
+      "radio",
+      "television",
+      "general-news"
+    ],
+    "official_url": "https://tvbc.tv/",
+    "coverage": [
+      "TUV"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-066",
+    "name": "Guam Daily Post",
+    "country": "GUM",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Hagåtña",
+    "state": "Hagåtña",
+    "city": "Hagåtña",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.postguam.com/",
+    "coverage": [
+      "GUM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-067",
+    "name": "Pacific Daily News",
+    "country": "GUM",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Hagåtña",
+    "state": "Hagåtña",
+    "city": "Hagåtña",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.guampdn.com/",
+    "coverage": [
+      "GUM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-068",
+    "name": "Tahiti Infos",
+    "country": "PYF",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Windward Islands",
+    "state": "Windward Islands",
+    "city": "Papeete",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "culture"
+    ],
+    "official_url": "https://www.tahiti-infos.com/",
+    "coverage": [
+      "PYF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-069",
+    "name": "TNTV",
+    "country": "PYF",
+    "continent": "Oceanía",
+    "continent_region": "Polinesia",
+    "admin1_name": "Windward Islands",
+    "state": "Windward Islands",
+    "city": "Papeete",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "television",
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.tntv.pf/",
+    "coverage": [
+      "PYF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-070",
+    "name": "Les Nouvelles Calédoniennes",
+    "country": "NCL",
+    "continent": "Oceanía",
+    "continent_region": "Melanesia",
+    "admin1_name": "South Province",
+    "state": "South Province",
+    "city": "Nouméa",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "politics"
+    ],
+    "official_url": "https://www.lnc.nc/",
+    "coverage": [
+      "NCL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  },
+  {
+    "id": "MED-OC-2026-071",
+    "name": "The Kwajalein Hourglass",
+    "country": "MHL",
+    "continent": "Oceanía",
+    "continent_region": "Micronesia",
+    "admin1_name": "Ralik Chain",
+    "state": "Ralik Chain",
+    "city": "Kwajalein",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "local-news",
+      "community-media"
+    ],
+    "official_url": "https://www.smdc.army.mil/Media/News/",
+    "coverage": [
+      "MHL"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Pacific Islands News Association (PINA) media-member directory; UCLA Library Pacific Islands newspaper guide; University of Hawaiʻi Pacific news sources; regional newspaper directories.",
+    "verification_note": "Medio identificado en directorios regionales, bibliotecas universitarias o asociaciones de prensa. La ubicación corresponde a su área editorial declarada o sede conocida; pendiente comprobación individual del dominio, actividad editorial, idioma y dirección antes de marcar como verificado."
+  }
+]
