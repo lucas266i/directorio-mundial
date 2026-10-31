@@ -1923,7 +1923,7 @@
   {
     "id": "MED-OC-2026-033",
     "name": "Marianas Variety",
-    "country": "MHL",
+    "country": "MNP",
     "continent": "Oceanía",
     "continent_region": "Micronesia",
     "city": "Saipan",
@@ -1939,11 +1939,13 @@
     ],
     "official_url": "https://www.mvariety.com/",
     "coverage": [
-      "MHL"
+      "MNP"
     ],
     "status": "pending_verification",
     "discovery_source": "MundoX · fuentes regionales, redes de investigación y directorios periodísticos",
-    "verification_note": "Registro incorporado en lote de ampliación. Verificar URL, sede editorial, estado operativo y alcance geográfico antes de marcar como verificado."
+    "verification_note": "Sede editorial en Saipan, Islas Marianas del Norte. Corregida la asignación territorial que figuraba como Islas Marshall; pendiente comprobación individual del dominio y actividad editorial.",
+    "admin1_name": "Saipan",
+    "state": "Saipan"
   },
   {
     "id": "MED-OC-2026-034",
