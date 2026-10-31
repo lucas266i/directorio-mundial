@@ -1,0 +1,794 @@
+[
+  {
+    "id": "MED-UZB-2026-001",
+    "name": "Gazeta.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "uz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gazeta.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-002",
+    "name": "Kun.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://kun.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-003",
+    "name": "Daryo",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://daryo.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-004",
+    "name": "UzA",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://uza.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-005",
+    "name": "Qalampir.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://qalampir.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-006",
+    "name": "Podrobno.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "uz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://podrobno.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-007",
+    "name": "Spot.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "uz",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.spot.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-008",
+    "name": "UzDaily",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "en",
+    "languages": [
+      "en",
+      "ru",
+      "uz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.uzdaily.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-009",
+    "name": "UzReport",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://uzreport.news/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-010",
+    "name": "Anhor.uz",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "uz",
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://anhor.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-011",
+    "name": "Hook.report",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "uz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://hook.report/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-012",
+    "name": "Fergana News Agency",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "en",
+      "uz"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://fergana.agency/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-UZB-2026-013",
+    "name": "Tashkent Times",
+    "country": "UZB",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Tashkent",
+    "state": "Tashkent",
+    "city": "Tashkent",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tashkenttimes.uz/",
+    "coverage": [
+      "UZB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana, Vatan Global Alliance y directorios de medios de Uzbekistán",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-001",
+    "name": "Asia-Plus",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "tg",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://asiaplustj.info/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-002",
+    "name": "Avesta",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://avesta.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-003",
+    "name": "Khovar",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "tg",
+    "languages": [
+      "tg",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://khovar.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-004",
+    "name": "Radio Ozodi",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Prague",
+    "state": "Prague",
+    "city": "Prague",
+    "language": "tg",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ozodi.org/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-005",
+    "name": "Jumhuriyat",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "tg",
+    "languages": [
+      "tg"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://jumhuriyat.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-006",
+    "name": "Faraj",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "tg",
+    "languages": [
+      "tg"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://farazh.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-007",
+    "name": "Pressa.tj",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "tg"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://pressa.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-008",
+    "name": "SugdNews",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Sughd",
+    "state": "Sughd",
+    "city": "Khujand",
+    "language": "tg",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://sugdnews.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-009",
+    "name": "Radio Imruz",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "tg",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://imruz.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TJK-2026-010",
+    "name": "Radio Vatan",
+    "country": "TJK",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Dushanbe",
+    "state": "Dushanbe",
+    "city": "Dushanbe",
+    "language": "tg",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://vatan.tj/",
+    "coverage": [
+      "TJK"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "George Washington University Central Asia Guide y BBC Tajikistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-001",
+    "name": "TDH – Turkmenistan State News Agency",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "tk",
+    "languages": [
+      "tk",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://tdh.gov.tm/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-002",
+    "name": "ORIENT News Agency",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "ru",
+    "languages": [
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://orient.tm/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-003",
+    "name": "Turkmenportal",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "tk",
+    "languages": [
+      "tk",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://turkmenportal.com/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-004",
+    "name": "Business Turkmenistan",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "en",
+    "languages": [
+      "en",
+      "ru",
+      "tk"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://business.com.tm/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-005",
+    "name": "Neutral Turkmenistan",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://neutral-turkmenistan.com/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  },
+  {
+    "id": "MED-TKM-2026-006",
+    "name": "Turkmenistan Golden Age",
+    "country": "TKM",
+    "continent": "Asia",
+    "continent_region": "Asia central",
+    "admin1_name": "Ashgabat",
+    "state": "Ashgabat",
+    "city": "Ashgabat",
+    "language": "tk",
+    "languages": [
+      "tk",
+      "ru",
+      "en"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "local-news"
+    ],
+    "official_url": "https://www.turkmenistan.gov.tm/",
+    "coverage": [
+      "TKM"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Harvard Caspiana Turkmenistan Media Guide y BBC Turkmenistan Media Guide",
+    "verification_note": "Registro procedente de directorios académicos o sectoriales. Pendiente de verificación individual del enlace, actividad editorial, idioma y sede; no se considera enlace activo verificado."
+  }
+]
