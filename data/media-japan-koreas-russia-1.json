@@ -4080,5 +4080,210 @@
     "status": "pending_verification",
     "discovery_source": "Biblioteca del Congreso de EE. UU. y directorios WPS/SHPL de prensa regional rusa",
     "verification_note": "Identificado en un directorio bibliográfico o sectorial. Pendiente de comprobación individual de HTTP/TLS, actividad editorial y sede geográfica; no se considera enlace verificado."
+  },
+  {
+    "id": "MED-RUS-2026-265",
+    "name": "Gazeta Kuzbass",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kemerovo",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "politics"
+    ],
+    "official_url": "https://kuzbass85.ru/",
+    "coverage": [
+      "Kemerovo Oblast"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Kuzbass newspaper official contact page; WPS regional press directory",
+    "source_license": "unknown",
+    "verification_note": "Official publication site and editorial contact information identified; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-266",
+    "name": "RIA Kuzbass",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kemerovo",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "economy"
+    ],
+    "official_url": "https://kuzbass.media/",
+    "coverage": [
+      "Kemerovo Oblast"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "RIA Kuzbass official website and contact page",
+    "source_license": "unknown",
+    "verification_note": "Registered regional information agency; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-267",
+    "name": "Tikhookeanskaya Zvezda",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Khabarovsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://tozhb.ru/",
+    "coverage": [
+      "Khabarovsk Krai"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official newspaper website; WPS regional press directory",
+    "source_license": "unknown",
+    "verification_note": "Official publication website identified; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-268",
+    "name": "Kubanskie Novosti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Krasnodar",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "politics"
+    ],
+    "official_url": "https://kubnews.ru/",
+    "coverage": [
+      "Krasnodar Krai"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official editorial page; WPS regional press directory",
+    "source_license": "unknown",
+    "verification_note": "Editorial contacts and media registration information are published on the official site; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-269",
+    "name": "Kommerscheskie Vesti",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Omsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "economy",
+      "business",
+      "regional-news"
+    ],
+    "official_url": "https://kvnews.ru/",
+    "coverage": [
+      "Omsk Oblast"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Official project/about page; Omsk Union of Journalists media list",
+    "source_license": "unknown",
+    "verification_note": "Official publication/about page identifies the outlet; verify current URL availability."
+  },
+  {
+    "id": "MED-RUS-2026-270",
+    "name": "Vyatskiy Krai",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Kirov",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "http://www.vk-smi.ru/",
+    "coverage": [
+      "Kirov Oblast"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Interregional League of Journalists profile; WPS regional press directory",
+    "source_license": "unknown",
+    "verification_note": "Listed by a journalists' association; direct site availability remains to be checked."
+  },
+  {
+    "id": "MED-RUS-2026-271",
+    "name": "Vecherniy Orenburg",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Orenburg",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.vecherniyorenburg.ru/",
+    "coverage": [
+      "Orenburg"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Orenburg regional library and local press directories",
+    "source_license": "unknown",
+    "verification_note": "Publication existence corroborated by regional library and press directories; verify current official URL."
+  },
+  {
+    "id": "MED-RUS-2026-272",
+    "name": "Newsomsk",
+    "country": "RUS",
+    "continent": "Europa",
+    "continent_region": "Oriental",
+    "city": "Omsk",
+    "language": "ru",
+    "languages": [
+      "ru"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news"
+    ],
+    "official_url": "https://newsomsk.ru/",
+    "coverage": [
+      "Omsk Oblast"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Omsk Union of Journalists print and media directory",
+    "source_license": "unknown",
+    "verification_note": "Outlet listed by the regional journalists' union; verify current URL availability."
   }
 ]
