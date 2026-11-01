@@ -1,5 +1,9 @@
 name: Update daily world news
 on:
+  push:
+    paths:
+      - "scripts/update-news.mjs"
+      - ".github/workflows/update-news.yml"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
