@@ -84,44 +84,53 @@ function App() {
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
     Promise.all([
-      fetch(`${base}data/countries.json`).then((r) => r.ok ? r.json() : fallbackCountries),
-      fetch(`${base}data/media.json`).then((r) => r.ok ? r.json() : fallbackMedia),
-      fetch(`${base}data/media-europe.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-europe-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-europe-3.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-europe-4.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-eastern-europe-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-caucasus-central-asia-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-global-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-global-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-global-3.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-global-4.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-asia-africa-oceania-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-africa-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-africa-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-africa-3.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-africa-4.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-india-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-china-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-china-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-japan-koreas-russia-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-asia-central-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-south-asia-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-southeast-asia-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-west-asia-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-west-asia-local-3.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-oceania-local-2.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-oceania-local-3.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/media-south-america-1.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories),
-      fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : []),
-      fetch(`${base}data/discovery-sources-africa.json`).then((r) => r.ok ? r.json() : [])
-     ]).then(([countryData, mediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, easternEurope1Data, caucasusCentralAsia1Data, global1MediaData, global2MediaData, global3MediaData, global4MediaData, asiaAfricaOceaniaData, africa1MediaData, africa2MediaData, africa3MediaData, africa4MediaData, indiaMediaData, chinaMediaData, china2MediaData, northeastAsiaRussiaData, asiaCentral2Data, southAsia2Data, southeastAsia2Data, westAsia2Data, westAsiaLocal3Data, oceaniaLocal2Data, oceaniaLocal3Data, southAmerica1Data, categoryData, stateData, geographyData, africaSourcesData]) => {
+      fetch(`${base}data/countries.json`).then((r) => r.ok ? r.json() : fallbackCountries).catch(() => fallbackCountries),
+      fetch(`${base}data/media.json`).then((r) => r.ok ? r.json() : fallbackMedia).catch(() => fallbackMedia),
+      fetch(`${base}data/us-media-directory.json`).then((r) => r.ok ? r.json() : []).catch(() => []),
+      fetch(`${base}data/media-europe.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-europe-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-europe-3.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-europe-4.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-eastern-europe-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-caucasus-central-asia-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-global-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-global-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-global-3.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-global-4.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-asia-africa-oceania-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-africa-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-africa-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-africa-3.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-africa-4.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-india-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-china-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-china-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-japan-koreas-russia-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-asia-central-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-south-asia-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-southeast-asia-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-west-asia-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-west-asia-local-3.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-oceania-local-2.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-oceania-local-3.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/media-south-america-1.json`).then((r) => r.ok ? r.json() : [].catch(() => []),
+      fetch(`${base}data/categories.json`).then((r) => r.ok ? r.json() : fallbackCategories).catch(() => fallbackCategories),
+      fetch(`${base}data/us-states.json`).then((r) => r.ok ? r.json() : []).catch(() => []),
+      fetch(`${base}data/us-geography.json`).then((r) => r.ok ? r.json() : []).catch(() => []),
+      fetch(`${base}data/discovery-sources-africa.json`).then((r) => r.ok ? r.json() : []).catch(() => [])
+     ]).then(([countryData, mediaData, usMediaData, europeMediaData, europe2MediaData, europe3MediaData, europe4MediaData, easternEurope1Data, caucasusCentralAsia1Data, global1MediaData, global2MediaData, global3MediaData, global4MediaData, asiaAfricaOceaniaData, africa1MediaData, africa2MediaData, africa3MediaData, africa4MediaData, indiaMediaData, chinaMediaData, china2MediaData, northeastAsiaRussiaData, asiaCentral2Data, southAsia2Data, southeastAsia2Data, westAsia2Data, westAsiaLocal3Data, oceaniaLocal2Data, oceaniaLocal3Data, southAmerica1Data, categoryData, stateData, geographyData, africaSourcesData]) => {
       setAfricaDiscoverySources(Array.isArray(africaSourcesData) ? africaSourcesData : []);
       setCountries(Array.isArray(countryData) ? countryData : fallbackCountries);
-      setMedia([...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(easternEurope1Data) ? easternEurope1Data : []), ...(Array.isArray(caucasusCentralAsia1Data) ? caucasusCentralAsia1Data : []), ...(Array.isArray(global1MediaData) ? global1MediaData : []), ...(Array.isArray(global2MediaData) ? global2MediaData : []), ...(Array.isArray(global3MediaData) ? global3MediaData : []), ...(Array.isArray(global4MediaData) ? global4MediaData : []), ...(Array.isArray(asiaAfricaOceaniaData) ? asiaAfricaOceaniaData : []), ...(Array.isArray(africa1MediaData) ? africa1MediaData : []),
-        ...(Array.isArray(africa2MediaData) ? africa2MediaData : []), ...(Array.isArray(africa3MediaData) ? africa3MediaData : []), ...(Array.isArray(africa4MediaData) ? africa4MediaData : []), ...(Array.isArray(indiaMediaData) ? indiaMediaData : []), ...(Array.isArray(chinaMediaData) ? chinaMediaData : []), ...(Array.isArray(china2MediaData) ? china2MediaData : []), ...(Array.isArray(northeastAsiaRussiaData) ? northeastAsiaRussiaData : []), ...(Array.isArray(asiaCentral2Data) ? asiaCentral2Data : []), ...(Array.isArray(southAsia2Data) ? southAsia2Data : []), ...(Array.isArray(southeastAsia2Data) ? southeastAsia2Data : []), ...(Array.isArray(westAsia2Data) ? westAsia2Data : []), ...(Array.isArray(westAsiaLocal3Data) ? westAsiaLocal3Data : []), ...(Array.isArray(oceaniaLocal2Data) ? oceaniaLocal2Data : []), ...(Array.isArray(oceaniaLocal3Data) ? oceaniaLocal3Data : []), ...(Array.isArray(southAmerica1Data) ? southAmerica1Data : [])]);
+      const combinedMedia = [...(Array.isArray(mediaData) ? mediaData : fallbackMedia), ...(Array.isArray(usMediaData) ? usMediaData : []), ...(Array.isArray(europeMediaData) ? europeMediaData : []), ...(Array.isArray(europe2MediaData) ? europe2MediaData : []), ...(Array.isArray(europe3MediaData) ? europe3MediaData : []), ...(Array.isArray(europe4MediaData) ? europe4MediaData : []), ...(Array.isArray(easternEurope1Data) ? easternEurope1Data : []), ...(Array.isArray(caucasusCentralAsia1Data) ? caucasusCentralAsia1Data : []), ...(Array.isArray(global1MediaData) ? global1MediaData : []), ...(Array.isArray(global2MediaData) ? global2MediaData : []), ...(Array.isArray(global3MediaData) ? global3MediaData : []), ...(Array.isArray(global4MediaData) ? global4MediaData : []), ...(Array.isArray(asiaAfricaOceaniaData) ? asiaAfricaOceaniaData : []), ...(Array.isArray(africa1MediaData) ? africa1MediaData : []),
+        ...(Array.isArray(africa2MediaData) ? africa2MediaData : []), ...(Array.isArray(africa3MediaData) ? africa3MediaData : []), ...(Array.isArray(africa4MediaData) ? africa4MediaData : []), ...(Array.isArray(indiaMediaData) ? indiaMediaData : []), ...(Array.isArray(chinaMediaData) ? chinaMediaData : []), ...(Array.isArray(china2MediaData) ? china2MediaData : []), ...(Array.isArray(northeastAsiaRussiaData) ? northeastAsiaRussiaData : []), ...(Array.isArray(asiaCentral2Data) ? asiaCentral2Data : []), ...(Array.isArray(southAsia2Data) ? southAsia2Data : []), ...(Array.isArray(southeastAsia2Data) ? southeastAsia2Data : []), ...(Array.isArray(westAsia2Data) ? westAsia2Data : []), ...(Array.isArray(westAsiaLocal3Data) ? westAsiaLocal3Data : []), ...(Array.isArray(oceaniaLocal2Data) ? oceaniaLocal2Data : []), ...(Array.isArray(oceaniaLocal3Data) ? oceaniaLocal3Data : []), ...(Array.isArray(southAmerica1Data) ? southAmerica1Data : [])];
+      // Keep the first record for each stable ID to prevent repeated sources from inflating results.
+      const uniqueMedia = new Map();
+      for (const item of combinedMedia) {
+        if (!item || typeof item !== "object") continue;
+        const key = item.id || `${item.country || "XX"}-${item.name || item.official_url || uniqueMedia.size}`;
+        if (!uniqueMedia.has(key)) uniqueMedia.set(key, item);
+      }
+      setMedia([...uniqueMedia.values()]);
       setCategories(Array.isArray(categoryData) ? categoryData.filter((c) => c && (c.id || c.name)) : fallbackCategories);
       setStates(Array.isArray(stateData) ? stateData : []);
       setGeography(Array.isArray(geographyData) ? geographyData : []);
