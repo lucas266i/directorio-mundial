@@ -7498,5 +7498,117 @@
     "status": "pending_verification",
     "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
     "verification_note": "Pendiente de comprobación individual del dominio, actividad editorial, sede, idioma y cobertura. No marcar como enlace verificado hasta completar la revisión."
+  },
+  {
+    "id": "MED-AF-2026-522",
+    "name": "Le Pays",
+    "country": "TCD",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "N'Djamena",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.lepaystchad.com/",
+    "coverage": [
+      "TCD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UCLA Library African Studies guide; sitio oficial inspeccionado el 2026-11-01.",
+    "source_url": "https://guides.library.ucla.edu/africa/centralafrica",
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio oficial muestra publicaciones recientes fechadas el 30 de octubre y 1 de noviembre de 2026. Accesibilidad y actividad reciente observadas; pendiente comprobar datos editoriales, independencia y sede.",
+    "verification_note": "Fuente identificada en guía universitaria y con contenido reciente visible. Mantener pendiente hasta completar verificación editorial y geográfica."
+  },
+  {
+    "id": "MED-AF-2026-523",
+    "name": "Gabo News",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.gabonews.com/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UCLA Library African Studies guide; sitio oficial inspeccionado el 2026-11-01.",
+    "source_url": "https://guides.library.ucla.edu/africa/centralafrica",
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio oficial presenta secciones informativas y publicaciones recientes de octubre de 2026, además de radio y televisión en línea. Pendiente verificar propiedad, sede e independencia.",
+    "verification_note": "Fuente identificada en guía universitaria y con contenido reciente visible. Mantener pendiente hasta completar verificación editorial y geográfica."
+  },
+  {
+    "id": "MED-AF-2026-524",
+    "name": "Journal du Gabon",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.journaldugabon.com/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UCLA Library African Studies guide; sitio oficial inspeccionado el 2026-11-01.",
+    "source_url": "https://guides.library.ucla.edu/africa/centralafrica",
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio oficial muestra una actualización fechada el 29 de octubre de 2026 y publicaciones recientes. Pendiente verificar propiedad, sede e independencia.",
+    "verification_note": "Fuente identificada en guía universitaria y con contenido reciente visible. Mantener pendiente hasta completar verificación editorial y geográfica."
+  },
+  {
+    "id": "MED-AF-2026-525",
+    "name": "Téla Nón",
+    "country": "STP",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "São Tomé",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.telanon.info/",
+    "coverage": [
+      "STP"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UCLA Library African Studies guide; sitio oficial inspeccionado el 2026-11-01.",
+    "source_url": "https://guides.library.ucla.edu/africa/centralafrica",
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio oficial presenta secciones de política, economía, sociedad, cultura y deportes, con publicaciones visibles. Pendiente verificar propiedad, sede e independencia.",
+    "verification_note": "Fuente identificada en guía universitaria y con contenido visible. Mantener pendiente hasta completar verificación editorial y geográfica."
   }
 ]
