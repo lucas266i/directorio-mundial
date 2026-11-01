@@ -7610,5 +7610,330 @@
     "audit_status": "page_content_confirmed",
     "audit_note": "El sitio oficial presenta secciones de política, economía, sociedad, cultura y deportes, con publicaciones visibles. Pendiente verificar propiedad, sede e independencia.",
     "verification_note": "Fuente identificada en guía universitaria y con contenido visible. Mantener pendiente hasta completar verificación editorial y geográfica."
+  },
+  {
+    "id": "MED-AF-2026-526",
+    "name": "Afrik Info",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://afrikinfo.net/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-527",
+    "name": "AZ Sports",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://azsports.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-528",
+    "name": "Camer.be",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.camer.be/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-529",
+    "name": "Cameroon Online",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.cameroononline.org/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-530",
+    "name": "Cameroun Link",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.camerounlink.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-531",
+    "name": "Cameroun Web",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.camerounweb.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-532",
+    "name": "Digital Business Africa",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.digitalbusiness.africa/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-533",
+    "name": "Frontières d'Afrique",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.frontieresdafrique.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-534",
+    "name": "Investir au Cameroun",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.investiraucameroun.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-535",
+    "name": "La Voix du Koat",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://lavoixdukoat.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-536",
+    "name": "Le Bled Parle",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.lebledparle.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-537",
+    "name": "Naja TV",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://naja-tv.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-538",
+    "name": "News du Cameroun",
+    "country": "CMR",
+    "continent": "África",
+    "continent_region": "África central",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.newsducamer.com/",
+    "coverage": [
+      "CMR"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
+    "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
+    "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
   }
 ]
