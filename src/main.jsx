@@ -80,6 +80,21 @@ function App() {
   const [cityQuery, setCityQuery] = useState("");
   const [showOnlyResults, setShowOnlyResults] = useState(false);
   const [africaDiscoverySources, setAfricaDiscoverySources] = useState([]);
+  const [dailyNews, setDailyNews] = useState([]);
+  const [newsContinent, setNewsContinent] = useState("Todos");
+  const [newsLoading, setNewsLoading] = useState(true);
+
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}data/news.json`)
+      .then((r) => r.ok ? r.json() : [])
+      .then((items) => setDailyNews(Array.isArray(items) ? items : []))
+      .catch(() => setDailyNews([]))
+      .finally(() => setNewsLoading(false));
+  }, []);
+
+  const newsContinents = ["América", "Europa", "Asia", "África", "Oceanía"];
+  const visibleNews = dailyNews.filter((item) => newsContinent === "Todos" || item.continent === newsContinent);
+  const newsByContinent = newsContinents.map((name) => ({ name, items: visibleNews.filter((item) => item.continent === name).sort((a, b) => (a.rank || 999) - (b.rank || 999)) }));
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -229,7 +244,7 @@ function App() {
           <a href="#continentes">Continentes</a>\n          <a href="#inventario">Inventario</a>
           <a href="#paises">Países</a>
           <a href="#sudamerica">Sudamérica</a>
-          <a href="#medios">Medios</a>
+          <a href="#noticias">Noticias del día</a>\n          <a href="#medios">Medios</a>
           <a href="#categorias">Categorías</a>
         </nav>
       </header>
@@ -347,6 +362,29 @@ function App() {
           </div>
           <p className="geoNote">La base geográfica permite navegar por estado, condado y ciudad. Las localidades son referencias territoriales; no implican que ya exista un medio registrado en cada una.</p>
           {selectedCountyRecord && <article className="card"><h3>{selectedCountyRecord.name}</h3><p>{selectedCountyRecord.state_name} · {selectedCountyRecord.region}</p><div className="chips">{selectedCountyRecord.cities.slice(0, 30).map((city) => <span key={city}>{city}</span>)}</div></article>}
+        </section>
+
+        <section id="noticias" className="section">
+          <div className="sectionHead">
+            <div><span className="eyebrow">ACTUALIDAD INTERNACIONAL</span><h2>Las 100 noticias destacadas por continente</h2></div>
+            <span className="count">{dailyNews.length} noticias cargadas · objetivo 500 al día</span>
+          </div>
+          <p className="geoNote">Todos los titulares se presentan en español, aunque la publicación original esté en otro idioma. Cada noticia conserva el enlace al medio de origen para ampliar la información. Se priorizan actualidad, impacto y relevancia; no se completan cupos con noticias inventadas.</p>
+          <div className="filterActions newsFilters">
+            <button type="button" className={newsContinent === "Todos" ? "applyFilters" : "resetFilters"} onClick={() => setNewsContinent("Todos")}>Todos los continentes</button>
+            {newsContinents.map((name) => <button type="button" key={name} className={newsContinent === name ? "applyFilters" : "resetFilters"} onClick={() => setNewsContinent(name)}>{name} · {dailyNews.filter((item) => item.continent === name).length}</button>)}
+          </div>
+          {newsLoading ? <div className="card empty">Cargando noticias…</div> : visibleNews.length === 0 ? <div className="card empty"><h3>Portal de noticias preparado</h3><p>La sección ya está integrada. Todavía no hay un flujo de noticias conectado; por eso no se muestran titulares de ejemplo ni enlaces ficticios.</p><p>El siguiente paso es conectar fuentes RSS y agencias, traducir automáticamente los titulares al español, eliminar duplicados y seleccionar las 100 noticias más relevantes de cada continente.</p></div> : newsByContinent.filter((group) => group.items.length > 0).map((group) => <div className="newsContinent" key={group.name}>
+            <div className="sectionHead"><h3>{group.name}</h3><span className="count">{group.items.length} noticias</span></div>
+            <div className="grid">{group.items.map((item) => <article className="card media newsCard" key={item.id || item.url}>
+              <div className="mediaTop"><span className="sourceIcon">📰</span><span className="countryTag">{item.country || "País no indicado"}</span></div>
+              <h3>{item.title_es}</h3>
+              {item.summary_es && <p>{item.summary_es}</p>}
+              <p>{[item.source, item.published_at ? new Date(item.published_at).toLocaleString("es-CO") : null, item.original_language].filter(Boolean).join(" · ")}</p>
+              {item.topic && <div className="chips"><span>{item.topic}</span></div>}
+              {item.url && <a href={item.url} target="_blank" rel="noreferrer">Leer noticia original ↗</a>}
+            </article>)}</div>
+          </div>)}
         </section>
 
         <section id="medios" className="section">
