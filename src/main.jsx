@@ -182,13 +182,51 @@ function App() {
     });
   }, [query, category, selectedContinent, selectedCountry, selectedRegion, selectedState, selectedCounty, cityQuery, selectedLanguage, selectedCountyRecord, media, countryMap, stateMap]);
 
+  const inventory = useMemo(() => {
+    const continentMap = new Map();
+    let unclassified = 0;
+
+    for (const item of media) {
+      const country = countryMap[item.country];
+      const continent = country?.continent || item.continent || "Sin clasificar";
+      const region = country?.region || item.continent_region || item.region || "Sin región";
+      const countryCode = item.country || "XX";
+      const countryName = country?.name || item.country_name || countryCode;
+
+      if (continent === "Sin clasificar") unclassified += 1;
+      if (!continentMap.has(continent)) continentMap.set(continent, { name: continent, total: 0, regions: new Map() });
+      const continentEntry = continentMap.get(continent);
+      continentEntry.total += 1;
+
+      if (!continentEntry.regions.has(region)) continentEntry.regions.set(region, { name: region, total: 0, countries: new Map() });
+      const regionEntry = continentEntry.regions.get(region);
+      regionEntry.total += 1;
+
+      if (!regionEntry.countries.has(countryCode)) regionEntry.countries.set(countryCode, { code: countryCode, name: countryName, total: 0 });
+      regionEntry.countries.get(countryCode).total += 1;
+    }
+
+    return {
+      total: media.length,
+      unclassified,
+      continents: [...continentMap.values()]
+        .map((continent) => ({
+          ...continent,
+          regions: [...continent.regions.values()]
+            .map((region) => ({ ...region, countries: [...region.countries.values()].sort((a, b) => a.name.localeCompare(b.name, "es")) }))
+            .sort((a, b) => a.name.localeCompare(b.name, "es"))
+        }))
+        .sort((a, b) => a.name.localeCompare(b.name, "es"))
+    };
+  }, [media, countryMap]);
+
   return (
     <div className={showOnlyResults ? "app filteredView" : "app"}>
       <header className="topbar">
         <div className="brand">🌎 <span>Directorio</span> Mundial</div>
         <nav>
           <a href="#inicio">Inicio</a>
-          <a href="#continentes">Continentes</a>
+          <a href="#continentes">Continentes</a>\n          <a href="#inventario">Inventario</a>
           <a href="#paises">Países</a>
           <a href="#sudamerica">Sudamérica</a>
           <a href="#medios">Medios</a>
@@ -243,6 +281,39 @@ function App() {
           <div className="grid">
             {continents.map((c) => <article className="card" key={c.id}><div className="icon">{c.icon}</div><h3>{c.name}</h3><p>{c.regions.join(" · ")}</p></article>)}
           </div>
+        </section>
+
+        <section id="inventario" className="section">
+          <div className="sectionHead">
+            <div><span className="eyebrow">INVENTARIO AUTOMÁTICO</span><h2>Medios por continente, región y país</h2></div>
+            <span className="count">{inventory.total.toLocaleString("es-CO")} registros contabilizados</span>
+          </div>
+          <p className="geoNote">Este inventario se calcula directamente desde los medios cargados en el catálogo. Al incorporar nuevos archivos JSON, los totales se actualizan automáticamente. La clasificación utiliza primero la ficha del país y, si falta, los datos geográficos del propio registro.</p>
+          <div className="grid">
+            {inventory.continents.map((continent) => {
+              const countryCount = new Set(continent.regions.flatMap((region) => region.countries.map((country) => country.code))).size;
+              return <article className="card" key={continent.name}>
+                <div className="mediaTop"><span className="sourceIcon">🌐</span><span className="countryTag">{countryCount} países/territorios</span></div>
+                <h3>{continent.name}</h3>
+                <p><strong>{continent.total.toLocaleString("es-CO")}</strong> medios · {continent.regions.length} regiones</p>
+                <div className="chips">
+                  {continent.regions.map((region) => <span key={region.name}>{region.name}: {region.total.toLocaleString("es-CO")}</span>)}
+                </div>
+                <details>
+                  <summary>Desglosar por región y país</summary>
+                  <div className="inventoryBreakdown">
+                    {continent.regions.map((region) => <div className="inventoryRegion" key={region.name}>
+                      <h4>{region.name} <span>({region.total.toLocaleString("es-CO")})</span></h4>
+                      <ul>
+                        {region.countries.map((country) => <li key={country.code}><span>{country.name} <small>({country.code})</small></span><strong>{country.total.toLocaleString("es-CO")}</strong></li>)}
+                      </ul>
+                    </div>)}
+                  </div>
+                </details>
+              </article>;
+            })}
+          </div>
+          {inventory.unclassified > 0 && <p className="geoNote">Registros sin continente identificable: {inventory.unclassified.toLocaleString("es-CO")}.</p>}
         </section>
 
         <section id="paises" className="section">
