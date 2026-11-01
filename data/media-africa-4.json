@@ -7885,5 +7885,198 @@
     "discovery_source": "Conseil National de la Communication du Cameroun, Cartographie des médias au Cameroun (2025), sección de medios en línea.",
     "source_url": "https://cnc.gov.cm/wp-content/uploads/2025/01/CNC-NCC-Cartographie_des_m%C3%A9dias_au_Cameroun-1.pdf",
     "verification_note": "El medio aparece identificado en el inventario oficial del regulador camerunés. La URL procede de dicho inventario; comprobar disponibilidad actual, actividad editorial, sede y titularidad antes de marcar como verificado."
+  },
+  {
+    "id": "MED-AF-2026-539",
+    "name": "Radio Ndeke Luka",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "radio"
+    ],
+    "official_url": "https://www.radiondekeluka.org/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Reporters Without Borders; Fondation Hirondelle; Crosswire Central Africa directory.",
+    "source_references": [
+      "https://rsf.org/en/country/central-african-republic",
+      "https://www.hirondelle.org/wp-content/uploads/2024/12/CAR-RadioNdekeLuka-fiche-pays-ENG-2024.pdf",
+      "https://crosswire.online/outlets"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Sitio oficial accesible y con publicaciones recientes visibles en octubre de 2026. Fondation Hirondelle documenta su operación, idiomas y red de emisoras.",
+    "verification_note": "Fuente confirmada por RSF y Fondation Hirondelle; URL oficial con actividad reciente observada. Pendiente revisión editorial y geográfica."
+  },
+  {
+    "id": "MED-AF-2026-540",
+    "name": "Corbeau News Centrafrique",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "investigative"
+    ],
+    "official_url": "https://corbeaunews-centrafrique.org/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire Central Africa directory; página institucional del propio medio.",
+    "source_references": [
+      "https://crosswire.online/outlets",
+      "https://corbeaunews-centrafrique.org/qui-sommes-nous/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Página institucional identifica al medio, fundador, dirección en Bangui y equipo editorial.",
+    "verification_note": "Identidad editorial y ubicación declaradas por el propio medio; pendiente comprobación independiente de actividad, propiedad y sede."
+  },
+  {
+    "id": "MED-AF-2026-541",
+    "name": "Oubangui Médias",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news",
+      "investigative"
+    ],
+    "official_url": "https://oubanguimedias.com/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire Central Africa directory; presentación institucional del medio.",
+    "source_references": [
+      "https://crosswire.online/outlets",
+      "https://oubanguimedias.com/qui-sommes-nous/",
+      "https://oubanguimedias.com/2020/12/21/lancement-de-lentreprise-oubangui-medias/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El medio declara estar basado en Bangui y documenta su reconocimiento por el regulador centroafricano en 2020.",
+    "verification_note": "Información institucional y sitio consultados; pendiente comprobar actividad actual y datos legales."
+  },
+  {
+    "id": "MED-AF-2026-542",
+    "name": "N'Djaména Hebdo",
+    "country": "TCD",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "N'Djamena",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://ndjamenahebdo.net/",
+    "coverage": [
+      "TCD"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire Central Africa directory; página de presentación del periódico.",
+    "source_references": [
+      "https://crosswire.online/outlets",
+      "https://ndjamenahebdo.net/presentation-de-ndjamenahebdo/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Página institucional describe la historia del periódico, periodicidad, edición en francés y dirección en N'Djamena.",
+    "verification_note": "Identidad y ubicación declaradas por el medio; comprobar frecuencia y actividad editorial actual."
+  },
+  {
+    "id": "MED-AF-2026-543",
+    "name": "Journal de Brazza",
+    "country": "COG",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Brazzaville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "local-news",
+      "regional-news"
+    ],
+    "official_url": "https://www.journaldebrazza.com/",
+    "coverage": [
+      "COG"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Crosswire Central Africa directory; sitio oficial consultado el 1 de noviembre de 2026.",
+    "source_references": [
+      "https://crosswire.online/outlets",
+      "https://www.journaldebrazza.com/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio muestra noticias recientes del Congo y publicaciones fechadas el 29 y 30 de octubre de 2026.",
+    "verification_note": "Actividad reciente observada y medio incluido en directorio regional; pendiente verificación independiente de sede y propiedad."
+  },
+  {
+    "id": "MED-AF-2026-544",
+    "name": "Diario Rombe",
+    "country": "GNQ",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": null,
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "investigative",
+      "politics",
+      "human-rights"
+    ],
+    "official_url": "https://diariorombe.es/",
+    "coverage": [
+      "GNQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "UCLA Library African Studies guide; página institucional del medio consultada en noviembre de 2026.",
+    "source_references": [
+      "https://guides.library.ucla.edu/africa/centralafrica",
+      "https://diariorombe.es/sobre-nosotros/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Página institucional declara fundación en 2012 y cobertura de Guinea Ecuatorial; el sitio presenta publicaciones recientes en octubre de 2026.",
+    "verification_note": "Medio digital de cobertura ecuatoguineana. No asignar ciudad de redacción sin confirmación independiente; pendiente verificación de sede y estructura editorial."
   }
 ]
