@@ -363,7 +363,7 @@ function App() {
                 <p>{[m.city, stateMap[m.state]?.name || m.admin1_name || (m.state === "US" ? "Cobertura nacional" : m.state), languageLabels[m.language] || m.language].filter(Boolean).join(" · ")}</p>
                 <div className="chips">{(m.categories || []).map((id) => <span key={id}>{categoryLabels[id] || id}</span>)}</div>
                 <span className="muted">Estado: {m.status === "pending_verification" ? "pendiente de verificación" : m.status || "sin estado"}</span>
-                <a href={m.official_url} target="_blank" rel="noreferrer">Visitar sitio oficial ↗</a>
+                {m.official_url ? <a href={m.official_url} target="_blank" rel="noreferrer">Visitar sitio oficial ↗</a> : <span className="muted">Ficha de medio · sitio web no registrado</span>}
               </article>;
             })}
           </div>
