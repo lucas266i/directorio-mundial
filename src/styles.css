@@ -38,7 +38,7 @@ input:disabled,select:disabled{opacity:.45;cursor:not-allowed}
 .applyFilters{border:1px solid #3b9bd4;background:#1476ad;color:#fff}
 .resetFilters{border:1px solid #35516d;background:#102237;color:#c5d7e8}
 .filterNotice{margin-top:12px;padding:11px 14px;border:1px solid #28618a;border-radius:10px;background:#0b2438;color:#a9dfff;font-size:13px}
-.filteredView #continentes,.filteredView #paises,.filteredView #geografia-eeuu,.filteredView #categorias{display:none}
+.filteredView main > .section:not(#medios){display:none}
 .filteredView #medios{margin-top:32px;scroll-margin-top:24px}
 @media(max-width:600px){.filterActions{display:grid;grid-template-columns:1fr}.filterActions button{width:100%}}
 
