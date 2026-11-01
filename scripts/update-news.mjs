@@ -35,7 +35,7 @@ const feeds = [
   { continent:"Asia", country:"India", source:"The Hindu", url:"https://www.thehindu.com/news/international/feeder/default.rss", topic:"Asia" },
   { continent:"Asia", country:"India", source:"Scroll.in", url:"https://scroll.in/latest/rss", topic:"Actualidad" },
   { continent:"Asia", country:"Japón", source:"The Japan Times", url:"https://www.japantimes.co.jp/feed/", topic:"Asia" },
-  { continent:"Asia", country:"Corea del Sur", source:"Korea Herald", url:"https://www.koreaherald.com/rss/ feed.xml", topic:"Asia" },
+  { continent:"Asia", country:"Corea del Sur", source:"Korea Herald", url:"https://www.koreaherald.com/rss/020.xml", topic:"Asia" },
   { continent:"Asia", country:"Singapur", source:"CNA", url:"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml", topic:"Asia" },
   { continent:"Asia", country:"Hong Kong", source:"South China Morning Post", url:"https://www.scmp.com/rss/91/feed", topic:"Asia" },
   // África
@@ -139,10 +139,10 @@ for (const continent of byContinent) {
   const translated=await mapLimit(selected,4,async(item,index)=>({
     id:continent.slice(0,3).toUpperCase()+"-"+new Date(item.published_at).toISOString().slice(0,10)+"-"+String(index+1).padStart(3,"0"),
     continent:item.continent,country:item.country,source:item.source,
-    title_es:await translateToSpanish(item.title),
+    title_es:await translateToSpanish(item.title).catch(()=>item.title),
     original_title:item.title,url:item.url,
-    summary_es:item.description ? (await translateToSpanish(item.description.slice(0,350))).slice(0,500) : "",
-    published_at:item.published_at,original_language:"auto-detectado",
+    summary_es:item.description ? (await translateToSpanish(item.description.slice(0,350)).catch(()=>item.description.slice(0,350))).slice(0,500) : "",
+    published_at:item.published_at,original_language:"Detección automática",
     topic:item.topic,rank:index+1,translation_status:"translated_or_original_fallback"
   }));
   final.push(...translated.filter(Boolean));
