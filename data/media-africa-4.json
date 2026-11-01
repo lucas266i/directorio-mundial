@@ -8078,5 +8078,255 @@
     "audit_status": "page_content_confirmed",
     "audit_note": "Página institucional declara fundación en 2012 y cobertura de Guinea Ecuatorial; el sitio presenta publicaciones recientes en octubre de 2026.",
     "verification_note": "Medio digital de cobertura ecuatoguineana. No asignar ciudad de redacción sin confirmación independiente; pendiente verificación de sede y estructura editorial."
+  },
+  {
+    "id": "MED-AF-2026-545",
+    "name": "Centrafrica",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "economy",
+      "investigative"
+    ],
+    "official_url": "https://centrafrica.com/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Página institucional del medio; guía de investigación sobre prensa de África central.",
+    "source_references": [
+      "https://centrafrica.com/qui-sommes-nous/",
+      "https://guides.library.yale.edu/c.php?g=1499510&p=11401560"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "La página institucional lo describe como medio independiente en línea, fundado en 2020 y con publicación autorizada por el regulador centroafricano.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-546",
+    "name": "Bangui24",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "politics",
+      "society"
+    ],
+    "official_url": "https://bangui24.com/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Página institucional del medio consultada en noviembre de 2026.",
+    "source_references": [
+      "https://bangui24.com/a-propos"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "La página de presentación identifica al sitio como medio digital de noticias de República Centroafricana.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-547",
+    "name": "Centra News",
+    "country": "CAF",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Bangui",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "politics",
+      "health",
+      "education"
+    ],
+    "official_url": "https://centranews.org/",
+    "coverage": [
+      "CAF"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio editorial consultado en noviembre de 2026.",
+    "source_references": [
+      "https://centranews.org/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio muestra secciones editoriales y publicaciones sobre actualidad de República Centroafricana.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-548",
+    "name": "Equacom News",
+    "country": "GNQ",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Malabo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "economy",
+      "society",
+      "technology"
+    ],
+    "official_url": "https://equacom.news/",
+    "coverage": [
+      "GNQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio editorial consultado en noviembre de 2026.",
+    "source_references": [
+      "https://equacom.news/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio publica noticias recientes y contenidos audiovisuales sobre Guinea Ecuatorial.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-549",
+    "name": "Periódico Ébano",
+    "country": "GNQ",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Malabo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-newspaper",
+    "categories": [
+      "general-news",
+      "politics",
+      "economy",
+      "society",
+      "culture"
+    ],
+    "official_url": "https://www.periodicoebano.com/",
+    "coverage": [
+      "GNQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Sitio editorial y referencia institucional del Ministerio de Información de Guinea Ecuatorial.",
+    "source_references": [
+      "https://www.periodicoebano.com/",
+      "https://minfopressyculturage.com/direccion-general-de-prensa-escrita-pagina-web-institucional-del-gobierno/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "El sitio se presenta como periódico digital de Guinea Ecuatorial; el ministerio identifica Ébano entre los periódicos del país.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-550",
+    "name": "Guinea Ecuatorial Press",
+    "country": "GNQ",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Malabo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "government-news",
+    "categories": [
+      "official-news",
+      "politics",
+      "government"
+    ],
+    "official_url": "https://www.guineaecuatorialpress.com/",
+    "coverage": [
+      "GNQ"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Portal institucional del Gobierno de Guinea Ecuatorial y Ministerio de Información.",
+    "source_references": [
+      "https://www.guineaecuatorialpress.com/index.php/noticias/ministerio_de_informacion_prensa_y_radio",
+      "https://minfopressyculturage.com/direccion-general-de-prensa-escrita-pagina-web-institucional-del-gobierno/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "La institución identifica el dominio como página web institucional del Ejecutivo, gestionada por la Dirección General de Prensa Escrita.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-551",
+    "name": "Agence Gabonaise de Presse",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "news-agency",
+    "categories": [
+      "general-news",
+      "national-news",
+      "government"
+    ],
+    "official_url": "https://agpgabon.ga/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio profesional de medios de Gabón y State Media Monitor.",
+    "source_references": [
+      "https://lepratiquedugabon.com/rubriques/medias/presse-papier-presse-en-ligne/",
+      "https://statemediamonitor.com/gabon/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Directorio local identifica el dominio de AGP y su sede en Libreville; State Media Monitor la identifica como agencia nacional.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
+  },
+  {
+    "id": "MED-AF-2026-552",
+    "name": "Média Afrique News",
+    "country": "GAB",
+    "continent": "África",
+    "continent_region": "África central",
+    "city": "Libreville",
+    "language": "fr",
+    "languages": [
+      "fr"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "economy"
+    ],
+    "official_url": "https://www.mediaafriquenews.com/",
+    "coverage": [
+      "GAB"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Directorio profesional de medios de Gabón.",
+    "source_references": [
+      "https://lepratiquedugabon.com/rubriques/medias/presse-papier-presse-en-ligne/",
+      "https://annuaire-gabon.com/media-liste/"
+    ],
+    "audit_status": "page_content_confirmed",
+    "audit_note": "Directorios locales de prensa identifican el medio, su dominio y su sede en Libreville.",
+    "verification_note": "Pendiente de validación independiente del dominio, actividad editorial, sede y cobertura antes de marcar el enlace como verificado."
   }
 ]
