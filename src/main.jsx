@@ -244,7 +244,8 @@ function App() {
           <a href="#continentes">Continentes</a>\n          <a href="#inventario">Inventario</a>
           <a href="#paises">Países</a>
           <a href="#sudamerica">Sudamérica</a>
-          <a href="#noticias">Noticias del día</a>\n          <a href="#medios">Medios</a>
+          <a href="#noticias">Noticias del día</a>
+          <a href="#medios">Medios</a>
           <a href="#categorias">Categorías</a>
         </nav>
       </header>
