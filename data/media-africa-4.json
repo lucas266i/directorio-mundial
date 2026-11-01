@@ -4200,31 +4200,6 @@
     "verification_note": "Pendiente de comprobación individual del dominio, actividad editorial, sede, idioma y cobertura. No marcar como enlace verificado hasta completar la revisión."
   },
   {
-    "id": "MED-AF-2026-390",
-    "name": "Cameroon Radio Television",
-    "country": "CMR",
-    "continent": "África",
-    "continent_region": "África central",
-    "city": "Duala",
-    "language": "fr",
-    "languages": [
-      "fr"
-    ],
-    "type": "radio",
-    "categories": [
-      "radio",
-      "general-news",
-      "regional-news"
-    ],
-    "official_url": "https://crtv.cm",
-    "coverage": [
-      "CMR"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
-    "verification_note": "Pendiente de comprobación individual del dominio, actividad editorial, sede, idioma y cobertura. No marcar como enlace verificado hasta completar la revisión."
-  },
-  {
     "id": "MED-AF-2026-391",
     "name": "CFOOT Cameroun",
     "country": "CMR",
@@ -4442,31 +4417,6 @@
       "regional-news"
     ],
     "official_url": "https://molieretv.cd",
-    "coverage": [
-      "COD"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación MundoX · candidatos de medios nacionales y subnacionales africanos; pendiente de validación editorial y geográfica.",
-    "verification_note": "Pendiente de comprobación individual del dominio, actividad editorial, sede, idioma y cobertura. No marcar como enlace verificado hasta completar la revisión."
-  },
-  {
-    "id": "MED-AF-2026-400",
-    "name": "RTGA",
-    "country": "COD",
-    "continent": "África",
-    "continent_region": "África central",
-    "city": "Kinshasa",
-    "language": "fr",
-    "languages": [
-      "fr"
-    ],
-    "type": "news-website",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://rtga.cd",
     "coverage": [
       "COD"
     ],
