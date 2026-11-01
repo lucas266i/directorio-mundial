@@ -49,4 +49,5 @@ input:disabled,select:disabled{opacity:.45;cursor:not-allowed}
 .searchGroup{grid-column:span 2}
 @media(max-width:900px){.filterPanel{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.filterPanel{grid-template-columns:1fr;padding:13px}.searchGroup{grid-column:span 1}}
-\n.newsContinent{margin-top:28px}.newsContinent>.sectionHead h3{font-size:23px;margin:0}.newsCard{min-height:230px}.newsCard h3{line-height:1.35}.newsFilters button{min-height:42px;padding:10px 14px;border-radius:10px;font-size:13px;font-weight:700;cursor:pointer}\n
+
+.newsContinent{margin-top:28px}.newsContinent>.sectionHead h3{font-size:23px;margin:0}.newsCard{min-height:230px}.newsCard h3{line-height:1.35}.newsFilters button{min-height:42px;padding:10px 14px;border-radius:10px;font-size:13px;font-weight:700;cursor:pointer}
