@@ -114,7 +114,7 @@ for (const feed of feeds) {
     for (const item of items) {
       const date=validDate(item.date);
       if (!date || date.getTime()<cutoff || date.getTime()>Date.now()+60*60*1000) continue;
-      collected.push({...item,...feed,published_at:date.toISOString(),title:cleanTitle(item.title)});
+      collected.push({...feed,...item,published_at:date.toISOString(),title:cleanTitle(item.title)});
       accepted++;
     }
     feedStatus.push({source:feed.source,status:"ok",items:accepted});
@@ -126,7 +126,7 @@ for (const feed of feeds) {
 const unique = new Map();
 for (const item of collected) {
   const key=keyOf(item.title);
-  if (!key) continue;
+  if (!key || !/^https?:\\/\\//i.test(item.url) || item.url === item.feed_url) continue;
   const previous=unique.get(key);
   if (!previous || new Date(item.published_at)>new Date(previous.published_at)) unique.set(key,item);
 }
