@@ -1,19 +1,18 @@
 {
-  "checked_at": "2026-11-02T06:13:44.417Z",
-  "total_candidates": 398,
-  "total_verified": 388,
-  "removed": 10,
+  "checked_at": "2026-11-02T16:01:54.717Z",
+  "total_candidates": 396,
+  "total_verified": 393,
+  "removed": 3,
   "verified_by_continent": {
-    "América": 88,
-    "Europa": 96,
-    "Asia": 99,
-    "África": 31,
-    "Oceanía": 74
+    "América": 87,
+    "Europa": 99,
+    "Asia": 100,
+    "África": 28,
+    "Oceanía": 79
   },
   "removed_reasons": {
-    "http_403": 2,
-    "headline_not_detectably_spanish": 4,
-    "unexpected_content_type": 1,
-    "duplicate_article_url": 3
+    "http_403": 1,
+    "headline_not_detectably_spanish": 1,
+    "duplicate_article_url": 1
   }
 }
