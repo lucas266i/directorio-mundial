@@ -9101,5 +9101,2917 @@
     "discovery_source": "Directorios nacionales y regionales de prensa y radiodifusión; registro candidato pendiente de verificación individual.",
     "source_url": "https://www.thenewsatlas.com/countries?region=South+America",
     "verification_note": "Registro añadido en ampliación sudamericana. URL, actividad, identidad editorial y localización pendientes de verificación individual."
+  },
+  {
+    "id": "MED-SA-ADD-2026-301",
+    "name": "Clarín",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.clarin.com/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-302",
+    "name": "La Nación",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lanacion.com.ar/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-303",
+    "name": "Página/12",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.pagina12.com.ar/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-304",
+    "name": "Perfil",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.perfil.com/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-305",
+    "name": "Ámbito",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ambito.com/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-306",
+    "name": "El Cronista",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Buenos Aires",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Buenos Aires",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.cronista.com/",
+    "coverage": [
+      "Buenos Aires",
+      "Buenos Aires"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-307",
+    "name": "La Voz del Interior",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Córdoba",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Córdoba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lavoz.com.ar/",
+    "coverage": [
+      "Córdoba",
+      "Córdoba"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-308",
+    "name": "Los Andes",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Mendoza",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Mendoza",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.losandes.com.ar/",
+    "coverage": [
+      "Mendoza",
+      "Mendoza"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-309",
+    "name": "El Tribuno",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Salta",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Salta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eltribuno.com/",
+    "coverage": [
+      "Salta",
+      "Salta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-310",
+    "name": "La Gaceta",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Tucumán",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "San Miguel de Tucumán",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lagaceta.com.ar/",
+    "coverage": [
+      "Tucumán",
+      "San Miguel de Tucumán"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-311",
+    "name": "Folha de S.Paulo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "São Paulo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.folha.uol.com.br/",
+    "coverage": [
+      "São Paulo",
+      "São Paulo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-312",
+    "name": "Estadão",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "São Paulo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "São Paulo",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.estadao.com.br/",
+    "coverage": [
+      "São Paulo",
+      "São Paulo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-313",
+    "name": "O Globo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Rio de Janeiro",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Rio de Janeiro",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://oglobo.globo.com/",
+    "coverage": [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-314",
+    "name": "Correio Braziliense",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Brasília",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Brasília",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.correiobraziliense.com.br/",
+    "coverage": [
+      "Brasília",
+      "Brasília"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-315",
+    "name": "Zero Hora",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Rio Grande do Sul",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Porto Alegre",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://gauchazh.clicrbs.com.br/",
+    "coverage": [
+      "Rio Grande do Sul",
+      "Porto Alegre"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-316",
+    "name": "Estado de Minas",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Minas Gerais",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Belo Horizonte",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.em.com.br/",
+    "coverage": [
+      "Minas Gerais",
+      "Belo Horizonte"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-317",
+    "name": "A Tarde",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bahia",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Salvador",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://atarde.com.br/",
+    "coverage": [
+      "Bahia",
+      "Salvador"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-318",
+    "name": "Jornal do Commercio",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pernambuco",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Recife",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://jc.ne10.uol.com.br/",
+    "coverage": [
+      "Pernambuco",
+      "Recife"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-319",
+    "name": "Gazeta do Povo",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paraná",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Curitiba",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.gazetadopovo.com.br/",
+    "coverage": [
+      "Paraná",
+      "Curitiba"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-320",
+    "name": "Diário do Nordeste",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Ceará",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Fortaleza",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://diariodonordeste.verdesmares.com.br/",
+    "coverage": [
+      "Ceará",
+      "Fortaleza"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-321",
+    "name": "La Tercera",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Región Metropolitana",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.latercera.com/",
+    "coverage": [
+      "Región Metropolitana",
+      "Santiago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-322",
+    "name": "El Mercurio",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Región Metropolitana",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.emol.com/",
+    "coverage": [
+      "Región Metropolitana",
+      "Santiago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-323",
+    "name": "BioBioChile",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Región Metropolitana",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.biobiochile.cl/",
+    "coverage": [
+      "Región Metropolitana",
+      "Santiago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-324",
+    "name": "The Clinic",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Región Metropolitana",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.theclinic.cl/",
+    "coverage": [
+      "Región Metropolitana",
+      "Santiago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-325",
+    "name": "Diario Financiero",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Región Metropolitana",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santiago",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.df.cl/",
+    "coverage": [
+      "Región Metropolitana",
+      "Santiago"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-326",
+    "name": "El Mercurio de Valparaíso",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Valparaíso",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Valparaíso",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mercuriovalpo.cl/",
+    "coverage": [
+      "Valparaíso",
+      "Valparaíso"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-327",
+    "name": "El Llanquihue",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Los Lagos",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Puerto Montt",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ellanquihue.cl/",
+    "coverage": [
+      "Los Lagos",
+      "Puerto Montt"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-328",
+    "name": "El Mercurio de Antofagasta",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Antofagasta",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Antofagasta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.mercurioantofagasta.cl/",
+    "coverage": [
+      "Antofagasta",
+      "Antofagasta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-329",
+    "name": "El Austral de Temuco",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Araucanía",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Temuco",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.australtemuco.cl/",
+    "coverage": [
+      "Araucanía",
+      "Temuco"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-330",
+    "name": "El Comercio",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://elcomercio.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-331",
+    "name": "La República",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://larepublica.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-332",
+    "name": "Perú21",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://peru21.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-333",
+    "name": "Diario Gestión",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://gestion.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-334",
+    "name": "Correo",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://diariocorreo.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-335",
+    "name": "RPP Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://rpp.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-336",
+    "name": "Exitosa Noticias",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lima",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Lima",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "radio",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.exitosanoticias.pe/",
+    "coverage": [
+      "Lima",
+      "Lima"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-337",
+    "name": "Correo Arequipa",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Arequipa",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Arequipa",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://diariocorreo.pe/edicion/arequipa/",
+    "coverage": [
+      "Arequipa",
+      "Arequipa"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-338",
+    "name": "El Sol del Cusco",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Cusco",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cusco",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://elsoldecusco.com/",
+    "coverage": [
+      "Cusco",
+      "Cusco"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-339",
+    "name": "La Industria",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Libertad",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Trujillo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://laindustria.pe/",
+    "coverage": [
+      "La Libertad",
+      "Trujillo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-340",
+    "name": "El Tiempo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eltiempo.com/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-341",
+    "name": "El Espectador",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elespectador.com/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-342",
+    "name": "Semana",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.semana.com/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-343",
+    "name": "Portafolio",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bogotá D.C.",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Bogotá",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "financial-news",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.portafolio.co/",
+    "coverage": [
+      "Bogotá D.C.",
+      "Bogotá"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-344",
+    "name": "El Colombiano",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Antioquia",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Medellín",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elcolombiano.com/",
+    "coverage": [
+      "Antioquia",
+      "Medellín"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-345",
+    "name": "El País Cali",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Valle del Cauca",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cali",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elpais.com.co/",
+    "coverage": [
+      "Valle del Cauca",
+      "Cali"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-346",
+    "name": "El Heraldo",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Atlántico",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Barranquilla",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elheraldo.co/",
+    "coverage": [
+      "Atlántico",
+      "Barranquilla"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-347",
+    "name": "Vanguardia",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santander",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Bucaramanga",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.vanguardia.com/",
+    "coverage": [
+      "Santander",
+      "Bucaramanga"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-348",
+    "name": "El Universal",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Bolívar",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cartagena",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eluniversal.com.co/",
+    "coverage": [
+      "Bolívar",
+      "Cartagena"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-349",
+    "name": "Diario del Sur",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Nariño",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Pasto",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diariodelsur.com.co/",
+    "coverage": [
+      "Nariño",
+      "Pasto"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-350",
+    "name": "El Universo",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eluniverso.com/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-351",
+    "name": "El Comercio Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elcomercio.com/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-352",
+    "name": "Primicias",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.primicias.ec/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-353",
+    "name": "Expreso",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guayas",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.expreso.ec/",
+    "coverage": [
+      "Guayas",
+      "Guayaquil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-354",
+    "name": "El Mercurio",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Azuay",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cuenca",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://elmercurio.com.ec/",
+    "coverage": [
+      "Azuay",
+      "Cuenca"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-355",
+    "name": "El Diario Ecuador",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Manabí",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Portoviejo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eldiario.ec/",
+    "coverage": [
+      "Manabí",
+      "Portoviejo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-356",
+    "name": "Ecuavisa",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Guayas",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Guayaquil",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ecuavisa.com/",
+    "coverage": [
+      "Guayas",
+      "Guayaquil"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-357",
+    "name": "Teleamazonas",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pichincha",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Quito",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.teleamazonas.com/",
+    "coverage": [
+      "Pichincha",
+      "Quito"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-358",
+    "name": "El Deber",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://eldeber.com.bo/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-359",
+    "name": "Página Siete",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.paginasiete.bo/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-360",
+    "name": "La Razón",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "La Paz",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "La Paz",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.la-razon.com/",
+    "coverage": [
+      "La Paz",
+      "La Paz"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-361",
+    "name": "El Día",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santa Cruz",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santa Cruz de la Sierra",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://eldia.com.bo/",
+    "coverage": [
+      "Santa Cruz",
+      "Santa Cruz de la Sierra"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-362",
+    "name": "Opinión",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Cochabamba",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cochabamba",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.opinion.com.bo/",
+    "coverage": [
+      "Cochabamba",
+      "Cochabamba"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-363",
+    "name": "El País Tarija",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Tarija",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Tarija",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://elpais.bo/",
+    "coverage": [
+      "Tarija",
+      "Tarija"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-364",
+    "name": "ABC Color",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Asunción",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.abc.com.py/",
+    "coverage": [
+      "Asunción",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-365",
+    "name": "Última Hora",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Asunción",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ultimahora.com/",
+    "coverage": [
+      "Asunción",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-366",
+    "name": "La Nación Paraguay",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Asunción",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lanacion.com.py/",
+    "coverage": [
+      "Asunción",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-367",
+    "name": "HOY",
+    "country": "PRY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Asunción",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Asunción",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.hoy.com.py/",
+    "coverage": [
+      "Asunción",
+      "Asunción"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-368",
+    "name": "El País Uruguay",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elpais.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-369",
+    "name": "La Diaria",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://ladiaria.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-370",
+    "name": "Montevideo Portal",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.montevideo.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-371",
+    "name": "Búsqueda",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "magazine",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.busqueda.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-372",
+    "name": "Subrayado",
+    "country": "URY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Montevideo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Montevideo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "television",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.subrayado.com.uy/",
+    "coverage": [
+      "Montevideo",
+      "Montevideo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-373",
+    "name": "El Nacional",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elnacional.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-374",
+    "name": "El Universal Venezuela",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eluniversal.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-375",
+    "name": "Tal Cual",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://talcualdigital.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-376",
+    "name": "Efecto Cocuyo",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://efectococuyo.com/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-377",
+    "name": "Runrun.es",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://runrun.es/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-378",
+    "name": "Últimas Noticias",
+    "country": "VEN",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Distrito Capital",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Caracas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://ultimasnoticias.com.ve/",
+    "coverage": [
+      "Distrito Capital",
+      "Caracas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-379",
+    "name": "Stabroek News",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.stabroeknews.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-380",
+    "name": "Kaieteur News",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://kaieteurnewsonline.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-381",
+    "name": "News Room Guyana",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://newsroom.gy/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-382",
+    "name": "Guyana Chronicle",
+    "country": "GUY",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Demerara-Mahaica",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Georgetown",
+    "language": "en",
+    "languages": [
+      "en"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://guyanachronicle.com/",
+    "coverage": [
+      "Demerara-Mahaica",
+      "Georgetown"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-383",
+    "name": "De Ware Tijd",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paramaribo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://dwtonline.com/",
+    "coverage": [
+      "Paramaribo",
+      "Paramaribo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-384",
+    "name": "Starnieuws",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paramaribo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.starnieuws.com/",
+    "coverage": [
+      "Paramaribo",
+      "Paramaribo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-385",
+    "name": "Waterkant",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paramaribo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "news-website",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.waterkant.net/",
+    "coverage": [
+      "Paramaribo",
+      "Paramaribo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-386",
+    "name": "Dagblad Suriname",
+    "country": "SUR",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Paramaribo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Paramaribo",
+    "language": "nl",
+    "languages": [
+      "nl"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.dbsuriname.com/",
+    "coverage": [
+      "Paramaribo",
+      "Paramaribo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-387",
+    "name": "El Litoral",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Santa Fe",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Santa Fe",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.ellitoral.com/",
+    "coverage": [
+      "Santa Fe",
+      "Santa Fe"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-388",
+    "name": "El Diario",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Entre Ríos",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Paraná",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.eldiario.com.ar/",
+    "coverage": [
+      "Entre Ríos",
+      "Paraná"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-389",
+    "name": "Río Negro",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Neuquén",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Neuquén",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.rionegro.com.ar/",
+    "coverage": [
+      "Neuquén",
+      "Neuquén"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-390",
+    "name": "El Patagónico",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Chubut",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Comodoro Rivadavia",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.elpatagonico.com/",
+    "coverage": [
+      "Chubut",
+      "Comodoro Rivadavia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-391",
+    "name": "Misiones Online",
+    "country": "ARG",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Misiones",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Posadas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://misionesonline.net/",
+    "coverage": [
+      "Misiones",
+      "Posadas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-392",
+    "name": "A Crítica",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Amazonas",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Manaus",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.acritica.com/",
+    "coverage": [
+      "Amazonas",
+      "Manaus"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-393",
+    "name": "O Liberal",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Pará",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Belém",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.oliberal.com/",
+    "coverage": [
+      "Pará",
+      "Belém"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-394",
+    "name": "O Popular",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Goiás",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Goiânia",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://opopular.com.br/",
+    "coverage": [
+      "Goiás",
+      "Goiânia"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-395",
+    "name": "Imirante",
+    "country": "BRA",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Maranhão",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "São Luís",
+    "language": "pt",
+    "languages": [
+      "pt"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://imirante.com/",
+    "coverage": [
+      "Maranhão",
+      "São Luís"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-396",
+    "name": "Diario El Día",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Coquimbo",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "La Serena",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.diarioeldia.cl/",
+    "coverage": [
+      "Coquimbo",
+      "La Serena"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-397",
+    "name": "La Estrella de Iquique",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Tarapacá",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Iquique",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.estrellaiquique.cl/",
+    "coverage": [
+      "Tarapacá",
+      "Iquique"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-398",
+    "name": "La Prensa Austral",
+    "country": "CHL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Magallanes",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Punta Arenas",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://laprensaaustral.cl/",
+    "coverage": [
+      "Magallanes",
+      "Punta Arenas"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-399",
+    "name": "La Industria Chiclayo",
+    "country": "PER",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Lambayeque",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Chiclayo",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laindustriadechiclayo.pe/",
+    "coverage": [
+      "Lambayeque",
+      "Chiclayo"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-400",
+    "name": "Periodismo Público",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Cundinamarca",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Soacha",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "digital-native",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://periodismopublico.com/",
+    "coverage": [
+      "Cundinamarca",
+      "Soacha"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-401",
+    "name": "La Patria",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Caldas",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Manizales",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lapatria.com/",
+    "coverage": [
+      "Caldas",
+      "Manizales"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-402",
+    "name": "La Opinión",
+    "country": "COL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Norte de Santander",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Cúcuta",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.laopinion.com.co/",
+    "coverage": [
+      "Norte de Santander",
+      "Cúcuta"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-403",
+    "name": "La Hora",
+    "country": "ECU",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Tungurahua",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Ambato",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://www.lahora.com.ec/",
+    "coverage": [
+      "Tungurahua",
+      "Ambato"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
+  },
+  {
+    "id": "MED-SA-ADD-2026-404",
+    "name": "Correo del Sur",
+    "country": "BOL",
+    "continent": "América",
+    "continent_region": "Sudamérica",
+    "admin1_name": "Chuquisaca",
+    "admin1_type": "provincia/departamento/estado",
+    "city": "Sucre",
+    "language": "es",
+    "languages": [
+      "es"
+    ],
+    "type": "newspaper",
+    "categories": [
+      "general-news",
+      "regional-news",
+      "local-news"
+    ],
+    "official_url": "https://correodelsur.com/",
+    "coverage": [
+      "Chuquisaca",
+      "Sucre"
+    ],
+    "status": "pending_verification",
+    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
+    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
   }
 ]
