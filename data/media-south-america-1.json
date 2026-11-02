@@ -10783,34 +10783,6 @@
     "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
   },
   {
-    "id": "MED-SA-ADD-2026-361",
-    "name": "El Día",
-    "country": "BOL",
-    "continent": "América",
-    "continent_region": "Sudamérica",
-    "admin1_name": "Santa Cruz",
-    "admin1_type": "provincia/departamento/estado",
-    "city": "Santa Cruz de la Sierra",
-    "language": "es",
-    "languages": [
-      "es"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://eldia.com.bo/",
-    "coverage": [
-      "Santa Cruz",
-      "Santa Cruz de la Sierra"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
-    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
-  },
-  {
     "id": "MED-SA-ADD-2026-362",
     "name": "Opinión",
     "country": "BOL",
@@ -10942,34 +10914,6 @@
       "local-news"
     ],
     "official_url": "https://www.lanacion.com.py/",
-    "coverage": [
-      "Asunción",
-      "Asunción"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
-    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
-  },
-  {
-    "id": "MED-SA-ADD-2026-367",
-    "name": "HOY",
-    "country": "PRY",
-    "continent": "América",
-    "continent_region": "Sudamérica",
-    "admin1_name": "Asunción",
-    "admin1_type": "provincia/departamento/estado",
-    "city": "Asunción",
-    "language": "es",
-    "languages": [
-      "es"
-    ],
-    "type": "news-website",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://www.hoy.com.py/",
     "coverage": [
       "Asunción",
       "Asunción"
@@ -11533,34 +11477,6 @@
     "coverage": [
       "Santa Fe",
       "Santa Fe"
-    ],
-    "status": "pending_verification",
-    "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
-    "verification_note": "Pendiente de verificar accesibilidad de la URL, actividad editorial, identidad del medio, sede y cobertura. No se considera enlace verificado."
-  },
-  {
-    "id": "MED-SA-ADD-2026-388",
-    "name": "El Diario",
-    "country": "ARG",
-    "continent": "América",
-    "continent_region": "Sudamérica",
-    "admin1_name": "Entre Ríos",
-    "admin1_type": "provincia/departamento/estado",
-    "city": "Paraná",
-    "language": "es",
-    "languages": [
-      "es"
-    ],
-    "type": "newspaper",
-    "categories": [
-      "general-news",
-      "regional-news",
-      "local-news"
-    ],
-    "official_url": "https://www.eldiario.com.ar/",
-    "coverage": [
-      "Entre Ríos",
-      "Paraná"
     ],
     "status": "pending_verification",
     "discovery_source": "Ampliación del directorio sudamericano · candidato de medio nacional o subnacional; pendiente de comprobación individual.",
