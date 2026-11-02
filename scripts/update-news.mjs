@@ -8,10 +8,10 @@ const USER_AGENT = "DirectorioMundialNewsBot/1.0 (+https://lucas266i.github.io/d
 
 const feeds = [
   // América
-  { continent:"América", country:"Estados Unidos", source:"NPR", url:"https://feeds.npr.org/1004/rss.xml", topic:"Internacional" },
-  { continent:"América", country:"Estados Unidos", source:"AP News", url:"https://apnews.com/hub/world-news?output=rss", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"NPR", url:"https://feeds.npr.org/1004/rss.xml", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"AP News", url:"https://apnews.com/hub/world-news?output=rss", topic:"Internacional" },
   { continent:"América", country:"Canadá", source:"CBC News", url:"https://www.cbc.ca/webfeed/rss/rss-world", topic:"Internacional" },
-  { continent:"América", country:"Estados Unidos", source:"The Guardian", url:"https://www.theguardian.com/world/rss", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"The Guardian", url:"https://www.theguardian.com/world/rss", topic:"Internacional" },
   { continent:"América", country:"México", source:"Animal Político", url:"https://animalpolitico.com/feed", topic:"Política" },
   { continent:"América", country:"Brasil", source:"Agência Brasil", url:"https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml", topic:"Actualidad" },
   { continent:"América", country:"Argentina", source:"Télam / Agencia Noticias", url:"https://www.argentina.gob.ar/noticias/feed", topic:"Actualidad" },
@@ -21,16 +21,16 @@ const feeds = [
   { continent:"América", country:"Perú", source:"OjoPúblico", url:"https://ojo-publico.com/rss.xml", topic:"Investigación" },
   { continent:"América", country:"Estados Unidos", source:"Americas Quarterly", url:"https://www.americasquarterly.org/feed/", topic:"América Latina" },
   // Europa
-  { continent:"Europa", country:"Reino Unido", source:"BBC News", url:"https://feeds.bbci.co.uk/news/world/rss.xml", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"BBC News", url:"https://feeds.bbci.co.uk/news/world/rss.xml", topic:"Internacional" },
   { continent:"Europa", country:"Reino Unido", source:"BBC Europe", url:"https://feeds.bbci.co.uk/news/world/europe/rss.xml", topic:"Europa" },
-  { continent:"Europa", country:"Alemania", source:"DW", url:"https://rss.dw.com/rdf/rss-en-all", topic:"Internacional" },
-  { continent:"Europa", country:"Francia", source:"France 24", url:"https://www.france24.com/en/rss", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"DW", url:"https://rss.dw.com/rdf/rss-en-all", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"France 24", url:"https://www.france24.com/en/rss", topic:"Internacional" },
   { continent:"Europa", country:"Reino Unido", source:"The Guardian Europe", url:"https://www.theguardian.com/world/europe-news/rss", topic:"Europa" },
   { continent:"Europa", country:"España", source:" elDiario.es", url:"https://www.eldiario.es/rss/", topic:"Actualidad" },
-  { continent:"Europa", country:"Francia", source:"RFI", url:"https://www.rfi.fr/en/rss", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"RFI", url:"https://www.rfi.fr/en/rss", topic:"Internacional" },
   { continent:"Europa", country:"Italia", source:"ANSA", url:"https://www.ansa.it/english/news/english_rss.xml", topic:"Actualidad" },
   // Asia
-  { continent:"Asia", country:"Catar", source:"Al Jazeera", url:"https://www.aljazeera.com/xml/rss/all.xml", topic:"Internacional" },
+  { continent:"Internacional", country:"Internacional", source:"Al Jazeera", url:"https://www.aljazeera.com/xml/rss/all.xml", topic:"Internacional" },
   { continent:"Asia", country:"Reino Unido", source:"BBC Asia", url:"https://feeds.bbci.co.uk/news/world/asia/rss.xml", topic:"Asia" },
   { continent:"Asia", country:"India", source:"The Hindu", url:"https://www.thehindu.com/news/international/feeder/default.rss", topic:"Asia" },
   { continent:"Asia", country:"India", source:"Scroll.in", url:"https://scroll.in/latest/rss", topic:"Actualidad" },
@@ -83,6 +83,90 @@ function validDate(value) {
 function cleanTitle(value) {
   return value.replace(/\s+/g," ").replace(/\s*[|–-]\s*(BBC|Reuters|AP News|DW|France 24)$/i,"").trim();
 }
+const COUNTRY_HINTS = [
+  ["Estados Unidos","América",/\b(?:United States|U\.S\.A?\.?|USA|American|America|Iowa|Florida|Alaska|Michigan|Washington|California|Texas|New York)\b/i],
+  ["Canadá","América",/\b(?:Canada|Canadian|Toronto|Ottawa|Quebec)\b/i],
+  ["México","América",/\b(?:Mexico|Mexican|México|Ciudad de México)\b/i],
+  ["Brasil","América",/\b(?:Brazil|Brazilian|Brasil|Brasilia|São Paulo)\b/i],
+  ["Argentina","América",/\b(?:Argentina|Argentine|Buenos Aires)\b/i],
+  ["Colombia","América",/\b(?:Colombia|Colombian|Bogotá|Bogota)\b/i],
+  ["Chile","América",/\b(?:Chile|Chilean|Santiago)\b/i],
+  ["Perú","América",/\b(?:Peru|Peruvian|Perú|Lima)\b/i],
+  ["Venezuela","América",/\b(?:Venezuela|Venezuelan)\b/i],
+  ["Ecuador","América",/\b(?:Ecuador|Ecuadorian|Quito)\b/i],
+  ["Bolivia","América",/\b(?:Bolivia|Bolivian)\b/i],
+  ["Paraguay","América",/\bParaguay\b/i], ["Uruguay","América",/\bUruguay\b/i],
+  ["Cuba","América",/\bCuba\b/i], ["Haití","América",/\bHaiti\b/i],
+  ["República Dominicana","América",/\bDominican Republic\b/i],
+  ["Guatemala","América",/\bGuatemala\b/i], ["Honduras","América",/\bHonduras\b/i],
+  ["Nicaragua","América",/\bNicaragua\b/i], ["Costa Rica","América",/\bCosta Rica\b/i],
+  ["Panamá","América",/\bPanama\b/i], ["Jamaica","América",/\bJamaica\b/i],
+  ["Reino Unido","Europa",/\b(?:United Kingdom|Britain|British|England|English|Scotland|Wales|London)\b/i],
+  ["Francia","Europa",/\b(?:France|French|Paris)\b/i], ["Alemania","Europa",/\b(?:Germany|German|Berlin)\b/i],
+  ["Italia","Europa",/\b(?:Italy|Italian|Rome)\b/i], ["España","Europa",/\b(?:Spain|Spanish|Madrid|Barcelona)\b/i],
+  ["Portugal","Europa",/\bPortugal\b/i], ["Países Bajos","Europa",/\b(?:Netherlands|Dutch|Amsterdam)\b/i],
+  ["Bélgica","Europa",/\bBelgium\b/i], ["Suiza","Europa",/\bSwitzerland\b/i],
+  ["Austria","Europa",/\bAustria\b/i], ["Polonia","Europa",/\bPoland|Polish\b/i],
+  ["Ucrania","Europa",/\bUkraine|Ukrainian|Kyiv\b/i], ["Rusia","Europa",/\bRussia|Russian|Moscow\b/i],
+  ["Serbia","Europa",/\bSerbia|Serbian\b/i], ["Grecia","Europa",/\bGreece|Greek|Athens\b/i],
+  ["Suecia","Europa",/\bSweden|Swedish\b/i], ["Noruega","Europa",/\bNorway|Norwegian\b/i],
+  ["Finlandia","Europa",/\bFinland|Finnish\b/i], ["Dinamarca","Europa",/\bDenmark|Danish\b/i],
+  ["Irlanda","Europa",/\bIreland|Irish|Dublin\b/i], ["Rumanía","Europa",/\bRomania\b/i],
+  ["Hungría","Europa",/\bHungary\b/i], ["Chequia","Europa",/\bCzech Republic|Czechia\b/i],
+  ["Bulgaria","Europa",/\bBulgaria\b/i], ["Croacia","Europa",/\bCroatia\b/i],
+  ["Bielorrusia","Europa",/\bBelarus\b/i],
+  ["China","Asia",/\bChina|Chinese|Beijing|Shanghai\b/i], ["India","Asia",/\bIndia|Indian|New Delhi\b/i],
+  ["Japón","Asia",/\bJapan|Japanese|Tokyo\b/i], ["Corea del Sur","Asia",/\bSouth Korea|Seoul\b/i],
+  ["Corea del Norte","Asia",/\bNorth Korea|Pyongyang\b/i], ["Taiwán","Asia",/\bTaiwan\b/i],
+  ["Singapur","Asia",/\bSingapore\b/i], ["Pakistán","Asia",/\bPakistan\b/i],
+  ["Afganistán","Asia",/\bAfghanistan\b/i], ["Irán","Asia",/\bIran|Iranian|Tehran\b/i],
+  ["Irak","Asia",/\bIraq|Iraqi|Baghdad\b/i], ["Israel","Asia",/\bIsrael|Israeli|Tel Aviv\b/i],
+  ["Palestina","Asia",/\bPalestine|Palestinian|Gaza|West Bank\b/i],
+  ["Arabia Saudita","Asia",/\bSaudi Arabia\b/i], ["Catar","Asia",/\bQatar\b/i],
+  ["Emiratos Árabes Unidos","Asia",/\bUnited Arab Emirates|UAE|Dubai\b/i],
+  ["Yemen","Asia",/\bYemen\b/i], ["Líbano","Asia",/\bLebanon|Beirut\b/i],
+  ["Siria","Asia",/\bSyria|Syrian\b/i], ["Jordania","Asia",/\bJordan\b/i],
+  ["Turquía","Asia",/\bTurkey|Turkish|Türkiye\b/i], ["Indonesia","Asia",/\bIndonesia\b/i],
+  ["Malasia","Asia",/\bMalaysia\b/i], ["Tailandia","Asia",/\bThailand\b/i],
+  ["Vietnam","Asia",/\bVietnam\b/i], ["Filipinas","Asia",/\bPhilippines\b/i],
+  ["Bangladés","Asia",/\bBangladesh\b/i], ["Sri Lanka","Asia",/\bSri Lanka\b/i],
+  ["Myanmar","Asia",/\bMyanmar|Burma\b/i], ["Nepal","Asia",/\bNepal\b/i],
+  ["Kazajistán","Asia",/\bKazakhstan\b/i],
+  ["Sudáfrica","África",/\bSouth Africa|Johannesburg|Cape Town\b/i],
+  ["Nigeria","África",/\bNigeria|Nigerian|Lagos\b/i], ["Kenia","África",/\bKenya|Kenyan|Nairobi\b/i],
+  ["Ghana","África",/\bGhana\b/i], ["Etiopía","África",/\bEthiopia\b/i],
+  ["Sudán","África",/\bSudan\b/i], ["Egipto","África",/\bEgypt|Cairo\b/i],
+  ["Marruecos","África",/\bMorocco|Moroccan\b/i], ["Argelia","África",/\bAlgeria\b/i],
+  ["Túnez","África",/\bTunisia\b/i], ["Libia","África",/\bLibya\b/i],
+  ["Somalia","África",/\bSomalia\b/i], ["Senegal","África",/\bSenegal\b/i],
+  ["Uganda","África",/\bUganda\b/i], ["Tanzania","África",/\bTanzania\b/i],
+  ["Ruanda","África",/\bRwanda\b/i], ["Camerún","África",/\bCameroon\b/i],
+  ["Mali","África",/\bMali\b/i], ["Níger","África",/\bNiger\b/i],
+  ["Zimbabue","África",/\bZimbabwe\b/i], ["Zambia","África",/\bZambia\b/i],
+  ["Mozambique","África",/\bMozambique\b/i], ["Angola","África",/\bAngola\b/i],
+  ["Australia","Oceanía",/\bAustralia|Australian|Sydney|Melbourne|Canberra\b/i],
+  ["Nueva Zelanda","Oceanía",/\bNew Zealand|Auckland|Wellington\b/i],
+  ["Fiyi","Oceanía",/\bFiji\b/i], ["Papúa Nueva Guinea","Oceanía",/\bPapua New Guinea\b/i]
+];
+function inferGeography(item, feed) {
+  const path = item.url.toLowerCase();
+  const pathRules = [
+    [/\/australia-news\/|\/australia\//,"Oceanía","Australia"],
+    [/\/new-zealand\/|\/new-zealand-news\//,"Oceanía","Nueva Zelanda"],
+    [/\/us-news\/|\/united-states\/|\/us\//,"América","Estados Unidos"],
+    [/\/canada-news\/|\/canada\//,"América","Canadá"],
+    [/\/latin-america\/|\/americas\//,"América","América Latina"],
+    [/\/europe-news\/|\/europe\//,"Europa","Europa"],
+    [/\/africa-news\/|\/africa\//,"África","África"],
+    [/\/asia-pacific\/|\/asia-news\/|\/asia\//,"Asia","Asia"],
+    [/\/middle-east\/|\/middleeast\//,"Asia","Oriente Medio"]
+  ];
+  for (const [pattern,continent,country] of pathRules) if (pattern.test(path)) return {continent,country};
+  const title = String(item.title) + " " + String(item.description || "");
+  for (const [country,continent,pattern] of COUNTRY_HINTS) if (pattern.test(title)) return {continent,country};
+  if (feed.continent !== "Internacional") return {continent:feed.continent,country:feed.country};
+  return null;
+}
 function keyOf(value) {
   return value.toLocaleLowerCase("es").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^\p{L}\p{N}]+/gu," ").trim().slice(0,180);
 }
@@ -114,7 +198,9 @@ for (const feed of feeds) {
     for (const item of items) {
       const date=validDate(item.date);
       if (!date || date.getTime()<cutoff || date.getTime()>Date.now()+60*60*1000) continue;
-      collected.push({...feed,...item,published_at:date.toISOString(),title:cleanTitle(item.title)});
+      const geography = inferGeography(item, feed);
+      if (!geography) continue;
+      collected.push({...feed,...item,...geography,published_at:date.toISOString(),title:cleanTitle(item.title)});
       accepted++;
     }
     feedStatus.push({source:feed.source,status:"ok",items:accepted});
