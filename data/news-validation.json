@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-02T03:54:04.481Z",
+  "total_candidates": 405,
+  "total_verified": 398,
+  "removed": 7,
+  "verified_by_continent": {
+    "América": 93,
+    "Europa": 100,
+    "Asia": 99,
+    "África": 31,
+    "Oceanía": 75
+  },
+  "removed_reasons": {
+    "http_403": 1,
+    "headline_not_detectably_spanish": 2,
+    "timeout": 1,
+    "duplicate_article_url": 3
+  }
+}
