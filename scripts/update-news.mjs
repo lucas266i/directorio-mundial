@@ -126,7 +126,7 @@ for (const feed of feeds) {
 const unique = new Map();
 for (const item of collected) {
   const key=keyOf(item.title);
-  if (!key || !/^https?:\\/\\//i.test(item.url) || item.url === item.feed_url) continue;
+  if (!key || !/^https?:\/\//i.test(item.url)) continue;
   const previous=unique.get(key);
   if (!previous || new Date(item.published_at)>new Date(previous.published_at)) unique.set(key,item);
 }
